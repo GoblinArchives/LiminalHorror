@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Names and Background
-nav_order: 1
+nav_order: 2
 parent: Character Creation
 grand_parent: Core Game
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Starting Gear
-nav_order: 4
+nav_order: 5
 parent: Character Creation
 grand_parent: Core Game
 ---

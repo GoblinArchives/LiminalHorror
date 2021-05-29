@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting To Know Your Character
-nav_order: 2
+nav_order: 3
 parent: Character Creation
 grand_parent: Core Game
 ---

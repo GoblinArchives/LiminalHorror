@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Character Traits
-nav_order: 3
+nav_order: 4
 parent: Character Creation
 grand_parent: Core Game
 ---
