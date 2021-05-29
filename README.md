@@ -11,7 +11,7 @@ Liminal Horror is a classless, rules lite system the eschews xp for high lethali
 
 It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://yochaigal.itch.io/cairn) (itself a child of Chris McDowell's [Into the Odd](https://chrismcdee.itch.io/) & Ben Milton's [Knave](https://questingbeast.itch.io/knave). Liminal Horror written by Nick Erickson ([Goblin Archives](https://twitter.com/goblin_archives))
 
-The game is available for free as a Digital PDF and PDF designed for print at home. They can be found at the [ Goblin Archives Itch.io](https://goblinarchives.itch.io/liminal-horror)
+The game is available for free as a Digital PDF and PDF designed for print at home. They can be found at the [Goblin Archives Itch.io](https://goblinarchives.itch.io/liminal-horror)
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
