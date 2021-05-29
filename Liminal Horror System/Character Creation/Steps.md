@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Character Creation
+title: Steps
 nav_order: 1
 parent: Character Creation
 grand_parent: Core Game
