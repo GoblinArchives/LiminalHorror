@@ -1,7 +1,7 @@
 title: Liminal Horror
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-baseurl: "LiminalHorror"
+baseurl: "/LiminalHorror"
 url: ""
 logo: "/img/logo1.png"
 color_scheme: light
