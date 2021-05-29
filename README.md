@@ -18,4 +18,4 @@ The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licen
 
 <p></p>
 
-[![Alt text](/img/LiminalHorror.png "Click to embiggen"){:height="75%" width="75%"}](/img/LiminalHorror.png)
+[![Alt text](/img/LiminalHorror.svg "Click to embiggen"){:height="75%" width="75%"}](/img/LiminalHorror.svg)
