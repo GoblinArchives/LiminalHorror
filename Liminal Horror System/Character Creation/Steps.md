@@ -7,7 +7,7 @@ grand_parent: Core Game
 ---
 # Character Creation Steps
 
-#### 1. Name, Background & Traits
+#### 1. Attributes
 Player Characters (PCs) have three attributes:
 
 

@@ -151,7 +151,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 ## Character Creation
 
-#### 1. Name, Background & Traits
+#### 1. Attributes
 Player Characters (PCs) have three attributes:
 
 
