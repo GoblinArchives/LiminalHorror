@@ -54,4 +54,4 @@ Liminal Horror was designed for a modern day setting. I recommend using a city y
 Remember there are sewers, caves and subterranean haunts everywhere. Who's to say that an incursion hasn’t left a doorway to another land, just waiting to be stumbled through?
 
 ### Outside Resources
-[The Trajectory of Fear - or How to Use Horror Tropes Effectively in your game](https://img.fireden.net/tg/image/1453/84/1453840962349.pdf)(pdf) by Ash Law. This is a document that looks at how to use four types of fear (unease, dread, terror, horror) in your games.
+[The Trajectory of Fear - or How to Use Horror Tropes Effectively in your game](https://img.fireden.net/tg/image/1453/84/1453840962349.pdf) (pdf) by Ash Law. This is a document that looks at how to use four types of fear (unease, dread, terror, horror) in your games.

@@ -13,7 +13,7 @@ parent: Core Game
 **CTRL:**  Willpower, charm & weird.
 
 **SAVES**
-Roll d20 equal to or under target Ability.
+Roll d20 equal to or under target Ability. The party at most risk in a contested action  makes the save.
 
 **HIT PROTECTION**
 **HP** reflects a character’s ability to avoid damage (both physical and stress).
