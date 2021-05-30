@@ -14,7 +14,7 @@ Wardens make consistent rulings during play and facilitate situations in which t
 ### Player Choice
 Wardens provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
 
-### Classless
+### No Classes
 Investigators are not limited by a predefined class. A character’s specialty begins with their background, equipment, and experiences.
 
 ### Growth
