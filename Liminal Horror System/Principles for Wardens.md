@@ -43,7 +43,7 @@ parent: Core Game
 - Offer tough choices.
 - All situations should have multiple outcomes.
 - Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
-- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Gods is that their influence bends and breaks reality.
+- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Powers is that their influence bends and breaks reality.
 - Every action should leave an impact on the world in some way.
 
 

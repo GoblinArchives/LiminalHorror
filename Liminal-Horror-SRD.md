@@ -98,8 +98,8 @@ Death comes for everyone, but some suffer a fate worse.
 - Offer tough choices.
 - All situations should have multiple outcomes.
 - Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
-- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Gods is that their influence bends and breaks reality.
-- Every action should leave an impact on the world in some way. 
+- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Powers is that their influence bends and breaks reality.
+- Every action should leave an impact on the world in some way.
 
 
 ### Failure
@@ -174,7 +174,7 @@ When creating a Player Character (PC), the player should roll 3d6 for each of th
 #### 2. Hit Protection
 Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](#healing)). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
 
-**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP. 
+**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP.
 
 **(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
@@ -546,7 +546,7 @@ If there is a **contested action**, the party at most risk makes the save.
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
 ### Armor and Stability
-A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor). 
+A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
 A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
 
@@ -811,7 +811,7 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 
 |  | Stress Fallout Tables                                                                                                                                                                                                                                                                                                                 |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        
+|
                                                                                                                                                                                                   |
 | 1                      | **Have you been replaced?** You’ve seen what they can do -their magics and their deceptions. What would stop them from taking you? Maybe you aren’t who you think you are? How would you even know? <br>During your next moment of quiet reflection, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2                      | **Memories of an Unknown Traveler:** These memories are not your own. They are of a different time, a different place, from a perspective so unlike your own. The realities they walk through are so alien and different, their feelings so foriegn. If only you could understand what they experienced.<br>During your next rest, roll 1d6. If the total is higher than your max HP, take the new result. |
@@ -1074,7 +1074,7 @@ For the **Start of Combat** round, characters must pass an DEX save in order to 
 Subsequent turns have players acting, then adversaries.
 
 **COMBAT**
-<br>All attacks automatically hit. Attackers roll their **Stress** or **Damage** die, subtract any protections from **Armor** (damage) or **Stability** (stress), and deal the remaining total to the opponent's HP. Excess damage is dealt to STR and excess stress is dealt to CTRL. 
+<br>All attacks automatically hit. Attackers roll their **Stress** or **Damage** die, subtract any protections from **Armor** (damage) or **Stability** (stress), and deal the remaining total to the opponent's HP. Excess damage is dealt to STR and excess stress is dealt to CTRL.
 
 If there are **Multiple attackers**, or one using two weapons, roll all damage dice together and keep the single highest die.
 
