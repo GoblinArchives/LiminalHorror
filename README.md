@@ -15,6 +15,11 @@ The game is available for free as a Digital PDF and PDF designed for print at ho
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+
+The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
+
+
+
 <p></p>
 
 [![Alt text](/LiminalHorror/img/LiminalHorror.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/LiminalHorror.png)
