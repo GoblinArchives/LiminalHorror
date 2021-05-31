@@ -675,7 +675,7 @@ Random spells are generated using the table and process below.
 
 <br>
 
-[![Alt text](/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/img/magic.svg)
+[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/img/magic.svg)
 
 #### Magical Fallout Tables
 
