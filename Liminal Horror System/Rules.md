@@ -31,7 +31,7 @@ If there is a **contested action**, the party at most risk makes the save.
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
 ### Armor and Stability
-A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor). 
+A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
 A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
 
@@ -63,8 +63,6 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Associates
 PCs can hire **Associates** to aid in their investigations.
