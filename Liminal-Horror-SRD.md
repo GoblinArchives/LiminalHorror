@@ -172,10 +172,11 @@ When creating a Player Character (PC), the player should roll 3d6 for each of th
 
 
 #### 2. Hit Protection
-Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](#healing)).
+Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](#healing)). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
 
+**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP. 
 
-**Armor** reduces incoming damage before it is applied to HP. Any excess damage (past 0 HP) is applied to the appropriate attribute.
+**(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
 If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](#stress-fallout-tables) table.
 
@@ -238,11 +239,30 @@ What was your first encounter with the unknown? Roll or choose:
 |5           |You read something not meant for mortal minds. |10          |You haven’t yet, that’s what session 1 is for!     |
 
 #### Ideology and Beliefs
-What is your character’s initial ideology/beliefs? What lens do they use to interpret the world and guide them toward action?
+What is your character’s initial ideology/beliefs? What lens do they use to interpret the world and guide them toward action? Create your own or use the table below:
 
-#### Significant People & Contacts
+|   |                                                                                |    |                                                        |
+|---|--------------------------------------------------------------------------------|----|--------------------------------------------------------|
+| 1 | Everything has a rational explanation rooted in science.                       | 6  | Individuals can make a difference.                     |
+| 2 | You ascribe to a specific political ideology.                                  | 7  | A specific religion guides you.                        |
+| 3 | Morality is black and white.                                                   | 8  | You believe in fate and it directly impacts your life. |
+| 4 | Belief in higher powers. Astrology, spirituality, etc.                         | 9  | Free will is the only truth.                           |
+| 5 | There are deep truths that others are not aware of. The answers are out there. | 10 | You believe in the power of community.                 |
+
+
+#### Connections
 - List one significant person to the investigator. What is their relationship? Give them a name and brief description.
 - List one contact the investigator has. This could be connected to their background. What is the contact’s area of expertise and what is their relationship to the investigator?
+
+Potential Connections
+|   |                           |    |                  |
+|---|---------------------------|----|------------------|
+| 1 | Family member             | 6  | Online associate |
+| 2 | Lover (current or former) | 7  | Hero             |
+| 3 | Friend                    | 8  | Rival            |
+| 4 | Mentor                    | 9  | A Specialist     |
+| 5 | Protege                   | 10 | NPC              |
+
 
 [back to index](#index)
 <p></p>

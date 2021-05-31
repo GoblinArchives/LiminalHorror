@@ -20,11 +20,11 @@ When creating a Player Character (PC), the player should roll 3d6 for each of th
 
 
 #### 2. Hit Protection
-Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](/Liminal Horror System/Rules/#healing) ).
+Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](/Liminal Horror System/Rules/#healing) ). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
 
-Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
+**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP.
 
-**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP. **(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
+**(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
 If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](/Liminal Horror System/Stress and Fallout/#stress-fallout-tables) table.
 
