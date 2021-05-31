@@ -7,11 +7,12 @@ parent: Core Game
 
 # Equipment List
 
-#### Armor
+#### Protection
 
 ||     |
 |--------------------------------------------------------------|-----|
 |Armored Vest (+1 Armor)   |$1000   |
+|Amulet from the old country (+1 Stability)   |$1000   |
 |Gas Mask (protects against airborne toxins)    |$100   |
 |Mask (protects your identity)   |$20   |
 

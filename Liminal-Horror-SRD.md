@@ -255,6 +255,7 @@ What is your character’s initial ideology/beliefs? What lens do they use to in
 - List one contact the investigator has. This could be connected to their background. What is the contact’s area of expertise and what is their relationship to the investigator?
 
 Potential Connections
+
 |   |                           |    |                  |
 |---|---------------------------|----|------------------|
 | 1 | Family member             | 6  | Online associate |
@@ -409,16 +410,29 @@ All PCs begin with an **Investigator Bundle**:
 ## Party Questions
 
 #### The Party
-Why has the party come together? Use the answers from the Get To Know Your Character section to inform your decision. Some examples are:
-- The investigators meet in a diner. They may or may not know each other. Fluorescent lights hum over checkered linoleum.
-- A simple “wrong place, wrong time.” The resulting event binds the investigators together.
-- United through self guided research. Online paranatural forum? Club? Support group?
-- A mysterious patron that has brought the investigators together.
-- Members of the community respond to a series of mysterious events.
-- Investigators (either professional or amateur) that are looking into an event.
+Why has the party come together? Use the answers from the Get To Know Your Character section to inform your decision. As a table create your own or use the table below (d6):
+
+|   |                                                                                                                         |
+|---|-------------------------------------------------------------------------------------------------------------------------|
+| 1 | The investigators meet in a diner. They may or may not know each other. Fluorescent lights hum over checkered linoleum. |
+| 2 | A simple “wrong place, wrong time.” The resulting event binds the investigators together.                               |
+| 3 | United through self guided research. Online paranatural forum? Club? Support group?                                     |
+| 4 | A mysterious patron that has brought the investigators together.                                                        |
+| 5 | Members of the community respond to a series of mysterious events.                                                      |
+| 6 | Investigators (either professional or amateur) that are looking into an event.                                          |
 
 #### Character Bonds (optional)
-Have each player state a relationship to another character at the table. This should be informed by the background, The Abyss Stares Back, and The Party section of character creation.
+Have each player state a relationship to another character at the table. This should be informed by the background, The Abyss Stares Back, and The Party section of character creation. Some examples are:
+
+|   |                                                              |
+|---|--------------------------------------------------------------|
+| 1 | _____ is hiding something from me.                           |
+| 2 | _____ is my ex.                                              |
+| 3 | _____ saved me from whatever it was that tried to attack me. |
+| 4 | _____ is my drinking buddy                                   |
+| 5 | _____ is my co-worker at _____                               |
+| 6 | _____ is my neighbor.                                        |
+
 
 #### Vehicles
 Determine as a group what types of vehicle or transportation the party has access to. The party may have access to more than one vehicle. Car chases are an essential part of solving a mystery.
@@ -429,11 +443,12 @@ Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle ca
 
 ## Equipment List
 
-#### Armor
+#### Protection
 
 ||     |
 |--------------------------------------------------------------|-----|
 |Armored Vest (+1 Armor)   |$1000   |
+|Amulet from the old country (+1 Stability)   |$1000   |
 |Gas Mask (protects against airborne toxins)    |$100   |
 |Mask (protects your identity)   |$20   |
 
@@ -530,10 +545,13 @@ If there is a **contested action**, the party at most risk makes the save.
 ### Healing
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
-### Armor
-A target's **Armor** value is deducted from incoming damage. Equipment can provide this bonus defense (e.g. +1 Armor).
+### Armor and Stability
+A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor). 
 
-Unless otherwise noted, Armor does not reduce incoming Stress (a value that targets a character's CTRL) and it would apply straight to a character’s Hit Protection. Some equipment may provide a bonus defense against Stress (e.g. + 1 Stress Armor).
+A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
+
+It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
+
 
 
 ### Deprivation & Fatigue
@@ -554,7 +572,7 @@ A PC cannot carry more items than their inventory allows. Vehicles can be used t
 
 
 ### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may have a player roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -611,7 +629,7 @@ There are no rolls to hit. There are no misses, only varying levels of damage.
 
 On their turn, the attacker rolls their weapon die, subtracts any Armor bonus, and deals the remaining total to the opponent's HP. Excess damage is then dealt to STR (see Critical Damage)
 
-Some attacks deal Stress instead. These follow the same process of rolling the stress die, subtracting any relevant Armor bonus and then dealing the remaining total to HP. Excess Stress is dealt to CTRL (see Critical Stress - Fallout Trigger)
+Some attacks deal Stress instead. These follow the same process of rolling the stress die, subtracting any relevant Stability bonus and then dealing the remaining total to HP. Excess Stress is dealt to CTRL (see [Critical Stress - Fallout Trigger](#stress-fallout-tables))
 
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -668,17 +686,18 @@ Morale does not affect PCs.
 [back to index](#index)
 <p></p>
 
-## Magic
-### Magic System
-Characters may be able to use chaotic **magic** if they:
+#  Magic
+
+## Magic System
+Characters may be able to use **magic** if they:
 - Rolled it during character creation.
-- Gained it through Major Stress Fallout.
+- Gained it through **Stress Fallout**.
 - Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
 
 Random spells are generated using the table and process below.
 - Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
 - Spells are cast using a single action. After casting they leave the inventory slot.
-- If the PC is deprived or in danger, the PC must make a CTRL save to avoid any ill-effects from casting the spell. Consequences of failure when using magic should correlate in level to the intended effect. Failure may result in Stress, Fatigue, Magical Fallout, injury, or even death.
+- If the PC is deprived or in danger, the PC must make a CTRL save to avoid any ill-effects from casting the spell. Consequences of failure when using magic should correlate in level to the intended effect. Failure may result in Stress, Fatigue, injury, death or rolling on the Omens/Magical Catastrophes.
 - Spell effects are decided by the warden with input from the player. They should work together to come up with the general effect and scope of the spell. The warden makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
 - PCs can attempt to retain the spell by successfully making a CTRL save.
 **On success:** Spell stays prepared. PC marks fatigue in an inventory slot.
@@ -705,34 +724,9 @@ Random spells are generated using the table and process below.
 
 [![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
 
-#### Magical Fallout Tables
+#### Omens and Magical Catastrophes
 
-|    | Mutations(roll d20)        |
-|----|----------------------------|
-| 1  | A crown of blood           |
-| 2  | Ages                       |
-| 3  | Attracts birds             |
-| 4  | Bone appendage             |
-| 5  | Chills                     |
-| 6  | Eyes replaced with stars   |
-| 7  | Face changes               |
-| 8  | Forked tongue              |
-| 9  | Lose teeth                 |
-| 10 | Monstrous trait            |
-| 11 | Monstrous feature          |
-| 12 | No eyes                    |
-| 13 | No shadow                  |
-| 14 | Second face                |
-| 15 | Sheds skin                 |
-| 16 | Skin boils                 |
-| 17 | Skin melts like wax (some) |
-| 18 | Tentacle (s)               |
-| 19 | Translucent skin           |
-| 20 | Weeps blood                |
-
-<br>
-
-|  |   Omens/Magical Catastrophes<br> (roll d20)                  |
+|  |                    |
 |---------|----------------------------|
 | 1       | Animals die                |
 | 2       | City appears               |
@@ -775,8 +769,8 @@ Random spells are generated using the table and process below.
 **White Blade of Moonbone**: (best of 2d6 CTRL damage, 3 Charges) - This glowing blade is made for one task, to sever. *Recharge*: Under a full moon, sunder a memory from one's past.
 
 **Stone of Behrit** 1 charge. Resembling a small egg with a distorted face. If you would take critical damage, ignore it instead. This stone activates and whisks you to safety. *Recharge*:
-- Sacrifice an innocent soul to the stone and roll on Magical Fallout Table (Mutations).
-- On the third recharge roll on Magical Fallout Table (Omens/Magical Catastrophes)
+- Sacrifice an innocent soul to the stone, add deprived and fatigued to the character sheet.
+- On the third recharge roll on [Omens and Magical Catastrophes](#Omens-and-Catastrophes) table.
 
 **An Anatomical Guide to Memory**: The reader can converse with the souls bound within its pages. Take d6 Stress (CTRL) to read an entry. There are still empty pages in the book.
 
@@ -815,10 +809,10 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 
 **Note to Wardens:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
 
-|  | Magical Fallout Tables                                                                                                                                                                                                                                                                                                                 |
+|  | Stress Fallout Tables                                                                                                                                                                                                                                                                                                                 |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        |                                                                                                                                                                                                                                                                                                                         |
-|    |        Minor Stress Fallout                                                                                                                                                                                                                                                                                                                 |
+|                        
+                                                                                                                                                                                                  |
 | 1                      | **Have you been replaced?** You’ve seen what they can do -their magics and their deceptions. What would stop them from taking you? Maybe you aren’t who you think you are? How would you even know? <br>During your next moment of quiet reflection, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2                      | **Memories of an Unknown Traveler:** These memories are not your own. They are of a different time, a different place, from a perspective so unlike your own. The realities they walk through are so alien and different, their feelings so foriegn. If only you could understand what they experienced.<br>During your next rest, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 3                      | **Paranoia:** Is it paranoia if the worries are completely reasonable? You’ve seen what happens in the dark, you know what goes bump in the night. <br>After a week, roll 1d6. If the total is higher than your max HP, take the new result.                                                                                |
@@ -828,21 +822,20 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 | 7                      | **Hunger:** You develop a strange appetite. What you hunger for is unusual, maybe even forbidden. If you do not indulge your hunger for 24 hours, take the Deprived tag. When you eat, restore HP and give 1d4 stress to any that can see.<br>After the first instance, roll 3d6. If the total is higher than your current STR, take the new result. |
 | 8                      | **Scarred:** Every wound you inflict leaves its ragged mark upon your body.<br>After the first instance, make a CTRL save. If you pass, increase your max STR by 1d4.                                                                                                                                                       |
 | 9                      | **Liminal Communion:** It wasn’t noticeable at first, but you’ve slowly begun to regularly do a sequence of gestures, words, or actions -almost as if you are performing a ritual.<br>When you first start to notice, make a CTRL save. If you pass, increase your max CTRL by 1d4.                                         |
-| 10                     | **Magical Corruption** *(this can be taken multiple times per character)*: Flesh is weak. Roll on the Magical Fallout Table - Mutations.                                                                                                                                                                                      |
+| 10                     | **Magical Corruption** *(this can be taken multiple times per character)*:  Flesh is weak. A part of your body becomes visibly changed through your proximity to the weird. The Warden and Player should decide on how that change manifests and if it has any mechanical impacts.                                                                                                                                                                                      |
 
 |  |                                                                                                                                                                                                                                                                                                                                                          |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        |                                                                                                                                                                                                                                                                                                                                                                 |
-|    |           Major Stress Fallout                                                                                                                                                                                                                                                                                                                                                      |
+|                        |                                                                                                                                                                                                                                                                                                                                                                 |                                                       |
 | 11                     | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
-| 12                     | **Neural Superposition:** Different realities swirl across your vision. You see images of unknown worlds overlaid and overlapping. In another time you may have been called an oracle.<br>You roll at disadvantage on DEX saves. Once per day you see something significant (ask your Warden what it is)                                                            |
+| 12                     | **Neural Superposition:** Different realities swirl across your vision. You see images of unknown worlds overlaid and overlapping. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the highest result. Once per day you see something significant (ask your Warden what it is).           |
 | 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
-| 14                     | **Marked by fear:** The core of your being has been twisted and changed. When you act in a way that manifests your marked fear, roll with advantage. When you resist an opportunity to indulge the fear, take 1d4 stress.<br>Create a fundamental fear with your Warden.                                                                                            |
+| 14                     | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Warden.                                                                                            |
 | 15                     | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6.                                                                                                                                                 |
 | 16                     | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
 | 17                     | **Progeny:** Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams.<br>Roll 2d6. Take the new result as your max HP                                                                                                                                                                                              |
-| 18                     | **Fate’s Web** *(this can only be taken once per character but multiple times per table)*: At least a puppet can see the strings that bind it, if only you were so lucky. <br>Roll on the Magical Fallout Table - [Omens/Magical Catastrophes](#magical-fallout-tables).                                                                                                                |
-| 19                     | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you.<br>You become the primary target of otherworldly forces but your attacks now use 1d8 as their damage dice. Critical Damage mutilates your body but you can continue to act.                                                                |
+| 18                     | **Fate’s Web** *(this can only be taken once per character but multiple times per table)*: At least a puppet can see the strings that bind it, if only you were so lucky. <br>Roll on the Magical Fallout Table - [Omens and Magical Catastrophes](#Omens-and-catastrophes).                                                                                                                |
+| 19                     | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are **Enhanced** Critical Damage mutilates your body but you can continue to act. <br>You become the primary target of otherworldly and attacks made against you are **Enhanced**.                                                                |
 | 20                     | **Doomed** *(this can be taken multiple times per character)*: <br>You have been branded for sacrifice, anointed for doom. If your next critical save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result.                        |
 
 [back to index](#index)
@@ -1058,7 +1051,7 @@ Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The ent
 Roll d20 equal to or under target Ability. The party at most risk in a contested action  makes the save.
 
 **HIT PROTECTION**
-**HP** reflects a character’s ability to avoid damage (both physical and stress).
+**HP** reflects a character’s ability to avoid damage (both from damage and stress).
 
 **HEALING**
 A quick rest fully restores HP but can leave the investigators exposed. **Ability** loss requires a week’s rest with medical intervention or magical means.
@@ -1081,7 +1074,7 @@ For the **Start of Combat** round, characters must pass an DEX save in order to 
 Subsequent turns have players acting, then adversaries.
 
 **COMBAT**
-All attacks automatically hit. Attackers roll their weapon die, subtract any Armor bonus, and deal the remaining total to the opponent's HP. Excess damage is then dealt to STR.
+All attacks automatically hit. Attackers roll their **Stress** or **Damage** die, subtract any protections from **Armor** (damage) or **Stability** (stress), and deal the remaining total to the opponent's HP. Excess damage is dealt to STR and excess stress is dealt to CTRL. 
 
 If there are **Multiple attackers**, or one using two weapons, roll all damage dice together and keep the single highest die.
 

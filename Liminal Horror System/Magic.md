@@ -8,15 +8,15 @@ parent: Core Game
 # Magic
 
 ## Magic System
-Characters may be able to use chaotic **magic** if they:
+Characters may be able to use **magic** if they:
 - Rolled it during character creation.
-- Gained it through Major Stress Fallout.
+- Gained it through **Stress Fallout**.
 - Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
 
 Random spells are generated using the table and process below.
 - Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
 - Spells are cast using a single action. After casting they leave the inventory slot.
-- If the PC is deprived or in danger, the PC must make a CTRL save to avoid any ill-effects from casting the spell. Consequences of failure when using magic should correlate in level to the intended effect. Failure may result in Stress, Fatigue, Magical Fallout, injury, or even death.
+- If the PC is deprived or in danger, the PC must make a CTRL save to avoid any ill-effects from casting the spell. Consequences of failure when using magic should correlate in level to the intended effect. Failure may result in Stress, Fatigue, injury, death or rolling on the Omens/Magical Catastrophes.
 - Spell effects are decided by the warden with input from the player. They should work together to come up with the general effect and scope of the spell. The warden makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
 - PCs can attempt to retain the spell by successfully making a CTRL save.
 **On success:** Spell stays prepared. PC marks fatigue in an inventory slot.
@@ -71,9 +71,9 @@ Random spells are generated using the table and process below.
 
 <br>
 
-## **Omens/Magical Catastrophes (roll d20)**
+## **Omens and Magical Catastrophes (roll d20)**
 
-|  |   Omens/Magical Catastrophes<br> (roll d20)                  |
+|  |                     |
 |---------|----------------------------|
 | 1       | Animals die                |
 | 2       | City appears               |

@@ -30,10 +30,12 @@ If there is a **contested action**, the party at most risk makes the save.
 ### Healing
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
-### Armor
-A target's **Armor** value is deducted from incoming damage. Equipment can provide this bonus defense (e.g. +1 Armor).
+### Armor and Stability
+A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor). 
 
-Unless otherwise noted, Armor does not reduce incoming Stress (a value that targets a character's CTRL) and it would apply straight to a character’s Hit Protection. Some equipment may provide a bonus defense against Stress (e.g. + 1 Stress Armor).
+A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
+
+It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
 
 
 ### Deprivation & Fatigue
@@ -54,7 +56,7 @@ A PC cannot carry more items than their inventory allows. Vehicles can be used t
 
 
 ### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may have a player roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |

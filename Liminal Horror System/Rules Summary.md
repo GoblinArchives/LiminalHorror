@@ -16,7 +16,7 @@ parent: Core Game
 Roll d20 equal to or under target Ability. The party at most risk in a contested action  makes the save.
 
 **HIT PROTECTION**
-**HP** reflects a character’s ability to avoid damage (both physical and stress).
+**HP** reflects a character’s ability to avoid damage (both from damage and stress). 
 
 **HEALING**
 A quick rest fully restores HP but can leave the investigators exposed. **Ability** loss requires a week’s rest with medical intervention or magical means.
@@ -39,7 +39,7 @@ For the **Start of Combat** round, characters must pass an DEX save in order to 
 Subsequent turns have players acting, then adversaries.
 
 **COMBAT**
-All attacks automatically hit. Attackers roll their weapon die, subtract any Armor bonus, and deal the remaining total to the opponent's HP. Excess damage is then dealt to STR.
+All attacks automatically hit. Attackers roll their **Stress** or **Damage** die, subtract any protections from **Armor** (damage) or **Stability** (stress), and deal the remaining total to the opponent's HP. Excess damage is dealt to STR and excess stress is dealt to CTRL.
 
 If there are **Multiple attackers**, or one using two weapons, roll all damage dice together and keep the single highest die.
 

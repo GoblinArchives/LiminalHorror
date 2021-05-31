@@ -15,8 +15,8 @@ parent: Core Game
 **White Blade of Moonbone**: (best of 2d6 CTRL damage, 3 Charges) - This glowing blade is made for one task, to sever. *Recharge*: Under a full moon, sunder a memory from one's past.
 
 **Stone of Behrit** 1 charge. Resembling a small egg with a distorted face. If you would take critical damage, ignore it instead. This stone activates and whisks you to safety. *Recharge*:
-- Sacrifice an innocent soul to the stone and roll on Magical Fallout Table (Mutations).
-- On the third recharge roll on Magical Fallout Table (Omens/Magical Catastrophes)
+- Sacrifice an innocent soul to the stone, add deprived and fatigued to the character sheet.
+- On the third recharge roll on [Omens and Magical Catastrophes](/Liminal Horror System/Magic/Omens-and-Catastrophes) table. 
 
 **An Anatomical Guide to Memory**: The reader can converse with the souls bound within its pages. Take d6 Stress (CTRL) to read an entry. There are still empty pages in the book.
 
