@@ -12,6 +12,11 @@ parent: Core Game
 - Elicit questions from players and give them direct answers.
 - The weird and their mysteries should be layered, leading players ever downward into the unknown.
 
+### Secrets
+- Fear of the unknown, dread, forbidden knowledge and existential threats on a grand  scale are essential themes in Cosmic Horror.
+- While providing  information on the physical and tangible reality to players is key, make sure that the true nature of things remain hidden even as connections are made.
+- Slowly give investigators opportunities to pull at threads, pushing them deeper into the weird.
+- The scale of what the PCs face is incomprehensible. True understanding is unattainable.
 
 ### Preparation
 - Make the world alive, allow it to change and grow because of your players’ actions.
@@ -36,8 +41,11 @@ parent: Core Game
 
 ### Choice
 - Offer tough choices.
-- Seek to clarify a player's intent, establishing a clear choice between two outcomes. Sometimes both can be attempted for a price (risk, sacrifice, or a very clever idea).
+- All situations should have multiple outcomes.
+- Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
+- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Gods is that their influence bends and breaks reality.
 - Every action should leave an impact on the world in some way.
+
 
 
 ### Failure
