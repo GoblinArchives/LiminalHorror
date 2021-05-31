@@ -35,7 +35,7 @@ If stress would take a PC's HP exactly to 0, the player must roll on the [Stress
 - Choose their age or roll 2d20+16.
 
 #### 4. Starting Gear
-All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add chaos magic to your character sheet and refer to the [Chaos Magic](#chaos-magic)
+All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add chaos magic to your character sheet and refer to the  [Magic](#magic)
 
 Characters have a total of 10 inventory slots: a backpack or bag (six slots), hands and upper body (four slots). Most items take up one slot, with smaller items that can be bundled together. Bulky items take two slots and are awkward or require two hands.
 

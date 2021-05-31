@@ -14,3 +14,7 @@ It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://
 The game is available for free as a Digital PDF and PDF designed for print at home. They can be found at the [Goblin Archives Itch.io](https://goblinarchives.itch.io/liminal-horror)
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<p></p>
+
+[![Alt text](/LiminalHorror/img/LiminalHorror.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/LiminalHorror.png)

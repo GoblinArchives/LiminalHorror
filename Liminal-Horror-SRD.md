@@ -20,7 +20,7 @@ nav_order: 5
 - [Equipment List](#equipment-list)
 - [Rules](#rules)
 - [Combat](#combat)
-- [Chaos Magic](#chaos-magic)
+- [Magic](#magic)
 - [Stress & Fallout](#stress-&-fallout)
 - [Paranatural Bestiary](#paranatural-bestiary)
 - [Spark Tables](#spark-tables)
@@ -179,7 +179,7 @@ If stress would take a PC's HP exactly to 0, the player must roll on the [Stress
 - Choose their age or roll 2d20+16.
 
 #### 4. Starting Gear
-All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add chaos magic to your character sheet and refer to the [Chaos Magic](#chaos-magic)
+All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add Magic to your character sheet and refer to the [Magic](#magic)
 
 Characters have a total of 10 inventory slots: a backpack or bag (six slots), hands and upper body (four slots). Most items take up one slot, with smaller items that can be bundled together. Bulky items take two slots and are awkward or require two hands.
 
@@ -345,7 +345,7 @@ All PCs begin with an **Investigator Bundle**:
 |                |                  |                          |                                |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
 |          1          |       2-5       |          6-14           |               18-19               |               20               |
-| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Chaos Magic) |
+| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Magic) |
 
 
 #### Investigative Gear
@@ -373,7 +373,7 @@ All PCs begin with an **Investigator Bundle**:
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
 |  1-5 | 6-13   | 14-19  |   20 |
-| Memento  |  Investigative Gear | Weapon  |  Chaos Magic (see magic section) |
+| Memento  |  Investigative Gear | Weapon  |  Magic (see magic section) |
 
 [back to index](#index)
 <p></p>
@@ -640,7 +640,7 @@ Morale does not affect PCs.
 [back to index](#index)
 <p></p>
 
-## Chaos Magic
+## Magic
 ### Magic System
 Characters may be able to use chaotic **magic** if they:
 - Rolled it during character creation.
@@ -675,7 +675,7 @@ Random spells are generated using the table and process below.
 
 <br>
 
-[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/img/magic.svg)
+[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
 
 #### Magical Fallout Tables
 
@@ -731,7 +731,7 @@ Random spells are generated using the table and process below.
 <p></p>
 
 #### Scrolls
-**Scrolls** are similar to Chaos Magic, however:
+**Scrolls** are similar to Magic, however:
 - They do not take up an inventory slot.
 - They do not cause fatigue.
 - They disappear after one use.
@@ -808,7 +808,7 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 |    |           Major Stress Fallout                                                                                                                                                                                                                                                                                                                                                      |
 | 11                     | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
 | 12                     | **Neural Superposition:** Different realities swirl across your vision. You see images of unknown worlds overlaid and overlapping. In another time you may have been called an oracle.<br>You roll at disadvantage on DEX saves. Once per day you see something significant (ask your Warden what it is)                                                            |
-| 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add chaos magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
+| 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
 | 14                     | **Marked by fear:** The core of your being has been twisted and changed. When you act in a way that manifests your marked fear, roll with advantage. When you resist an opportunity to indulge the fear, take 1d4 stress.<br>Create a fundamental fear with your Warden.                                                                                            |
 | 15                     | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6.                                                                                                                                                 |
 | 16                     | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
@@ -859,7 +859,7 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 
 **Witch**
  <br> 8 HP, 2 Armor, 8 STR, 12 DEX, 13 CTRL
- <br>Walking stick (d6) Chaos Magic (at least 2 spells)
+ <br>Walking stick (d6) Magic (at least 2 spells)
 - Witches can look like anyone. Some have been changed through proximity to magic (you can roll on Magic - Fallout Mutations if you want to up their weird)
 - To learn, to hide, to influence. Sometimes, to teach.
 - Critical Damage: The Witch leaves their sigil upon their target, forming a connection with them.
@@ -897,7 +897,7 @@ Each stress fallout takes up an inventory slot. It cannot be removed.
 - Impeccable gray suit, trailed by a non-euclidian shadow.
 - To control, to twist, to employ.
 - Can heal using the bodies of others as fuel (drones).
-- Delegated Magic: Can cast chaos magics through conduits, consuming their souls and sundering their flesh.
+- Delegated Magic: Can cast Magics through conduits, consuming their souls and sundering their flesh.
 
 **Drone:**
  <br> 2 HP, 10 STR, 10 DEX, 10 CTRL,

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Chaos Magic
+title: Magic
 nav_order: 8
 parent: Core Game
 ---
 
-# Chaos Magic
+# Magic
 
 ## Magic System
 Characters may be able to use chaotic **magic** if they:
@@ -41,7 +41,7 @@ Random spells are generated using the table and process below.
 
 <br>
 
-[![Alt text](/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/img/magic.svg)
+[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
 
 # Magical Fallout Tables
 ## **Mutations(roll d20)**

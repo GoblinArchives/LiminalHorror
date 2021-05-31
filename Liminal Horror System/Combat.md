@@ -17,7 +17,7 @@ After the Start of Combat round, order proceeds with PCs acting, then adversarie
 The game typically plays without strict time accounting. If timing is necessary, use 10 second rounds to keep track. A **round** is comprised of character turns. During each turn all actions, attacks, and movements take place simultaneously.
 
 ### Actions
-On their turn a character may move up to 40ft and take up to one action. This may be *casting a spell*, *attacking*, making a *second move*, or some other *combat maneuver*.
+On their turn a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other combat maneuver.
 
 Players state what actions they will take before rolling dice. If they attempt something risky, the Warden will call for a save from the appropriate party.
 

@@ -17,7 +17,7 @@ All PCs begin with an **Investigator Bundle**:
 |                |                  |                          |                                |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
 |          1          |       2-5       |          6-14           |               18-19               |               20               |
-| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Chaos Magic) |
+| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | [Magic](#magic)|
 
 
 #### Investigative Gear
