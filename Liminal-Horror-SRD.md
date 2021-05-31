@@ -781,7 +781,7 @@ Random spells are generated using the table and process below.
 ## Stress & Fallout
 Stress is identical to damage, but targets CTRL instead of STR. Stress may come as a result of narrative consequences, failed saves, magic repercussions, or enemy attacks. Stress targets HP before going to CTRL.
 
-#### Stress Examples
+### Stress Examples
 Note: The amount and frequency of how you deal stress establishes the tone and pacing of your game. It is a dial to control the amount of Weird your players encounter and how likely they are to change as a result.
 
 |   |   |
@@ -792,7 +792,7 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 | 1d8 Stress  |**CATASTROPHE**: Major Powers, Omens, Catastrophes. Reality is close to breaking.   |
 | 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
 
-#### Stress Fallout Tables
+### Stress Fallout Tables
 Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
 - Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
