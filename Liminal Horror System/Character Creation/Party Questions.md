@@ -29,7 +29,7 @@ Have each player state a relationship to another character at the table. This sh
 | 2 | _____ is my ex.                                              |
 | 3 | _____ saved me from whatever it was that tried to attack me. |
 | 4 | _____ is my drinking buddy                                   |
-| 5 | _____ is my co-worker at _____                               |
+| 5 | _____ is my co-worker at _____                              |
 | 6 | _____ is my neighbor.                                        |
 
 

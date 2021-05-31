@@ -51,7 +51,7 @@ If there are **Multiple attackers**, or one using two weapons, roll all damage d
 Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are lost.
 
 **STRESS & FALLOUT**
-<br> Player chooses from the [Stress Fallout](/Liminal Horror System/Stress and Fallout/#stress-fallout-tables) table when either:
+<br> Player chooses from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table when either:
 - Stress reduces a PC's HP to exactly 0
 - A PC takes critical stress (when they fail a CTRL save after it takes Ability damage)
 

@@ -10,7 +10,7 @@ parent: Core Game
 ## Magic System
 Characters may be able to use **magic** if they:
 - Rolled it during character creation.
-- Gained it through **Stress Fallout**.
+- Gained it through [**Stress Fallout**](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/).
 - Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
 
 Random spells are generated using the table and process below.

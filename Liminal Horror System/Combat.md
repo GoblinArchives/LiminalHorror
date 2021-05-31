@@ -52,10 +52,10 @@ Escaping a doomed situation requires a successful DEX save and a safe destinatio
 If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**. Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 ### Critical Stress - Fallout Trigger
-**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress** . If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
+**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress** . If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
 
 ### 0 HP Stress - Fallout Trigger
-If Stress to a PC reduces their HP to exactly 0, they gain Critical Stress and must roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
+If Stress to a PC reduces their HP to exactly 0, they gain Critical Stress and must roll or choose a result from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table just as if they failed their CTRL save.
 
 
 ### Ability Score Loss
