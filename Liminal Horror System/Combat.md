@@ -28,7 +28,7 @@ There are no rolls to hit. There are no misses, only varying levels of damage.
 
 On their turn, the attacker rolls their weapon die, subtracts any Armor bonus, and deals the remaining total to the opponent's HP. Excess damage is then dealt to STR (see Critical Damage)
 
-Some attacks deal Stress instead. These follow the same process of rolling the stress die, subtracting any relevant Stability bonus and then dealing the remaining total to HP. Excess Stress is dealt to CTRL (see [Critical Stress - Fallout Trigger](/Liminal-Horror-SRD/#stress-fallout-tables))
+Some attacks deal Stress instead. These follow the same process of rolling the stress die, subtracting any relevant Stability bonus and then dealing the remaining total to HP. Excess Stress is dealt to CTRL (see [Critical Stress - Fallout Trigger](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/))
 
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
