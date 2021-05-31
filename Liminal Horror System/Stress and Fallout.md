@@ -20,16 +20,11 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 | 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
 
 ## Stress Fallout Tables
-Some moments change an investigator forever. Use the Stress fallout table when either:
+Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
 - Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
 
-
-Choose an appropriate result that makes narrative sense from the table below. Unless marked, Stress Fallout can only be chosen once per table.
-
-
-Each stress fallout takes up an inventory slot. It cannot be removed.
-
+Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
 
 **Note to Wardens:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
 

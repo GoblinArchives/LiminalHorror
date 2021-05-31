@@ -650,13 +650,12 @@ Escaping a doomed situation requires a successful DEX save and a safe destinatio
 ### Critical Damage
 If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**. Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
-### 0 HP Stress - Fallout Trigger
-When stress to a PC reduces their HP to exactly 0, they are changed irrevocably. The PC gains a fallout from the [Stress Fallout](#stress-fallout-tables) table.
-
 ### Critical Stress - Fallout Trigger
-Stress that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid critical stress .
+**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress** . If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
 
-When a character fails their CTRL save they take critical stress. They then select an appropriate effect on the [Stress Fallout](#stress-fallout-tables) table.
+### 0 HP Stress - Fallout Trigger
+If Stress to a PC reduces their HP to exactly 0, they gain Critical Stress and must roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
+
 
 
 ### Ability Score Loss
@@ -794,15 +793,11 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 | 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
 
 #### Stress Fallout Tables
-Some moments change an investigator forever. Use the Stress fallout table when either:
+Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
 - Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
 
-
-Choose an appropriate result that makes narrative sense from the table below. Unless marked, Stress Fallout can only be chosen once per table.
-
-
-Each stress fallout takes up an inventory slot. It cannot be removed.
+Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
 
 
 **Note to Wardens:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
