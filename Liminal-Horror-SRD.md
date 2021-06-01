@@ -288,7 +288,7 @@ Potential Connections
 | 2    | Broken    | 7    | Round |
 | 3    | Chiseled  | 8    | Sharp    |
 | 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 5    | Gaunt      | 10   | Sunken   |
 
 #### Speech
 
