@@ -6,7 +6,7 @@ parent: Character Creation
 grand_parent: Core Game
 ---
 
-# Character Traits (d10)
+# Character Traits (roll d10 or choose)
 
 #### Physique
 
@@ -17,26 +17,6 @@ grand_parent: Core Game
 | 3        | Curvy   | 8    | Statuesque |
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |
-
-#### Skin
-
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Gray     |
-| 2    | Radiant       | 7    | Soft      |
-| 3    | Pale  | 8    | Cracked    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
-
-#### Hair
-
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
 
 #### Face
 
@@ -58,17 +38,8 @@ grand_parent: Core Game
 | 4      | Droning | 9    | Stuttering |
 | 5      | Formal  | 10   | Whispery   |
 
-#### Clothing
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
-
-#### Virtue (optional - roll d10 or choose)
+#### Virtue (optional)
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
@@ -78,7 +49,7 @@ grand_parent: Core Game
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-#### Vice (optional - roll d10 or choose)
+#### Vice (optional)
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
@@ -88,7 +59,7 @@ grand_parent: Core Game
 | 4    | Deceitful  | 9    | Vain     |
 | 5    | Greedy     | 10   | Vengeful |
 
-#### Misfortunes (optional - roll d10 or choose)
+#### Misfortunes (optional)
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |

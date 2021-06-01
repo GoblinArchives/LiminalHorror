@@ -184,7 +184,7 @@ If stress would take a PC's HP exactly to 0, the player must roll on the [Stress
 - Choose a name for your character,
 - Roll a [background](#background). This informs their knowledge and potential skills.
 - Answer the [Getting To Know Your Character](#getting-to-know-your-character).
-- Determine the rest of your character’s [traits](#character-traits-d10).
+- Determine the rest of your character’s [traits](#character-traits-roll-d10-or-choose).
 - Choose their age or roll 2d20+16.
 
 #### 4. Starting Gear
@@ -268,7 +268,7 @@ Potential Connections
 [back to index](#index)
 <p></p>
 
-### Character Traits (d10)
+### Character Traits (Roll d10 or choose)
 
 #### Physique
 
@@ -279,26 +279,6 @@ Potential Connections
 | 3        | Curvy   | 8    | Statuesque |
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |
-
-#### Skin
-
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Gray     |
-| 2    | Radiant       | 7    | Soft      |
-| 3    | Pale  | 8    | Cracked    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
-
-#### Hair
-
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
 
 #### Face
 
@@ -330,7 +310,7 @@ Potential Connections
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |
 
-#### Virtue (optional - roll d10 or choose)
+#### Virtue (optional)
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
@@ -340,7 +320,7 @@ Potential Connections
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-#### Vice (optional - roll d10 or choose)
+#### Vice (optional)
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
@@ -350,7 +330,7 @@ Potential Connections
 | 4    | Deceitful  | 9    | Vain     |
 | 5    | Greedy     | 10   | Vengeful |
 
-#### Misfortunes (optional - roll d10 or choose)
+#### Misfortunes (optional)
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
