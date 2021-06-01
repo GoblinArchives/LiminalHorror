@@ -268,7 +268,7 @@ Potential Connections
 [back to index](#index)
 <p></p>
 
-### Character Traits (Roll d10 or choose)
+## Character Traits (Roll d10 or choose)
 
 #### Physique
 

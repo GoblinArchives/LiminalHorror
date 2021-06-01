@@ -8,7 +8,7 @@ grand_parent: Core Game
 
 # Character Traits (roll d10 or choose)
 
-#### Physique
+## Physique
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
@@ -18,7 +18,7 @@ grand_parent: Core Game
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |
 
-#### Face
+## Face
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
@@ -28,7 +28,7 @@ grand_parent: Core Game
 | 4    | Elongated | 9    | Square   |
 | 5    | Pale      | 10   | Sunken   |
 
-#### Speech
+## Speech
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
@@ -39,7 +39,7 @@ grand_parent: Core Game
 | 5      | Formal  | 10   | Whispery   |
 
 
-#### Virtue (optional)
+## Virtue (optional)
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
@@ -49,7 +49,7 @@ grand_parent: Core Game
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-#### Vice (optional)
+## Vice (optional)
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
@@ -59,7 +59,7 @@ grand_parent: Core Game
 | 4    | Deceitful  | 9    | Vain     |
 | 5    | Greedy     | 10   | Vengeful |
 
-#### Misfortunes (optional)
+## Misfortunes (optional)
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
