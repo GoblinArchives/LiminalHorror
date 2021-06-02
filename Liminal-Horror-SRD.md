@@ -8,6 +8,12 @@ nav_order: 5
 
 <p></p>
 
+## Acknowledgements
+- Yochai Gal, for the [Cairn SRD](https://cairnrpg.com/cairn-srd/), base rules, tables, and framework necessary to make this hack.
+- Chris McDowell, for Into the Odd and [BASTIONLAND.com](BASTIONLAND.com)
+- [Ben Milton](https://itch.io/profile/questingbeast) - for Knave and the Maze Rats magic system.
+- Xenio for adapting [Maze Rats magic to Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
+
 **Liminal Horror** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **Liminal Horror** is a tabletop role playing game with one Warden (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
@@ -67,10 +73,11 @@ Death comes for everyone, but some suffer a fate worse.
 - The weird and their mysteries should be layered, leading players ever downward into the unknown.
 
 ### Secrets
-- Fear of the unknown, dread, forbidden knowledge and existential threats on a grand  scale are essential themes in Cosmic Horror.
-- While providing  information on the physical and tangible reality to players is key, make sure that the true nature of things remain hidden even as connections are made.
-- Slowly give investigators opportunities to pull at threads, pushing them deeper into the weird.
+- Leverage the themes of dread, forbidden knowledge, and fear of the unknown.
+- Provide information on the physical and tangible reality to players but keep the true nature of things beyond reach.
+- Slowly give investigators opportunities to pull at threads, drawing them deeper into the weird.
 - The scale of what the PCs face is incomprehensible. True understanding is unattainable.
+
 
 
 ### Preparation
@@ -98,8 +105,9 @@ Death comes for everyone, but some suffer a fate worse.
 - Offer tough choices.
 - All situations should have multiple outcomes.
 - Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
-- Not every outcome can be fully known to a player before rolling, especially if it involves the Weird. A key aspect of the Old Powers is that their influence bends and breaks reality.
+- The influence of the Old Powers bends and breaks reality, making the full scope of some outcomes obscured.
 - Every action should leave an impact on the world in some way.
+
 
 
 ### Failure
@@ -320,7 +328,7 @@ Potential Connections
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-#### Vice (optional)
+#### Flaw (optional)
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
@@ -353,7 +361,7 @@ All PCs begin with an **Investigator Bundle**:
 
 |                |                  |                          |                                |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
-|          1          |       2-5       |          6-14           |               18-19               |               20               |
+|          1          |       2-7       |          8-17           |               18-19               |               20               |
 | Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Magic) |
 
 
@@ -361,11 +369,11 @@ All PCs begin with an **Investigator Bundle**:
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Alarm Helper            | 6    | Handcuffs       | 11   | Flashbang    | 16   | Spray paint |
+| 1    | Night Vision Googles           | 6    | Handcuffs       | 11   | Flashbang    | 16   | Spray paint |
 | 2    | Zip Ties              | 7    | Grappling Hook & rope| 12   | Directional Microphone        | 17   | Laptop & Printer |
 | 3    | Binoculars | 8    | Body bag     | 13   | Glass cutting tools | 18   | Kevlar rope    |
-| 4    | Chain & Lock          | 9    | Night Vision Goggles     | 14   | A box with no seam      | 19   | DSLR   |
-| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stress Armor)      | 15   | Lockpicks   | 20   | Duffle for black block (bulky)   |
+| 4    | Chain & Lock          | 9    | Tactical Flashlight     | 14   | A box with no seam      | 19   | Good Camera   |
+| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Duffle for black block (bulky)   |
 
 #### Memento (d10)
 
@@ -488,7 +496,7 @@ Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle ca
 | Comms: Walkie Talkies               | $200         | Night Vision Goggles   | $200   |
 | Directional Microphone              | $200         | Pharmacist Kit         | $150   |
 | Drone / Advanced Drone              | $200 / $1000 | Portable Ram           | $75    |
-| DSLR                                | $400         | Portable Winch         | $100   |
+| Good Camera                         | $400         | Portable Winch         | $100   |
 | Duffle Bag                          | $50          | Pulley &amp; Rope      | $25    |
 | Duffle full of items for Black Bloc | $150         | Road Spikes (caltrops) | $50    |
 | Electrical Tool Kit                 | $150         | Sledgehammer           | $40    |
@@ -544,11 +552,11 @@ PCs can also gain Deprived or Fatigue from casting spells or through events in t
 ### Inventory
 Characters have a total of 10 inventory slots: a backpack (or similar case/bag) with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
-
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
 
 A PC cannot carry more items than their inventory allows. Vehicles can be used to store additional inventory, but they are inaccessible if you are away from the vehicle.
+
+*Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP*
 
 
 ### Reactions

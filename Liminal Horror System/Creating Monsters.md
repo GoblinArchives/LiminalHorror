@@ -15,7 +15,7 @@ Use the following template to model NPCs and monsters:
 - Drive, behavior, tactic, or peculiarity
 - Special effect or critical damage consequence.
 
-#### General Principles
+## General Principles
 - Ability Scores are 10 unless noted.
 - Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary.
 - HP: 3 HP is average , 6 HP sturdy, 1 0+ HP is serious threat
@@ -25,7 +25,7 @@ Use the following template to model NPCs and monsters:
 - Including ways to deal stress makes the game more Weird (increases chance of Stress Fallout)
 - Critical Damage triggers increase threat or strangeness
 
-#### Creature Cheat Sheet:
+### Creature Cheat Sheet:
 - Able to avoid being hit? Give it **HP**.
 - Soak up damage? Give it **Armor**.
 - Physically powerful? Give it a high **STR** or larger damage dice.

@@ -7,7 +7,7 @@ parent: Core Game
 
 # Equipment List
 
-#### Protection
+## Protection
 
 ||     |
 |--------------------------------------------------------------|-----|
@@ -17,7 +17,7 @@ parent: Core Game
 |Mask (protects your identity)   |$20   |
 
 
-#### Weapons
+## Weapons
 
 | |     |
 |--------------------------------------------------------------|-----|
@@ -33,7 +33,7 @@ parent: Core Game
 |**Combat Shotgun** (d6 damage blast with d8 area, bulky)                                  |$1250   |
 |**Sniper** (d8 damage or d12 damage when hidden, bulky)                                 |$1750   |
 
-#### Explosives
+## Explosives
 
 | |     |
 |--------------------------------------------------------------|-----|
@@ -42,7 +42,7 @@ parent: Core Game
 |**Grenade** (d8 damage, blast)            |$100   |
 |**IED** (d6 damage, blast with d4 continued damage per round)    |$200   |
 
-#### Modern Day Potions
+## Modern Day Potions
 
 | |     |
 |--------------------------------------------------------------|-----|
@@ -54,7 +54,7 @@ parent: Core Game
 |**Stims** (immediate recovery from critical damage, +1d4 temporary DEX)                                   |$100 |
 
 
-#### Gear - does not include average tools found in most modern homes
+## Gear - does not include average tools found in most modern homes
 
 |                       |          |             |    |
 |-------------------------------------|--------------|------------------------|--------|
@@ -72,7 +72,7 @@ parent: Core Game
 | Comms: Walkie Talkies               | $200         | Night Vision Goggles   | $200   |
 | Directional Microphone              | $200         | Pharmacist Kit         | $150   |
 | Drone / Advanced Drone              | $200 / $1000 | Portable Ram           | $75    |
-| DSLR                                | $400         | Portable Winch         | $100   |
+| Good Camera                         | $400         | Portable Winch         | $100   |
 | Duffle Bag                          | $50          | Pulley &amp; Rope      | $25    |
 | Duffle full of items for Black Bloc | $150         | Road Spikes (caltrops) | $50    |
 | Electrical Tool Kit                 | $150         | Sledgehammer           | $40    |

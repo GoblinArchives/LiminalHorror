@@ -6,7 +6,7 @@ parent: Core Game
 ---
 
 # Rules
-### Abilities
+## Abilities
 Each of the three **abilities** are used in situations.
 
 
@@ -19,7 +19,7 @@ Each of the three **abilities** are used in situations.
 **Control (CTRL)**: Used for saves in instances of the weird, luck, social interaction, emotional strain, stress, and fallout. Stress targets CTRL.
 
 
-### Saves
+## Saves
 A **save** is the resolution mechanic used in play. Saves are only used when there is risk. If there is no risk or interesting narrative outcome, no roll is needed.
 
 To make a save PCs roll a d20 against the target attribute. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -27,10 +27,10 @@ To make a save PCs roll a d20 against the target attribute. If they roll *equal 
 If there is a **contested action**, the party at most risk makes the save.
 
 
-### Healing
+## Healing
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
-### Armor and Stability
+## Armor and Stability
 A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
 A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
@@ -38,24 +38,25 @@ A target's **Stability** value is deducted from incoming stress before it is app
 It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
 
 
-### Deprivation & Fatigue
+## Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. PCs may also take the deprived tag as the result of magical consequences or enemy abilities.
 
 Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
 
 PCs can also gain Deprived or Fatigue from casting spells or through events in the fiction.
 
-### Inventory
+## Inventory
 Characters have a total of 10 inventory slots: a backpack (or similar case/bag) with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
-
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
 
 A PC cannot carry more items than their inventory allows. Vehicles can be used to store additional inventory, but they are inaccessible if you are away from the vehicle.
 
+*Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.*
 
-### Reactions
+
+
+## Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may have a player roll 2d6 and consult the following table:
 
 | | | | | |

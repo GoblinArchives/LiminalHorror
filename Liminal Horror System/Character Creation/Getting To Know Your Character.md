@@ -8,10 +8,10 @@ grand_parent: Core Game
 
 # Getting To Know Your Character
 
-#### Clothing
+## Clothing
 Choose a style of clothing/look. A gold star if you find visual references to share with the group.
 
-#### The Abyss Stares Back
+## The Abyss Stares Back
 What was your first encounter with the unknown? Roll or choose:
 
 ||||
@@ -22,7 +22,7 @@ What was your first encounter with the unknown? Roll or choose:
 |4           |Cult activity (perhaps they recruited someone significant). |9          |You may be a card carrying member in a secret society.     |
 |5           |You read something not meant for mortal minds. |10          |You haven’t yet, that’s what session 1 is for!     |
 
-#### Ideology and Beliefs
+## Ideology and Beliefs
 What is your character’s initial ideology/beliefs? What lens do they use to interpret the world and guide them toward action? Create your own or use the table below:
 
 |   |                                                                                |    |                                                        |
@@ -33,7 +33,7 @@ What is your character’s initial ideology/beliefs? What lens do they use to in
 | 4 | Belief in higher powers. Astrology, spirituality, etc.                         | 9  | Free will is the only truth.                           |
 | 5 | There are deep truths that others are not aware of. The answers are out there. | 10 | You believe in the power of community.                 |
 
-#### Connections
+## Connections
 - List one significant person to the investigator. What is their relationship? Give them a name and brief description.
 - List one contact the investigator has. This could be connected to their background. What is the contact’s area of expertise and what is their relationship to the investigator?
 

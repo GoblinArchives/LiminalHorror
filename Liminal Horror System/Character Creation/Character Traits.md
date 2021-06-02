@@ -49,7 +49,7 @@ grand_parent: Core Game
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-## Vice (optional)
+## Flaw (optional)
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |

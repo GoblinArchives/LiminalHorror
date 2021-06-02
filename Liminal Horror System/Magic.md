@@ -43,34 +43,6 @@ Random spells are generated using the table and process below.
 
 [![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
 
-# Magical Fallout Tables
-## **Mutations(roll d20)**
-
-|    | Mutations(roll d20)        |
-|----|----------------------------|
-| 1  | A crown of blood           |
-| 2  | Ages                       |
-| 3  | Attracts birds             |
-| 4  | Bone appendage             |
-| 5  | Chills                     |
-| 6  | Eyes replaced with stars   |
-| 7  | Face changes               |
-| 8  | Forked tongue              |
-| 9  | Lose teeth                 |
-| 10 | Monstrous trait            |
-| 11 | Monstrous feature          |
-| 12 | No eyes                    |
-| 13 | No shadow                  |
-| 14 | Second face                |
-| 15 | Sheds skin                 |
-| 16 | Skin boils                 |
-| 17 | Skin melts like wax (some) |
-| 18 | Tentacle (s)               |
-| 19 | Translucent skin           |
-| 20 | Weeps blood                |
-
-<br>
-
 ## **Omens and Magical Catastrophes (roll d20)**
 
 |  |                     |
