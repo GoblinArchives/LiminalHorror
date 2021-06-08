@@ -8,9 +8,6 @@ grand_parent: Core Game
 
 # Getting To Know Your Character
 
-## Clothing
-Choose a style of clothing/look. A gold star if you find visual references to share with the group.
-
 ## The Abyss Stares Back
 What was your first encounter with the unknown? Roll or choose:
 

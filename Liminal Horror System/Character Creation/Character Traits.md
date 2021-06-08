@@ -35,7 +35,7 @@ grand_parent: Core Game
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
 | 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
+| 4      | Droning | 9    | Choppy |
 | 5      | Formal  | 10   | Whispery   |
 
 

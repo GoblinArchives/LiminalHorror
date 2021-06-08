@@ -111,8 +111,10 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Failure
-- Failure should always move the story forward. Often it is the most interesting outcome of all due to the introduction of novel complications.
-- Foster a table where success and failure is exciting. It is encouraged to elicit complications or twists from players.
+- Failure should push the story forward.
+- Foster a table where success and failure are equally exciting.
+- It is encouraged to elicit complications or twists from players.
+
 
 
 ### Die of Fate
@@ -167,8 +169,8 @@ Death comes for everyone, but some suffer a fate worse.
 
 ## Character Creation
 
-#### 1. Attributes
-Player Characters (PCs) have three attributes:
+#### 1. Ability Scores
+Player Characters (PCs) have three ability scores:
 
 
 - **Strength (STR)**: Physicality, brawn & toughness.
@@ -188,9 +190,10 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 
 If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](#stress-fallout-tables) table.
 
-#### 3. Name, Background & Traits
+#### 3. Investigator Details
 - Choose a name for your character,
 - Roll a [background](#background). This informs their knowledge and potential skills.
+- Choose a style of clothing or look for your character.
 - Answer the [Getting To Know Your Character](#getting-to-know-your-character).
 - Determine the rest of your character’s [traits](#character-traits-roll-d10-or-choose).
 - Choose their age or roll 2d20+16.
@@ -202,7 +205,7 @@ Characters have a total of 10 inventory slots: a backpack or bag (six slots), ha
 
 The [Equipment List](#equipment-list) has a more detailed overview of weapons and investigative gear. As a table, decide on what common household tools PCs have access to in addition to their starting gear.
 
-#### 5. Establishing the party
+#### 5. The Party
 The final step is to establish a party set up using the [Party Questions](#party-questions) section. This provides the initial context for investigators and their journey into the unknown.
 
 [back to index](#index)
@@ -212,6 +215,9 @@ The final step is to establish a party set up using the [Party Questions](#party
 
 ### Names:
 Choose a name that best fits the character you are wanting to play (often I do this at the end of the character generating process.
+
+### Clothing
+Choose a style of clothing/look. A gold star if you find visual references to share with the group.
 
 ### Background
 
@@ -232,8 +238,6 @@ Choose a name that best fits the character you are wanting to play (often I do t
 
 ### Getting To Know Your Character
 
-#### Clothing
-Choose a style of clothing/look. A gold star if you find visual references to share with the group.
 
 #### The Abyss Stares Back
 What was your first encounter with the unknown? Roll or choose:
@@ -305,7 +309,7 @@ Potential Connections
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
 | 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
+| 4      | Droning | 9    | Choppy     |
 | 5      | Formal  | 10   | Whispery   |
 
 #### Clothing
@@ -373,7 +377,7 @@ All PCs begin with an **Investigator Bundle**:
 | 2    | Zip Ties              | 7    | Grappling Hook & rope| 12   | Directional Microphone        | 17   | Laptop & Printer |
 | 3    | Binoculars | 8    | Body bag     | 13   | Glass cutting tools | 18   | Kevlar rope    |
 | 4    | Chain & Lock          | 9    | Tactical Flashlight     | 14   | A box with no seam      | 19   | Good Camera   |
-| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Duffle for black block (bulky)   |
+| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Bolt Cutters   |
 
 #### Memento (d10)
 
@@ -482,7 +486,7 @@ Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle ca
 
 |                       |          |             |    |
 |-------------------------------------|--------------|------------------------|--------|
-| Alarm helper                        | $500         | Forgery Kit            | $150   |
+| Alarm Bypass                        | $500         | Forgery Kit            | $150   |
 | Bear Trap                           | $100         | Glass Cutting Tools    | $150   |
 | Binoculars                          | $100         | Grease                 | $30    |
 | Blow Torch (welding)                | $250         | Handcuffs              | $50    |
@@ -536,7 +540,7 @@ Taking a quick rest for a few moments restores HP but can leave the investigator
 ### Armor and Stability
 A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
-A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
+A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
 
 It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
 
@@ -636,13 +640,15 @@ The **blast** quality denotes an attack that hits everything in a target area wi
 Escaping a doomed situation requires a successful DEX save and a safe destination in order to get away. Safely retreating is a victory in its own way.
 
 ### Critical Damage
-If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**. Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**.
+<br>Suffering critical damage disables the victim. All they can do is crawl and grasp for life. Aid and rest required to persevere or they will die in the hour.
 
-### Critical Stress - Fallout Trigger
-**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress** . If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
+### Critical Stress = Fallout
+**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
+<br>If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
 
-### 0 HP Stress - Fallout Trigger
-If Stress to a PC reduces their HP to exactly 0, they gain Critical Stress and must roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
+### 0 HP Stress = Fallout
+If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
 
 
 
@@ -681,12 +687,13 @@ Characters may be able to use **magic** if they:
 
 Random spells are generated using the table and process below.
 - Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
-- Spells are cast using a single action. After casting they leave the inventory slot.
-- If the PC is deprived or in danger, the PC must make a CTRL save to avoid any ill-effects from casting the spell. Consequences of failure when using magic should correlate in level to the intended effect. Failure may result in Stress, Fatigue, injury, death or rolling on the Omens/Magical Catastrophes.
+- Spells use a single action.
+- Afterward they leave the inventory.
+- If deprived or in danger, the PC must make a CTRL save to avoid any ill-effects. Consequences of failure should correlate in level to 	the intended effect. Failure may result in Stress, Fatigue, injury, death or  Omens/Magical Catastrophe.
 - Spell effects are decided by the warden with input from the player. They should work together to come up with the general effect and scope of the spell. The warden makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
 - PCs can attempt to retain the spell by successfully making a CTRL save.
-**On success:** Spell stays prepared. PC marks fatigue in an inventory slot.
-**On a failure:** the player rolls on the Magical Fallout Table.
+- **On success:** Spell stays prepared. PC 	marks fatigue in an inventory slot.
+- **On a failure:** the player does not 	retain the spell, marks deprived and adds fatigued to their inventory.
 
 ### Spell Tables (adapted from Maze Rats)
 

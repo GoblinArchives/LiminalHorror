@@ -28,7 +28,7 @@ All PCs begin with an **Investigator Bundle**:
 | 2    | Zip Ties              | 7    | Grappling Hook & rope| 12   | Directional Microphone        | 17   | Laptop & Printer |
 | 3    | Binoculars | 8    | Body bag     | 13   | Glass cutting tools | 18   | Kevlar rope    |
 | 4    | Chain & Lock          | 9    | Tactical Flashlight     | 14   | A box with no seam      | 19   | Good Camera   |
-| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Duffle for black block (bulky)   |
+| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Bolt Cutters   |
 
 ## Memento (d10)
 

@@ -58,7 +58,7 @@ parent: Core Game
 
 |                       |          |             |    |
 |-------------------------------------|--------------|------------------------|--------|
-| Alarm helper                        | $500         | Forgery Kit            | $150   |
+| Alarm Bypass                        | $500         | Forgery Kit            | $150   |
 | Bear Trap                           | $100         | Glass Cutting Tools    | $150   |
 | Binoculars                          | $100         | Grease                 | $30    |
 | Blow Torch (welding)                | $250         | Handcuffs              | $50    |

@@ -7,8 +7,8 @@ grand_parent: Core Game
 ---
 # Character Creation Steps
 
-## 1. Attributes
-Player Characters (PCs) have three attributes:
+## 1. Ability Scores
+Player Characters (PCs) have three ability scores:
 
 
 - **Strength (STR)**: Physicality, brawn & toughness.
@@ -28,9 +28,10 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 
 If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
 
-## 3. Name, Background & Traits
+## 3. Investigator Details
 - Choose a name for your character,
 - Roll a [background](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Names%20and%20Background/). This informs their knowledge and potential skills.
+- Choose a style of clothing or look for your character.
 - Answer the [Getting To Know Your Character](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/).
 - Determine the rest of your character’s [traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/).
 - Choose their age or roll 2d20+16.
@@ -42,5 +43,5 @@ Characters have a total of 10 inventory slots: a backpack or bag (six slots), ha
 
 The [Equipment List](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Equipment%20List/) has a more detailed overview of weapons and investigative gear. As a table, decide on what common household tools PCs have access to in addition to their starting gear.
 
-## 5. Establishing the party
+## 5. The Party
 The final step is to establish a party set up using the [Party Questions](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Party%20Questions/) section. This provides the initial context for investigators and their journey into the unknown.

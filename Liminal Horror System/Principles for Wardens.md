@@ -49,8 +49,10 @@ parent: Core Game
 
 
 ## Failure
-- Failure should always move the story forward. Often it is the most interesting outcome of all due to the introduction of novel complications.
-- Foster a table where success and failure is exciting. It is encouraged to elicit complications or twists from players.
+- Failure should push the story forward.
+- Foster a table where success and failure are equally exciting.
+- It is encouraged to elicit complications or twists from players. 
+
 
 
 ##  Die of Fate

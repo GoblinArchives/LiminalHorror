@@ -10,6 +10,9 @@ grand_parent: Core Game
 ## Names:
 Choose a name that best fits the character you are wanting to play (often I do this at the end of the character generating process.
 
+## Clothing
+Choose a style of clothing/look. A gold star if you find visual references to share with the group.
+
 ## Background
 
 ||||

@@ -33,7 +33,7 @@ Taking a quick rest for a few moments restores HP but can leave the investigator
 ## Armor and Stability
 A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
-A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
+A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are rare items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
 
 It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
 
