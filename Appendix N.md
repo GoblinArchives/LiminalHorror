@@ -16,7 +16,7 @@ These works directly inspired this game, both in tone and content. This list is 
 - [Throne of Salt - blog](http://throneofsalt.blogspot.com/)
 - [B.P.R.D - comic](https://en.wikipedia.org/wiki/Bureau_for_Paranormal_Research_and_Defense)
 - [Agents of O.D.D. By Jason Toci - ttrpg](https://jasontocci.itch.io/agents-of-the-odd) If you are looking for a BPRD/Hellboy/Xfiles style game of cryptically and weird investigators of the paranormal you can’t find any better
-- [Esoteric Enterprises - ttrpg](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete)
+- [Esoteric Enterprises](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete) (ttrpg) by Dying Stylishly Games 
 - [The Laundry Files -book series](https://en.wikipedia.org/wiki/The_Laundry_Files)
 - [SCP Foundation - web based collaborative fiction](http://www.scpwiki.com/)
 - Liminal Spaces (Twitter) @SpaceLiminalBot - this bot pulls from the reddit r/LiminalSpace/
