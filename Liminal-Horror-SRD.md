@@ -16,11 +16,11 @@ nav_order: 5
 
 **Liminal Horror** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Liminal Horror** is a tabletop role playing game with one Warden (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
+**Liminal Horror** is a tabletop role playing game with one Facilitator (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
 ## Index
 - [Overview](#overview)
-- [Principles for Wardens](#principles-for-wardens)
+- [Principles for Facilitators](#principles-for-Facilitators)
 - [Principles for Players](#principles-for-players)
 - [Character Creation](#character-creation)
 - [Equipment List](#equipment-list)
@@ -35,11 +35,11 @@ nav_order: 5
 
 ## Overview
 
-### Warden and Player
-Wardens make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
+### Facilitator and Player
+Facilitators make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
 
 ### Player Choice
-Wardens provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
+Facilitators provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
 
 ### No Classes
 Investigators are not limited by a predefined class. A character’s specialty begins with their background, equipment, and experiences.
@@ -65,7 +65,7 @@ Death comes for everyone, but some suffer a fate worse.
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
+## Principles for Facilitators
 ### Information
 - Information should never be kept behind rolls.
 - Provide information readily and freely to facilitate critical thinking and clever play.
@@ -542,7 +542,7 @@ A target's **Armor** value is deducted from incoming damage before it is applied
 
 A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
 
-It is up to the Warden’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
+It is up to the Facilitator’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
 
 
 
@@ -556,7 +556,7 @@ PCs can also gain Deprived or Fatigue from casting spells or through events in t
 ### Inventory
 Characters have a total of 10 inventory slots: a backpack (or similar case/bag) with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Facilitator's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
 
 A PC cannot carry more items than their inventory allows. Vehicles can be used to store additional inventory, but they are inaccessible if you are away from the vehicle.
 
@@ -564,7 +564,7 @@ A PC cannot carry more items than their inventory allows. Vehicles can be used t
 
 
 ### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may have a player roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Facilitator may have a player roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -610,7 +610,7 @@ The game typically plays without strict time accounting. If timing is necessary,
 ### Actions
 On their turn a character may move up to 40ft and take up to one action. This may be *casting a spell*, *attacking*, making a *second move*, or some other *combat maneuver*.
 
-Players state what actions they will take before rolling dice. If they attempt something risky, the Warden will call for a save from the appropriate party.
+Players state what actions they will take before rolling dice. If they attempt something risky, the Facilitator will call for a save from the appropriate party.
 
 All actions, attacks, and movements take place roughly at the same time.
 
@@ -690,7 +690,7 @@ Random spells are generated using the table and process below.
 - Spells use a single action.
 - Afterward they leave the inventory.
 - If deprived or in danger, the PC must make a CTRL save to avoid any ill-effects. Consequences of failure should correlate in level to 	the intended effect. Failure may result in Stress, Fatigue, injury, death or  Omens/Magical Catastrophe.
-- Spell effects are decided by the warden with input from the player. They should work together to come up with the general effect and scope of the spell. The warden makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
+- Spell effects are decided by the Facilitator with input from the player. They should work together to come up with the general effect and scope of the spell. The Facilitator makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
 - PCs can attempt to retain the spell by successfully making a CTRL save.
 - **On success:** Spell stays prepared. PC 	marks fatigue in an inventory slot.
 - **On a failure:** the player does not 	retain the spell, marks deprived and adds fatigued to their inventory.
@@ -795,7 +795,7 @@ Some moments change an investigator forever.Some moments change an investigator 
 Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
 
 
-**Note to Wardens:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
+**Note to Facilitators:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
 
 |  | Stress Fallout Tables                                                                                                                                                                                                                                                                                                                 |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -804,21 +804,21 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 | 1                      | **Have you been replaced?** You’ve seen what they can do -their magics and their deceptions. What would stop them from taking you? Maybe you aren’t who you think you are? How would you even know? <br>During your next moment of quiet reflection, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2                      | **Memories of an Unknown Traveler:** These memories are not your own. They are of a different time, a different place, from a perspective so unlike your own. The realities they walk through are so alien and different, their feelings so foriegn. If only you could understand what they experienced.<br>During your next rest, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 3                      | **Paranoia:** Is it paranoia if the worries are completely reasonable? You’ve seen what happens in the dark, you know what goes bump in the night. <br>After a week, roll 1d6. If the total is higher than your max HP, take the new result.                                                                                |
-| 4                      | **Plagued by Nightmares:** It comes for you every night, without fail. You do not know if they are from the beginning, or the end. All you know is that they won’t stop, and that they must mean something. After a week of nightmares, tell your Warden two distinct images that linger at the edge of your remembering. |
+| 4                      | **Plagued by Nightmares:** It comes for you every night, without fail. You do not know if they are from the beginning, or the end. All you know is that they won’t stop, and that they must mean something. After a week of nightmares, tell your Facilitator two distinct images that linger at the edge of your remembering. |
 | 5                      | **Mirror World:** Everything seemed okay at first, but now you are sure of it - the world inside the mirror is different. The side glances, the shifting of places, it is undeniable.<br>When you first start to notice, roll 2d6. If the total is higher than your max HP, take the new result.                            |
 | 6                      | **Odd:** You adopt an odd behavior that makes others uncomfortable. If you resist indulging in your “Oddity” for 24 hours, take the Deprived tag. If others see you engage in this creepy behavior, they must make a CTRL save or take 1d4 Stress. <br>After the first instance, roll 3d6. If the total is higher than your current CTRL, take the new result. |
 | 7                      | **Hunger:**  You develop an unnatural hunger for the unusual. If you do not satiate your appetite for 24 hours, take the Deprived tag. When you eat, restore HP and give 1d4 stress to any that can see.<br>After the first instance, roll 3d6. If the total is higher than your current STR, take the new result. |
 | 8                      | **Scarred:** Every wound you inflict leaves its ragged mark upon your body.<br>After the first instance, make a CTRL save. If you pass, increase your max STR by 1d4.                                                                                                                                                       |
 | 9                      | **Liminal Communion:** It wasn’t noticeable at first, but you’ve slowly begun to regularly do a sequence of gestures, words, or actions -almost as if you are performing a ritual.<br>When you first start to notice, make a CTRL save. If you pass, increase your max CTRL by 1d4.                                         |
-| 10                     | **Magical Corruption** *(this can be taken multiple times per character)*:  Flesh is weak. A part of your body becomes visibly changed through your proximity to the weird. The Warden and Player should decide on how that change manifests and if it has any mechanical impacts.                                                                                                                                                                                      |
+| 10                     | **Magical Corruption** *(this can be taken multiple times per character)*:  Flesh is weak. A part of your body becomes visibly changed through your proximity to the weird. The Facilitator and Player should decide on how that change manifests and if it has any mechanical impacts.                                                                                                                                                                                      |
 
 |  |                                                                                                                                                                                                                                                                                                                                                          |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                        |                                                                                                                                                                                                                                                                                                                                                                 |                                                       |
 | 11                     | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
-| 12                     | **Neural Superposition:**  You see images of unknown places superposed onto this one, sometimes making it difficult to tell what is real. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the highest result. Once per day you see something significant (ask your Warden what it is).           |
+| 12                     | **Neural Superposition:**  You see images of unknown places superposed onto this one, sometimes making it difficult to tell what is real. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the highest result. Once per day you see something significant (ask your Facilitator what it is).           |
 | 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
-| 14                     | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Warden.                                                                                            |
+| 14                     | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Facilitator.                                                                                            |
 | 15                     | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6.                                                                                                                                                 |
 | 16                     | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
 | 17                     | **Progeny:** Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams.<br>Roll 2d6. Take the new result as your max HP                                                                                                                                                                                              |

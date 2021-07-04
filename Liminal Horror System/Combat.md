@@ -19,7 +19,7 @@ The game typically plays without strict time accounting. If timing is necessary,
 ## Actions
 On their turn a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other combat maneuver.
 
-Players state what actions they will take before rolling dice. If they attempt something risky, the Warden will call for a save from the appropriate party.
+Players state what actions they will take before rolling dice. If they attempt something risky, the Facilitator will call for a save from the appropriate party.
 
 All actions, attacks, and movements take place roughly at the same time.
 
@@ -56,7 +56,7 @@ If damage brings a target’s HP below zero, their STR is decreased by the amoun
 **Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
 <br>If a character fails their CTRL save they take critical stress and gain fallout from the  [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
 
-## 0 HP Stress = Fallout 
+## 0 HP Stress = Fallout
 If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table just as if they failed their CTRL save.
 
 

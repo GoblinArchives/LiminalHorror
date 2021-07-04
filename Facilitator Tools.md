@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Warden Tools
+title: Facilitator Tools
 nav_order: 3
 ---
 
-# Warden Tools
+# Facilitator Tools
 DRAFT - These will be expanded and refined once digital layout of the pdf is completed.
 
 The goal will be to create tools that people can use to help them in their facilitating of the game.
 
-## Warden Tools
-This following section seeks to provide different options for Warden when thinking about prep and play. Rely heavily on your principals and the overview at the beginning of the text. Some may want a little more guidance and so I have provided some initial ideas to get you started.
+## Facilitator Tools
+This following section seeks to provide different options for Facilitator when thinking about prep and play. Rely heavily on your principals and the overview at the beginning of the text. Some may want a little more guidance and so I have provided some initial ideas to get you started.
 
 ### Frameworks for play:
 - Adapt pre-made mysteries from horror systems, modern or not.

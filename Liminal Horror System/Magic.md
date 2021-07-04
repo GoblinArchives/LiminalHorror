@@ -13,12 +13,12 @@ Characters may be able to use **magic** if they:
 - Gained it through [**Stress Fallout**](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/).
 - Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
 
-Random spells are generated using the table and process below. 
+Random spells are generated using the table and process below.
 - Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
 - Spells use a single action.
 - Afterward they leave the inventory.
 - If deprived or in danger, the PC must make a CTRL save to avoid any ill-effects. Consequences of failure should correlate in level to 	the intended effect. Failure may result in Stress, Fatigue, injury, death or  Omens/Magical Catastrophe.
-- Spell effects are decided by the warden with input from the player. They should work together to come up with the general effect and scope of the spell. The warden makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
+- Spell effects are decided by the Facilitator with input from the player. They should work together to come up with the general effect and scope of the spell. The Facilitator makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
 - PCs can attempt to retain the spell by successfully making a CTRL save.
 - **On success:** Spell stays prepared. PC 	marks fatigue in an inventory slot.
 - **On a failure:** the player does not 	retain the spell, marks deprived and adds fatigued to their inventory.

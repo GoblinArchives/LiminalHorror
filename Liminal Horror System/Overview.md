@@ -8,11 +8,11 @@ parent: Core Game
 # Overview
 ---
 
-### Warden and Player
-Wardens make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
+### Facilitator and Player
+Facilitators make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
 
 ### Player Choice
-Wardens provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
+Facilitators provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
 
 ### No Classes
 Investigators are not limited by a predefined class. A character’s specialty begins with their background, equipment, and experiences.

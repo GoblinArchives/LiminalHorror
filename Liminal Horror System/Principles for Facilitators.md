@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Principles for Wardens
+title: Principles for Facilitators
 nav_order: 2
 parent: Core Game
 ---
 
-# Principles for Wardens
+# Principles for Facilitators
 ## Information
 - Information should never be kept behind rolls.
 - Provide information readily and freely to facilitate critical thinking and clever play.
@@ -51,7 +51,7 @@ parent: Core Game
 ## Failure
 - Failure should push the story forward.
 - Foster a table where success and failure are equally exciting.
-- It is encouraged to elicit complications or twists from players. 
+- It is encouraged to elicit complications or twists from players.
 
 
 
