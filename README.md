@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-**Liminal Horror** tabletop role playing game with one Warden (the facilitator)  and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
+**Liminal Horror** tabletop role playing game with Facilitator and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
 Liminal Horror is a classless, rules lite system the eschews xp for high lethality and narrative growth.  The major shift from its parent systems is the integration of a stress damage system that can result in stress fallout. Stress Fallout is how characters are changed by exposure to the Old Powers (both narratively and mechanically).
 
