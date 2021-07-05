@@ -15,8 +15,9 @@ These works directly inspired this game, both in tone and content. This list is 
 - [Hereditary - film](https://en.wikipedia.org/wiki/Hereditary_(film)): An example of what happens if you don’t deal with the cult in you game
 - [Throne of Salt - blog](http://throneofsalt.blogspot.com/)
 - [B.P.R.D - comic](https://en.wikipedia.org/wiki/Bureau_for_Paranormal_Research_and_Defense)
+- [The Company by Logan Dean - ttrpg](https://mega-corp.itch.io/the-company): A fantastic game of corporate survival horror. If you are looking for a game where you try and make it through the day employed by an evil corporate (think Resident Evil, The Laundry Archives, Alien, Half Life) then this game is the one for you. The design work is top notch.
 - [Agents of O.D.D. By Jason Toci - ttrpg](https://jasontocci.itch.io/agents-of-the-odd) If you are looking for a BPRD/Hellboy/Xfiles style game of cryptically and weird investigators of the paranormal you can’t find any better
-- [Esoteric Enterprises](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete) (ttrpg) by Dying Stylishly Games 
+- [Esoteric Enterprises](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete) (ttrpg) by Dying Stylishly Games
 - [The Laundry Files -book series](https://en.wikipedia.org/wiki/The_Laundry_Files)
 - [SCP Foundation - web based collaborative fiction](http://www.scpwiki.com/)
 - Liminal Spaces (Twitter) @SpaceLiminalBot - this bot pulls from the reddit r/LiminalSpace/
