@@ -17,7 +17,7 @@ These works directly inspired this game, both in tone and content. This list is 
 - [B.P.R.D - comic](https://en.wikipedia.org/wiki/Bureau_for_Paranormal_Research_and_Defense)
 - [The Company by Logan Dean - ttrpg](https://mega-corp.itch.io/the-company): A fantastic game of corporate survival horror. If you are looking for a game where you try and make it through the day employed by an evil corporate (think Resident Evil, The Laundry Archives, Alien, Half Life) then this game is the one for you. The design work is top notch.
 - [Agents of O.D.D. By Jason Toci - ttrpg](https://jasontocci.itch.io/agents-of-the-odd) If you are looking for a BPRD/Hellboy/Xfiles style game of cryptically and weird investigators of the paranormal you can’t find any better
-- [Esoteric Enterprises](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete) (ttrpg) by Dying Stylishly Games
+- [Esoteric Enterprises by Dying Stylishly Games - ttrpg](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete): A game of urban horror that is briming with the best tables / underworld generator you could ever want.
 - [The Laundry Files -book series](https://en.wikipedia.org/wiki/The_Laundry_Files)
 - [SCP Foundation - web based collaborative fiction](http://www.scpwiki.com/)
 - Liminal Spaces (Twitter) @SpaceLiminalBot - this bot pulls from the reddit r/LiminalSpace/
