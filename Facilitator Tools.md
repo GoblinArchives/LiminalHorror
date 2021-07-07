@@ -37,7 +37,7 @@ The following is a list of components that you can use to create your own myster
 - **Final piece**: connection to the paranatural.
 
 ## Factions
-A complex world of magic, paranatural, and non-euclidian pantheons are all potential factions vying for the unthinkable power of the Old Powers, regardless of the risk. Some are patrons, others adversaries, and almost all are warring with one another. This is a world thirsty for power. Some factions could be:
+A complex world of magic, paranatural, and non-euclidian pantheons  is ripe for potential factions vying for the unthinkable power of the Old Powers, regardless of the risk. Some are patrons, others adversaries, and almost all are warring with one another. This is a world thirsty for power. Some factions could be:
 - Secretive government agencies with mysterious hierarchies. <- is “black budget” really a thing people say? Maybe just “secretive”?
 - Private corporations experimenting with magics and acquiring objects of power.
 - Modern fronts for ancient orders of widely varying world views and opinions on the esoteric.
