@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 5
+nav_order: 6
 ---
 
 # Liminal Horror System Reference Document (v.0.75)

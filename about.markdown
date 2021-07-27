@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This game, and website were written by Nick Erickson.
+This game, and website, were written by Nick Erickson.
 
 Ways to contact me and see the things that inform my writing:
 <br>**Twitter**: [@goblin_archives](https://twitter.com/goblin_archives)
