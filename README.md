@@ -13,14 +13,13 @@ It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://
 
 The game is available for free as a Digital PDF and PDF designed for print at home. They can be found at the [Goblin Archives Itch.io](https://goblinarchives.itch.io/liminal-horror)
 
-The first published adventure [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) is now out. This adventure acts as an example of the mystery framework.
+The first published adventure [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) is now out. This adventure acts as an example of the [mystery framework](https://goblinarchives.github.io/LiminalHorror/Mystery%20Framework/).
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
 
-<br><br>
 
 The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/). Twitter:[@zachhazard](https://twitter.com/zachhazard)
 
