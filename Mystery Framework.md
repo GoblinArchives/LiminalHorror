@@ -2,7 +2,6 @@
 layout: default
 title: Mystery Framework
 nav_order: 4
-permalink: /
 ---
 
 **MYSTERY FRAMEWORK**

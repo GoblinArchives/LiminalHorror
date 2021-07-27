@@ -20,6 +20,9 @@ The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licen
 
 The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
 
+<br><br>
+
+The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/). Twitter:[@zachhazard](https://twitter.com/zachhazard)
 
 
 <p></p>
