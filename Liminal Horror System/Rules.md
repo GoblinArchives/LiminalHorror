@@ -65,21 +65,21 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Fa
 | Hostile | Wary | Curious | Kind | Helpful |
 
 
-### Associates
+## Associates
 PCs can hire **Associates** to aid in their investigations.
 
 To create an associate roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Associates cost between 50-100 dollars per day. Some are prepared for violence, but may require a little persuasion in order to undertake something truly dangerous or weird.
 
 Expert Associates: An expert is a more temporary associate who is employed for a very specific task. They have 3HP and have an area of expertise with corresponding equipment. They cost $300 per day.
 
-### Vehicles
+## Vehicles
 Vehicles have HP. When HP reaches 0 the vehicle is totaled. Totaling a vehicle causes damage to those in and around it.
 
 Vehicle damage is relative to the target and its speed. Start at d6 and scale according to the fiction.
 
 Damage against the vehicle depends on the method. Some instances may be Impaired based on the scale.
 
-### Wealth & Treasure
+## Wealth & Treasure
 Cash is the most common form of currency. Vendors (both legal and illicit) may require different forms of payment to access them. Different in game variables may alter the prices listed in the equipment section.
 
 Debt transcends all boundaries and can be a boon or a burden.

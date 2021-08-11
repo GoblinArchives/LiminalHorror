@@ -11,9 +11,12 @@ Liminal Horror is a classless, rules lite system the eschews xp for high lethali
 
 It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://yochaigal.itch.io/cairn) (itself a child of Chris McDowall's [Into the Odd](https://chrismcdee.itch.io/) & Ben Milton's [Knave](https://questingbeast.itch.io/knave)). Liminal Horror written by Nick Erickson ([Goblin Archives](https://twitter.com/goblin_archives))
 
-The game is available for free as a Digital PDF and PDF designed for print at home. They can be found at the [Goblin Archives Itch.io](https://goblinarchives.itch.io/liminal-horror)
+For fans of Junji Ito (manga), cosmic horror, and TTRPGs such as: Call of Cthulu, Monster of the Week, Silent Legions.
 
-The first published adventure [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) is now out. This adventure acts as an example of the [mystery framework](https://goblinarchives.github.io/LiminalHorror/Mystery%20Framework/).
+In addition to having the core text available on this site, Liminal Horror can be found:
+- **In Print** at Exalted Funeral (comnig soon). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
+- As a **PDF** at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
+- The first published adventure Plague of Frogs is included in the print edition and is available for purchase at [itch.io](https://goblinarchives.itch.io/plague-of-frogs) & [DriveThruRPG](https://www.drivethrurpg.com/product/366661/Plague-of-Frogs). This adventure acts as an example of the [mystery framework](https://goblinarchives.github.io/LiminalHorror/Mystery%20Framework/).
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

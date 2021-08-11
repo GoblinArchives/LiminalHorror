@@ -20,7 +20,7 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 | 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
 
 ## Stress Fallout Tables
-Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
+Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
 - Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
 
