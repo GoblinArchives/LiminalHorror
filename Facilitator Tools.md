@@ -62,3 +62,4 @@ Remember there are sewers, caves and subterranean haunts everywhere. Who's to sa
 
 ## Outside Resources
 - [The Trajectory of Fear - or How to Use Horror Tropes Effectively in your game](https://img.fireden.net/tg/image/1453/84/1453840962349.pdf) (pdf) by Ash Law. This is a document that looks at how to use four types of fear (unease, dread, terror, horror) in your games.
+- [20 Narrative Horror Resources](https://mordheim.es/20-narrative-horror-resources/) by Eduardo Carabaño. This is an evocative list of images and prompts to use/inspire.
