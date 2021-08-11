@@ -11,7 +11,7 @@ permalink: /
 
 It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://yochaigal.itch.io/cairn) (itself a child of Chris McDowall's [Into the Odd](https://chrismcdee.itch.io/) & Ben Milton's [Knave](https://questingbeast.itch.io/knave)). Liminal Horror written by Nick Erickson ([Goblin Archives](https://twitter.com/goblin_archives))
 
-For fans of Junji Ito (manga), cosmic horror, and TTRPGs such as: Call of Cthulu, Monster of the Week, Silent Legions.
+For fans of cosmic horror, Junji Ito, and TTRPGs such as: Call of Cthulu, Monster of the Week, Silent Legions.
 
 In addition to having the core text available on this site, Liminal Horror can be found:
 - **In Print** at Exalted Funeral (comnig soon). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
