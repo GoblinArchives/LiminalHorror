@@ -19,7 +19,7 @@ Below are a collection of resources I have found that will help when planning se
 - [d20 Anomalous Media](http://throneofsalt.blogspot.com/2020/11/d20-anomalous-media.html)
 - [Organically-Grown Investigations](https://throneofsalt.blogspot.com/2020/01/organically-grown-investigations.html) Some great advice on Investigation Games and how to run them.
 - [Build a Better Cult](https://throneofsalt.blogspot.com/2018/01/build-better-cult.html): It's all in the title.
-Throne of Salt has a Esoteric Enterprise hack/ruleset/reimagining that they have been working on (which can be found [here](http://throneofsalt.blogspot.com/2020/03/lighthouse-rules-01.html)). For it they did a series of posts cataloging a sort of Lighthouse Field Guide of things about the world. If you are running Liminal Horror I highly recommend you take some time to read through them:
+<br><br> Throne of Salt has a Esoteric Enterprise hack/ruleset/reimagining that they have been working on (which can be found [here](http://throneofsalt.blogspot.com/2020/03/lighthouse-rules-01.html)). For it they did a series of posts cataloging a sort of Lighthouse Field Guide of things about the world. If you are running Liminal Horror I highly recommend you take some time to read through them:
 - [Lighthouse Field Guide First Installment](https://throneofsalt.blogspot.com/2020/02/esoteric-enterprises-exhibition.html)
 - [Lighthouse Field Guide Second Installment](http://throneofsalt.blogspot.com/2020/05/further-exceprts-from-lighthouse-field.html)
 - [Lighthouse Field Guide Third Installment](http://throneofsalt.blogspot.com/2020/08/excerpts-from-lighthouse-field-guide.html)
