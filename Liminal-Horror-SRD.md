@@ -4,7 +4,16 @@ title: SRD
 nav_order: 6
 ---
 
-# Liminal Horror System Reference Document (v.0.75)
+# Liminal Horror System Reference Document (v.2.25)
+
+## What is an SRD? How can is use it to create my own hack?
+SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Since Liminal Horror is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all of the text is open for use (other systems leave the rules open for use but restrict specific lore/content). A project down the line may be an actual Hacking Guide that talks about the different components and how to use them. Until then, you can see how I adapted the core game text from [Cairn](https://cairnrpg.com/cairn-srd/).
+
+## Other formats for the SRD (files updated on 7/10/21):
+- [Github Repository](https://github.com/GoblinArchives/LiminalHorror) - actively updated
+- [Google Doc](https://docs.google.com/document/d/16Px6ov7QiRNE3KBz1sgOO4CLOqV7eowX5_YIxNMa7ik/edit?usp=sharing)
+- [SRD Markdown](https://drive.google.com/file/d/1weiNEjzW9s6xMeBUCt6SPMnZQrVE3G3K/view?usp=sharing)
+- [Affinity Publisher File](https://drive.google.com/file/d/1JKIryoyCWBKh9vfYgBf1I2RFuXUc-soy/view?usp=sharing)
 
 <p></p>
 

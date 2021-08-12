@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Mystery Framework
-nav_order: 4
+nav_order: 3
+parent: Facilitator Tools
 ---
 
-**MYSTERY FRAMEWORK**
+## Creating Your Own Mysteries (using a framework)
+The following is a list of components that you can use to create your own mysteries for Liminal Horror. Making sure you have entries for each will mean that you have a good framework for sessions. Leave space between details and be ready for players to think creatively and take the story in unexpected directions. Mining your favorite media (film, novels, comics, manga, art) or using the [Spark Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Spark%20Tables/) can be a great way to kick off your prep. I have a mystery call [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) that can be used as an example.
 
-***CREATING YOUR OWN MYSTERIES***
-<br> This framework can use to create mysteries for Liminal Horror. The mystery [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) acts as an example of the mystery components.
+**Mystery Framework**
 
 |         |                       |
 |-----------------|----------------------------|
@@ -19,3 +20,9 @@ nav_order: 4
 | POTENTIAL CLUES  | Create a non-comprehensive list of potential clues that players can discover. When thinking about the mystery, think of tangible clues that the investigators can find. |
 | NPCs | Create a list of important NPCs with their stat blocks. Use the [Paranatural Bestiary](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Paranatural%20Bestiary/) for some example monsters or create them using the [Creating Monsters](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Creating%20Monsters/) Guidance. |
 | LOCATIONS | Decide on a few important locations and write some descriptions for them. Draft some rough maps of locations as a way to anchor investigators during play. |
+
+## Aspects of a Crime/Mystery:
+- **The anchors**: The victim, the event, the malefactor
+- **Crime Framework**: Means, Motive, Opportunity, Next Moves
+- **Threads binding them together (red string)**: Clues, traces, witnesses
+- **Final piece**: connection to the paranatural.
