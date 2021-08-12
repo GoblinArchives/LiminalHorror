@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Essential Setting Components
+title: Setting Components
 nav_order: 2
 parent: Facilitator Tools
 ---
