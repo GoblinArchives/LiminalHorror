@@ -13,7 +13,7 @@ There are a ton of fantastic programs one can use when writing and designing gam
 
 ### Layout
 - [Affinity Publisher](affinity.serif.com). This is an affordable, single purchase program (currently $54.99)
-- Affinity has a bunch of helpful tutorials to lower the learning curve. I did find myself using a few of these [top 15 tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/) when I was starting out.
+- [Top 15 Tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/). Affinity has a bunch of helpful tutorials to lower the learning curve and this had some good ones included.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
 ### Image Editing

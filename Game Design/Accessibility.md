@@ -6,7 +6,7 @@ parent: Game Design
 ---
 
 ## Accessibility & Design Intention
-One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work. It is why I created this website (as a means of providing a free means of searching the core text that can be used from a phone). In conversations I have had with other designers, it has become clear that we need to come together to push ourselves when thinking about design. A major goal going forward will be to organize collaboration around digital design of pdfs, inclusion of audio to games and looking at how we create access points for all players.
+One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
 

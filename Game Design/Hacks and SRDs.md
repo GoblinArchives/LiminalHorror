@@ -7,11 +7,11 @@ parent: Game Design
 ## So you want to make a game but are unsure about writing rules from scratch….
 Well great news! Many games live their lives as hacks for other games/rule systems. This means that you can start with a framework from which you can adapt to serve your idea/concept.
 
-SRD (System Reference Documents) is a way game designers share their work. Often it includes what can be used, and how, so that other designers can iterate and create new games. Below are some examples of different SRDs that you can use as a starting point in designing your own game. Many games have an SRD, but the one’s I’ve included have robust communities around them and are versatile enough to meet a myriad of needs.
+**SRD (System Reference Documents)** is a way game designers share their work. Often it includes what can be used, and how, so that other designers can iterate and create new games.
+
+Below are some examples of different SRDs that you can use as a starting point in designing your own game. Many games have an SRD, but the one’s I’ve included have robust communities around them and are versatile enough to meet a myriad of needs.
 
 Games have different licenses that dictate what can be used from the core text. Be sure to check their use/licenses to make sure you meet the requirements in your final product (an inclusions of established statements, attributions, etc).
-
-* MV has a very clear and concise breakdown of what an SRD on their website: [Designing an SRD](https://mvmv.blot.im/designing-an-srd)
 
 ### Example SRDs
 - [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
