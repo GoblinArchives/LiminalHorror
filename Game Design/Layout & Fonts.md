@@ -16,7 +16,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 ## Typography & Fonts
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html), by Matthew Buttericks is a great resource for building your schema and dipping your toes into that world.
 - [Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html) is another great introductory resource by Matthew Buttericks.
-- [Free fonts] (https://twitter.com/gontijodesign/status/1394624373823348737?s=27) compiled as a twitter thread by Guilherme Gontijo.
+- [Free fonts](https://twitter.com/gontijodesign/status/1394624373823348737?s=27) compiled as a twitter thread by Guilherme Gontijo.
 - [Google Fonts](https://fonts.google.com/?category=Display) is a collection of fonts released under open source licenses.
 - [dafont](https://www.dafont.com/) is another place to search for fonts and includes easy to find licensing information.
 - [WhatTheFont!](https://www.myfonts.com/WhatTheFont/) is a tool for finding out what font is used in an image.
