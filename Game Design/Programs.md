@@ -8,8 +8,8 @@ parent: Game Design
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
 
 ### Word Processors/File Organization
-- [Google Drive][https://drive.google.com] for file organization & management.
-- [Google Docs][https://docs.google.com/] for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
+- **Google Drive** for file organization & management.
+- **Google Docs** for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
 
 ### Layout
 - [Affinity Publisher](affinity.serif.com). This is an affordable, single purchase program (currently $54.99)
