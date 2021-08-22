@@ -18,3 +18,5 @@ There are a ton of fantastic programs one can use when writing and designing gam
 
 ### Image Editing
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
+- [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
+- [Inkscape](https://inkscape.org/) is a free vector graphic program.
