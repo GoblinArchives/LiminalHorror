@@ -5,6 +5,7 @@ nav_order: 9
 parent: Game Design
 ---
 # Game Design Resources ALL IN ONE PLACE
+Below is a collection of resources I found to help guide me through the process of becoming a game designer. It is not comprehensive, and is a living document. My hope is to continue to grow this resource (maybe even in a different form) so that others can benefit from the collective insight of the ttrpg/design community.
 
 ## PART 1: HACKS AND SRDS
 
@@ -64,7 +65,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [dafont](https://www.dafont.com/) is another place to search for fonts and includes easy to find licensing information.
 - [WhatTheFont!](https://www.myfonts.com/WhatTheFont/) is a tool for finding out what font is used in an image.
 
-##  Public Domain Images
+## PART 4: Public Domain Images
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
 
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
@@ -72,7 +73,7 @@ For those of us who are not artists, or don't have a budget to commission art fo
 - [unsplash](https://unsplash.com/) is a collection of freely usable photos.
 - [pixabay](https://pixabay.com/) is a collection of freely usable images. While it includes photos like unsplash, it is better known for its vectors and illustrations.
 
-## Accessibility & Design Intention
+## PART 5: Accessibility & Design Intention
 One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
