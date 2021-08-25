@@ -13,6 +13,6 @@ hacks, and is just an all around great community. I am an active member so you c
 [Join by click here](https://discord.io/newschoolrevolution)
 
 Where to buy Liminal Horror:
-<br>**Exalted Funeral**: Coming Soon
+<br>**Exalted Funeral**: [https://www.exaltedfuneral.com/products/liminal-horror-pdf](https://www.exaltedfuneral.com/products/liminal-horror-pdf)
 <br>**Itch.io**: [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 <br>**DriveThruRPG**: [https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)

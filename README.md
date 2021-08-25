@@ -14,7 +14,7 @@ It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://
 For fans of cosmic horror, Junji Ito, and TTRPGs such as: Call of Cthulu, Monster of the Week, Silent Legions.
 
 In addition to having the core text available on this site, Liminal Horror can be found:
-- **In Print** at Exalted Funeral (comnig soon). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
+- [In Print at Exalted Funeral](https://www.exaltedfuneral.com/products/liminal-horror-pdf). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
 - As a **PDF** at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
 - The first published adventure Plague of Frogs is included in the print edition and is available for purchase at [itch.io](https://goblinarchives.itch.io/plague-of-frogs) & [DriveThruRPG](https://www.drivethrurpg.com/product/366661/Plague-of-Frogs). This adventure acts as an example of the [mystery framework](https://goblinarchives.github.io/LiminalHorror/Mystery%20Framework/).
 
