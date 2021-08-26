@@ -6,6 +6,7 @@ parent: Game Design
 ---
 ## What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
+- [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
 
 ### Word Processors/File Organization
 - **Google Drive** for file organization & management.

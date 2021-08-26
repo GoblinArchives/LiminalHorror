@@ -32,6 +32,8 @@ Games have different licenses that dictate what can be used from the core text. 
 
 ### What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
+- [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
+
 
 #### Word Processors/File Organization
 - **Google Drive** for file organization & management.
@@ -52,6 +54,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 ### Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
+- [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
 - **Pinterest**: Look up layout, design, zines on pinterest to see examples of different design ideas you can use. This helps build visual references for the kind of things that are possible.
 - [My pinterest board](https://pin.it/1OIQmGq).
 - [TTRPG Zine Layouts](https://pin.it/42u4uaC) by Guilherme Gontijo.
@@ -86,12 +89,14 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 ## PART 6: PRINTING & PUBLISHING
 
 ### Selling PDFs Of Your Game
-If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, even though its a pdf) or on [drivethrurpg](https://www.drivethrurpg.com/).
+If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
 
 ### Printing & Publishing
 So you've put your game on itch or drivethru and you want to get a print run going. Here are some resources that can help guide you in the right direction.
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
+- [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
+
 
 ### Selling You Game
 One option for selling your printed game is to sell it yourself (on your website, as an add-on on itch, or using some other platform). The other option is to try and get some of the fantastic online sellers to carry it. This means reaching out to their buyers. Below are some different sites that sell ttrpg zines along with where they are based out of. If they are located in a different country, it may be benefitial to coordinate with them about doing a print run near them to cut down on international shipping.
@@ -117,6 +122,8 @@ One option for selling your printed game is to sell it yourself (on your website
 Here are two great resources on marketing your game, especially when starting out.
 - [A Crash Course On Marketing Your Indie RPG](https://www.failuretolerated.com/a-crash-course-on-marketing-your-indie-rpg) by Sean McCoy (the cofoudner of Tuesday Knight Game and designer of the phenomenal Mothership RPG).
 - [Marketing Yourself: Learn From Me As I Run Myself Like a Content Marketing Gig](https://peachpantspress.com/marketing-yourself-learn-from-me-as-i-run-myself-like-a-content-marketing-gig/)by Ash Kreider (designer and writer of The Watch).
+- [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.
+
 
 ## Funding
 I want to preface this section by saying that I do not have a depth of knowledge in this area. Liminal Horror was self funded (mostly through me doing the different roles of writing and design) with a commissioned cover. Since this was a smaller work that leveraged programs I already had and public domain artwork, there was not a lot of cost involved. This is not the case for all games. I truly believe that work should be fairly compensated, and so looking into the future there may be times where funds will need to be raised to pay for:
