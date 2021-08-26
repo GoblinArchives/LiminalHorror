@@ -18,6 +18,8 @@ In addition to having the core text available on this site, Liminal Horror can b
 - As a **PDF** at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
 - The first published adventure Plague of Frogs is included in the print edition and is available for purchase at [itch.io](https://goblinarchives.itch.io/plague-of-frogs) & [DriveThruRPG](https://www.drivethrurpg.com/product/366661/Plague-of-Frogs). This adventure acts as an example of the [mystery framework](https://goblinarchives.github.io/LiminalHorror/Mystery%20Framework/).
 
+A custom mixtape by designer Sam Leigh [@GoblinMixtape](https://twitter.com/GoblinMixtape) can be found here: [https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4](https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4)
+
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
