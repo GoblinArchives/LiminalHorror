@@ -4,7 +4,7 @@ title: Hacks and SRDs
 nav_order: 1
 parent: Game Design
 ---
-## So you want to make a game but are unsure about writing rules from scratch….
+### So you want to make a game but are unsure about writing rules from scratch (also a note on writing modules/adventures/mysteries using existing systems)….
 Well great news! Many games live their lives as hacks for other games/rule systems. This means that you can start with a framework from which you can adapt to serve your idea/concept.
 
 **SRD (System Reference Documents)** is a way game designers share their work. Often it includes what can be used, and how, so that other designers can iterate and create new games.
@@ -12,6 +12,8 @@ Well great news! Many games live their lives as hacks for other games/rule syste
 Below are some examples of different SRDs that you can use as a starting point in designing your own game. Many games have an SRD, but the one’s I’ve included have robust communities around them and are versatile enough to meet a myriad of needs.
 
 Games have different licenses that dictate what can be used from the core text. Be sure to check their use/licenses to make sure you meet the requirements in your final product (an inclusions of established statements, attributions, etc).
+
+**Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. I wrote a small twitter thread on the different supports Liminal Horror provides for people who are wanting to write their own mysteries/sessions/adventures. That can be found here: [Interested in writign cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
 
 ### Example SRDs
 - [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
