@@ -68,6 +68,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 ### Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
 - [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
+- [Pamplet RPG Template For Affinity Publisher](https://wizardthieffighter.itch.io/wtf-pamphlet-rpg-template-affinity-publisher) by wizardthieffighter (writer of the awe inspiring Ultra Violet Grasslands). This template will get you all set up for writnig your own pamphlet using Affinity Publisher (a great single payment layout software...Adobe makes you pay monthly)
 - **Pinterest**: Look up layout, design, zines on pinterest to see examples of different design ideas you can use. This helps build visual references for the kind of things that are possible.
 - [My pinterest board](https://pin.it/1OIQmGq).
 - [TTRPG Zine Layouts](https://pin.it/42u4uaC) by Guilherme Gontijo.
