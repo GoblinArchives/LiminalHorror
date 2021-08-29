@@ -17,10 +17,14 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Top 15 Tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/). Affinity has a bunch of helpful tutorials to lower the learning curve and this had some good ones included.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
-### Image Editing
+### Image Editing & Creation
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
+- [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
+- [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
+- [Krita](https://krita.org/en/) is a free open source painting program.
+
 
 ---
 Previous Section: [Hacks and SRDs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Hacks%20and%20SRDs/)

@@ -64,10 +64,13 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Top 15 Tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/). Affinity has a bunch of helpful tutorials to lower the learning curve and this had some good ones included.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
-### Image Editing
+### Image Editing & Creation
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
+- [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
+- [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
+- [Krita](https://krita.org/en/) is a free open source painting program.
 
 ## LAYOUT and FONTS
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
@@ -75,6 +78,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 ### Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
 - [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
+- [Why Is Layout Important in Graphic Design?](https://www.flux-academy.com/blog/why-is-layout-important-in-graphic-design) by Stephanie Corrigan is a great overview of layout prinicples with visual examples to reinforce concepts.
 - [Pamplet RPG Template For Affinity Publisher](https://wizardthieffighter.itch.io/wtf-pamphlet-rpg-template-affinity-publisher) by wizardthieffighter (writer of the awe inspiring Ultra Violet Grasslands). This template will get you all set up for writnig your own pamphlet using Affinity Publisher (a great single payment layout software...Adobe makes you pay monthly)
 - **Pinterest**: Look up layout, design, zines on pinterest to see examples of different design ideas you can use. This helps build visual references for the kind of things that are possible.
 - [My pinterest board](https://pin.it/1OIQmGq).
