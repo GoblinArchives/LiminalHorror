@@ -32,3 +32,7 @@ One option for selling your printed game is to sell it yourself (on your website
 - [Iglootree (UK)](https://iglootree.com/). Contact them [here](https://iglootree.com/contact-us-2-w.asp).
 
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
+
+---
+Next Section: [Marketing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Marketing/)
+Previous Section: [Accessibility](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Accessibility/)

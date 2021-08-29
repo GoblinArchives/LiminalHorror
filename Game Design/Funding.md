@@ -27,3 +27,6 @@ PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 2](https://www.youtube.com/watch?v=o5FJiCCoe5c&ab_channel=PlusOneExp) is with KeganExe, Adam Bell, Nic Masyk
 - [Part 3](https://www.youtube.com/watch?v=LpsOqZ4sAWU&ab_channel=PlusOneExp) is with Thomas Manuel & Sam Leigh.
 - [Google Doc compiling notes on the discussions](https://docs.google.com/document/d/1MW7uZ2LS2BHGA2bZlZ9LwgCSzVZAVhzeHF4crxtUeQU/edit#heading=h.s68hu2kptye4) by EldritchMouse.
+
+---
+Previous Section: [Marketing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Marketing/)

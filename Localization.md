@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Localiation
+title: Localization
 nav_order: 8
 has_children: true
 ---

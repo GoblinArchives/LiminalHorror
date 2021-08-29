@@ -24,3 +24,6 @@ Games have different licenses that dictate what can be used from the core text. 
 - [Tunnel Goons](https://tunnelgoons.com/srd) by Nate Treme. Tunnel Goons is an extremely straightforward system that fits on half of a page.
 - [Trophy](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [Wretched & Alone](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
+
+---
+Next Section: [Programs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/)

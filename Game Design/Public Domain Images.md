@@ -12,3 +12,7 @@ For those of us who are not artists, or don't have a budget to commission art fo
 - [A flickr collection of curated Public Domain Images](https://www.flickr.com/photos/192445357@N05/galleries) by Guilherme Gontijo.
 - [unsplash](https://unsplash.com/) is a collection of freely usable photos.
 - [pixabay](https://pixabay.com/) is a collection of freely usable images. While it includes photos like unsplash, it is better known for its vectors and illustrations.
+
+---
+Previous Section: [Layout & Fonts](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Layout%20&%20Fonts/)
+Next Section: [Accessibility](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Accessibility/)

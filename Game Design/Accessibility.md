@@ -14,3 +14,7 @@ One of the big things I wanted when writing Liminal Horror was to push mystelf t
 There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins). Two recent (as of August 2021) twitter threads have gone over how to create ePub documents. There will be a Liminal Horror Epub available for free in the near future (or past depending on when this is read).
 - [Sean Patrick Cain](https://twitter.com/seanpatrickcain/status/1427356978872033285) had the initial twitter thread that went over step by step how he created a ePub version of his game Long Haul 1983.
 - [Peter Eijk](https://twitter.com/JimmyShelter/status/1428439348417073159) created a followup thread to talk about how one can create accessible tables in ePubs using html.
+
+---
+Previous Section: [Public Domain Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Public%20Domain%20Images/)
+Next Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
