@@ -5,22 +5,23 @@ nav_order: 9
 parent: Game Design
 ---
 # The Annotated Archive of Game Design Resources
-Below is a collection of resources I found to help guide me through the process of becoming a game designer (who writes their own system, or writes adventures for different systems). It is not comprehensive, and is a living document. My hope is to continue to grow this resource (maybe even in a different form) so that others can benefit from the collective insight of the ttrpg/design community.
+Below is a collection of resources I found to help guide me through the process of becoming a game designer (who writes their own system, or writes adventures for different systems). It is not comprehensive, and is a living document. My hope is to continue to grow this resource so that others can benefit from the collective insight of the ttrpg/design community.
 
 ## Where to start (a great overview)
 -[Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime. The video takes you through:
-- [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing [Adventureer's Guide to the Yol'Najj Forest](https://zeshio.itch.io/yolnajjforest) as the framing.
+- [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventureer's Guide to the Yol'Najj Forest as the framing.
 
 ## Index
--[PART 1: HACKS AND SRDS](#hacks-and-srds)
--[PART 2: PROGRAMS](#programs)
--[PART 3: LAYOUT & FONTS](#layout-and-fonts)
--[PART 4: Public Domain Images](#public-domain-images)
--[PART 6: PRINTING and PUBLISHING](#printing-and-publishing)
--[PART 7: MARKETING](#marketing)
--[PART 8: FUNDING](#funding)
+- [PART 1: HACKS AND SRDS](#hacks-and-srds)
+- [PART 2: PROGRAMS](#programs)
+- [PART 3: LAYOUT & FONTS](#layout-and-fonts)
+- [PART 4: Public Domain Images](#public-domain-images)
+- [PART 6: PRINTING and PUBLISHING](#printing-and-publishing)
+- [PART 5: ACCESSIBILITY AND DESIGN INTENTION](#accessibility-and-design-intention)
+- [PART 7: MARKETING](#marketing)
+- [PART 8: FUNDING](#funding)
 
-
+---
 ## HACKS AND SRDS
 
 ### So you want to make a game but are unsure about writing rules from scratch (also a note on writing modules/adventures/mysteries using existing systems)….
@@ -44,12 +45,15 @@ Games have different licenses that dictate what can be used from the core text. 
 - [Trophy](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [Wretched & Alone](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
 
+[back to index](#index)
+<p></p>
+---
+
 ## PROGRAMS
 
 ### What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
 - [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
-
 
 #### Word Processors/File Organization
 - **Google Drive** for file organization & management.
@@ -86,7 +90,11 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [dafont](https://www.dafont.com/) is another place to search for fonts and includes easy to find licensing information.
 - [WhatTheFont!](https://www.myfonts.com/WhatTheFont/) is a tool for finding out what font is used in an image.
 
-## Public Domain Images
+[back to index](#index)
+<p></p>
+---
+
+## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
 
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
@@ -94,7 +102,11 @@ For those of us who are not artists, or don't have a budget to commission art fo
 - [unsplash](https://unsplash.com/) is a collection of freely usable photos.
 - [pixabay](https://pixabay.com/) is a collection of freely usable images. While it includes photos like unsplash, it is better known for its vectors and illustrations.
 
-## PART 5: Accessibility & Design Intention
+[back to index](#index)
+<p></p>
+---
+
+## ACCESSIBILITY AND DESIGN INTENTION
 One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
@@ -103,6 +115,10 @@ One of the big things I wanted when writing Liminal Horror was to push mystelf t
 There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins). Two recent (as of August 2021) twitter threads have gone over how to create ePub documents. There will be a Liminal Horror Epub available for free in the near future (or past depending on when this is read).
 - [Sean Patrick Cain](https://twitter.com/seanpatrickcain/status/1427356978872033285) had the initial twitter thread that went over step by step how he created a ePub version of his game Long Haul 1983.
 - [Peter Eijk](https://twitter.com/JimmyShelter/status/1428439348417073159) created a followup thread to talk about how one can create accessible tables in ePubs using html.
+
+[back to index](#index)
+<p></p>
+---
 
 ## PRINTING and PUBLISHING
 
@@ -115,6 +131,9 @@ So you've put your game on itch or drivethru and you want to get a print run goi
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
 - [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
 
+[back to index](#index)
+<p></p>
+---
 
 ### Selling You Game
 One option for selling your printed game is to sell it yourself (on your website, as an add-on on itch, or using some other platform). The other option is to try and get some of the fantastic online sellers to carry it. This means reaching out to their buyers. Below are some different sites that sell ttrpg zines along with where they are based out of. If they are located in a different country, it may be benefitial to coordinate with them about doing a print run near them to cut down on international shipping.
@@ -136,12 +155,19 @@ One option for selling your printed game is to sell it yourself (on your website
 
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
 
+[back to index](#index)
+<p></p>
+---
+
 ## MARKETING
 Here are two great resources on marketing your game, especially when starting out.
 - [A Crash Course On Marketing Your Indie RPG](https://www.failuretolerated.com/a-crash-course-on-marketing-your-indie-rpg) by Sean McCoy (the cofoudner of Tuesday Knight Game and designer of the phenomenal Mothership RPG).
 - [Marketing Yourself: Learn From Me As I Run Myself Like a Content Marketing Gig](https://peachpantspress.com/marketing-yourself-learn-from-me-as-i-run-myself-like-a-content-marketing-gig/)by Ash Kreider (designer and writer of The Watch).
 - [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.
 
+[back to index](#index)
+<p></p>
+---
 
 ## FUNDING
 I want to preface this section by saying that I do not have a depth of knowledge in this area. Liminal Horror was self funded (mostly through me doing the different roles of writing and design) with a commissioned cover. Since this was a smaller work that leveraged programs I already had and public domain artwork, there was not a lot of cost involved. This is not the case for all games. I truly believe that work should be fairly compensated, and so looking into the future there may be times where funds will need to be raised to pay for:
