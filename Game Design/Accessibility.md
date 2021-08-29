@@ -16,5 +16,5 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 - [Peter Eijk](https://twitter.com/JimmyShelter/status/1428439348417073159) created a followup thread to talk about how one can create accessible tables in ePubs using html.
 
 ---
-Previous Section: [Public Domain Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Public%20Domain%20Images/)
+Previous Section: [Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Images/)
 <br> Next Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
