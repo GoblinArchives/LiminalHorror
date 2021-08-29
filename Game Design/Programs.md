@@ -24,4 +24,4 @@ There are a ton of fantastic programs one can use when writing and designing gam
 
 ---
 Previous Section: [Hacks and SRDs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Hacks%20and%20SRDs/)
-Next Section: [Layout & Fonts](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Layout%20&%20Fonts/)
+<br> Next Section: [Layout & Fonts](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Layout%20&%20Fonts/)

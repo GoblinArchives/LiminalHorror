@@ -15,4 +15,4 @@ For those of us who are not artists, or don't have a budget to commission art fo
 
 ---
 Previous Section: [Layout & Fonts](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Layout%20&%20Fonts/)
-Next Section: [Accessibility](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Accessibility/)
+<br> Next Section: [Accessibility](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Accessibility/)

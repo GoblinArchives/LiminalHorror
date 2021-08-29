@@ -26,4 +26,4 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 ---
 Previous Section: [Programs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/)
-Next Section: [Public Domain Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Public%20Domain%20Images/)
+<br> Next Section: [Public Domain Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Public%20Domain%20Images/)

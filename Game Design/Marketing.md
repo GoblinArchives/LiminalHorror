@@ -11,5 +11,5 @@ Here are two great resources on marketing your game, especially when starting ou
 - [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.
 
 ---
-Next Section: [Funding](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Funding/)
 Previous Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
+<br> Next Section: [Funding](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Funding/)

@@ -17,4 +17,4 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 
 ---
 Previous Section: [Public Domain Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Public%20Domain%20Images/)
-Next Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
+<br> Next Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
