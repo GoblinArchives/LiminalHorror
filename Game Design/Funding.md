@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Itchfunding
+title: Funding
 nav_order: 8
 parent: Game Design
 ---
@@ -26,4 +26,4 @@ PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
 - [Part 2](https://www.youtube.com/watch?v=o5FJiCCoe5c&ab_channel=PlusOneExp) is with KeganExe, Adam Bell, Nic Masyk
 - [Part 3](https://www.youtube.com/watch?v=LpsOqZ4sAWU&ab_channel=PlusOneExp) is with Thomas Manuel & Sam Leigh.
-- [Google Doc compiling notes on the discussions](https://docs.google.com/document/d/1MW7uZ2LS2BHGA2bZlZ9LwgCSzVZAVhzeHF4crxtUeQU/edit#heading=h.s68hu2kptye4) by EldritchMouse. 
+- [Google Doc compiling notes on the discussions](https://docs.google.com/document/d/1MW7uZ2LS2BHGA2bZlZ9LwgCSzVZAVhzeHF4crxtUeQU/edit#heading=h.s68hu2kptye4) by EldritchMouse.

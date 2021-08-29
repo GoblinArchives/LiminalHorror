@@ -92,15 +92,15 @@ parent: Core Game
 - Drones can ignore their first instance of critical damage. Does not retreat unless it’s master wills it.
 
 **Echo**
- <br>10 HP, 2 Armor, 12 STR , 15 DEX , 14 CHA
+ <br>10 HP, 2 Armor, 12 STR , 15 DEX , 14 CTRL
  <br>Tentacle (d10, Blast)
 - Echo of an Old Power.
 - Quickly fading, must use flesh to maintain its frequency.
 - Critical damage: Avatar rends the victim and absorbs it into itself (1d4 pieces). Fully heals STR.
 
 **The Dark**
- <br>10 HP, STR 12, DEX 15, CHA 14,
- <br>Bite (d6) Shadow’s Embrace (d6 stress)
+<br>10 HP, 12 STR, 15 DEX, 14 CTRL
+<br>Bite (d6) Shadow’s Embrace (d6 stress)
 - Appearance unknown. Number unknown. Presence preceded by the blinking out of lights
 - To rend, to take within itself.
 - All attacks made against them are made at disadvantage.
