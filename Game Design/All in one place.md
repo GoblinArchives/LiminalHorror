@@ -9,7 +9,7 @@ Below is a collection of resources I found to help guide me through the process 
 
 ## Where to start (a great overview)
 - [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime. The video takes you through:
-- [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventureer's Guide to the Yol'Najj Forest as the framing.
+- [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventurer's Guide to the Yol'Najj Forest as the framing.
 
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
