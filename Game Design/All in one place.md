@@ -8,16 +8,16 @@ parent: Game Design
 Below is a collection of resources I found to help guide me through the process of becoming a game designer (who writes their own system, or writes adventures for different systems). It is not comprehensive, and is a living document. My hope is to continue to grow this resource so that others can benefit from the collective insight of the ttrpg/design community.
 
 ## Where to start (a great overview)
-- [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime. The video takes you through:
+- [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime.
 - [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventurer's Guide to the Yol'Najj Forest as the framing.
 
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
 - [PART 2: PROGRAMS](#programs)
 - [PART 3: LAYOUT & FONTS](#layout-and-fonts)
-- [PART 4: PUBLIC DOMAIN IMAGES](#public-domain-images)
-- [PART 6: PRINTING and PUBLISHING](#printing-and-publishing)
-- [PART 5: ACCESSIBILITY AND DESIGN INTENTION](#accessibility-and-design-intention)
+- [PART 4: IMAGES](#public-domain-images)
+- [PART 6: PRINTING & PUBLISHING](#printing-and-publishing)
+- [PART 5: ACCESSIBILITY & DESIGN INTENTION](#accessibility-and-design-intention)
 - [PART 7: MARKETING](#marketing)
 - [PART 8: FUNDING](#funding)
 
@@ -97,6 +97,16 @@ Having a good font and layout is vital toward making your game engaging to read/
 [back to index](#index)
 <p></p>
 ---
+
+## IMAGES
+
+## CREATING YOUR OWN
+One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.
+- [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It leverages the [Hex Kit Software](https://cone.itch.io/hex-kit)
+- [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## COMMISSIONING WORK
+If you are like me and not the most visual creative oriented, luckily there is a robust group of talented designers and artists out there. Often you will see them advertising that their commissions are open. Have a clear concept in mind as well as your budget range. Understand that commissioning work is a collaborative process between professionals and requires respect and clear communication.
 
 ## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
