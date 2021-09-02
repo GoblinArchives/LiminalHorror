@@ -14,6 +14,7 @@ There are a ton of fantastic programs one can use when writing and designing gam
 
 ### Layout
 - [Affinity Publisher](affinity.serif.com). This is an affordable, single purchase program (currently $54.99)
+- [Canva](https://www.canva.com/) is a free website that really scaffolds small scale design in a way that allows anyone to create professional products. It is used a ton in teaching and other fields. A great overview by Jeeyon Shim, on how to use it in ttrpg spaces, can be found [here](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20)
 - [Top 15 Tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/). Affinity has a bunch of helpful tutorials to lower the learning curve and this had some good ones included.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
