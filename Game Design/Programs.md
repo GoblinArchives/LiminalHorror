@@ -25,6 +25,8 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
 - [Krita](https://krita.org/en/) is a free open source painting program.
+- [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
+
 
 
 ---

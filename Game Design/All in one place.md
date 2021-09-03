@@ -72,6 +72,7 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
 - [Krita](https://krita.org/en/) is a free open source painting program.
+- [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
 ## LAYOUT and FONTS
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
@@ -138,6 +139,9 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 
 ## PRINTING and PUBLISHING
 
+### Overview
+- [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).
+
 ### Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
 
@@ -197,7 +201,10 @@ I want to preface this section by saying that I do not have a depth of knowledge
 Other than self funding (or getting someone to invest/partner), there are two main crowdfunding platforms: kickstarter and itchfunding.
 
 ### Kickstarter
-[Uncanny Spheres Reflection's on Kickstarter](http://uncannyspheres.blogspot.com/search/label/RPG%20Publishing). There have been a lot of people who write about their experiences running a kickstarter. For a truly in depth wakthrough of the pitfalls, struggles, and successes of kickstarter and ttrpg publishing, then look no further than Ian Yusem's writing.
+ There have been a lot of people who write about their experiences running a kickstarter. For a truly in depth wakthrough of the pitfalls, struggles, and successes of kickstarter and ttrpg publishing, then look no further than Ian Yusem's writing.
+ - [Zine Quest 3 Post-Mortem: The Drain](http://uncannyspheres.blogspot.com/2021/03/zine-quest-3-post-mortem-drain.html) by Ian Yusem is an overview of their experience running a kickstarter for zinequest 3.
+ - [Kickstarter Fulfillment 101: Pledge Management](http://uncannyspheres.blogspot.com/2021/07/kickstarter-fulfillment-blueprint-1.html) by Ian Yusem continues his exploration into the different facets of kickstarter. This one pertaining to pledge management.
+ - [Kickstarter Fulfillment 101: Shipping Costs](http://uncannyspheres.blogspot.com/2021/08/kickstarter-fulfillment-blueprint-2.html) by Ian Yusem focuses on shipping costs. Since this is such a variable aspect of selling physical ttrpgs (especially in respect to the timelines from a kickstarter) this is an important part to plan for.
 
 ### itchfunding
 An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is most likely the avenue I would go if looking to raise funds for future work. It allows creators to move away from Kickstarter and raise funds on the same platform many of us are launching games.
