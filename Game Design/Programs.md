@@ -27,8 +27,8 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Krita](https://krita.org/en/) is a free open source painting program.
 - [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
-Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought)
-[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
+Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
+[![A list of alternatives to each of Adobe's products.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
 
 ---
 Previous Section: [Hacks and SRDs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Hacks%20and%20SRDs/)

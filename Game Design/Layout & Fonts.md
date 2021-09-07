@@ -5,6 +5,9 @@ nav_order: 3
 parent: Game Design
 ---
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
+- Johan Nohr (one of the designers of MÖRK BORG, which pushes the layout and typeface envelope) wrote two must read threads on choosing a typeface and setting a body text. These dives are worth reading if you have any interest in design and are a great way to start your journey.
+  - [Choosing a typeface](https://twitter.com/JohanNohr/status/1275739369735929856?s=20), a twitter thread by Johan Nohr.
+  - [Setting a body text](https://twitter.com/JohanNohr/status/1276532452627034112?s=20), a twitter thread by Johan Nohr. 
 
 ## Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.

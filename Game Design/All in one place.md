@@ -74,11 +74,14 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Krita](https://krita.org/en/) is a free open source painting program.
 - [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
-Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought)
-[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
+Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
+[![A list of alternatives to each of Adobe's products.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
 
 ## LAYOUT and FONTS
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
+- Johan Nohr (one of the designers of MÖRK BORG, which pushes the layout and typeface envelope) wrote two must read threads on choosing a typeface and setting a body text. These dives are worth reading if you have any interest in design and are a great way to start your journey.
+  - [Choosing a typeface](https://twitter.com/JohanNohr/status/1275739369735929856?s=20), a twitter thread by Johan Nohr.
+  - [Setting a body text](https://twitter.com/JohanNohr/status/1276532452627034112?s=20), a twitter thread by Johan Nohr.
 
 ### Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
