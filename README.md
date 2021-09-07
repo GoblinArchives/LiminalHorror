@@ -31,4 +31,4 @@ The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/).
 
 <p></p>
 
-[![Alt text](/LiminalHorror/img/liminalhorrorcover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/liminalhorrorcover.png)
+[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/liminalhorrorcover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/liminalhorrorcover.png)
