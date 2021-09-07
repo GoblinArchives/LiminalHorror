@@ -5,7 +5,7 @@ nav_order: 4
 parent: Game Design
 ---
 
-## IMAGES
+# IMAGES
 
 ## CREATING YOUR OWN
 One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.

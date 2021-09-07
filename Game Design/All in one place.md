@@ -55,7 +55,12 @@ Games have different licenses that dictate what can be used from the core text. 
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
 - [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
 
-#### Word Processors/File Organization
+### Character Sheets
+- [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
+  - [Video Stream: teaching google sheets](https://www.twitch.tv/videos/1139349790) by Momatoes takes you through the process of creating a character sheet like the one made for ARC.
+  - [Slide Deck: Google Sheets for fun, design, and games](https://www.dropbox.com/s/mj27yqx7kimxx2c/Google%20Sheets%20for%20fun%20design%20and%20games.pdf?dl=0) by Momatoes is the slide deck that was used in the stream and acts as a great reference.
+
+### Word Processors/File Organization
 - **Google Drive** for file organization & management.
 - **Google Docs** for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
 
@@ -147,6 +152,7 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 
 ### Overview
 - [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).
+- [**Zine or Pamplet?**](https://twitter.com/infinite_mao/status/1433500285318598657?s=20) The format you choose to present your writting will be a factor when trying to market your game. Jared Sinclair (bookseller for spearwitch, editor, and writer) wrote a great thread of the financial considerations to choosing your format.
 
 ### Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
@@ -156,29 +162,29 @@ So you've put your game on itch or drivethru and you want to get a print run goi
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
 - [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
-
 [back to index](#index)
 <p></p>
 ---
 
 ### Selling You Game
 One option for selling your printed game is to sell it yourself (on your website, as an add-on on itch, or using some other platform). The other option is to try and get some of the fantastic online sellers to carry it. This means reaching out to their buyers. Below are some different sites that sell ttrpg zines along with where they are based out of. If they are located in a different country, it may be benefitial to coordinate with them about doing a print run near them to cut down on international shipping.
-
+- [Starting Guide to Pricing](https://twitter.com/infinite_mao/status/1394367298601947136?s=20) by Jared Sinclair (bookseller for spearwitch) gives you a good idea of a starting point for pricing physical copies of your game.
+---
 - [Exalted Funeral (US)](https://www.exaltedfuneral.com/). Their purchasing agent is Fiona and can be reached at purchasing@exaltedfuneral.com
 - [Floating Chair Club (US)](https://floatingchair.club/). Contact them on their [twitter](https://twitter.com/floating_chair?lang=en) or at info@floatingchair.club
 - [Spear Witch (US)](https://spearwitch.com/). Contact them at info@spearwitch.com
-
+---
 - [ratti incantati (CA)](https://rattiincantati.com/). Contact them at main@rattiincantati.com
 - [Four Rogues Trading Company (CA)](https://www.fourroguestrading.co). Contact them at fourroguestradingco@gmail.com
 - [Monkey's Paw Games (CA)](https://monkeyspawgames.com/). Contact them at info@monkeyspawgames.com
-
+---
 - [Cardboard Monster (AU)](https://cardboard.monster/). Contact them at ash@cardboard.monster
-
+---
 - [Melsonia Art Council (UK)](https://www.melsonia.com/). Contact them at info@melsonia.com
 - [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/). Contact them at info@soulmuppet.co.uk
 - [Rook's Press (UK)](https://www.rookspress.com/). Contact them [here](https://www.rookspress.com/pages/contact).
 - [Iglootree (UK)](https://iglootree.com/). Contact them [here](https://iglootree.com/contact-us-2-w.asp).
-
+---
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
 
 [back to index](#index)
