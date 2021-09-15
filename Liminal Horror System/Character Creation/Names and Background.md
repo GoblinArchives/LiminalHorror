@@ -27,3 +27,5 @@ Choose a style of clothing/look. A gold star if you find visual references to sh
 |8          |Athlete   | 18    |Social Work  |
 |9          |Criminal  |19    |Finance   |
 |10         |Drifter   |20    |Hospitality    |
+
+Next: [Getting to Know Your Character](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/)

@@ -43,3 +43,5 @@ Potential Connections
 | 3 | Friend                    | 8  | Rival            |
 | 4 | Mentor                    | 9  | A Specialist     |
 | 5 | Protege                   | 10 | NPC              |
+
+Next: [Character Traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/)

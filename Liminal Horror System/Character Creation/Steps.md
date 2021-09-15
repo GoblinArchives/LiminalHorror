@@ -45,3 +45,5 @@ The [Equipment List](https://goblinarchives.github.io/LiminalHorror/Liminal%20Ho
 
 ## 5. The Party
 The final step is to establish a party set up using the [Party Questions](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Party%20Questions/) section. This provides the initial context for investigators and their journey into the unknown.
+
+Next: [Names and Background](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Names%20and%20Background/)

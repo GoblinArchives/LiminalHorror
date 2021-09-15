@@ -68,3 +68,5 @@ grand_parent: Core Game
 | 3           | Blackmailed | 8    | Discredited |
 | 4           | Condemned   | 9    | Disowned    |
 | 5           | Cursed      | 10   | Exiled      |
+
+Next: [Starting Gear](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Starting%20Gear/)

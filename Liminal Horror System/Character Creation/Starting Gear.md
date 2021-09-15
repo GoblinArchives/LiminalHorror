@@ -46,3 +46,5 @@ All PCs begin with an **Investigator Bundle**:
 |:-:|:-:|:-:|:-:|
 |  1-5 | 6-13   | 14-19  |   20 |
 | Memento  |  Investigative Gear | Weapon  |  Chaos Magic (see magic section) |
+
+Next: [Party Questions](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Party%20Questions/)
