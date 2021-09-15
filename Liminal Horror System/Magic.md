@@ -6,6 +6,7 @@ parent: Core Game
 ---
 
 # Magic
+Here is a magic generator that randomizes the below information: [Liminal Horror Spell Generator](https://perchance.org/liminal-horror-spells)
 
 ## Magic System
 Characters may be able to use **magic** if they:

@@ -17,7 +17,7 @@ All PCs begin with an **Investigator Bundle**:
 |                |                  |                          |                                |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
 |          1          |       2-7       |          8-17           |               18-19               |               20               |
-| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | [Magic](#magic)|
+| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | [Magic](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/)|
 
 
 ## Investigative Gear
@@ -45,6 +45,6 @@ All PCs begin with an **Investigator Bundle**:
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
 |  1-5 | 6-13   | 14-19  |   20 |
-| Memento  |  Investigative Gear | Weapon  |  Chaos Magic (see magic section) |
+| Memento  |  Investigative Gear | Weapon  |  [Magic](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/) |
 
 Next: [Party Questions](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Party%20Questions/)
