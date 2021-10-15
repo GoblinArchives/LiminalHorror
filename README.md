@@ -13,7 +13,8 @@ For fans of cosmic horror, Junji Ito, and TTRPGs such as: Call of Cthulu, Monste
 
 In addition to having the core text available on this site, Liminal Horror can be found:
 - [In Print at Exalted Funeral](https://www.exaltedfuneral.com/products/liminal-horror-pdf). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
-- As a **PDF** at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
+- [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) as a free download.
+- As a **PDF** & **Epub at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
 - [The Mystery Framework Google Doc Template:](https://docs.google.com/document/d/1h2KVL4owTgfal60nbN-mRa6s4G8cDm147gWiV95vNfw/edit#) is a tool to help designers to create their own mysteries for play. It provides a completed layout so one could easily export to pdf and sell their work on [itch.io](itch.io).
 
 A custom mixtape by designer Sam Leigh [@GoblinMixtape](https://twitter.com/GoblinMixtape) can be found here: [https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4](https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4)\
