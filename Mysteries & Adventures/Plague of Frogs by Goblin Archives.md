@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plague of Frogs
+title: Plague of Frogs by Goblin Archives
 nav_order: 1
 parent: Mysteries & Adventures
 ---
