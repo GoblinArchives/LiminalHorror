@@ -18,7 +18,7 @@ This site also currently houses a collection of resources I found to help guide 
 In addition to having the core text available on this site, Liminal Horror can be found:
 - [In Print at Exalted Funeral](https://www.exaltedfuneral.com/products/liminal-horror-pdf). The Exalted Funeral Edition includes the first published mystery and additional faciltiator tools.
 - [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) as a free download.
-- As a **PDF** & **Epub at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
+- As a **PDF** & **Epub** at [itch.io](https://goblinarchives.itch.io/liminal-horror) & at [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
 - A custom mixtape by designer Sam Leigh [@GoblinMixtape](https://twitter.com/GoblinMixtape) can be found here: [https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4](https://open.spotify.com/playlist/1p5o8QzTEg7MvCxoMQ9OWQ?si=91a4eb468d2649c4)\
 
 ## Create your own mysteries
