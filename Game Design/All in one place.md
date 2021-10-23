@@ -10,6 +10,7 @@ Below is a collection of resources I found to help guide me through the process 
 ## Where to start (a great overview)
 - [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime.
 - [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventurer's Guide to the Yol'Najj Forest as the framing.
+- **Markdown** is increasingly being a format that designers are using when writing. I find it really helpful in both the process and what it allows me to do (output in epub, html, and this website). Two great resources that are also included below are [Luke Gearing's "Using Markdown and Pandoc to Make RPG Documents for Free"](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) and [Nate Treme's Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). I think it is definitely worth looking into as a tool to use when designing.
 
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
@@ -54,6 +55,14 @@ Games have different licenses that dictate what can be used from the core text. 
 ### What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
 - [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
+- [Resources for Free Creation Tools](https://itch.io/c/1832904/resources-for-free-creation-tools) by G. Raven Image is a collection of tools housed on itch.io that can help in various aspects of the writing, designing, and publishing process.
+
+
+## Markdown
+I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html).
+- [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) by Luke Gearing is a fantastic step by step guide on how to write in markdown and then publish the results in multiple formats.
+- [Typora](https://typora.io/) is a super easy to learn writing program that I use regualrly. When paired with [pandoc](https://support.typora.io/Install-and-Use-Pandoc/) it gives you a lot of built in output options as well. It is what I used to write and publish the [Liminal Horror epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) (with some minor backend editing in calibre).
+- [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme) by Nate Treme is a great overview of the type of unique projects that are possible with markdown. An HTML dungeon that you can post right onto itch.io!
 
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
@@ -61,6 +70,7 @@ There are a ton of fantastic programs one can use when writing and designing gam
   - [Slide Deck: Google Sheets for fun, design, and games](https://www.dropbox.com/s/mj27yqx7kimxx2c/Google%20Sheets%20for%20fun%20design%20and%20games.pdf?dl=0) by Momatoes is the slide deck that was used in the stream and acts as a great reference.
 
 ### Word Processors/File Organization
+- **Markdown** based programs such as [typora](https://typora.io/) or [ghostwriter](https://wereturtle.github.io/ghostwriter/) are great options. I would highly recommend taking a little bit of time to learn about this option since it can really open up some opportunities at the end of your project.
 - **Google Drive** for file organization & management.
 - **Google Docs** for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
 
@@ -153,6 +163,7 @@ There are a lot of benefits to creating epub versions of games. Text only games 
 ### Overview
 - [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).
 - [**Zine or Pamplet?**](https://twitter.com/infinite_mao/status/1433500285318598657?s=20) The format you choose to present your writting will be a factor when trying to market your game. Jared Sinclair (bookseller for spearwitch, editor, and writer) wrote a great thread of the financial considerations to choosing your format.
+- [My Adventures In Selling Stuff](https://twitter.com/seanpatrickcain/status/1450483990469742596?s=20) by Sean Patrick Cain is a fantastic series of twitter thread that detail Sean's journey in printing, selling, & shipping his book Long Haul 1983.
 
 ### Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).

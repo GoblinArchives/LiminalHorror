@@ -7,6 +7,7 @@ parent: Game Design
 ## Overview
 - [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).
 - [**Zine or Pamplet?**](https://twitter.com/infinite_mao/status/1433500285318598657?s=20) The format you choose to present your writting will be a factor when trying to market your game. Jared Sinclair (bookseller for spearwitch, editor, and writer) wrote a great thread of the financial considerations to choosing your format.
+- [My Adventures In Selling Stuff](https://twitter.com/seanpatrickcain/status/1450483990469742596?s=20) by Sean Patrick Cain is a fantastic series of twitter thread that detail Sean's journey in printing, selling, & shipping his book Long Haul 1983.
 
 ## Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
