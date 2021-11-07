@@ -18,25 +18,46 @@ So you've put your game on itch or drivethru and you want to get a print run goi
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
 - [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
 
+## Printing Options
+There are a few different options in terms of printers that you can use. This is by no means an exhaustive list, but is a place to start.
+- [Mixam](https://mixam.com/zines) is probably the most common/popular way to print physical ttrpg zines.
+- [Tabletop Hotdish](https://twitter.com/TabletopHotdish/status/1456727136761524235?s=20) is a newer small business printer who has been working with indie zine publishers (and does free print proofs). Currently they are launching a full website, but dm on twitter to see about starting a partnership.
+- [short Run Printing](https://www.shortrunprinting.com/)
+- [Jukebox](https://www.jukeboxprint.com/booklets) is another web based printer that offers a ton of different formats (stickers, booklets, brochures, etc). Often seen as a good mixam alternative.
+- [Spencer Printing](http://spencerprinting.com/) offers both offset & digital printing, as well as short-run book printing.
+- [Taylor Specialty Books](http://taylorspecialtybooks.com/)
+- [Smartpress](https://smartpress.com/)
+
+
 ## Selling You Game
 One option for selling your printed game is to sell it yourself (on your website, as an add-on on itch, or using some other platform). The other option is to try and get some of the fantastic online sellers to carry it. This means reaching out to their buyers. Below are some different sites that sell ttrpg zines along with where they are based out of. If they are located in a different country, it may be benefitial to coordinate with them about doing a print run near them to cut down on international shipping.
 - [Starting Guide to Pricing](https://twitter.com/infinite_mao/status/1394367298601947136?s=20) by Jared Sinclair (bookseller for spearwitch) gives you a good idea of a starting point for pricing physical copies of your game.
+
 ---
+
 - [Exalted Funeral (US)](https://www.exaltedfuneral.com/). Their purchasing agent is Fiona and can be reached at purchasing@exaltedfuneral.com
 - [Floating Chair Club (US)](https://floatingchair.club/). Contact them on their [twitter](https://twitter.com/floating_chair?lang=en) or at info@floatingchair.club
 - [Spear Witch (US)](https://spearwitch.com/). Contact them at info@spearwitch.com
+
 ---
+
 - [ratti incantati (CA)](https://rattiincantati.com/). Contact them at main@rattiincantati.com
 - [Four Rogues Trading Company (CA)](https://www.fourroguestrading.co). Contact them at fourroguestradingco@gmail.com
 - [Monkey's Paw Games (CA)](https://monkeyspawgames.com/). Contact them at info@monkeyspawgames.com
+
 ---
+
 - [Cardboard Monster (AU)](https://cardboard.monster/). Contact them at ash@cardboard.monster
+
 ---
+
 - [Melsonia Art Council (UK)](https://www.melsonia.com/). Contact them at info@melsonia.com
 - [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/). Contact them at info@soulmuppet.co.uk
 - [Rook's Press (UK)](https://www.rookspress.com/). Contact them [here](https://www.rookspress.com/pages/contact).
 - [Iglootree (UK)](https://iglootree.com/). Contact them [here](https://iglootree.com/contact-us-2-w.asp).
+
 ---
+
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
 
 ---

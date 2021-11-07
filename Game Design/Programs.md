@@ -22,7 +22,7 @@ I've found myself writing my games using markdown (an easy to use computer langu
 
 ### Word Processors/File Organization
 - **Markdown** based programs such as [typora](https://typora.io/) or [ghostwriter](https://wereturtle.github.io/ghostwriter/) are great options. I would highly recommend taking a little bit of time to learn about this option since it can really open up some opportunities at the end of your project.
-- **Google Drive** for file organization & management.
+- **Google Drive** for file organization & management. [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire) goes into detail about how one can leverage google docs to create a finished ttrpg. It presents what went well using gdocs, and what the drawbacks were.
 - **Google Docs** for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
 
 ### Layout

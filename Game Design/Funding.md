@@ -24,6 +24,7 @@ Other than self funding (or getting someone to invest/partner), there are two ma
 
 ## itchfunding
 An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is most likely the avenue I would go if looking to raise funds for future work. It allows creators to move away from Kickstarter and raise funds on the same platform many of us are launching games.
+- [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
 - [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
 PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
