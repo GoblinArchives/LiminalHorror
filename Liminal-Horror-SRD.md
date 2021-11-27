@@ -237,7 +237,7 @@ Choose a style of clothing/look. A gold star if you find visual references to sh
 |3          |Private Investigator   |13        |Professor |
 |4          |Cleric (ex?) |14        |Very Online    |
 |5          |Medic  | 15        |Lawyer   |
-|6          |Archivist |  16    |Ex-Cop |
+|6          |Archivist |  16    |Gig-Worker |
 |7          |Artist    | 17    |Trades|
 |8          |Athlete   | 18    |Social Work  |
 |9          |Criminal  |19    |Finance   |
