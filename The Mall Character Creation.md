@@ -9,7 +9,7 @@ This is an alternative character creation process for making PC & NPCs for The M
 
 While unreleased, this draft version is being used for playtesting prior to Itchfunding.
 
-## Building the mall:
+## Adding to THE MALL:
 Each person proposes one shop to be in the mall (Shop Generator).  State its name, description and level (1-3).
 
 ## Character Creation Overview
@@ -27,9 +27,9 @@ b. Roll 1d6 for Hit Protection (HP)
 ### 2. **Investigator Details:**
 
 The investigator details section will take you through the bulk of developing your character.
-   * [Why are you at the mall?](#why-are-you-at-the-mall-?)
-   * [Where do you work (or where were you visiting)?](#where-do-you-work-(-or-where-were-you-visiting-)-?)
-   * [How does your character feel about the mall?](#how-does-your-character-feel-about-the-mall-?)
+   * [Why are you at the mall?](#why-are-you-at-the-mall)
+   * [Where do you work (or where were you visiting)?](#where-do-you-work)
+   * [How does your character feel about the mall?](#how-does-your-character-feel-about-the-mall)
    * [The Abyss Stares Back](#the-abyss-stares-back)
    * [Traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (Liminal Horror pg. 9)
    * [Entanglements](#entanglements)
