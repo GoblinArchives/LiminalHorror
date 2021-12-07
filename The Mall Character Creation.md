@@ -103,7 +103,6 @@ Below is a non-comprehensive list of shops and jobs at the mall.
    12. Movie Theater (Level 3)
    13. Joe’s Burger Barn (Level 3 - recently closed)
    14. Help Desk (Level 3)
-<br> **General Shops**
    15. Specialty stores (Spencers gifts, Hot Topic, Claire's)
    16. Makeup (Nail Salon, Ulta, Sephora)
    17. Clothing stores (Forever 21, Journey’s Shoes)
