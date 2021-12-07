@@ -73,11 +73,11 @@ The following three options are the main reasons your character would be at the 
 
 *Do you have any feelings/thoughts/connection to the mall church?*
 
-**General Background**
+**General Background on the chruch**
 
    * General spiritual teachings focused on progression of the self toward an unstated goal. No clear outward expression of a deity. Members wear matching gray tracksuits and white Nikes.
 
-**Literature**:
+**Church Literature**:
 
    * “The act of overcoming.”
    * “It is possible to overcome your humanness”
@@ -87,7 +87,7 @@ The following three options are the main reasons your character would be at the 
 
 Below is a non-comprehensive list of shops and jobs at the mall.
 
-#### Shops Table
+#### Shops Table & Generator
 
    1. Roller Rink  (Level 1)
    2. DMV (Level 1)
@@ -103,38 +103,13 @@ Below is a non-comprehensive list of shops and jobs at the mall.
    12. Movie Theater (Level 3)
    13. Joe’s Burger Barn (Level 3 - recently closed)
    14. Help Desk (Level 3)
-
-**Shop Generator**
-
+**General Shops**
    15. Specialty stores (Spencers gifts, Hot Topic, Claire's)
    16. Makeup (Nail Salon, Ulta, Sephora)
    17. Clothing stores (Forever 21, Journey’s Shoes)
    18. Books & Music (Barnes & Nobles)
    19. Big box stores (use to be 3) (JCpenney, Sears, Nordstrom)
    20. food court shops (Orange Julius, Cinnabon)
-
-#### Jobs At The Mall
-
-   1. Guest Services
-   2. Sale Associate
-   3. Cleaning & Maintenance
-   4. Security
-   5. Visual Merchandiser
-   6. Stocker
-   7. Customer Service
-   8. Team Leader
-   9. Floater
-   10. Trainee
-   11. Manager
-   12. Assistant Manager
-   13. Regional Manager
-   14. Cook
-   15. Cashier
-   16. Assistant Manager
-   17. Kiosk Worker
-   18. Secret shopper
-   19. Inspector (health, retail, etc)
-   20.  From corporate
 
 ### How does your character feel about the mall?
 (or about life)? This is used in place of the core [Ideology and Beliefs](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/) (LH pg. 8) table. Players can also use that table as an additional step.
