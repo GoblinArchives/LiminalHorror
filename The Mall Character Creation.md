@@ -57,7 +57,7 @@ After completing Step 1: Ability Scores & HP, answer the following questions. Li
 This module was written to have the players be denizens of the mall.
 The following three options are the main reasons your character would be at the mall **(RECOMMENDED)**
 
-   * **You work at the mall**.  *Where do you work?  ([Shops Table](#shops-table)) What job do you do? ([Jobs At The Mall Table](#jobs-at-the-mall))*
+   * **You work at the mall**.  *Where do you work?  ([Shops Table](#shops-table)) What job do you do? 
    * **You are a customer.** *What is your reason for visiting today?*
    * **The mall is where you and your friends hang out.**  *What “scene” is your character a part of?*
 
