@@ -61,28 +61,6 @@ The following three options are the main reasons your character would be at the 
    * **You are a customer.** *What is your reason for visiting today?*
    * **The mall is where you and your friends hang out.**  *What “scene” is your character a part of?*
 
-**Optional Setup:** Included are five additional reasons characters may be at the mall. Multiple characters (or even the entire party) could choose the same option. Discuss as a table whether to include these options in character creation.
-
-   * TV crew (Local Access or News)
-   * Podcast/radio show (Investigating the disappearances)
-   * Investigators (Looking into paranatural events in the area).
-   * Inspectors (Sent from Health Department, HR, or from the corporate office)
-   * Representatives from corporate (sent to judge the failing mall)
-
-#### BONUS QUESTION: Church of the Empty Shell
-
-*Do you have any feelings/thoughts/connection to the mall church?*
-
-**General Background on the chruch**
-
-   * General spiritual teachings focused on progression of the self toward an unstated goal. No clear outward expression of a deity. Members wear matching gray tracksuits and white Nikes.
-
-**Church Literature**:
-
-   * “The act of overcoming.”
-   * “It is possible to overcome your humanness”
-   * “What lay behind us lies buried, because it is dead.”
-
 ### Where do you work (or where were you visiting)?
 
 Below is a non-comprehensive list of shops and jobs at the mall.
@@ -212,7 +190,7 @@ The table below provides examples. More are included in [Equipment](https://gobl
 25. Workout Equipment
 26. Remote control car
 27. Key wallet
-28. Jenko jeans
+28. jnco jeans
 29. Walkie talkies
 30. Tool (s)
 31. Handcuffs
