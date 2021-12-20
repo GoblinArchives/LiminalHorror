@@ -57,7 +57,7 @@ After completing Step 1: Ability Scores & HP, answer the following questions. Li
 This module was written to have the players be denizens of the mall.
 The following three options are the main reasons your character would be at the mall **(RECOMMENDED)**
 
-   * **You work at the mall**.  *Where do you work?  ([Shops Table](#shops-table)) What job do you do? 
+   * **You work at the mall**.  *Where do you work?  ([Shops Table](#shops-table)) What job do you do?
    * **You are a customer.** *What is your reason for visiting today?*
    * **The mall is where you and your friends hang out.**  *What “scene” is your character a part of?*
 
@@ -150,6 +150,7 @@ If you prefer you can use the expanded [The Abyss Stares Back table](https://gob
 ### Entanglements
 
 **Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
+
 **Bonds**: Describe the bond you have with one other player at the table.
 
    1. Crush
