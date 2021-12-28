@@ -30,9 +30,7 @@ The investigator details section will take you through the bulk of developing yo
    * [Why are you at the mall?](#why-are-you-at-the-mall)
    * [Where do you work (or where were you visiting)?](#where-do-you-work)
    * [How does your character feel about the mall?](#how-does-your-character-feel-about-the-mall)
-   * [The Abyss Stares Back](#the-abyss-stares-back)
    * [Traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (Liminal Horror pg. 9)
-   * [Entanglements](#entanglements)
 
 ### 3. Starting Gear
 
@@ -42,15 +40,18 @@ The investigator details section will take you through the bulk of developing yo
    * Characters choose 2 items they brought to the mall.
    * Mall Employees have a locker (they should mark what items they have stored in their locker).
 
-### 4. Final Steps
+### 4. General Info
 
    * Age: 1d12 + 17
    * Choose a clothing style/look
    * Name
 
-## Investigator Details
+### 5. Final Step as a Party: Entanglements
 
+## Complete Step 1
 After completing Step 1: Ability Scores & HP, answer the following questions. Links and references to the original character creation process have been included.
+
+## Step 2: Investigator Details
 
 ### Why Are You At The Mall?
 
@@ -114,45 +115,11 @@ Some examples are:
    19. Things are going to turn around soon.
    20. This place is your prison.
 
-### The Abyss Stares Back
-
-This section has been reduced to align with the assumption that most characters simply work or shop at the mall.
-If you prefer you can use the expanded [The Abyss Stares Back table](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/) (LH pg. 8).
-
-   * Is there something in your character's past that would make them more inclined to investigate the "weird?"
-
 ### Traits
 
-[Traits Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (LH pg. 9) can be used to randomly generate: Physique, Face, Speech, Virtues, Flaws, and Misfortunes.
+[Traits Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (LH pg. 9) can be used to randomly generate: Physique, Face, Speech and the optional traits - Virtues, Flaws, and Misfortunes.
 
-### Entanglements
-
-**Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
-
-**Bonds**: Describe the bond you have with one other player at the table.
-
-   1. Crush
-   2. Dating
-   3. Ex (friend or lover)
-   4. Friend
-   5. Work spouse
-   6. Helped out of a bind.
-   7. Lent money
-   8. Rival
-   9. (Vice) buddy
-   10. Confidant
-   11. Enemy
-   12. Frenemy
-   13. Obsessed with
-   14. Annoyed by
-   15. Work proximity associate
-   16. Parental figure
-   17. Mentor
-   18. Wish was friend
-   19. Co-worker
-   20. Supervisor
-
-### Starting Gear
+### Step 3: Starting Gear
 
 This replaces [Liminal Horror’s Starting Gear Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Starting%20Gear/) (LH pg. 10) .
 
@@ -204,7 +171,7 @@ The table below provides examples. More are included in [Equipment](https://gobl
 39. Effigy
 40. Gun
 
-## Final Steps
+## Step 4: General Info:
 
 **Age**: Choose or roll 1d12+17.
 
@@ -214,19 +181,29 @@ The table below provides examples. More are included in [Equipment](https://gobl
 
 **Name:** What is your character’s name?
 
-## Custom Fallouts
+## Step 5: Final step (as a party) - Entanglements
 
-These custom fallouts are written to align with the "weird" happenings within the mall. They can be used instead of, or in addition to the core [Fallout Table](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) (LH pg. 22-23). The facilitator is also invited to write their own. Choose or Roll d12.
+**Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
 
-1. You hear the choir's song. It's melody is an ever-changing constant.
-2. The spores have started to take root. If you bleed, small tendrils can be seen wriggling up from the surface.
-3. Patches have started to form on your body. Light red, slowly overtaken by a deep green. Are they getting bigger?
-4. Your insides feel like they are shifting, changing. Bones and joints moving in ways they couldn't before. The change seems to be concealed by your clothing...for now.
-5. The thoughts/feelings become a thing you can sense, even when not in their proximity. The more you focus on others the more you're losing yourself.
-6. You see a figure. Its form resembles a person. It regularly shifts and warps, sometimes in horrific ways. You think there's a pattern to the change
-7. Piercing vision... with enough concentration you can see through the hallucinations. When you do this your eyes appear to others to be engulfed in flame.
-8. Sounds begin to manifest as a visual sensation. At first, they are just shapes and colors, but slowly they start to become more distinct. Their form is unlike anything you've ever seen.
-9. It has gotten in, beneath your skin is a mix of flesh and fungus. Your mind is still yours...for now.
-10. The skin sloughs off an arm, leaving only bone held in place by tendrils. It is still fully functional and is stronger than when it was flesh and blood. STR saves are made at advantage (roll two dice and take the lower)
-11. The tendrils have taken root, making you something else. Your new proximity connects you to the otherworldly. Add magic to your character sheet and generate three spells for your inventory. Casting a spell cause 1d3 stress to you.
-12. Roll on the [Liminal Horror Fallout Table](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) (LH pg. 22-23)
+**Bonds**: Describe the bond you have with one other player at the table.
+
+   1. Crush
+   2. Dating
+   3. Ex (friend or lover)
+   4. Friend
+   5. Work spouse
+   6. Helped out of a bind.
+   7. Lent money
+   8. Rival
+   9. (Vice) buddy
+   10. Confidant
+   11. Enemy
+   12. Frenemy
+   13. Obsessed with
+   14. Annoyed by
+   15. Work proximity associate
+   16. Parental figure
+   17. Mentor
+   18. Wish was friend
+   19. Co-worker
+   20. Supervisor
