@@ -26,8 +26,6 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 
 **(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
-If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
-
 ## 3. Investigator Details
 - Choose a name for your character,
 - Roll a [background](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Names%20and%20Background/). This informs their knowledge and potential skills.

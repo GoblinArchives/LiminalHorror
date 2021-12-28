@@ -16,7 +16,7 @@ parent: Core Game
 Roll d20 equal to or under target Ability. The party at most risk in a contested action  makes the save.
 
 **HIT PROTECTION** <br>
-**HP** reflects a character’s ability to avoid damage (both from damage and stress). 
+**HP** reflects a character’s ability to avoid damage (both from damage and stress).
 
 **HEALING**
 <br>A quick rest fully restores HP but can leave the investigators exposed. **Ability** loss requires a week’s rest with medical intervention or magical means.
@@ -52,7 +52,6 @@ Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are 
 
 **STRESS & FALLOUT**
 <br> Player chooses from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table when either:
-- Stress reduces a PC's HP to exactly 0
 - A PC takes critical stress (when they fail a CTRL save after it takes Ability damage)
 
 <br> Each Stress Fallout entry:

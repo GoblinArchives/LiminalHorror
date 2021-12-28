@@ -197,8 +197,6 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 
 **(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
-If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](#stress-fallout-tables) table.
-
 #### 3. Investigator Details
 - Choose a name for your character,
 - Roll a [background](#background). This informs their knowledge and potential skills.
@@ -656,11 +654,6 @@ If damage brings a target’s HP below zero, their STR is decreased by the amoun
 **Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
 <br>If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
 
-### 0 HP Stress = Fallout
-If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
-
-
-
 ### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their CTRL is reduced to 0, they are lost.
 
@@ -798,7 +791,6 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 
 ### Stress Fallout Tables
 Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
-- Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
 
 Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
@@ -1390,7 +1382,6 @@ Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are 
 
 **STRESS & FALLOUT**
 <br> Player chooses from the [Stress Fallout](#stress-fallout-tables) table when either:
-- Stress reduces a PC's HP to exactly 0
 - A PC takes critical stress (when they fail a CTRL save after it takes Ability damage)
 
 <br> Each Stress Fallout entry:

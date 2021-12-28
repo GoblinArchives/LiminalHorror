@@ -21,7 +21,6 @@ Note: The amount and frequency of how you deal stress establishes the tone and p
 
 ## Stress Fallout Tables
 Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
-- Stress reduces a PC's HP to exactly 0
 - The character takes **critical stress**.
 
 Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.

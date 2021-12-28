@@ -56,9 +56,6 @@ If damage brings a target’s HP below zero, their STR is decreased by the amoun
 **Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
 <br>If a character fails their CTRL save they take critical stress and gain fallout from the  [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
 
-## 0 HP Stress = Fallout
-If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table just as if they failed their CTRL save.
-
 
 ## Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their CTRL is reduced to 0, they are lost.
