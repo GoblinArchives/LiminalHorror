@@ -4,6 +4,12 @@ title: Home
 nav_order: 1
 permalink: /
 ---
+# Currently Itchfunding The Mall
+
+Currently **ITCHFUNDING** the first official module called The Mall [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall). The Mall is a wet, gooey, practical effects filled TTRPG adventure of mall-horror. Set in a 199x mall that gets transported out of time and space. The denizens of the mall are trapped inside with a creature not bound by any one form. It slithers through the mall, assimilating and imitating its victims until no one is left and a rift can be fully opened.
+
+Think John Carpenter's The Thing (1982) but set in a mall.
+
 # Liminal Horror
 **Liminal Horror**  is a rules-lite, fail forward tabletop role playing game with Facilitator and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
