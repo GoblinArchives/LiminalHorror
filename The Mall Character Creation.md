@@ -4,7 +4,7 @@ title: The Mall Character Creation
 nav_order: 10
 ---
 
-# The Mall: Character Creations
+# The Mall: Character Creation
 This is an alternative character creation process for making PC & NPCs for The Mall. This character generator is an optional replacement for [Liminal Horror’s Character Generation](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/) (LH pg 6-11).
 
 The adventure/module for THE MALL is currently itchfunding at [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
