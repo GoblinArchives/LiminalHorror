@@ -7,14 +7,14 @@ nav_order: 10
 # The Mall: Character Creations
 This is an alternative character creation process for making PC & NPCs for The Mall. This character generator is an optional replacement for [Liminal Horror’s Character Generation](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/) (LH pg 6-11).
 
-While unreleased, this draft version is being used for playtesting prior to Itchfunding.
+The adventure/module for THE MALL is currently itchfunding at [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
 
-## Adding to THE MALL:
-Each person proposes one shop to be in the mall (Shop Generator).  State its name, description and level (1-3).
+## First Step: Adding to the Mall
+Each person at the table proposes one shop to be added to the mall.  State its name, description and level (1-3). This is in addition to any shop created for the character to work at.
 
-## Character Creation Overview
+## Overview
 
-### 1. **Ability Scores**
+### 1. **Ability Scores & HP**
 
 a. Roll 3d6 for your ability scores (any two results may be swapped)
 
@@ -34,8 +34,7 @@ The investigator details section will take you through the bulk of developing yo
 
 ### 3. Starting Gear
 
-   * All players start with a phone, some cash and notebook.
-   * Characters have a total of 10 inventory slots: hands and upper body (four slots), plus a backpack or bag (six slots). If all slots are full the PC’s HP becomes 0
+   * Characters have a total of 10 inventory slots. If all slots are full the PC’s HP becomes 0.
    * Most items take up one slot – smaller items can be bundled together. Bulky items take two slots and are awkward or require two hands.
    * Characters choose 2 items they brought to the mall.
    * Mall Employees have a locker (they should mark what items they have stored in their locker).
@@ -47,11 +46,14 @@ The investigator details section will take you through the bulk of developing yo
    * Name
 
 ### 5. Final Step as a Party: Entanglements
+   * [**Connection:**](#Entanglements) Create or choose a NPC at the mall that they have a connection with.
+   * [**Bonds:**](#Entanglements) Describe a bond they have with another PC.
 
-## Complete Step 1
-After completing Step 1: Ability Scores & HP, answer the following questions. Links and references to the original character creation process have been included.
+## Step 1: Abilities
+Roll 3d6 for your ability scores (any two results may be swapped) and roll 1d6 for Hit Protection (HP).
 
 ## Step 2: Investigator Details
+Answer the following questions.
 
 ### Why Are You At The Mall?
 
@@ -62,11 +64,9 @@ The following three options are the main reasons your character would be at the 
    * **You are a customer.** *What is your reason for visiting today?*
    * **The mall is where you and your friends hang out.**  *What “scene” is your character a part of?*
 
-### Where do you work (or where were you visiting)?
+Below is a non-comprehensive list of shops at the mall.
 
-Below is a non-comprehensive list of shops and jobs at the mall.
-
-#### Shops Table & Generator
+#### Shops Table
 
    1. Roller Rink  (Level 1)
    2. DMV (Level 1)
@@ -173,15 +173,13 @@ The table below provides examples. More are included in [Equipment](https://gobl
 
 ## Step 4: General Info:
 
-**Age**: Choose or roll 1d12+17.
+* **Age**: Choose or roll 1d12+17.
+* **Look**: Choose a style of clothing or look for your character.
+*   **If they are an employee**: what is their uniform? Did they bring a change of clothes with them into work?
+* **Name:** What is your character’s name?
 
-**Look**: Choose a style of clothing or look for your character.
-
- **If they are an employee**: what is their uniform? Did they bring a change of clothes with them into work?
-
-**Name:** What is your character’s name?
-
-## Step 5: Final step (as a party) - Entanglements
+## Step 5: Complete this step as a party:
+### Entanglements
 
 **Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
 
