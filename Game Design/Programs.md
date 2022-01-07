@@ -15,6 +15,10 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Typora](https://typora.io/) is a super easy to learn writing program that I use regualrly. When paired with [pandoc](https://support.typora.io/Install-and-Use-Pandoc/) it gives you a lot of built in output options as well. It is what I used to write and publish the [Liminal Horror epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) (with some minor backend editing in calibre).
 - [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme) by Nate Treme is a great overview of the type of unique projects that are possible with markdown. An HTML dungeon that you can post right onto itch.io!
 
+## Create your own SRD
+Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
+- [A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
+
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
 - [Video Stream: teaching google sheets](https://www.twitch.tv/videos/1139349790) by Momatoes takes you through the process of creating a character sheet like the one made for ARC.
@@ -32,6 +36,8 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
 ### Image Editing & Creation
+[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
+
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
 - [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
 - [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.

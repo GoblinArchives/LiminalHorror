@@ -34,17 +34,21 @@ Below are some examples of different SRDs that you can use as a starting point i
 
 Games have different licenses that dictate what can be used from the core text. Be sure to check their use/licenses to make sure you meet the requirements in your final product (an inclusions of established statements, attributions, etc).
 
-**Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. I wrote a small twitter thread on the different supports Liminal Horror provides for people who are wanting to write their own mysteries/sessions/adventures. That can be found here: [Interested in writign cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
+[A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ### Example SRDs
 - [**Liminal Horror**](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
 - [**Cairn**](https://cairnrpg.com/cairn-srd/) by Yochai Gal. It is an adventure game where players explore dark and mysterious woods. It is based on Into the Odd and Knave.
+- [Vaults of Vaarn] by Leo Hunt (with SRD by Desolate Drifter) is a techo filled game of a dying sun over a blue desert of science fantasy adventures.
 - [**PINKHACK**](https://monkeys-paw-games.itch.io/pinkhack-srd) by Monkey's Paw Games. Rules for Fantastic Role-Playing Wargames, Monkey's Paw Games has created a combination of the Whitehack and into the Odd.
 - [**Beak, Feather, & Bone**](https://possible-worlds-games.itch.io/bfb-srd) by Tyler Crumrine. This rule framework is one that involves building a world through collaborative map making.
 - [**24XX**](https://jasontocci.itch.io/24xx) by Jason Tocci is a framework of rules that works as a modular plug-and-play toolkit. Rules lite and dynamic, 24XX SRD is axtremely versitile and includes a plethora of templates and resources to help designers get started.
 - [**Tunnel Goons**](https://tunnelgoons.com/srd) by Nate Treme. Tunnel Goons is an extremely straightforward system that fits on half of a page.
 - [**Trophy**](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [**Wretched & Alone**](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
+
+**Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. I wrote a small twitter thread on the different supports Liminal Horror provides for people who are wanting to write their own mysteries/sessions/adventures. That can be found here: [Interested in writing cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
+
 
 [back to index](#index)
 <p></p>
@@ -57,6 +61,9 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
 - [Resources for Free Creation Tools](https://itch.io/c/1832904/resources-for-free-creation-tools) by G. Raven Image is a collection of tools housed on itch.io that can help in various aspects of the writing, designing, and publishing process.
 
+## Create your own SRD
+Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
+- [A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ## Markdown
 I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html).
@@ -81,6 +88,8 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
 ### Image Editing & Creation
+[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
+
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
 - [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
 - [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.
@@ -132,13 +141,28 @@ One option is to design your own images. There are a few different programs you 
 ## COMMISSIONING WORK
 If you are like me and not the most visual creative oriented, luckily there is a robust group of talented designers and artists out there. Often you will see them advertising that their commissions are open. Have a clear concept in mind as well as your budget range. Understand that commissioning work is a collaborative process between professionals and requires respect and clear communication.
 
+## COMMERCIALLY LICENSED ART
+There are many artists that provide options to commerically license their art. Some use a flat purchase (on itch or another platform) while others provide licensing to those who subscribe to their patreon. Here are few that I have found:
+- [Evelyn Moreu](https://www.patreon.com/evlynmoreau) has a Patreon that contains some of the best art that she allows you to use commercially in your zines (if you subscribe).
+- [Perplexing Ruins](https://www.patreon.com/perplexingruins) also has a patreon that provides access to images that can be commercially licensed through a subscription.
+- [Andy's Inventory Art Pak #1](https://andyanimates.itch.io/andys-inventory-1) by Andrew White is a collection of 81 random inventory items that can purchased to use uder a CC BY 4.0.
+- [Tiny Zine of Faces #1](https://punkpadour.itch.io/tiny-zine-of-faces-1) as well as [Tiny Zine of Faces #2](https://punkpadour.itch.io/tiny-zine-of-faces-2) by Chema (Punkpadour) contain some fantastic portraits and images that can be purchased to be used commercally.
+- [Feral Indie Studio](https://itch.io/s/44997/zimo-2022-artpack) sells themed art packs that can be used commerically.
+- [Fantasy Art 01](https://hairic.itch.io/hairic-rpg-assets-fantasy-pack-01) by Hairic Lilred is a collection of fantasy art assets that can be used commerically.
+- [Map Pieces](https://mapcrow.itch.io/map-pieces) by Map Crow includes different pieces that can be used to make maps (and are Creative Commons Attribution 4.0 licesed).
+
 ## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
+
+[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
 
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
 - [A flickr collection of curated Public Domain Images](https://www.flickr.com/photos/192445357@N05/galleries) by Guilherme Gontijo.
 - [unsplash](https://unsplash.com/) is a collection of freely usable photos.
 - [pixabay](https://pixabay.com/) is a collection of freely usable images. While it includes photos like unsplash, it is better known for its vectors and illustrations.
+- [Public Domain Review](https://publicdomainreview.org/) showcases interesting ad unusual out-of copyright works.
+- [Artvee](https://artvee.com/) collection that has high-resolution public domain art.
+
 
 [back to index](#index)
 <p></p>
@@ -231,13 +255,14 @@ Here are two great resources on marketing your game, especially when starting ou
 - [A Crash Course On Marketing Your Indie RPG](https://www.failuretolerated.com/a-crash-course-on-marketing-your-indie-rpg) by Sean McCoy (the cofoudner of Tuesday Knight Game and designer of the phenomenal Mothership RPG).
 - [Marketing Yourself: Learn From Me As I Run Myself Like a Content Marketing Gig](https://peachpantspress.com/marketing-yourself-learn-from-me-as-i-run-myself-like-a-content-marketing-gig/)by Ash Kreider (designer and writer of The Watch).
 - [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.
+- [Gem Room Games](https://gemroomgames.itch.io/) has provided the press kits they created for The Weaver's Observatory & DUKK BORG.
 
 [back to index](#index)
 <p></p>
 ---
 
 ## FUNDING
-I want to preface this section by saying that I do not have a depth of knowledge in this area. Liminal Horror was self funded (mostly through me doing the different roles of writing and design) with a commissioned cover. Since this was a smaller work that leveraged programs I already had and public domain artwork, there was not a lot of cost involved. This is not the case for all games. I truly believe that work should be fairly compensated, and so looking into the future there may be times where funds will need to be raised to pay for:
+While you can write and create each aspect of your zine yourself, some parts may require funds to complete (either to make a reality or to commission someone to make). Some things that may require investment are:
 - Art
 - Writing
 - Editing
@@ -247,12 +272,12 @@ I want to preface this section by saying that I do not have a depth of knowledge
 
 Other than self funding (or getting someone to invest/partner), there are are a few different ways to raise funds for your game. There is:
 - setting up a co-op
-- itchfunding
-- Gamefound
 - slowfunding
+- settig up pre-orders
+- "crowd funding" platforms (such as itchfunding or Gamefound).
 
 ### itchfunding
-An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is most likely the avenue I would go if looking to raise funds for future work. It allows creators to move away from Kickstarter and raise funds on the same platform many of us are launching games.
+An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
 - [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
 - [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
 PlusOneEXP hosted a great discussion on Itchfunding.
