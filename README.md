@@ -13,7 +13,6 @@ Currently **ITCHFUNDING** the first official module called The Mall.Think John C
 
 # Liminal Horror
 
-https://t.co/MPUPz4N43P
 **Liminal Horror**  is a rules-lite, fail forward tabletop role playing game with Facilitator and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
 It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://yochaigal.itch.io/cairn) (itself a child of Chris McDowall's [Into the Odd](https://chrismcdee.itch.io/) & Ben Milton's [Knave](https://questingbeast.itch.io/knave)). Liminal Horror written by ([Goblin Archives](https://twitter.com/goblin_archives))
@@ -24,7 +23,7 @@ This site also currently houses a collection of resources I found to help guide 
 
 ## Formats
 In addition to having the core text available on this site, Liminal Horror can be found:
-- [In Print at Exalted Funeral](https://www.exaltedfuneral.com/products/liminal-horror-pdf) 
+- [In Print at Exalted Funeral](https://www.exaltedfuneral.com/products/liminal-horror-pdf)
 - [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing)
 - [itch.io](https://goblinarchives.itch.io/)
 - [DriveThruRPG](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
