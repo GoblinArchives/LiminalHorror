@@ -247,7 +247,7 @@ One option for selling your printed game is to sell it yourself (on your website
 - [Cardboard Monster (AU)](https://cardboard.monster/). Contact them at ash@cardboard.monster
 
 ---
-- [antipode](https://antipodezines.com/). Contact the [here](https://antipodezines.com/pages/contact)
+- [antipode zines](https://antipodezines.com/). Contact the [here](https://antipodezines.com/pages/contact)
 - [Melsonia Art Council (UK)](https://www.melsonia.com/). Contact them at info@melsonia.com
 - [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/). Contact them at info@soulmuppet.co.uk
 - [Rook's Press (UK)](https://www.rookspress.com/). Contact them [here](https://www.rookspress.com/pages/contact).
