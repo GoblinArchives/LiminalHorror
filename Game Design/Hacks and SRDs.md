@@ -16,7 +16,7 @@ Below are some examples of different SRDs that you can use as a starting point i
 
 Games have different licenses that dictate what can be used from the core text. Be sure to check their use/licenses to make sure you meet the requirements in your final product (an inclusions of established statements, attributions, etc).
 
-[A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
+[A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ### Example SRDs
 - [**Liminal Horror**](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.

@@ -11,6 +11,7 @@ Below is a collection of resources I found to help guide me through the process 
 - [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime.
 - [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventurer's Guide to the Yol'Najj Forest as the framing.
 - **Markdown** is increasingly being a format that designers are using when writing. I find it really helpful in both the process and what it allows me to do (output in epub, html, and this website). Two great resources that are also included below are [Luke Gearing's "Using Markdown and Pandoc to Make RPG Documents for Free"](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) and [Nate Treme's Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). I think it is definitely worth looking into as a tool to use when designing.
+- [5 Tips for Making Money in TTRPGs](https://www.youtube.com/watch?v=ZXeEbDBWbS0&ab_channel=JohnBattle) by John Battle is a great overview about how they got to where they are currently (both their games and channel are top tier).
 
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
@@ -34,7 +35,7 @@ Below are some examples of different SRDs that you can use as a starting point i
 
 Games have different licenses that dictate what can be used from the core text. Be sure to check their use/licenses to make sure you meet the requirements in your final product (an inclusions of established statements, attributions, etc).
 
-[A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
+[A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ### Example SRDs
 - [**Liminal Horror**](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
@@ -63,12 +64,13 @@ There are a ton of fantastic programs one can use when writing and designing gam
 
 ## Create your own SRD
 Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
-- [A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
+- [A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
-## Markdown
-I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html).
+##  Markdown
+I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html). This increases your ability to create dynamic and accessible products down the line.
 - [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) by Luke Gearing is a fantastic step by step guide on how to write in markdown and then publish the results in multiple formats.
 - [Typora](https://typora.io/) is a super easy to learn writing program that I use regualrly. When paired with [pandoc](https://support.typora.io/Install-and-Use-Pandoc/) it gives you a lot of built in output options as well. It is what I used to write and publish the [Liminal Horror epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) (with some minor backend editing in calibre).
+- [Zine Month 2022 Contribution - How to use Markdown and Pandoc to publish zines.](https://underwaterowlbear.blot.im/zine-month-2022-contribution-how-to-use-markdown-and-pandoc-to-publish-zines) by Underwater Owlbear is a fantastic guide in how to use markdown (and the pandoc extension) to publish your zines. The end result is a printable booklet ready to be made into a zine (and a format that can easily be exported to epub).
 - [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme) by Nate Treme is a great overview of the type of unique projects that are possible with markdown. An HTML dungeon that you can post right onto itch.io!
 
 ### Character Sheets
@@ -135,8 +137,8 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 ## CREATING YOUR OWN
 One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.
-- [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
-- [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
+- [ZiMo 22 Workshop Series: Intro to Zine Art w/AmandaLee](https://www.youtube.com/watch?v=4wX8kbBmhaU&ab_channel=PlusOneExp) is a ZineMonth 2022 workshop put on by the amazing [Amanda Lee Franck](https://annabelleleefranck.myportfolio.com/) and hosted by [Plus One Exp](https://linktr.ee/Plusoneexp). It goes over how to create your own art (using public domain images) as well as how to commission art from artists.
 
 ## COMMISSIONING WORK
 If you are like me and not the most visual creative oriented, luckily there is a robust group of talented designers and artists out there. Often you will see them advertising that their commissions are open. Have a clear concept in mind as well as your budget range. Understand that commissioning work is a collaborative process between professionals and requires respect and clear communication.
@@ -151,10 +153,14 @@ There are many artists that provide options to commerically license their art. S
 - [Fantasy Art 01](https://hairic.itch.io/hairic-rpg-assets-fantasy-pack-01) by Hairic Lilred is a collection of fantasy art assets that can be used commerically.
 - [Map Pieces](https://mapcrow.itch.io/map-pieces) by Map Crow includes different pieces that can be used to make maps (and are Creative Commons Attribution 4.0 licesed).
 
+## Maps
+Here are some great resources to help you create maps for your games.
+- [watabou generators](https://watabou.itch.io/) by Watabou is  a collection of map generators (neighbourhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commerically in your work.
+- [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
+- [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
-
-[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
 
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
 - [A flickr collection of curated Public Domain Images](https://www.flickr.com/photos/192445357@N05/galleries) by Guilherme Gontijo.
@@ -167,14 +173,21 @@ For those of us who are not artists, or don't have a budget to commission art fo
 [back to index](#index)
 <p></p>
 ---
+## Formats
+Different formats support different levels of accessability. when thinking about how one presents their work there are three major modes Web / EPUB / Print. Often when games are published the focus is only on print/pdf format. This is largely due to the fact that pdf is what is used to submit things for print. When thinking about accessiblity, understanding the scaffolds (and constraints) of the format is super important.
+- [GIVING A DAMN ABOUT ACCESSIBILITY](https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf) by Sheri Byrne-Haber is "a candid and practical handbook for designers." Its goal is to make sure that digital accessibility provides equal access to information, functionality and experience on digital platforms.
 
-## ACCESSIBILITY AND DESIGN INTENTION
+## ## Accessibility & Design Intention
 One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work.
+- [Accessible Publishing Best Practices: Guidelines for Common EPUB Issues in Plain Language](https://www.accessiblepublishing.ca/accessible-publishing-best-practices/) by the Canadian National Network for Equitable Library Service. This document lays out different variables to concider to support accessiblity in information design. The major points are to: add alt text, have clear information hierarchy, hyper-link with titles, and avoid complicated presentation.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
+- [How to make PDFs accessible](https://danielsell.blot.im/how-to-make-pdfs-accessible) by Daniel Sell is a short overview about why one should concider integrating additional formats into their repertoire.
 
 ### ePub
-There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins). Two recent (as of August 2021) twitter threads have gone over how to create ePub documents. There will be a Liminal Horror Epub available for free in the near future (or past depending on when this is read).
+There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins).
+- [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) by Luke Gearing is a fantastic step by step guide on how to write in markdown and then publish the results in multiple formats (epub/html/pdf).
+- [Accessible Publishing Best Practices: Guidelines for Common EPUB Issues in Plain Language](https://www.accessiblepublishing.ca/accessible-publishing-best-practices/) by the Canadian National Network for Equitable Library Service. This document lays out different variables to concider to support accessiblity in information design. The major points are to: add alt text, have clear information hierarchy, hyper-link with titles, and avoid complicated presentation.
 - [Sean Patrick Cain](https://twitter.com/seanpatrickcain/status/1427356978872033285) had the initial twitter thread that went over step by step how he created a ePub version of his game Long Haul 1983.
 - [Peter Eijk](https://twitter.com/JimmyShelter/status/1428439348417073159) created a followup thread to talk about how one can create accessible tables in ePubs using html.
 
@@ -235,7 +248,7 @@ One option for selling your printed game is to sell it yourself (on your website
 - [Cardboard Monster (AU)](https://cardboard.monster/). Contact them at ash@cardboard.monster
 
 ---
-
+- [antipode](https://antipodezines.com/). Contact the [here](https://antipodezines.com/pages/contact)
 - [Melsonia Art Council (UK)](https://www.melsonia.com/). Contact them at info@melsonia.com
 - [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/). Contact them at info@soulmuppet.co.uk
 - [Rook's Press (UK)](https://www.rookspress.com/). Contact them [here](https://www.rookspress.com/pages/contact).
@@ -251,7 +264,8 @@ One option for selling your printed game is to sell it yourself (on your website
 ---
 
 ## MARKETING
-Here are two great resources on marketing your game, especially when starting out.
+Once you have a completed game, it is important to focus some effort on marketing (in order to get it in front of players).
+- [ZiMo 22 Workshop Series | How to Press Kit](https://www.youtube.com/watch?v=etsGBIHKQ7o&t=8s&ab_channel=PlusOneExp) by Plus One Exp goes over how and why designers should create a press kit to help them with their marketing. Linked in the bio is a fantastic template that Tony uses in the workshop to support the creation of your very own press kit.
 - [A Crash Course On Marketing Your Indie RPG](https://www.failuretolerated.com/a-crash-course-on-marketing-your-indie-rpg) by Sean McCoy (the cofoudner of Tuesday Knight Game and designer of the phenomenal Mothership RPG).
 - [Marketing Yourself: Learn From Me As I Run Myself Like a Content Marketing Gig](https://peachpantspress.com/marketing-yourself-learn-from-me-as-i-run-myself-like-a-content-marketing-gig/)by Ash Kreider (designer and writer of The Watch).
 - [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.

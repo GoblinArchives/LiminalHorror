@@ -9,8 +9,8 @@ parent: Game Design
 
 ## CREATING YOUR OWN
 One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.
-- [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
-- [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
+- [ZiMo 22 Workshop Series: Intro to Zine Art w/AmandaLee](https://www.youtube.com/watch?v=4wX8kbBmhaU&ab_channel=PlusOneExp) is a ZineMonth 2022 workshop put on by the amazing [Amanda Lee Franck](https://annabelleleefranck.myportfolio.com/) and hosted by [Plus One Exp](https://linktr.ee/Plusoneexp). It goes over how to create your own art (using public domain images) as well as how to commission art from artists.
 
 ## COMMISSIONING WORK
 If you are like me and not the most visual creative oriented, luckily there is a robust group of talented designers and artists out there. Often you will see them advertising that their commissions are open. Have a clear concept in mind as well as your budget range. Understand that commissioning work is a collaborative process between professionals and requires respect and clear communication.
@@ -25,10 +25,14 @@ There are many artists that provide options to commerically license their art. S
 - [Fantasy Art 01](https://hairic.itch.io/hairic-rpg-assets-fantasy-pack-01) by Hairic Lilred is a collection of fantasy art assets that can be used commerically.
 - [Map Pieces](https://mapcrow.itch.io/map-pieces) by Map Crow includes different pieces that can be used to make maps (and are Creative Commons Attribution 4.0 licesed).
 
+## Maps
+Here are some great resources to help you create maps for your games.
+- [watabou generators](https://watabou.itch.io/) by Watabou is  a collection of map generators (neighbourhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commerically in your work.
+- [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
+- [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
-
-[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
 
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
 - [A flickr collection of curated Public Domain Images](https://www.flickr.com/photos/192445357@N05/galleries) by Guilherme Gontijo.

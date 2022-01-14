@@ -10,14 +10,15 @@ There are a ton of fantastic programs one can use when writing and designing gam
 - [Resources for Free Creation Tools](https://itch.io/c/1832904/resources-for-free-creation-tools) by G. Raven Image is a collection of tools housed on itch.io that can help in various aspects of the writing, designing, and publishing process.
 
 ### Markdown
-I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html).
+I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html). This increases your ability to create dynamic and accessible products down the line.
 - [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) by Luke Gearing is a fantastic step by step guide on how to write in markdown and then publish the results in multiple formats.
 - [Typora](https://typora.io/) is a super easy to learn writing program that I use regualrly. When paired with [pandoc](https://support.typora.io/Install-and-Use-Pandoc/) it gives you a lot of built in output options as well. It is what I used to write and publish the [Liminal Horror epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) (with some minor backend editing in calibre).
+- [Zine Month 2022 Contribution - How to use Markdown and Pandoc to publish zines.](https://underwaterowlbear.blot.im/zine-month-2022-contribution-how-to-use-markdown-and-pandoc-to-publish-zines) is a fantastic guide in how to use markdown (and the pandoc extension) to publish your zines. The end result is a printable booklet ready to be made into a zine (and a format that can easily be exported to epub).
 - [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme) by Nate Treme is a great overview of the type of unique projects that are possible with markdown. An HTML dungeon that you can post right onto itch.io!
 
 ## Create your own SRD
 Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
-- [A Step-by-Step Guie to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
+- [A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
