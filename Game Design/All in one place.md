@@ -182,7 +182,7 @@ One of the big things I wanted when writing Liminal Horror was to push mystelf t
 - [Accessible Publishing Best Practices: Guidelines for Common EPUB Issues in Plain Language](https://www.accessiblepublishing.ca/accessible-publishing-best-practices/) by the Canadian National Network for Equitable Library Service. This document lays out different variables to consider to support accessibility in information design. The major points are to: add alt text, have clear information hierarchy, hyper-link with titles, and avoid complicated presentation.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
-- [How to make PDFs accessible](https://danielsell.blot.im/how-to-make-pdfs-accessible) by Daniel Sell is a short overview about why one should concider integrating additional formats into their repertoire.
+- [How to make PDFs accessible](https://danielsell.blot.im/how-to-make-pdfs-accessible) by Daniel Sell is a short overview about why one should consider integrating additional formats into their repertoire.
 
 ### ePub
 There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins).
