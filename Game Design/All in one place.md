@@ -155,7 +155,7 @@ There are many artists that provide options to commerically license their art. S
 
 ## Maps
 Here are some great resources to help you create maps for your games.
-- [watabou generators](https://watabou.itch.io/) by Watabou is  a collection of map generators (neighbourhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commerically in your work.
+- [watabou generators](https://watabou.itch.io/) by Watabou is a collection of map generators (neighborhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commercially in your work.
 - [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
 - [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -175,7 +175,7 @@ For those of us who are not artists, or don't have a budget to commission art fo
 ---
 ## Formats
 Different formats support different levels of accessability. when thinking about how one presents their work there are three major modes Web / EPUB / Print. Often when games are published the focus is only on print/pdf format. This is largely due to the fact that pdf is what is used to submit things for print. When thinking about accessiblity, understanding the scaffolds (and constraints) of the format is super important.
-- [GIVING A DAMN ABOUT ACCESSIBILITY](https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf) by Sheri Byrne-Haber is "a candid and practical handbook for designers." Its goal is to make sure that digital accessibility provides equal access to information, functionality and experience on digital platforms.
+- [GIVING A DAMN ABOUT ACCESSIBILITY](https://accessibility.uxdesign.cc/) by Sheri Byrne-Haber is "a candid and practical handbook for designers." Its goal is to make sure that digital accessibility provides equal access to information, functionality and experience on digital platforms.
 
 ## ## Accessibility & Design Intention
 One of the big things I wanted when writing Liminal Horror was to push mystelf to find ways to support people's ability to access information. This largely arose from my background in teaching, and how it is important to provide multiple access points and opportunities for people to engage in the work.

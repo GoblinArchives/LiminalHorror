@@ -27,7 +27,7 @@ There are many artists that provide options to commerically license their art. S
 
 ## Maps
 Here are some great resources to help you create maps for your games.
-- [watabou generators](https://watabou.itch.io/) by Watabou is  a collection of map generators (neighbourhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commerically in your work.
+- [watabou generators](https://watabou.itch.io/) by Watabou is a collection of map generators (neighborhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commercially in your work. 
 - [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
 - [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
