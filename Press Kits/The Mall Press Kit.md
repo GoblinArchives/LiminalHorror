@@ -4,10 +4,12 @@ title: The Mall Press Kit
 nav_order: 1
 parent: Press Kits
 ---
-A google doc version of this press kit can be found at: [https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing](https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing)
 
-# THE MALL Itchfunding for ZiMo (Zine Month): 1/2/21 - 3/31/21
+# THE MALL
 “It’s The Thing but set in a 199x mall”
+
+- Currently Itchfunding for ZiMo (Zine Month): 1/2/21 - 3/31/21
+- A google doc version of this press kit can be found at: [https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing](https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing)
 
 ## What is The Mall?
 The Mall is a wet, gooey, practical effects filled TTRPG adventure set in a 199x mall pulled out of time and space. The mall’s denizens are trapped inside with a creature not bound by any one form. It slithers among them now, preparing to assimilate and imitate its victims until no one is left and it can open a rift between its home dimension…AND EARTH!
