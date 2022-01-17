@@ -1,8 +1,7 @@
 ---
 layout: default
 title: The Mall Press Kit
-nav_order: 1
-parent: Press Kits
+nav_order: 11
 ---
 
 [![Yellow distressed texture, white font that says the mall.](/LiminalHorror/img/mall.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/mall.png)
