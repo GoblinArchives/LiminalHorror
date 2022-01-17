@@ -4,6 +4,7 @@ title: The Mall Press Kit
 nav_order: 1
 parent: Press Kits
 ---
+[![Yellow distressed texture, white font that says the mall.](/LiminalHorror/img/mall.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/mall.png)
 
 # THE MALL
 “It’s The Thing but set in a 199x mall”
