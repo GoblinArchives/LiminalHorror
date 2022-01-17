@@ -42,7 +42,7 @@ The Mall is the first official adventure module for Liminal Horror (3 stat roll 
 - Zach Hazard Vaupen ([@zachhazard](https://twitter.com/zachhazard)) will create a cover and art for the Whisper cards. [website](https://emo-sludge.com/)
 - arbage Goat ([@Garbagegoat1](https://twitter.com/Garbagegoat1)) will create interior spot art for the module [website](https://treasuretable.us/)
 - Goblin Archives will layout a zine pdf of The Mall as well as an accessible epub format.
--
+
 **What are the stretch goals?**
 - There is a planned stretch goal of a piece of internal art by [REDACTED].
 
