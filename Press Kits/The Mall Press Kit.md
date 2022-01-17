@@ -4,6 +4,7 @@ title: The Mall Press Kit
 nav_order: 1
 parent: Press Kits
 ---
+
 [![Yellow distressed texture, white font that says the mall.](/LiminalHorror/img/mall.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/mall.png)
 
 # THE MALL
@@ -35,13 +36,16 @@ The Mall is the first official adventure module for Liminal Horror (3 stat roll 
 - Single column pdf/google doc of the adventure (with internal linking).
 - Printable Whisper cards.
 - A draft of a player handout that has a map of the mall (all three floors) and a list of shops/NPCs.
+
 **What is itchfunding going to pay for?**
 - Vi Huntsman ([@ImmaWaffleBunny](https://twitter.com/ImmaWaffleBunny)) will provide professional editing of the module. [website](https://www.youtube.com/channel/UCHjSo)
 - Zach Hazard Vaupen ([@zachhazard](https://twitter.com/zachhazard)) will create a cover and art for the Whisper cards. [website](https://emo-sludge.com/)
 - arbage Goat ([@Garbagegoat1](https://twitter.com/Garbagegoat1)) will create interior spot art for the module [website](https://treasuretable.us/)
 - Goblin Archives will layout a zine pdf of The Mall as well as an accessible epub format.
+-
 **What are the stretch goals?**
 - There is a planned stretch goal of a piece of internal art by [REDACTED].
+
 **Are there any reward tiers?**
 - Yes! There are a few fun reward tiers that you can back at. From collaborating on your projects to watching a movie together (or having me read you some stories), there is something for everyone.
 
