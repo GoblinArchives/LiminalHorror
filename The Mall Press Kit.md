@@ -49,16 +49,16 @@ The Mall is the first official adventure module for Liminal Horror (3 stat roll 
 - Yes! There are a few fun reward tiers that you can back at. From collaborating on your projects to watching a movie together (or having me read you some stories), there is something for everyone.
 
 ## The Mall (and Liminal Horror) Links
-Follow the project on Itch [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
-Check out Character Creation on the website: [https://goblinarchives.github.io/LiminalHorror/The%20Mall%20Character%20Creation/](https://goblinarchives.github.io/LiminalHorror/The%20Mall%20Character%20Creation/)
-Watch us play The Mall on PlusOneEXP (estimated date 2/5)
-Hear me talk about Liminal Horror and The Mall on The Lost Bay Podcast (estimated date 2/26)
+- Follow the project on Itch [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
+- Check out Character Creation on the website: [https://goblinarchives.github.io/LiminalHorror/The%20Mall%20Character%20Creation/](https://goblinarchives.github.io/LiminalHorror/The%20Mall%20Character%20Creation/)
+- Watch us play The Mall on PlusOneEXP (estimated date 2/5)
+- Hear me talk about Liminal Horror and The Mall on The Lost Bay Podcast (estimated date 2/26)
 
 ## Social Media
-You can find Goblin Archives on Twitter [@goblin_archives](https://twitter.com/goblin_archives)
-You can find my games at [Exalted Funeral (print)](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [Goblin Archives - itch.io (digital)](https://goblinarchives.itch.io/) or [Drivethrurpg (digital)](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)
-I curate [The Annotated Archive of Game Design Resource](https://goblinarchives.github.io/LiminalHorror/Game%20Design/All%20in%20one%20place/)
-Or you can find resources and the core rule for Liminal Horror on [https://goblinarchives.github.io/LiminalHorror/](https://goblinarchives.github.io/LiminalHorror/)
+- You can find Goblin Archives on Twitter [@goblin_archives](https://twitter.com/goblin_archives)
+- You can find my games at [Exalted Funeral (print)](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [Goblin Archives - itch.io (digital)](https://goblinarchives.itch.io/) or [Drivethrurpg (digital)](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)
+- I curate [The Annotated Archive of Game Design Resource](https://goblinarchives.github.io/LiminalHorror/Game%20Design/All%20in%20one%20place/)
+- Or you can find resources and the core rule for Liminal Horror on [https://goblinarchives.github.io/LiminalHorror/](https://goblinarchives.github.io/LiminalHorror/)
 
 ## Art Assets
 The art & promotional assets for The Mall can be found here. [https://drive.google.com/drive/folders/1RsSVz5fjm0Bhxdh9BbgtoEzrQyQKecd1?usp=sharing](https://drive.google.com/drive/folders/1RsSVz5fjm0Bhxdh9BbgtoEzrQyQKecd1?usp=sharing)
