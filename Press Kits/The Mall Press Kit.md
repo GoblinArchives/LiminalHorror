@@ -4,6 +4,7 @@ title: The Mall Press Kit
 nav_order: 1
 parent: Press Kits
 ---
+A google doc version of this press kit can be found at: [https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing](https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing)
 
 # THE MALL Itchfunding for ZiMo (Zine Month): 1/2/21 - 3/31/21
 “It’s The Thing but set in a 199x mall”
