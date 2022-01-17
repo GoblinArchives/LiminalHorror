@@ -48,6 +48,7 @@ The investigator details section will take you through the bulk of developing yo
 ### 5. Final Step as a Party: Entanglements
    * [**Connection:**](#Entanglements) Create or choose a NPC at the mall that they have a connection with.
    * [**Bonds:**](#Entanglements) Describe a bond they have with another PC.
+   * [**Rumors:**](#Rumors) Roll on the Rumors table.
 
 ## Step 1: Abilities
 Roll 3d6 for your ability scores (any two results may be swapped) and roll 1d6 for Hit Protection (HP).
@@ -205,3 +206,15 @@ The table below provides examples. More are included in [Equipment](https://gobl
    18. Wish was friend
    19. Co-worker
    20. Supervisor
+
+   Rumors: Roll D10 to determine what rumor the PC has heard recently.
+1. The disappearances in town have something to do with the mall.
+2. Terry has a bunch of contraband hidden in security.
+3. If you can get into the vents, you can get anywhere in the mall.
+4. Billy (Mr. Neil’s assistant) is living off of the loading dock.
+5. Mr. Neil has been tracking mud all over the mall.
+6. There are hidden cameras in the mall.
+7. Maggie carries a gun.
+8. The Mall Rats sneak into the mall at night.
+9. Emmy's weapons are real.
+10. Joe’s Burger Barn is closed today because Joe’s being investigated.

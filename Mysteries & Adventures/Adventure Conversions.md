@@ -1,6 +1,9 @@
+---
 title: Adventure Conversions
 parent: Mysteries & Adventures
 nav_order: 2
+---
+
 
 # Adventure Conversions for Liminal Horror
 This is an in progress collection of adventure conversion guides to the Liminal Horror system. The conversion guides must be used with the original adventures.Below is the link to the itch page that hosts all the conversion guides.
