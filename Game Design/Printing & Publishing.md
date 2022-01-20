@@ -61,5 +61,5 @@ One option for selling your printed game is to sell it yourself (on your website
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
 
 ---
-Previous Section: [Licensing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Accessibility/)
+Previous Section: [Licensing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Licensing/)
 <br> Next Section: [Marketing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Marketing/)

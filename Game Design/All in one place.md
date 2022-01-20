@@ -18,10 +18,11 @@ Below is a collection of resources I found to help guide me through the process 
 - [PART 2: PROGRAMS](#programs)
 - [PART 3: LAYOUT & FONTS](#layout-and-fonts)
 - [PART 4: IMAGES](#public-domain-images)
-- [PART 6: PRINTING & PUBLISHING](#printing-and-publishing)
 - [PART 5: ACCESSIBILITY & DESIGN INTENTION](#accessibility-and-design-intention)
-- [PART 7: MARKETING](#marketing)
-- [PART 8: FUNDING](#funding)
+- [Part 6: Licensing](#licensing)
+- [PART 7: PRINTING & PUBLISHING](#printing-and-publishing)
+- [PART 8: MARKETING](#marketing)
+- [PART 9: FUNDING](#funding)
 
 ---
 ## HACKS AND SRDS
@@ -202,11 +203,11 @@ Of note I am not a lawyer and this is by no means legal counsel.
 
 ### Creative Commons Licensing
 
-- [Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) is a super permissive licensing language that allows others to share, sell, remix, transform, and build upon one's work. Cairn and Liminal Horror (my game) are examples of games that have CC BY-SA-4.0. The main idea behind it is to make the works completely open for use by others (and therefore encourage games/hacks/adventure to be made for them).
+- [Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) is a super permissive licensing language that allows others to share, sell, remix, transform, and build upon one's work. [Cairn](https://cairnrpg.com/) by Yochai Gal and Liminal Horror (my game) are examples of games that have CC BY-SA-4.0. The main idea behind it is to make the works completely open for use by others (and therefore encourage games/hacks/adventure to be made for them).
 
 ### Third-Party License (Open Licenses)
 
-Open Licenses (often referred to as 3PP/ 3rd Party License) allow other creators to create and publish compatible games. These licenses have stipulations that must be followed, and if they are then others can make original content while adhering to vision set out by the license. These licenses also stipulate what is open to be used (and what assets are not allowable for use by others).
+Open Licenses (often referred to as 3PP/ 3rd Party License) allow others to create and publish compatible games. These licenses have stipulations that must be followed, and if they are then others can make original content while adhering to vision set out by the license. These licenses also stipulate what is open to be used (and what assets are not allowable for use by others).
 
 - ([The Mörk Borg Third-Party License & You – Līber Lūdōrum (liberludorum.com)](https://liberludorum.com/2021/07/05/the-mork-borg-third-party-license-you/)) does a fantastic job of not only guiding the reader through the Mörk Borg Third-Party License but it details what a 3rd Party License can do.
 - [MÖRK BORG LICENSE (morkborg.com)](https://morkborg.com/license/) is perhaps the most popular format of open license I found (especially when I put the call out about licensing how-tos). I found a lot of creators pointing to this license as the framework for creating their own licenses.
