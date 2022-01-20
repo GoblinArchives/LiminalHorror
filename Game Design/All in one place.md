@@ -218,8 +218,6 @@ Open Licenses (often referred to as 3PP/ 3rd Party License) allow others to crea
 
 In the end, you can publish a game without any custom licensing, but what is becoming more evident is for game designers, they see having an open and permissive Third-Party license as a invitation for others to create works for their games. It acts a way to bring people in and let them know what can be done with the works.
 
-Here's the 3rd party license I've released for Runecairn, based on the ones from Mausritter and Old School Essentials but with total access to the original text as well: [https://runecairn.byodinsbeardrpg.com/licence/](https://t.co/8UhIizRxTk)
-
 [back to index](#index)
 <p></p>
 ---
