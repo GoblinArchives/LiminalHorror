@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Printing & Publishing
-nav_order: 7
+nav_order: 8
 parent: Game Design
 ---
 ## Overview
@@ -12,7 +12,7 @@ parent: Game Design
 ## Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
 
-## Printing & Publishing
+## Printing & Publishing (Yourself)
 So you've put your game on itch or drivethru and you want to get a print run going. Here are some resources that can help guide you in the right direction.
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
@@ -27,6 +27,11 @@ There are a few different options in terms of printers that you can use. This is
 - [Spencer Printing](http://spencerprinting.com/) offers both offset & digital printing, as well as short-run book printing.
 - [Taylor Specialty Books](http://taylorspecialtybooks.com/)
 - [Smartpress](https://smartpress.com/)
+
+## Publishing Partnerships
+One option for funding a print run is to partner with a publisher/distributor. Many indie storefronts regularly partner with game writers to get a finished game to print. This tends to involve a partnership where the store fronts some (or all) of the cost to print. Afterwards they handle distribution, and after the print costs are recouped they pay regular royalties to the game's designer. This is the avenue I went through for Liminal Horror (I had it published through Exalted Funeral Press).
+- [Chapbook Co-op](https://chapbookcoop.carrd.co/) is a new venture by Monkey's Paw Games, Loot the Room, Spear Witch, and rattiincantati that aims to provide funding and distribution for ttrpg zines (without the kickstarter). Not only do they help with printing, but having the storefronts in multiple markets. This model of co-op funding is one that hopefully we see more and more.
+- If publishing it yourself is out of reach (logistically or financially), it is worthwhile to reach out to one of the great small ttrpg retailers listed below. Sometimes all it takes is emailing the right person to make a connection that can help you get into print.
 
 
 ## Selling You Game
@@ -61,5 +66,5 @@ One option for selling your printed game is to sell it yourself (on your website
 - [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
 
 ---
-Previous Section: [Licensing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Licensing/)
+Previous Section: [Funding](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Funding/)
 <br> Next Section: [Marketing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Marketing/)

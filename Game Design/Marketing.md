@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketing
-nav_order: 8
+nav_order: 9
 parent: Game Design
 ---
 ## MARKETING

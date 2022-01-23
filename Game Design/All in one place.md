@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ALL IN ONE PLACE
-nav_order: 9
+nav_order: 10
 parent: Game Design
 ---
 # The Annotated Archive of Game Design Resources
@@ -20,9 +20,9 @@ Below is a collection of resources I found to help guide me through the process 
 - [PART 4: IMAGES](#public-domain-images)
 - [PART 5: ACCESSIBILITY & DESIGN INTENTION](#accessibility-and-design-intention)
 - [Part 6: Licensing](#licensing)
-- [PART 7: PRINTING & PUBLISHING](#printing-and-publishing)
-- [PART 8: MARKETING](#marketing)
-- [PART 9: FUNDING](#funding)
+- [PART 7: FUNDING](#funding)
+- [PART 8: PRINTING & PUBLISHING](#printing-and-publishing)
+- [PART 9: MARKETING](#marketing)
 
 ---
 ## HACKS AND SRDS
@@ -48,6 +48,8 @@ Games have different licenses that dictate what can be used from the core text. 
 - [**Tunnel Goons**](https://tunnelgoons.com/srd) by Nate Treme. Tunnel Goons is an extremely straightforward system that fits on half of a page.
 - [**Trophy**](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [**Wretched & Alone**](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
+
+-[**ARCANUM**](https://arc-rpg.com/arcanum?__s=n5rxcw9oizo8ivnlxqm6) by momatoes is a great example of an SRD that provides you with the tools to make a game using the SRD. In momatoes own words "If you want to make a creature codex based on ‘90s Variety Children Shows gone wrong, Spells & Techniques for a cyberpunk setting, or a rules modification for games running only an hour long, it’s now Legally Blessed (™)  if you read and follow the common-sense guidelines from the" [ARC RPG license](https://arc-rpg.com/license).
 
 **Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. I wrote a small twitter thread on the different supports Liminal Horror provides for people who are wanting to write their own mysteries/sessions/adventures. That can be found here: [Interested in writing cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
 
@@ -216,7 +218,57 @@ Open Licenses (often referred to as 3PP/ 3rd Party License) allow others to crea
 -  [THE COMPANY by Mega_Corp (itch.io)](https://mega-corp.itch.io/the-company) by Logan Dean [(@L__Dean) / Twitter](https://twitter.com/L__Dean) is an example of a license that is based on the foundation laid out by Mörk Borg. It acts as a direct invitation for others to create content, while maintaining the vision of the original work.
 - [Third Party Licence · Runecairn (byodinsbeardrpg.com)](https://runecairn.byodinsbeardrpg.com/licence/) by Colin Le Sueur - [(@ByOdinsBeardRPG) / Twitter](https://twitter.com/ByOdinsBeardRPG) is another example of a easy to parse Third-Party License. When asked about why he decided to make a license, he said, "Since I based it on Cairn, which has a CC BY-SA (share alike) licence, I'd already opened up Runecairn for editing and modifying, so a 3rd party licence just made sense. I wanted people to take my work and hack it, like I'd hacked Cairn. By adding a logo and giving explicit consent and encouragement, I hope people would build on Runecairn and make it their own. Selfishly it helps me as well, since more Runecairn adventures helps spread the word for the system and my work."
 
+- [ARC CREATORS LICENSE](https://arc-rpg.com/license) by momatoes is a license for ARC that allows people to "ARC-compatible, -inspired and derived works for free or for sale without any fees or prior permission required" as long  as they follow the guidance laid out in the license.
+
 In the end, you can publish a game without any custom licensing, but what is becoming more evident is for game designers, they see having an open and permissive Third-Party license as a invitation for others to create works for their games. It acts a way to bring people in and let them know what can be done with the works.
+
+## Creative Comrades
+Creative Comrades Licence is a new form of licensing agreement created by [jn](https://twitter.com/JNButlerArt) for use of their art in commerical products. It also is another model of a license worth building from.
+- [Creative Comrades License Agreement va0.3](https://creativecomrades.org/)
+
+[back to index](#index)
+<p></p>
+---
+
+## FUNDING
+While you can write and create each aspect of your zine yourself, some parts may require funds to complete (either to make a reality or to commission someone to make). Some things that may require investment are:
+- Art
+- Writing
+- Editing
+- Layout
+- Design
+- Publishing
+
+Other than self funding (or getting someone to invest/partner), there are are a few different ways to raise funds for your game. A noncomprehensive list is:
+- setting up a co-op
+- slowfunding
+- settig up pre-orders
+- "crowd funding" platforms (such as itchfunding or Gamefound).
+
+### itchfunding
+An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
+- [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
+- [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
+PlusOneEXP hosted a great discussion on Itchfunding.
+- [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
+- [Part 2](https://www.youtube.com/watch?v=o5FJiCCoe5c&ab_channel=PlusOneExp) is with KeganExe, Adam Bell, Nic Masyk
+- [Part 3](https://www.youtube.com/watch?v=LpsOqZ4sAWU&ab_channel=PlusOneExp) is with Thomas Manuel & Sam Leigh.
+- [Google Doc compiling notes on the discussions](https://docs.google.com/document/d/1MW7uZ2LS2BHGA2bZlZ9LwgCSzVZAVhzeHF4crxtUeQU/edit#heading=h.s68hu2kptye4) by EldritchMouse.
+- [The Mall itchfunding page](https://goblinarchives.itch.io/the-mall) is an example of an itchfunding page. I used a ton of different models and the above resources to try and structure it in a way that presented the necessary information to backers. You can use any parts of it (especially the Itchfunding & the Mall, The Goal, and the Logistics sections) in your own campaign.
+
+### Presale Model
+Another funding method being implemented is a pre-sale model
+- [My Adventures In Selling Stuff Part 2: How I turned a free BigCartel shop into my personal crowdunding platform](https://twitter.com/seanpatrickcain/status/1445783558925086733?s=20) by Sean Patrick Cain is one twitter thread (in a fantastic series) that goes step by step in how to use the free version of BigCartel to make a pre-order funding platform.
+- [Craigstarter](https://github.com/cmod/craigstarter) by Craig Mod is a free to us/edit/extend crowdfunding tool for Shopify.
+
+### Slowfunding
+Slowfunding is crowdfunding alternative proposed by Long Tail Games, that acts gradual model of colecting pre-orders over an extended period of time, and once it hit pre-determined markers then it triggers going into different stages of production.
+- [Slowfund launch announcement for Lost Eons](https://twitter.com/Long_Tail_Games/status/1470729086850912257?s=20) goes into the idea behind slowfunding.
+- [What is slowfunding?](https://cardboard.monster/pages/what-is-slowfunding)
+
+### Printing Partnerships
+One option is to partner with retailers to help fund a print run. Many online retailers do this (I have experience partnering with Exalted Funeral).
+- [CHAPBOOK CO-OP](https://chapbookcoop.carrd.co/) is a collection of retailers (Monkey's Paw Games, Loot the Room, Spear Witch, ratti incantati) that have come together to help designers fund a print run (and sell the games in their storefronts across the globe).
 
 [back to index](#index)
 <p></p>
@@ -232,15 +284,17 @@ In the end, you can publish a game without any custom licensing, but what is bec
 ### Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
 
-### Printing & Publishing
+## Printing & Publishing (Yourself)
 So you've put your game on itch or drivethru and you want to get a print run going. Here are some resources that can help guide you in the right direction.
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
 - [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
+
 [back to index](#index)
 <p></p>
 ---
-## Printing Options
+
+### Printing Options
 There are a few different options in terms of printers that you can use. This is by no means an exhaustive list, but is a place to start.
 - [Mixam](https://mixam.com/zines) is probably the most common/popular way to print physical ttrpg zines.
 - [Tabletop Hotdish](https://twitter.com/TabletopHotdish/status/1456727136761524235?s=20) is a newer small business printer who has been working with indie zine publishers (and does free print proofs). Currently they are launching a full website, but dm on twitter to see about starting a partnership.
@@ -250,6 +304,14 @@ There are a few different options in terms of printers that you can use. This is
 - [Taylor Specialty Books](http://taylorspecialtybooks.com/)
 - [Smartpress](https://smartpress.com/)
 
+[back to index](#index)
+<p></p>
+---
+
+## Publishing Partnerships
+One option for funding a print run is to partner with a publisher/distributor. Many indie storefronts regularly partner with game writers to get a finished game to print. This tends to involve a partnership where the store fronts some (or all) of the cost to print. Afterwards they handle distribution, and after the print costs are recouped they pay regular royalties to the game's designer. This is the avenue I went through for Liminal Horror (I had it published through Exalted Funeral Press).
+- [Chapbook Co-op](https://chapbookcoop.carrd.co/) is a new venture by Monkey's Paw Games, Loot the Room, Spear Witch, and rattiincantati that aims to provide funding and distribution for ttrpg zines (without the kickstarter). Not only do they help with printing, but having the storefronts in multiple markets. This model of co-op funding is one that hopefully we see more and more.
+- If publishing it yourself is out of reach (logistically or financially), it is worthwhile to reach out to one of the great small ttrpg retailers listed below. Sometimes all it takes is emailing the right person to make a connection that can help you get into print.
 [back to index](#index)
 <p></p>
 ---
@@ -301,28 +363,3 @@ Once you have a completed game, it is important to focus some effort on marketin
 [back to index](#index)
 <p></p>
 ---
-
-## FUNDING
-While you can write and create each aspect of your zine yourself, some parts may require funds to complete (either to make a reality or to commission someone to make). Some things that may require investment are:
-- Art
-- Writing
-- Editing
-- Layout
-- Design
-- Publishing
-
-Other than self funding (or getting someone to invest/partner), there are are a few different ways to raise funds for your game. There is:
-- setting up a co-op
-- slowfunding
-- settig up pre-orders
-- "crowd funding" platforms (such as itchfunding or Gamefound).
-
-### itchfunding
-An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
-- [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
-- [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
-PlusOneEXP hosted a great discussion on Itchfunding.
-- [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
-- [Part 2](https://www.youtube.com/watch?v=o5FJiCCoe5c&ab_channel=PlusOneExp) is with KeganExe, Adam Bell, Nic Masyk
-- [Part 3](https://www.youtube.com/watch?v=LpsOqZ4sAWU&ab_channel=PlusOneExp) is with Thomas Manuel & Sam Leigh.
-- [Google Doc compiling notes on the discussions](https://docs.google.com/document/d/1MW7uZ2LS2BHGA2bZlZ9LwgCSzVZAVhzeHF4crxtUeQU/edit#heading=h.s68hu2kptye4) by EldritchMouse.

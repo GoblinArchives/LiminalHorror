@@ -29,6 +29,8 @@ Games have different licenses that dictate what can be used from the core text. 
 - [**Trophy**](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [**Wretched & Alone**](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
 
+-[**ARCANUM**](https://arc-rpg.com/arcanum?__s=n5rxcw9oizo8ivnlxqm6) by momatoes is a great example of an SRD that provides you with the tools to make a game using the SRD. In momatoes own words "If you want to make a creature codex based on ‘90s Variety Children Shows gone wrong, Spells & Techniques for a cyberpunk setting, or a rules modification for games running only an hour long, it’s now Legally Blessed (™)  if you read and follow the common-sense guidelines from the" [ARC RPG license](https://arc-rpg.com/license).
+
 **Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. I wrote a small twitter thread on the different supports Liminal Horror provides for people who are wanting to write their own mysteries/sessions/adventures. That can be found here: [Interested in writing cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
 
 ---

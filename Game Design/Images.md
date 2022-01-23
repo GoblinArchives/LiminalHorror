@@ -17,6 +17,7 @@ If you are like me and not the most visual creative oriented, luckily there is a
 
 ## COMMERCIALLY LICENSED ART
 There are many artists that provide options to commerically license their art. Some use a flat purchase (on itch or another platform) while others provide licensing to those who subscribe to their patreon. Here are few that I have found:
+- [Creative Comrades Licensed Art](https://jnbutler.art/#ccla-art) by JN Butler Art is a collection of art that is able to be licensed for commercial use under the stipulations of the Creative Comrades License.
 - [Evelyn Moreu](https://www.patreon.com/evlynmoreau) has a Patreon that contains some of the best art that she allows you to use commercially in your zines (if you subscribe).
 - [Perplexing Ruins](https://www.patreon.com/perplexingruins) also has a patreon that provides access to images that can be commercially licensed through a subscription.
 - [Andy's Inventory Art Pak #1](https://andyanimates.itch.io/andys-inventory-1) by Andrew White is a collection of 81 random inventory items that can purchased to use uder a CC BY 4.0.
@@ -27,7 +28,7 @@ There are many artists that provide options to commerically license their art. S
 
 ## Maps
 Here are some great resources to help you create maps for your games.
-- [watabou generators](https://watabou.itch.io/) by Watabou is a collection of map generators (neighborhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commercially in your work. 
+- [watabou generators](https://watabou.itch.io/) by Watabou is a collection of map generators (neighborhood, one page dungeon, mansions, medieval fantasy city generator, pixel dungeon, village, city, fantasy region) that can be used commercially in your work.
 - [Perplexing Ruins Hex Map Tile Set!](https://perplexingruins.itch.io/perplexing-ruins-hex-kit-tiles) by Perlexing Ruins is a fantastic tile set that is made available for use through donations. It provides assets for [Hex Kit Software](https://cone.itch.io/hex-kit)
 - [Dungeon Scrawl](https://dungeonscrawl.com/docs/#/) by ProbableTrain is a map making software that supports you in creating [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
