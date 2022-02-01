@@ -21,7 +21,7 @@ Games have different licenses that dictate what can be used from the core text. 
 ### Example SRDs
 - [**Liminal Horror**](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
 - [**Cairn**](https://cairnrpg.com/cairn-srd/) by Yochai Gal. It is an adventure game where players explore dark and mysterious woods. It is based on Into the Odd and Knave.
-- [Vaults of Vaarn] by Leo Hunt (with SRD by Desolate Drifter) is a techo filled game of a dying sun over a blue desert of science fantasy adventures.
+- [Vaults of Vaarn](https://vaarn.github.io/#/) by Leo Hunt (with SRD by Desolate Drifter) is a techo filled game of a dying sun over a blue desert of science fantasy adventures.
 - [**PINKHACK**](https://monkeys-paw-games.itch.io/pinkhack-srd) by Monkey's Paw Games. Rules for Fantastic Role-Playing Wargames, Monkey's Paw Games has created a combination of the Whitehack and into the Odd.
 - [**Beak, Feather, & Bone**](https://possible-worlds-games.itch.io/bfb-srd) by Tyler Crumrine. This rule framework is one that involves building a world through collaborative map making.
 - [**24XX**](https://jasontocci.itch.io/24xx) by Jason Tocci is a framework of rules that works as a modular plug-and-play toolkit. Rules lite and dynamic, 24XX SRD is axtremely versitile and includes a plethora of templates and resources to help designers get started.
