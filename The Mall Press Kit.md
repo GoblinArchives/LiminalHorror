@@ -89,4 +89,4 @@ I tested it out with the designer and I like the mechanical additions to the  ru
 **Liminal Horror:** There's so many little things that this game does that um just kind of gives you those immediate little hooks into the character and into what's going on which um you know it's like painting in broad strokes with suggestive  little detail is something that a lot of good design does...yeah...it's very minimalist but you come away with a good picture. - **Emmy, Dying Stylishly (Ennie award winning writer of Stygian Library, Gardens of Ynn, Esoteric Enterprises, Dungeon Bitches)**
 
 ## Follow Up
-If you have additional questions, would like to schedule an interview, set up a time to play with me, or have any other questions please feel free to reach out via email to **nle.pdx@gmail.com** or DM me on twitter at [@goblin_archives](https://twitter.com/goblin_archives)
+If you have additional questions, would like to schedule an interview, set up a time to play with me, or have any other questions please feel free to reach out via twitter at [@goblin_archives](https://twitter.com/goblin_archives)
