@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Mall Character Creation
-nav_order: 10
+nav_order: 11
 ---
 
 # The Mall: Character Creation

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Game Design
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 
