@@ -4,8 +4,16 @@ title: ALL IN ONE PLACE
 nav_order: 10
 parent: Game Design
 ---
+[![A goblin reaching for a book from bookshelves hidden behind a greenhouse's glass walls.](/LiminalHorror/img/goblinarchives.png "Click to embiggen"){:height="50%" width="50%"}](/LiminalHorror/img/goblinarchives.png)
+Art by [Goblins and Gardens](https://goblinsandgardens.com/)
+
 # The Annotated Archive of Game Design Resources
-Below is a collection of resources I found to help guide me through the process of becoming a game designer (who writes their own system, or writes adventures for different systems). It is not comprehensive, and is a living document. My hope is to continue to grow this resource so that others can benefit from the collective insight of the ttrpg/design community.
+A cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
+
+## What is The Annotated Archives?
+Curated by Goblin Archives, this site's goal is to lower the barrier of entry for designers. It brings together twitter threads, blogs and youtube videos.
+
+Cataloging these resources aims to demystify the design process. The push to open practice helps support the community. The Archives is a place that makes these practices easy to find.
 
 ## Where to start (a great overview)
 - [Making An RPG Zine Start To Finish](https://www.youtube.com/watch?v=v_VSdmLw6bk&ab_channel=NateTreme) by the [Highland Paranormal Society](https://natetreme.itch.io/) (Nate Treme). This is a fantastic overview of how to make a zine, especially since it guides the viewer through within the context of an actual ttrpg zine over its 4 and a half minutes runtime.
@@ -13,6 +21,7 @@ Below is a collection of resources I found to help guide me through the process 
 - **Markdown** is increasingly being a format that designers are using when writing. I find it really helpful in both the process and what it allows me to do (output in epub, html, and this website). Two great resources that are also included below are [Luke Gearing's "Using Markdown and Pandoc to Make RPG Documents for Free"](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) and [Nate Treme's Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). I think it is definitely worth looking into as a tool to use when designing.
 - [5 Tips for Making Money in TTRPGs](https://www.youtube.com/watch?v=ZXeEbDBWbS0&ab_channel=JohnBattle) by John Battle is a great overview about how they got to where they are currently (both their games and channel are top tier).
 
+---
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
 - [PART 2: PROGRAMS](#programs)
