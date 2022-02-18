@@ -13,6 +13,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 ## Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
+- [Designing]
 - [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
 - [Why Is Layout Important in Graphic Design?](https://www.flux-academy.com/blog/why-is-layout-important-in-graphic-design) by Stephanie Corrigan is a great overview of layout prinicples with visual examples to reinforce concepts.
 - [Using Canva to layout your ttrpg](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20) by Jeeyon Shim is a fantastic thread on how to leverage a great design tool to create small games. They look great and result in a quality that supports any new designer. Jeeyon is extremely thorough in their step by step guide in this thread. Well worth considering for your next project.

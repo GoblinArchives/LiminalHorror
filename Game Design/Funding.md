@@ -23,6 +23,7 @@ Other than self funding (or getting someone to invest/partner), there are are a 
 ### itchfunding
 An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
 - [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
+- [Information Thread: How To Setup Itchfunding!](https://twitter.com/PandionGames/status/1494418829610561536?s=20&t=zmv6zm7LLIMzcs6-3zLWbw) by Pandion Games is a fantastic 16 tweet thread that goes over the benefits and steps crowdfund using itchfunding.
 - [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
 PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer

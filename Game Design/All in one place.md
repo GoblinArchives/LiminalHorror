@@ -20,6 +20,7 @@ Cataloging these resources aims to demystify the design process. The push to ope
 - [Digital Zinemaking Basics: A Guide by Zeshio](https://www.zeshio.com/blog/2021/8/28/digital-zinemaking-basics-a-guide-by-zeshio) is a fantastic overview to making a zine from start to fnish (through 8 detailed steps), guiding the reader through the process of developing Adventurer's Guide to the Yol'Najj Forest as the framing.
 - **Markdown** is increasingly being a format that designers are using when writing. I find it really helpful in both the process and what it allows me to do (output in epub, html, and this website). Two great resources that are also included below are [Luke Gearing's "Using Markdown and Pandoc to Make RPG Documents for Free"](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) and [Nate Treme's Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). I think it is definitely worth looking into as a tool to use when designing.
 - [5 Tips for Making Money in TTRPGs](https://www.youtube.com/watch?v=ZXeEbDBWbS0&ab_channel=JohnBattle) by John Battle is a great overview about how they got to where they are currently (both their games and channel are top tier).
+- [Designing a tabletop rpg: day 1 - laying groundwork](https://www.haveyouplayedthis.com/posts/designing-an-rpg-e1) by Adam Bell is the start of a video series that has Adam making their practice visible as they design a ttrpg called Promise the Moon.
 
 ---
 ## Index
@@ -84,6 +85,9 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Typora](https://typora.io/) is a super easy to learn writing program that I use regualrly. When paired with [pandoc](https://support.typora.io/Install-and-Use-Pandoc/) it gives you a lot of built in output options as well. It is what I used to write and publish the [Liminal Horror epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing) (with some minor backend editing in calibre).
 - [Zine Month 2022 Contribution - How to use Markdown and Pandoc to publish zines.](https://underwaterowlbear.blot.im/zine-month-2022-contribution-how-to-use-markdown-and-pandoc-to-publish-zines) by Underwater Owlbear is a fantastic guide in how to use markdown (and the pandoc extension) to publish your zines. The end result is a printable booklet ready to be made into a zine (and a format that can easily be exported to epub).
 - [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme) by Nate Treme is a great overview of the type of unique projects that are possible with markdown. An HTML dungeon that you can post right onto itch.io!
+- [Spongedown](https://ivanceras.github.io/spongedown/Spongedown.html) is a wraps of markdown that allows you to integrate interesting diagrams, shapes, graphs, flowcharts, comics into your work.
+- [Svgbob](https://ivanceras.github.io/svgbob-editor/) is a diagramming model that lets you create shaped in your markdown files.
+- [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
 
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
@@ -194,10 +198,14 @@ One of the big things I wanted when writing Liminal Horror was to push mystelf t
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 - [Making Your Game Accessible Is Easy by Nate Lee](https://sessionprep.wordpress.com/2021/07/22/making-your-game-accessible-is-easy-i-promise-2/?fbclid=IwAR2sB_U2uZuWPGtgRyH37Ktj-5YHaQWQt1GJSOlhlRXDoLK4pm1cnwd37mE)
 - [How to make PDFs accessible](https://danielsell.blot.im/how-to-make-pdfs-accessible) by Daniel Sell is a short overview about why one should consider integrating additional formats into their repertoire.
+- [Colour Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/) is a tool that allows one to easily determine the contrast ration of your work and optimize it to include text and visual elements that  are accessible for individuals with vision disabilities like color-blindness and low-vision impairments.
+
+
 
 ### ePub
 There are a lot of benefits to creating epub versions of games. Text only games are able to be used with screen readers, and have boosted accessibility functions (fonts, font sizes, margins).
 - [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free) by Luke Gearing is a fantastic step by step guide on how to write in markdown and then publish the results in multiple formats (epub/html/pdf).
+- [Outputting multiple file formats with Pandoc](https://www.youtube.com/watch?v=K4-SmBgT4Uc&t=5s&ab_channel=LootTheRoom) by Loot the Room is a great 13 minute video that shows an adventure being written on a phone and being able to have multiple output methods.
 - [Accessible Publishing Best Practices: Guidelines for Common EPUB Issues in Plain Language](https://www.accessiblepublishing.ca/accessible-publishing-best-practices/) by the Canadian National Network for Equitable Library Service. This document lays out different variables to concider to support accessiblity in information design. The major points are to: add alt text, have clear information hierarchy, hyper-link with titles, and avoid complicated presentation.
 - [Sean Patrick Cain](https://twitter.com/seanpatrickcain/status/1427356978872033285) had the initial twitter thread that went over step by step how he created a ePub version of his game Long Haul 1983.
 - [Peter Eijk](https://twitter.com/JimmyShelter/status/1428439348417073159) created a followup thread to talk about how one can create accessible tables in ePubs using html.
@@ -257,6 +265,7 @@ Other than self funding (or getting someone to invest/partner), there are are a 
 ### itchfunding
 An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
 - [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
+- [Information Thread: How To Setup Itchfunding!](https://twitter.com/PandionGames/status/1494418829610561536?s=20&t=zmv6zm7LLIMzcs6-3zLWbw) by Pandion Games is a fantastic 16 tweet thread that goes over the benefits and steps crowdfund using itchfunding.
 - [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
 PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
