@@ -6,7 +6,7 @@ permalink: /
 ---
 # The Mall
 
-Currently **ITCHFUNDING** the first official module called The Mall.
+The first official module called The Mall is currently in development.
 
 - [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
 - The Mall is a wet, gooey, practical effects filled TTRPG adventure of mall-horror. Set in a 199x mall that gets transported out of time and space. The denizens of the mall are trapped inside with a creature not bound by any one form. It slithers through the mall, assimilating and imitating its victims until no one is left and a rift can be fully opened.
