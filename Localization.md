@@ -5,7 +5,7 @@ nav_order: 10
 has_children: true
 ---
 # Localization
-If you are interested in creating a version of Liminal Horror that is localized please reach out on twitter [@goblin_archvies](https://twitter.com/goblin_archives) or by email: nle.pdx@gmail.com
+If you are interested in creating a version of Liminal Horror that is localized please reach out on twitter [@goblin_archvies](https://twitter.com/goblin_archives).
 
 ## Localization Guide
 Yochai Gal (writer of Liminal Horror's parent system, Cairn) created a technical guide to creating localizations (with support of Stefano Grassi, who did the Italian Localization for Cairn). Yochai's guide is presented below with small edits to make it applicable to Liminal Horror.
