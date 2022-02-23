@@ -33,5 +33,5 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [WhatTheFont!](https://www.myfonts.com/WhatTheFont/) is a tool for finding out what font is used in an image.
 
 ---
-Previous Section: [Programs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/)
+Previous Section: [Editing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Editing/)
 <br> Next Section: [Images](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Images/)

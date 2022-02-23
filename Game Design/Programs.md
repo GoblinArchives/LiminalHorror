@@ -55,4 +55,4 @@ Here is a list of alternatives to Adobe programs created by [xdaniel Art](https:
 
 ---
 Previous Section: [Hacks and SRDs](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Hacks%20and%20SRDs/)
-<br> Next Section: [Layout & Fonts](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Layout%20&%20Fonts/)
+<br> Next Section: [Editing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Editing/)

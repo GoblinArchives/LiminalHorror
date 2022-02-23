@@ -26,13 +26,14 @@ Cataloging these resources aims to demystify the design process. The push to ope
 ## Index
 - [PART 1: HACKS AND SRDS](#hacks-and-srds)
 - [PART 2: PROGRAMS](#programs)
-- [PART 3: LAYOUT & FONTS](#layout-and-fonts)
-- [PART 4: IMAGES](#public-domain-images)
-- [PART 5: ACCESSIBILITY & DESIGN INTENTION](#accessibility-and-design-intention)
-- [Part 6: Licensing](#licensing)
-- [PART 7: FUNDING](#funding)
-- [PART 8: PRINTING & PUBLISHING](#printing-and-publishing)
-- [PART 9: MARKETING](#marketing)
+- [PART 3: EDITING](#editing)
+- [PART 4: LAYOUT & FONTS](#layout-and-fonts)
+- [PART 5: IMAGES](#public-domain-images)
+- [PART 6: ACCESSIBILITY & DESIGN INTENTION](#accessibility-and-design-intention)
+- [Part 7: Licensing](#licensing)
+- [PART 8: FUNDING](#funding)
+- [PART 9: PRINTING & PUBLISHING](#printing-and-publishing)
+- [PART 10: MARKETING](#marketing)
 
 ---
 ## HACKS AND SRDS
@@ -118,6 +119,34 @@ I've found myself writing my games using markdown (an easy to use computer langu
 
 Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
 [![A list of alternatives to each of Adobe's products.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
+
+## EDITING
+Editing is an important part of the design process but isn't always talked about. I hope to build out this entry into the archives with resources and support in understanding editing and its role.
+
+### Dev vs Copy Editing
+
+**Dev editing** (or developmental editing) happens during the writing process. It often gives input on structure, content and information design. It can lead to major overhauls in the end product. (I personally found this process super helpful in getting structural feedback on the text)
+
+**Copyediting** (also called line editing) focuses on the language used and centers on polishing the writing. From errors to readability to consistency, this process makes the end product professional.
+
+## Editing and The Mall
+
+I was able to hire [Vi Huntsman](https://www.youtube.com/channel/UCHjSosN7RjBiqPSdtE_VtAw) to do editing for The Mall. Initially I budgeted for copyediting.
+
+After the first round, Vi noticed that there was a need for dev editing and we discussed adding dev editing time to the project. We were then able to pivot, doing two rounds of dev editing (and some resulting major restructuring). Afterwards Vi did a final round of copyediting for The Mall.
+
+The below list includes every itchfunding version and corresponding notes (dev & copy) to archive the process. You can look to see what types of things get recommended in edits, and how they look when those notes get integrated into a text.
+
+### The Mall's Editing Journey
+
+1. **First Itchfunding Draft:** [The Mall v.0.75 itchfunding version (pre-Vi Huntsman Edits)](https://docs.google.com/document/d/1RjUWF10X_A7bFcg5s9XgRB65SW4ZHYAmaar7Qf7ecmU/edit)
+2. **Round 1 of Dev Edit Notes from Vi:** [Dev Edit Notes 1](https://drive.google.com/file/d/1FgLxC98gWrwjzxehw9_5sKyHR5Yq9KRY/view?usp=sharing)
+3. **Second Itchfunding Draft:**: [The Mall v.0.77](https://docs.google.com/document/d/1HfRNDsEtSLQjb22tnaKGaaIhpEwIuXyMN_BamYR0gFA/edit?usp=sharing)
+4. **Round 2 of Dev Edit Notes from Vi:** [Dev Edit Notes 2](https://drive.google.com/file/d/1n83ewFvfEaWEdDDvRfEjek-J6lAfnIRj/view?usp=sharing)
+5. **Third Itchfunding Draft:** [The Mall v.0.8](https://docs.google.com/document/d/1fMc6eWFGtly_qMIsVaupEg3ddPWAGlpuGINDZ9VXhCY/edit?usp=sharing)
+6. **Third Itchfunding Draft (with copyediting notes):** [The Mall v.0.85](https://docs.google.com/document/d/1NF299MT-4gC9kHISZCol2zxclKYPSqoa_yI4cbzeolM/edit)
+7. **Final Draft of Manuscript (with all dev and copy edits):** [The Mall v.1.0 manuscript](https://docs.google.com/document/d/1JCCzoXqbzwIcWwsyCfUb6jprA39WpkX3WeWErEhXrGw/edit#heading=h.d4nb9e8u4v25)
+
 
 ## LAYOUT and FONTS
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
