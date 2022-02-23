@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Licensing
-nav_order: 6
+nav_order: 7
 parent: Game Design
 ---
 
@@ -26,7 +26,7 @@ Open Licenses (often referred to as 3PP/ 3rd Party License) allow others to crea
 -  [THE COMPANY by Mega_Corp (itch.io)](https://mega-corp.itch.io/the-company) by Logan Dean [(@L__Dean) / Twitter](https://twitter.com/L__Dean) is an example of a license that is based on the foundation laid out by Mörk Borg. It acts as a direct invitation for others to create content, while maintaining the vision of the original work.
 - [Third Party Licence · Runecairn (byodinsbeardrpg.com)](https://runecairn.byodinsbeardrpg.com/licence/) by Colin Le Sueur - [(@ByOdinsBeardRPG) / Twitter](https://twitter.com/ByOdinsBeardRPG) is another example of a easy to parse Third-Party License. When asked about why he decided to make a license, he said, "Since I based it on Cairn, which has a CC BY-SA (share alike) licence, I'd already opened up Runecairn for editing and modifying, so a 3rd party licence just made sense. I wanted people to take my work and hack it, like I'd hacked Cairn. By adding a logo and giving explicit consent and encouragement, I hope people would build on Runecairn and make it their own. Selfishly it helps me as well, since more Runecairn adventures helps spread the word for the system and my work."
 
-- [ARC CREATORS LICENSE](https://arc-rpg.com/license) by momatoes is a license for ARC that allows people to "ARC-compatible, -inspired and derived works for free or for sale without any fees or prior permission required" as long  as they follow the guidance laid out in the license. 
+- [ARC CREATORS LICENSE](https://arc-rpg.com/license) by momatoes is a license for ARC that allows people to "ARC-compatible, -inspired and derived works for free or for sale without any fees or prior permission required" as long  as they follow the guidance laid out in the license.
 
 In the end, you can publish a game without any custom licensing, but what is becoming more evident is for game designers, they see having an open and permissive Third-Party license as a invitation for others to create works for their games. It acts a way to bring people in and let them know what can be done with the works.
 

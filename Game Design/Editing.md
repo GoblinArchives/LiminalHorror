@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Funding
+title: Editing
 nav_order: 3
 parent: Game Design
 ---

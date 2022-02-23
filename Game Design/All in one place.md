@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ALL IN ONE PLACE
-nav_order: 10
+nav_order: 11
 parent: Game Design
 ---
 [![A goblin reaching for a book from bookshelves hidden behind a greenhouse's glass walls.](/LiminalHorror/img/goblinarchives.png "Click to embiggen"){:height="50%" width="50%"}](/LiminalHorror/img/goblinarchives.png)
