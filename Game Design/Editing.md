@@ -21,6 +21,7 @@ I was able to hire [Vi Huntsman](https://www.youtube.com/channel/UCHjSosN7RjBiqP
 After the first round, Vi noticed that there was a need for dev editing and we discussed adding dev editing time to the project. We were then able to pivot, doing two rounds of dev editing (and some resulting major restructuring). Afterwards Vi did a final round of copyediting for The Mall.
 
 The below list includes every itchfunding version and corresponding notes (dev & copy) to archive the process. You can look to see what types of things get recommended in edits, and how they look when those notes get integrated into a text.
+- [Here is a twitter thread detailing the process.](https://twitter.com/goblin_archives/status/1496377041201283072?s=20&t=v20idDPizCxs3w0p_yIlpw)
 
 ### The Mall's Editing Journey
 
