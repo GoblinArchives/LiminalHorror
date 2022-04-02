@@ -6,16 +6,14 @@ parent: The Mall Resources
 ---
 
 # The Mall: Character Creation
-This is an alternative character creation process for making PC & NPCs for The Mall. This character generator is an optional replacement for [Liminal Horror’s Character Generation](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/) (LH pg 6-11).
+Alternative character creation rules for The Mall, for use in place of [Liminal Horror’s Character Generation (LH pg 6-11)](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/).
 
 The adventure/module for THE MALL is currently itchfunding at [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
 
-## First Step: Adding to the Mall
-Each person at the table proposes one shop to be added to the mall.  State its name, description and level (1-3). This is in addition to any shop created for the character to work at.
+## Step 1: Adding to the Mall
+Each person at the table will propose one shop to be added to the mall (this is not necessarily their PC’s place of work). State its name, description and floor (1-3). Then, it’s time to make your characters!
 
-## Overview
-
-### 1. **Ability Scores & HP**
+## Step 2: Ability Scores & HP
 
 a. Roll 3d6 for your ability scores (any two results may be swapped)
 
@@ -25,42 +23,11 @@ a. Roll 3d6 for your ability scores (any two results may be swapped)
 
 b. Roll 1d6 for Hit Protection (HP)
 
-### 2. **Investigator Details:**
+## Step 3: Investigator Details:
+Answer the following questions:
 
-The investigator details section will take you through the bulk of developing your character.
-   * [Why are you at the mall?](#why-are-you-at-the-mall)
-   * [Where do you work (or where were you visiting)?](#where-do-you-work)
-   * [How does your character feel about the mall?](#how-does-your-character-feel-about-the-mall)
-   * [Traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (Liminal Horror pg. 9)
-
-### 3. Starting Gear
-
-   * Characters have a total of 10 inventory slots. If all slots are full the PC’s HP becomes 0.
-   * Most items take up one slot – smaller items can be bundled together. Bulky items take two slots and are awkward or require two hands.
-   * Characters choose 2 items they brought to the mall.
-   * Mall Employees have a locker (they should mark what items they have stored in their locker).
-
-### 4. General Info
-
-   * Age: 1d12 + 17
-   * Choose a clothing style/look
-   * Name
-
-### 5. Final Step as a Party: Entanglements
-   * [**Connection:**](#Entanglements) Create or choose a NPC at the mall that they have a connection with.
-   * [**Bonds:**](#Entanglements) Describe a bond they have with another PC.
-   * [**Rumors:**](#Rumors) Roll on the Rumors table.
-
-## Step 1: Abilities
-Roll 3d6 for your ability scores (any two results may be swapped) and roll 1d6 for Hit Protection (HP).
-
-## Step 2: Investigator Details
-Answer the following questions.
-
-### Why Are You At The Mall?
-
-This module was written to have the players be denizens of the mall.
-The following three options are the main reasons your character would be at the mall **(RECOMMENDED)**
+### Why Are You At The Mall?**
+Likely Reasons:
 
    * **You work at the mall**.  *Where do you work?  ([Shops Table](#shops-table)) What job do you do?
    * **You are a customer.** *What is your reason for visiting today?*
@@ -68,8 +35,7 @@ The following three options are the main reasons your character would be at the 
 
 Below is a non-comprehensive list of shops at the mall.
 
-#### Shops Table
-
+**Shops Table**
    1. Roller Rink  (Level 1)
    2. DMV (Level 1)
    3. Arcade & Music Venue (Level 1)
@@ -84,6 +50,7 @@ Below is a non-comprehensive list of shops at the mall.
    12. Movie Theater (Level 3)
    13. Joe’s Burger Barn (Level 3 - recently closed)
    14. Help Desk (Level 3)
+**Shop Generator**
    15. Specialty stores (Spencers gifts, Hot Topic, Claire's)
    16. Makeup (Nail Salon, Ulta, Sephora)
    17. Clothing stores (Forever 21, Journey’s Shoes)
@@ -91,7 +58,7 @@ Below is a non-comprehensive list of shops at the mall.
    19. Big box stores (use to be 3) (JCpenney, Sears, Nordstrom)
    20. food court shops (Orange Julius, Cinnabon)
 
-### How does your character feel about the mall?
+### How does your character feel about the mall?**
 (or about life)? This is used in place of the core [Ideology and Beliefs](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/) (LH pg. 8) table. Players can also use that table as an additional step.
 
 Some examples are:
@@ -118,10 +85,9 @@ Some examples are:
    20. This place is your prison.
 
 ### Traits
-
 [Traits Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/) (LH pg. 9) can be used to randomly generate: Physique, Face, Speech and the optional traits - Virtues, Flaws, and Misfortunes.
 
-### Step 3: Starting Gear
+## Step 4: Starting Gear
 
 This replaces [Liminal Horror’s Starting Gear Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Starting%20Gear/) (LH pg. 10) .
 
@@ -180,12 +146,11 @@ The table below provides examples. More are included in [Equipment](https://gobl
 *   **If they are an employee**: what is their uniform? Did they bring a change of clothes with them into work?
 * **Name:** What is your character’s name?
 
-## Step 5: Complete this step as a party:
-### Entanglements
+## Step 5: Entanglements (complete as a party)
 
-**Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
+**a. Connection**: Choose/Create a NPC that your character has a connection with. Describe them and their connection to you.
 
-**Bonds**: Describe the bond you have with one other player at the table.
+**b. Bonds**: Describe the bond you have with one other player at the table.
 
    1. Crush
    2. Dating
@@ -208,7 +173,7 @@ The table below provides examples. More are included in [Equipment](https://gobl
    19. Co-worker
    20. Supervisor
 
-   Rumors: Roll D10 to determine what rumor the PC has heard recently.
+**c. Rumors:** Roll D10 to determine what rumor the PC has heard recently.
 1. The disappearances in town have something to do with the mall.
 2. Terry has a bunch of contraband hidden in security.
 3. If you can get into the vents, you can get anywhere in the mall.
