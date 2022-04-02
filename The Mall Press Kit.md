@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Mall Press Kit
-nav_order: 12
+nav_order: 11
 ---
 
 [![Yellow distressed texture, white font that says the mall.](/LiminalHorror/img/mall.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/mall.png)
@@ -9,7 +9,7 @@ nav_order: 12
 # THE MALL
 “It’s The Thing but set in a 199x mall”
 
-- Currently Itchfunding for ZiMo (Zine Month): 1/2/21 - 3/31/21
+- Successfully Itchfunded during ZiMo (Zine Month): 1/2/21 - 3/31/21
 - A google doc version of this press kit can be found at: [https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing](https://docs.google.com/document/d/1ZbNQZkNYkBiA1RBaonkj9F1Mo5Z8NUmqJlCNYPVGzUQ/edit?usp=sharing)
 
 ## What is The Mall?
@@ -28,25 +28,6 @@ The Mall is the first official adventure module for Liminal Horror (3 stat roll 
 - The **Whisper card mechanic** that uses narrative triggers to give players secret prompt cards. Some fundamentally change the character into something no longer human.
 - **The Mall as a modern dungeon**: There are 15 named NPCs, 5 factions, and 30 keyed rooms.
 - There are **tiered encounter tables** that align to progress on the DOOM clock.
-
-## Itchfunding
-**What do you get when you back?**
-- A fully playable and playtested module.
-- Single column pdf/google doc of the adventure (with internal linking).
-- Printable Whisper cards.
-- A draft of a player handout that has a map of the mall (all three floors) and a list of shops/NPCs.
-
-**What is itchfunding going to pay for?**
-- Vi Huntsman ([@ImmaWaffleBunny](https://twitter.com/ImmaWaffleBunny)) will provide professional editing of the module. [website](https://www.youtube.com/channel/UCHjSo)
-- Zach Hazard Vaupen ([@zachhazard](https://twitter.com/zachhazard)) will create a cover and art for the Whisper cards. [website](https://emo-sludge.com/)
-- arbage Goat ([@Garbagegoat1](https://twitter.com/Garbagegoat1)) will create interior spot art for the module [website](https://treasuretable.us/)
-- Goblin Archives will layout a zine pdf of The Mall as well as an accessible epub format.
-
-**What are the stretch goals?**
-- There is a planned stretch goal of a piece of internal art by [REDACTED].
-
-**Are there any reward tiers?**
-- Yes! There are a few fun reward tiers that you can back at. From collaborating on your projects to watching a movie together (or having me read you some stories), there is something for everyone.
 
 ## The Mall (and Liminal Horror) Links
 - Follow the project on Itch [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
