@@ -15,18 +15,18 @@ The mall’s denizens are trapped inside with a creature not bound by any one fo
 This module carries content warnings for death, human sacrifice, hallucinations, drugs, people trapped/imprisoned, instances of self-inflicted harm, temporal disorientation and body horror (bones and foreign objects breaking through skin, unwilling bodily transformation, bodily disfigurement).
 
 ## APPENDIX N
-Carpenter, John. - The Thing
-Astron-6 - The Void
-Siebert, Maggie - Bonding
-Umezz, Kazuo - The Drifting Classroom
+- Carpenter, John. - The Thing
+- Astron-6 - The Void
+- Siebert, Maggie - Bonding
+- Umezz, Kazuo - The Drifting Classroom
 
 ## CREDITS
-**Writing, Layout & Design:** Goblin Archives 
-**Editing:** Vi Huntsman
-**Cover:** Zach Hazard Vaupen © 2022
-**Illustrations:** Garbage Goat (pg. X, x, x,x ,x, x,x ,x) © 2022
-**Illustration:** Trevor Henderson (pg. X) © 2022
-**Playtesters:** Chris, Will, Geoff, Andy, Paul, Tyler, Nick, Shadow and John
-**Feedback:** Chrissy Crits, Will Conwell, Garbage Goat, Logan Dean.
+- **Writing, Layout & Design:** Goblin Archives
+- **Editing:** Vi Huntsman
+- **Cover:** Zach Hazard Vaupen © 2022
+- **Illustrations:** Garbage Goat © 2022
+- **Illustration:** Trevor Henderson © 2022
+- **Playtesters:** Chris, Will, Geoff, Andy, Paul, Tyler, Nick, Shadow and John
+- **Feedback:** Chrissy Crits, Will Conwell, Garbage Goat, Logan Dean.
 
 [![A closed mall facade with fungus and darkness growing.](/LiminalHorror/img/themallcover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/themallcover.png)
