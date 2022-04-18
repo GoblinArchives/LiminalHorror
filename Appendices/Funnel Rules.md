@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Funnel Rules
-nav_order: 5
+parent: Appendices
+nav_order: 2
 ---
 [![Sewer with single beam of light, text saying funnel rules: goblin archives.](/LiminalHorror/img/Funnel.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/Funnel.png)
 

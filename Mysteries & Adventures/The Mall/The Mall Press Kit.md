@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Mall Press Kit
+parent: The Mall Resources
 nav_order: 11
 ---
 

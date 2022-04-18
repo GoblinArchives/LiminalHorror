@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Voidcrawl Procedure
-nav_order: 4
+parent: Appendices
+nav_order: 1
 ---
 
 [![Doors in an abandoned builden open, long hallway, the words Voidcrawl Procedures for Liminal Horror](/LiminalHorror/img/VOIDCRAWL.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/VOIDCRAWL.png)

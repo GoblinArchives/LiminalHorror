@@ -1,11 +1,16 @@
 ---
 layout: default
 title: The Mall Resources
-nav_order: 10
+nav_order: 3
+parent: Mysteries & Adventures
 has_children: true
 ---
 # THE MALL
 The Mall is an official adventure module for Liminal Horror. Below are links to digital resources for The Mall.
+
+Download <u>[itch](https://goblinarchives.itch.io/the-mall)</u>   <u>in print (TBA)</u>
+
+<iframe frameborder="0" src="https://itch.io/embed/1334244?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://goblinarchives.itch.io/the-mall">The Mall by Goblin Archives</a></iframe>
 
 ## SYNOPSIS
 The Mall is a wet, gooey, practical effects filled TTRPG adventure set in a 199x mall pulled out of time and space.
