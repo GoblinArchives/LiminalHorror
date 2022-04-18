@@ -24,7 +24,7 @@ This site also currently houses a collection of resources to help lower the barr
 
 ## Formats
 - **Liminal Horror** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing). [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
-- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [<u>itch<u>](https://goblinarchives.itch.io/the-mall)
+- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [itch](https://goblinarchives.itch.io/the-mall)
 - **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control* Summer 2022
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
