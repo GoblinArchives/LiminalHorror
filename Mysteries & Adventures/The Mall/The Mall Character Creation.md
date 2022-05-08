@@ -16,7 +16,7 @@ Each person at the table will propose one shop to be added to the mall (this is 
 
 ## Step 2: Ability Scores & HP
 
-a. Roll 3d6 for your ability scores (any two results may be swapped)
+a. Roll 3d6 for each of your ability scores (any two results may be swapped)
 
    * Strength (STR): Physicality, brawn & toughness.
    * Dexterity (DEX): Speed, sneaking & precision.
