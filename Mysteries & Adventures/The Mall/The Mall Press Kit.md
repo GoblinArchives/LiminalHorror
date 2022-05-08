@@ -2,6 +2,7 @@
 layout: default
 title: The Mall Press Kit
 parent: The Mall Resources
+grand_parent: Mysteries & Adventures
 nav_order: 11
 ---
 

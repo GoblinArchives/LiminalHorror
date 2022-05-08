@@ -3,6 +3,7 @@ layout: default
 title: The Mall Character Creation
 nav_order: 1
 parent: The Mall Resources
+grand_parent: Mysteries & Adventures
 ---
 
 # The Mall: Character Creation

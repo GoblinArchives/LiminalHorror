@@ -3,6 +3,7 @@ layout: default
 title: Whisper Cards (Digital)
 nav_order: 2
 parent: The Mall Resources
+grand_parent: Mysteries & Adventures
 ---
 
 # Whisper Cards
