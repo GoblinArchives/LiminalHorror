@@ -9,7 +9,7 @@ grand_parent: Mysteries & Adventures
 # The Mall: Character Creation
 Alternative character creation rules for The Mall, for use in place of [Liminal Horror’s Character Generation (LH pg 6-11)](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/).
 
-The adventure/module for THE MALL is currently itchfunding at [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
+The adventure/module for THE MALL can be found at [https://goblinarchives.itch.io/the-mall](https://goblinarchives.itch.io/the-mall)
 
 ## Step 1: Adding to the Mall
 Each person at the table will propose one shop to be added to the mall (this is not necessarily their PC’s place of work). State its name, description and floor (1-3). Then, it’s time to make your characters!
