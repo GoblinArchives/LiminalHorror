@@ -30,7 +30,7 @@ At the end of the scene when the monster erupts from Mr. Neil (DOOM 2), give eac
 
 ## Digital Whisper Card Instructions
 1. Download [the-mall-whisper-cards.pcio](https://drive.google.com/drive/folders/1Ikdr8l3J_wpxC3sIZLxtw38Z5XvNLx5t?usp=sharing)
-2. Go to [PlayingCards.io](PlayingCards.io) Virtual Tabletop
+2. Go to [PlayingCards.io](https://playingcards.io/) Virtual Tabletop
 3. Scroll down to {Import a Game File}
 4. Drag or select [the-mall-whisper-cards.pcio](https://drive.google.com/file/d/1ZRxz_vQSIYbLoE5Sx0-jcE1aH6iFcLnv/view?usp=sharing) to create a new game using those files.
 
