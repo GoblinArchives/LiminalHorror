@@ -26,8 +26,8 @@ This site also currently houses a collection of resources to help lower the barr
 
 ## Formats
 - **Liminal Horror** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror), [Japense Translation](https://booth.pm/en/items/3496067), [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing),
-- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [itch](https://goblinarchives.itch.io/the-mall)
-- **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control* Summer 2022
+- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [itch](https://goblinarchives.itch.io/the-mall)
+- **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [itch](https://goblinarchives.itch.io/the-bureau)
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
