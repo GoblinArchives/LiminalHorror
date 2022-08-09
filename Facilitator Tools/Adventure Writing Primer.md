@@ -4,13 +4,6 @@ title: Adventure Writing Primer
 nav_order: 1
 parent: Facilitator Tools
 ---
----
-Title: A Liminal Horror Primer: An Adaptable Modern Horror System for Adventure Writing
-Date: August 9, 2022 2:13 pm
-Description: A framework for writing your own Liminal Horror adventures.
-Tags: Appendix, Liminal Horror, Adventure Writing, Facilitator Tools
-
----
 
 # **A Liminal Horror Primer: An Adaptable Modern Horror System for Adventure Writing**
 
