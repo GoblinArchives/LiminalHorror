@@ -12,16 +12,22 @@ nav_order: 13
 
 *リミナルホラー*    [booth.pm](https://booth.pm/en/items/3496067)   [itch](https://goblinarchives.itch.io/japaneseliminalhorror)   [drivethruprg](https://www.drivethrurpg.com/product/380333/Japanese-Liminal-Horror-)
 
-**The Mall** *Official module: What if The Thing were set in a 1990s mall?* [itch](https://goblinarchives.itch.io/the-mall)   in print (Summer 2022)
+**The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall) / [itch](https://goblinarchives.itch.io/the-mall)   in print (Summer 2022)
 
 <iframe frameborder="0" src="https://itch.io/embed/1334244?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://goblinarchives.itch.io/the-mall">The Mall by Goblin Archives</a></iframe>
 
-**The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control* Summer 2022
+**The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau) / [itch](https://goblinarchives.itch.io/the-bureau)
+
+<iframe frameborder="0" src="https://itch.io/embed/1584217?dark=true" width="552" height="167"><a href="https://goblinarchives.itch.io/the-bureau">The Bureau by Goblin Archives, Unenthuser</a></iframe>
 
 **Appendices** *Modular rules, supplements, and ways to expand Liminal Horror*
 
 - Funnel Rules [itch](https://goblinarchives.itch.io/funnel-rules)   [drivethru](https://www.drivethrurpg.com/product/389661/Liminal-Horror-Funnel-Rules)   [blog](https://goblinarchives.blot.im/funnel-rules)
 - Voidcrawl Procedure [itch](https://goblinarchives.itch.io/voidcrawl)   [drivethru](https://www.drivethrurpg.com/product/390134/Liminal-Horror-Voidcrawl-Procedure)  [blog](https://goblinarchives.blot.im/voidcrawl-procedure-for-liminal-horror)
+- [Time Procedures for Liminal Horror](https://goblinarchives.blot.im/time-procedures-for-liminal-horror)
+- [Item Tags for Liminal Horror](https://goblinarchives.blot.im/item-tags-for-liminal-horror)
+- [Faction: The Bureau](https://goblinarchives.blot.im/faction-the-bureau)
+- [Monster: Ghosts of Another Present](https://goblinarchives.blot.im/ghosts-of-another-present)
 
 **Adventure Conversions** *Adventures that have been converted to be run with Liminal Horror* [<u>itch</u>](https://goblinarchives.itch.io/adventure-conversions-for-liminal-horror)
 

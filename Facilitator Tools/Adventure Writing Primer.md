@@ -5,7 +5,7 @@ nav_order: 1
 parent: Facilitator Tools
 ---
 
-# **A Liminal Horror Primer: An Adaptable Modern Horror System for Adventure Writing**
+# **Adventure Writing Primer: Liminal Horror as an Adaptable System for Modern Horror**
 
 ## Introduction
 
@@ -59,11 +59,11 @@ As I've designed official modules for Liminal Horror, I've found that the versat
 
 ### Variables Index
 
-- [Character Gen](#Character Gen) (backgrounds, starting equipment) - recommended start for all adventure writing
-- [Party Composition](#Party Composition) (party questions/framing, entanglements)
-- [Stress](#Stress) (its use and ways to adjust)
-- [Fallout](#Fallout) (creating your own to tie to your specific brand of weird) - second place to go if writing an adventure
-- [Modular Rules](#Modular Rules) (examples of some I've created as a means to support different genre set pieces)
+- **Character Gen** (backgrounds, starting equipment) - recommended start for all adventure writing
+- **Party Composition** (party questions/framing, entanglements)
+- **Stress** (its use and ways to adjust)
+- **Fallout** (creating your own to tie to your specific brand of weird) - second place to go if writing an adventure
+- **Modular Rules** (examples of some I've created as a means to support different genre set pieces)
 
 ------
 
@@ -75,9 +75,9 @@ The most straightforward adaptation you can do is to create custom [backgrounds]
 
 Below are three different, specific examples of approaches you can take. They have varying degrees of restructuring from the core text.
 
-- [From Funnels](#From Funnels)
-- [From The Bureau](#From The Bureau)
-- [From The Mall](#From The Mall)
+- **From Funnels**
+- **From The Bureau**
+- **From The Mall**
 
 
 
@@ -136,7 +136,7 @@ Creating a custom procedure for creating a character can be a great way to modif
 - Step 5: General Info (age, look, name, final touches)
 - Step 6: Entanglements (see the [following section](#Party Composition) for details)
 
-[back to Variables Index](#Variables Index)
+
 
 ------
 
@@ -148,9 +148,9 @@ Getting to the heart of what brings the party together is another variable that 
 
 Party composition is often made up of:
 
-- [Party Questions](#Party Questions)
-- [Entanglements - Connections](#Entanglements - Connections)
-- [Entanglements - Bonds](Entanglements - Bonds)
+- **Party Questions**
+- **Entanglements - Connections**
+- **Entanglements - Bonds**
 
 
 
@@ -172,8 +172,6 @@ Having players create at least one NPC that they have a connection to is a fanta
 
 While in the core text this is listed as optional, for The Mall I made it a built in step for players. It begins to create a web of connection and gives a starting point for characters in relation to each other. This is also great because of how play impacts and changes these relationships (remember, the Liminal Horror is how characters change in the face of these events, and often it is not for the best).
 
-[back to Variables Index](#Variables Index)
-
 ------
 
 ### Stress
@@ -189,17 +187,13 @@ Depending on the themes, tone, and need in your adventure, you can adjust how st
 
 #### **Possible Adjustments**
 
-- **In Place of Stress:** One adjustment could be introducing a variable in the place of stress (or to go alongside it). In The Mall, there is a [mechanic called Whisper Cards](https://goblinarchives.github.io/LiminalHorror/Mysteries%20&%20Adventures/The%20Mall/Whisper%20Cards/). For this module the trigger for Whisper Cards would replace getting stress. This only occurred for the player taking an action. So while other characters got stress in a situation, the one taking the most risk got a Whisper Card instead. This mean while stress was still in play (especially for attacking HP and establishing stakes) Whisper Cards become the main conduit for the weird. (This decision was to reinforce the being replaced theme of the module, and was a way to integrate a [modular rule - see below](#Modular Rules)).
+- **In Place of Stress:** One adjustment could be introducing a variable in the place of stress (or to go alongside it). In The Mall, there is a [mechanic called Whisper Cards](https://goblinarchives.github.io/LiminalHorror/Mysteries%20&%20Adventures/The%20Mall/Whisper%20Cards/). For this module the trigger for Whisper Cards would replace getting stress. This only occurred for the player taking an action. So while other characters got stress in a situation, the one taking the most risk got a Whisper Card instead. This mean while stress was still in play (especially for attacking HP and establishing stakes) Whisper Cards become the main conduit for the weird. (This decision was to reinforce the being replaced theme of the module, and was a way to integrate a **modular rule - see below**).
 
-- **Drop Connection To Fallout:** Another adjustment could be to drop the connection to Fallout. Having stress simply be a risk akin to physical damage. This removes the characters being shifted by the weird, but maintains the resource tension by giving another avenue to impact HP and decrease stats. In a straight slasher style module I could see omitting fallout (see the [Fallout Considerations below](#Fallout)).
+- **Drop Connection To Fallout:** Another adjustment could be to drop the connection to Fallout. Having stress simply be a risk akin to physical damage. This removes the characters being shifted by the weird, but maintains the resource tension by giving another avenue to impact HP and decrease stats. In a straight slasher style module I could see omitting fallout (see the **Fallout Considerations below**).
 
-- **Shift to a Build Up System**: One other option is to have Stress build up over time, accruing until something happens (with the trigger being specific to a modular rule created for your scenario - [see below](#Modular Rules)).
+- **Shift to a Build Up System**: One other option is to have Stress build up over time, accruing until something happens (with the trigger being specific to a modular rule created for your scenario - **see below**).
 
   > **Note**: Liminal Horror explicitly is designed to avoid playing into stigmatizing mental health. If you create a new stress trigger that is not Fallout it needs to not step into historical tropes of sanity systems and its ilk. If there's a mechanical impact to rules, be careful what you name it.
-
-
-
-[back to Variables Index](#Variables Index)
 
 ------
 
@@ -233,7 +227,7 @@ We leaned in to Fallout as a major facet of the themes of corruption. The Shadow
 
 
 
-Fallout can be a thing that is shifted or omitted (see [Stress, Possible Adjustments](#Possible Adjustments) above), but it is also one of the easiest ways to strengthen the connection between the system, the weird, and your scenario. Character Gen and Fallouts are two things I always adjust for my Liminal Horror adventures and are the first places I recommend people look at when trying to write their own.
+Fallout can be a thing that is shifted or omitted (see **Stress, Possible Adjustments** **above**), but it is also one of the easiest ways to strengthen the connection between the system, the weird, and your scenario. Character Gen and Fallouts are two things I always adjust for my Liminal Horror adventures and are the first places I recommend people look at when trying to write their own.
 
 ------
 
