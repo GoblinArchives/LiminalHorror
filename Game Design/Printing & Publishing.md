@@ -34,7 +34,7 @@ One option for funding a print run is to partner with a publisher/distributor. M
 - If publishing it yourself is out of reach (logistically or financially), it is worthwhile to reach out to one of the great small ttrpg retailers listed below. Sometimes all it takes is emailing the right person to make a connection that can help you get into print.
 
 
-## Selling You Game
+## Selling Your Game
 One option for selling your printed game is to sell it yourself (on your website, as an add-on on itch, or using some other platform). The other option is to try and get some of the fantastic online sellers to carry it. This means reaching out to their buyers. Below are some different sites that sell ttrpg zines along with where they are based out of. If they are located in a different country, it may be benefitial to coordinate with them about doing a print run near them to cut down on international shipping.
 - [Starting Guide to Pricing](https://twitter.com/infinite_mao/status/1394367298601947136?s=20) by Jared Sinclair (bookseller for spearwitch) gives you a good idea of a starting point for pricing physical copies of your game.
 
