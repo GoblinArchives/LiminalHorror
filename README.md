@@ -18,7 +18,7 @@ It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://
 [goblinarchive.blot.im](https://goblinarchives.blot.im/) is where I post in process resources, appendices, updates, and additions to the Liminal Horror system.
 
 ## Newsletter
-Stay up to date with blog posts, releases, and other cryptid-esque sightings. It's like RSS but for your email! [Mailing List](https://tinyletter.com/GoblinArchives)
+Stay up to date with blog posts, releases, and other cryptid-esque sightings. It's like RSS but for your email! [Mailing List](https://goblinarchives.substack.com/)
 
 ## The Annotated Archive of Game Design Resources
 This site also currently houses a collection of resources to help lower the barrier of entry for designers.
@@ -28,8 +28,6 @@ This site also currently houses a collection of resources to help lower the barr
 - **Liminal Horror** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror), [Japense Translation](https://booth.pm/en/items/3496067), [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing),
 - **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [itch](https://goblinarchives.itch.io/the-mall)
 - **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [itch](https://goblinarchives.itch.io/the-bureau)
-
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
 
