@@ -20,14 +20,14 @@ Liminal Horror intentionally took something that worked well and made a few adju
 
 **Framework**
 
-- [Liminality of Characters](#Liminality-of-Characters)
-- [Setting and Place](#Setting-and-Place)
-- [Liminal Horror and Cops](#Liminal-Horror-and-Cops)
-- [Reinforcing Specific Horror Themes and Genres](#Reinforcing-Specific-Horror-Themes-and-Genres)
+- [Liminality of Characters](#liminality-of-characters)
+- [Setting and Place](#setting-and-place)
+- [Liminal Horror and Cops](#liminal-horror-and-cops)
+- [Reinforcing Specific Horror Themes and Genres](#reinforcing-specific-horror-themes-and-genres)
 
 **Licensing**
 
-- [Third Party License](#Third-Party-License)
+- [Third Party License](#third-party-license)
 
 **Core Rules**
 
