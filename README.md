@@ -20,12 +20,11 @@ Stay up to date with blog posts, releases, WIPs, and other cryptid-esque sightin
 
 ## Design Framework & Third Party License
 A DESIGN FRAMEWORK has been included to help support creators in making adventures, content, hacks, and remiaginings using LIMINAL HORROR. The Third Party License allows designers an open way to make things and retain all profit and control of their work.
-- [Design Framework](https://goblinarchives.github.io/LiminalHorror/Design%20Framework/) 
+- [Design Framework](https://goblinarchives.github.io/LiminalHorror/Design%20Framework/)
 - [Third Party License](https://goblinarchives.github.io/LiminalHorror/Third%20Party%20License/)
 
 ## The Annotated Archive of Game Design Resources
-This site also currently houses a collection of resources to help lower the barrier of entry for designers.
-- It can be found at the Game Design tab, or [here](https://goblinarchives.github.io/LiminalHorror/Game%20Design/)
+This site also currently houses a collection of resources to help lower the barrier of entry for designers called [The Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/)
 
 ## Formats
 - **Liminal Horror** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror), [Japense Translation](https://booth.pm/en/items/3496067), [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing),
