@@ -51,7 +51,7 @@ Goblin Archives LLC takes no responsibility for any legal claims against your pr
 
 You are allowed and encouraged (but are not required to) use one of the “Compatible with Liminal Horror” logo in your product, and on the website or storefront where you promote the product.
 
-[[Download](https://drive.google.com/drive/folders/1b9kcCWBn0778pU2Jr_CnB5jbtmYzJPX4?usp=sharing)]
+[[Download](https://drive.google.com/drive/folders/1lVuV_ZT8tKP848MzxYyL2pzbreGIUCR_?usp=share_link)]
 
 [![Different compatibility logos for third party content for Liminal Horror.](/LiminalHorror/img/logos.jpg "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/logos.jpg)
 

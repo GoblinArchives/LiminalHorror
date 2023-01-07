@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Appendices
-nav_order: 4
+nav_exclude: true
 has_children: true
 ---
 

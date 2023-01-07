@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design Framework (formerly SRD)
+title: Design Framework
 nav_order: 9
 ---
 
@@ -32,29 +32,17 @@ Liminal Horror intentionally took something that worked well and made a few adju
 **Core Rules**
 
 - [Liminal Horror Third Party License](#Liminal-Horror-Third-Party-License)
-
   - [Overview](#overview)
-
   - [Principles for Facilitators](#principles-for-Facilitators)
-
   - [Principles for Players](#principles-for-players)
-
   - [Character Creation](#character-creation)
-
   - [Equipment List](#equipment-list)
-
   - [Rules](#rules)
-
   - [Combat](#combat)
-
   - [Magic](#magic)
-
   - [Stress & Fallout](#stress-&-fallout)
-
   - [Paranatural Bestiary](#paranatural-bestiary)
-
   - [Spark Tables](#spark-tables)
-
   - [Rules Summary](#rules-summary)
 
 
@@ -83,7 +71,8 @@ The spaces in which these stories are told are extremely important to many types
 
 Even seemingly mundane spaces are important for modern horror as they are instantly relatable to the players. Using the schemas of those at the table we are able to imagine these spaces with vivid detail. It is then when you introduce the weird, strange, and horrifying that the juxtaposition hits players (and their characters).
 
-For more information watch [Empty Rooms: Architecture and Horror Panel](https://www.youtube.com/watch?v=_lFjSFGTBZ4&ab_channel=PlusOneExp)
+
+For more information watch: [Empty Rooms: Architecture and Horror Panel](https://www.youtube.com/watch?v=_lFjSFGTBZ4&ab_channel=PlusOneExp)
 
 [back to table of contents](#Table-of-Contents)
 
