@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SRD
-nav_order: 10
+title: Design Framework
+nav_order: 9
 ---
 
 # Liminal Horror Core Rules (v.2.25)
