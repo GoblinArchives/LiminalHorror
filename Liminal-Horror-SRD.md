@@ -2,6 +2,7 @@
 layout: default
 title: SRD
 nav_order: 10
+redirect_to: https://goblinarchives.github.io/LiminalHorror/Design%20Framework/
 ---
 
 # Liminal Horror Core Rules (v.2.25)
