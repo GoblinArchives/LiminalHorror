@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Framework
-nav_order: 9
+nav_order: 6
 ---
 
 # **LIMINAL HORROR DESIGN FRAMEWORK **

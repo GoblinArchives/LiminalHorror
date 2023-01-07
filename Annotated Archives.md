@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Design
+title: Annotated Archive of Game Design Resources
 nav_order: 8
 has_children: true
 ---

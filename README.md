@@ -8,17 +8,20 @@ permalink: /
 
 # Liminal Horror
 
-**Liminal Horror**  is a rules-lite, fail forward tabletop role playing game with Facilitator and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
-
-It was developed as a modern cosmic horror hack of Yochai Gal's [Cairn](https://yochaigal.itch.io/cairn) (itself a child of Chris McDowall's [Into the Odd](https://chrismcdee.itch.io/) & Ben Milton's [Knave](https://questingbeast.itch.io/knave)). Liminal Horror written by ([Goblin Archives](https://twitter.com/goblin_archives))
+**Liminal Horror**  is a modern horror ttrpg that can adapt to a myriad of different subgenres. It's fail forward, rules-lite chasis where you play as characters that battle against (and are changed) by the horrors that lurk in the dark.
 
 [itch](https://goblinarchives.itch.io/): All content can be found on the Goblin Archive itch.io page.
 
 ## Goblin Archives blog
 [goblinarchive.blot.im](https://goblinarchives.blot.im/) is where I post in process resources, appendices, updates, and additions to the Liminal Horror system.
 
-## Newsletter
-Stay up to date with blog posts, releases, and other cryptid-esque sightings. It's like RSS but for your email! [Mailing List](https://goblinarchives.substack.com/)
+## Newsletter / Substack
+Stay up to date with blog posts, releases, WIPs, and other cryptid-esque sightings. [goblinarchives.substack.com/](https://goblinarchives.substack.com/)
+
+## Design Framework & Third Party License
+A DESIGN FRAMEWORK has been included to help support creators in making adventures, content, hacks, and remiaginings using LIMINAL HORROR. The Third Party License allows designers an open way to make things and retain all profit and control of their work.
+- [Design Framework](https://goblinarchives.github.io/LiminalHorror/Design%20Framework/) 
+- [Third Party License](https://goblinarchives.github.io/LiminalHorror/Third%20Party%20License/)
 
 ## The Annotated Archive of Game Design Resources
 This site also currently houses a collection of resources to help lower the barrier of entry for designers.
