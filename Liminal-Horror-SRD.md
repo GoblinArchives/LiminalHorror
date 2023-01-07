@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 10
+nav_exclude: true
 redirect_to: https://goblinarchives.github.io/LiminalHorror/Design%20Framework/
 ---
 
