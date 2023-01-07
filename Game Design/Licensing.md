@@ -2,7 +2,7 @@
 layout: default
 title: Licensing
 nav_order: 7
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 
 # Licenses

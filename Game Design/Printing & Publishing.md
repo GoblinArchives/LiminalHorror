@@ -2,7 +2,7 @@
 layout: default
 title: Printing & Publishing
 nav_order: 9
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 ## Overview
 - [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).

@@ -2,7 +2,7 @@
 layout: default
 title: Funding
 nav_order: 8
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 
 ## FUNDING

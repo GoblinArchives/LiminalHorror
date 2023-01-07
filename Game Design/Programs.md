@@ -2,7 +2,7 @@
 layout: default
 title: Programs
 nav_order: 2
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 ## What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.

@@ -2,7 +2,7 @@
 layout: default
 title: Marketing
 nav_order: 10
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 ## MARKETING
 Once you have a completed game, it is important to focus some effort on marketing (in order to get it in front of players).

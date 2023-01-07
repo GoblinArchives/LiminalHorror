@@ -2,7 +2,7 @@
 layout: default
 title: Images
 nav_order: 5
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 
 # IMAGES

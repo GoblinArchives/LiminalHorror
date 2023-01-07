@@ -2,10 +2,10 @@
 layout: default
 title: Hacks and SRDs
 nav_order: 1
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 
-## HACKS AND SRDS 
+## HACKS AND SRDS
 
 ### So you want to make a game but are unsure about writing rules from scratch (also a note on writing modules/adventures/mysteries using existing systems)….
 Well great news! Many games live their lives as hacks for other games/rule systems. This means that you can start with a framework from which you can adapt to serve your idea/concept.

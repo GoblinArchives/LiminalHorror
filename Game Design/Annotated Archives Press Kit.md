@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Annotated Archives Press Kit
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 nav_order: 13
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Layout & Fonts
 nav_order: 4
-parent: Game Design
+parent: Annotated Archive of Game Design Resources
 ---
 # LAYOUT and Typeface
 
