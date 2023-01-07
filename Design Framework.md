@@ -27,11 +27,10 @@ Liminal Horror intentionally took something that worked well and made a few adju
 
 **Licensing**
 
-- [Liminal Horror Third Party License](#Liminal-Horror-Third-Party-License)
+- [Third Party License](#Third-Party-License)
 
 **Core Rules**
 
-- [Liminal Horror Third Party License](#Liminal-Horror-Third-Party-License)
   - [Overview](#overview)
   - [Principles for Facilitators](#principles-for-Facilitators)
   - [Principles for Players](#principles-for-players)
@@ -348,7 +347,7 @@ I use the term modular because it truly is. Liminal Horror is built in such a wa
 
 
 
-# Liminal Horror Third Party License
+## Third Party License
 
 This license allows anyone to make adventures, monsters, spells, content or mechanics for **Liminal Horror** and sell or publish for free.
 
