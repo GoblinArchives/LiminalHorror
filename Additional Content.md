@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LIMINAL HORROR CONTENT
+title: Additional Content
 nav_order: 5
 ---
 
