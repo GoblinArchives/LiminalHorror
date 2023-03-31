@@ -12,7 +12,7 @@ Liminal Horror as an adaptable system for bringing modern horror to the ttrpg ta
 
 The [core rules](https://goblinarchives.github.io/LiminalHorror/Core%20Game/) are built on the chassis of Carin (and by extension Into the Odd & Knave). This foundation allows for easy to engage with rules that allow people to generate characters quickly, and jump into play.
 
-Liminal Horror intentionally took something that worked well and made a few adjustments (modernization of equipment and language, taking away scars and adding the stress/fallout system based on the damage/scar system). This document showcases what design aspects make LH works well for general ttrpg horror, and what aspects adventure designers can tweak to help reinforce the specific themes/genres of horror and the weird.
+Liminal Horror took something that worked well and made a few adjustments (modernization of equipment and language, taking away scars and adding the stress/fallout system based on the damage/scar system). This document showcases what design aspects make LH works well for general ttrpg horror, and what aspects adventure designers can tweak to help reinforce the specific themes/genres of horror and the weird.
 
 
 
