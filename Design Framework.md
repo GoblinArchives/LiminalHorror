@@ -308,23 +308,14 @@ Some examples of other modular rules that I've put out (or are planning on putti
 - [Faction The Bureau - Goblin Archives (blot.im)](https://goblinarchives.blot.im/faction-the-bureau)
 - [It Follows - Goblin Archives (blot.im)](https://goblinarchives.blot.im/it-follows)
 - [Light - Goblin Archives (blot.im)](https://goblinarchives.blot.im/light)
-
 - [Ghosts of Another Present - Goblin Archives (blot.im)](https://goblinarchives.blot.im/ghosts-of-another-present)
-
 - [Time Procedures for Liminal Horror - Goblin Archives (blot.im)](https://goblinarchives.blot.im/time-procedures-for-liminal-horror)
-
 - [Item Tags for Liminal Horror - Goblin Archives (blot.im)](https://goblinarchives.blot.im/item-tags-for-liminal-horror)
-
 - [Appendix V...Vehicle's Expanded - Goblin Archives (blot.im)](https://goblinarchives.blot.im/appendix-v-vehicle-s-expanded)
-
 - [Appendix F Flashbacks - Goblin Archives (blot.im)](https://goblinarchives.blot.im/appendix-f-flashbacks)
-
 - [The Archivist - Goblin Archives (blot.im)](https://goblinarchives.blot.im/the-archivist)
-
 - [Inventory Card System](https://goblinarchives.itch.io/liminal-horror-inventory-card-system)
-
 - Three Draft Appendices: Wounds, Luck & Conditions
-
 - Documentary Crew (unreleased)
 
 
@@ -480,11 +471,11 @@ Play deals with themes of cosmic horror. This is represented mechanically with s
 
 ### The Weird
 
-**Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the unknown.
+**Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the horrible things that go bump in the night.
 
-### The Old Powers and their Progeny
+### Adaptable
 
-The Old Powers are bound in the deep, far away spaces. Their progeny act as a connection to reality. Some scurry across its surface while others are trapped beneath it. Many serve knowingly while even more are oblivious to the plans they further.
+LIMINAL HORROR is an adaptable modern ttrpg that can be used to run any type of horror sub-genre. Leveraging character creation, custom fallouts, and monsters you can bring your favorite horror media to life.
 
 ### Death
 
