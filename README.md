@@ -30,6 +30,10 @@ This site also currently houses a collection of resources to help lower the barr
 - **Liminal Horror** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror), [Japense Translation](https://booth.pm/en/items/3496067), [epub](https://drive.google.com/file/d/10f8Q4jC3yQdbTUKx1DqIaHXEkdBWw-Cg/view?usp=sharing),
 - **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [itch](https://goblinarchives.itch.io/the-mall)
 - **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [itch](https://goblinarchives.itch.io/the-bureau)
+- **The Bloom** *Official Module: What if Twin Peaks had a The Last of Us arc?* [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom), [itch](https://goblinarchives.itch.io/the-bloom)
+- **One Night At The Shelterwood Inn** *Official Crossover Module: A Liminal Horror & Triangle Agency Crossover Reality* in print soon, [itch](https://unenthuser.itch.io/one-night)
+
+LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
 
 The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
 
