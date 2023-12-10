@@ -2,7 +2,7 @@
 layout: default
 title: Rules
 nav_order: 6
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Rules

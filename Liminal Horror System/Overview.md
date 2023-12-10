@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 nav_order: 1
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Overview
@@ -24,7 +24,7 @@ There is no leveling or mechanical experience in **Liminal Horror**. Success and
 Play deals with themes of cosmic horror. This is represented mechanically with stress and Stress Fallout. Fallout centers on how characters are changed by the Old Powers. The design intentionally avoids using mental illness and trauma as gameplay mechanics.
 
 ### The Weird
-**Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the horrible things that go bump in the night. 
+**Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the horrible things that go bump in the night.
 
 ### Adaptable
 LIMINAL HORROR is an adaptable modern ttrpg that can be used to run any type of horror sub-genre. Leveraging character creation, custom fallouts, and monsters you can bring your favorite horror media to life.

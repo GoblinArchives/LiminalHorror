@@ -2,7 +2,7 @@
 layout: default
 title: Spark Tables
 nav_order: 13
-parent: Core Game
+parent: Legacy Edition
 ---
 # Spark Tables
 Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The entries are general enough that they can be used as the inspiration for a person, place, event, or object.

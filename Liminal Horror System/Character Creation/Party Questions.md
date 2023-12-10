@@ -3,7 +3,7 @@ layout: default
 title: Party Questions
 nav_order: 6
 parent: Character Creation
-grand_parent: Core Game
+grand_parent: Legacy Edition
 ---
 # Party Questions
 

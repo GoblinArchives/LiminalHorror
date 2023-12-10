@@ -2,7 +2,7 @@
 layout: default
 title: Principles for Facilitators
 nav_order: 2
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Principles for Facilitators

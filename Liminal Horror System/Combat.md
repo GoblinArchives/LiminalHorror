@@ -2,7 +2,7 @@
 layout: default
 title: Combat
 nav_order: 7
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Combat

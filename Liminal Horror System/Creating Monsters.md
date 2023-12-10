@@ -2,7 +2,7 @@
 layout: default
 title: Creating Monsters
 nav_order: 12
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Creating Monsters

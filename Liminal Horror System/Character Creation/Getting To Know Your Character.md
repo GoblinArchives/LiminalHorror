@@ -3,7 +3,7 @@ layout: default
 title: Getting To Know Your Character
 nav_order: 3
 parent: Character Creation
-grand_parent: Core Game
+grand_parent: Legacy Edition
 ---
 
 # Getting To Know Your Character

@@ -3,7 +3,7 @@ layout: default
 title: Starting Gear
 nav_order: 5
 parent: Character Creation
-grand_parent: Core Game
+grand_parent: Legacy Edition
 ---
 
 # Starting Gear

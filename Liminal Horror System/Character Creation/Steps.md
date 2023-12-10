@@ -3,7 +3,7 @@ layout: default
 title: Steps
 nav_order: 1
 parent: Character Creation
-grand_parent: Core Game
+grand_parent: Legacy Edition
 ---
 # Character Creation Steps
 

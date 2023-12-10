@@ -2,7 +2,7 @@
 layout: default
 title: Equipment List
 nav_order: 5
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Equipment List

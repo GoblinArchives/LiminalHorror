@@ -2,6 +2,6 @@
 layout: default
 title: Character Creation
 nav_order: 4
-parent: Core Game
+parent: Legacy Edition
 has_children: true
 ---

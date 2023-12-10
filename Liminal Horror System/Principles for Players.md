@@ -2,7 +2,7 @@
 layout: default
 title: Principles for Players
 nav_order: 3
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Principles for Players

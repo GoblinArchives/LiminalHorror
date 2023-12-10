@@ -2,7 +2,7 @@
 layout: default
 title: Paranatural Bestiary
 nav_order: 11
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Paranatural Bestiary

@@ -2,7 +2,7 @@
 layout: default
 title: Stress and Fallout
 nav_order: 10
-parent: Core Game
+parent: Legacy Edition
 ---
 
 # Stress & Fallout
