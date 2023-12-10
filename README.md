@@ -27,7 +27,7 @@ A DESIGN FRAMEWORK has been included to help support creators in making adventur
 This site also currently houses a collection of resources to help lower the barrier of entry for designers called [The Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/)
 
 ## Formats
-- **Liminal Horror: Investigators** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdfhttps://spacepenguin.ink/products/liminal-horror-investigators), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
+- **Liminal Horror: Investigators** [in print](https://spacepenguin.ink/products/liminal-horror-investigators), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
 - **Liminal Horror: Legacy Edition** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/)
 - **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [itch](https://goblinarchives.itch.io/the-mall)
 - **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [itch](https://goblinarchives.itch.io/the-bureau)
@@ -43,4 +43,4 @@ The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/).
 
 <p></p>
 
-[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/liminalhorrorcover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/liminalhorrorcover.png)
+[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/cover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/cover.png)
