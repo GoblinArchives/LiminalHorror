@@ -17,18 +17,20 @@ If you follow these rules you are allowed to publish free or commercial material
 Without explicit permission, you **may not:**
 
 - Copy or re-use the art of **Liminal Horror**, except those illustrations identified as *public domain*
-- Use the **Goblin Archives**,  **Liminal Horror**, or **Exalted Funeral**  logos
+- Use the **Goblin Archives**,  **Liminal Horror**, or **Space Penguin**  logos
 - State or imply that your work is an official **Liminal Horror** product, or that it has endorsement from **Goblin Archives**
 
 You **may:**
 
-- Use, copy, and modify the text of **Liminal Horror** and the [Liminal Horror SRD](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/). Liminal Horror Core Text is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Use, copy, and modify the text of **Liminal Horror Legacy Edition** and the [Liminal Horror SRD](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/). Liminal Horror Legacy Edition is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Use, reference, and modify the game rules and mechanics.
 - Reference any locations, creatures, characters or factions mentioned in **Liminal Horror**
 
 **Restrictions**:
 
 - You **cannot** make Liminal Horror [NTFs](https://en.wikipedia.org/wiki/Non-fungible_token).
+- Use AI generated Art or Text in the publication.
+- Use or copy text from the Investigators Edition or Deluxe Edition that is copyrighted by Goblin Archives and Josh Domanski.
 - You **cannot** publish work under the **Third Party License** content that would generally be deemed bigoted or hateful towards minorities, marginalized identities, and/or oppressed classes of any kind. You **can** use **Third Party License** for work that critiques bigotry, fascism, TERFs, billionaires, white supremacy, and other oppressive forces.
 
 
