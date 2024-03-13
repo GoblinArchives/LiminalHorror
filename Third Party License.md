@@ -22,7 +22,7 @@ Without explicit permission, you **may not:**
 
 You **may:**
 
-- Use, copy, and modify the text of **Liminal Horror Legacy Edition** and the [Liminal Horror SRD](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/). Liminal Horror Legacy Edition is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Use, copy, and modify the text of [**Liminal Horror Legacy Edition**](https://goblinarchives.github.io/LiminalHorror/Legacy%20Edition/). Liminal Horror Legacy Edition is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Use, reference, and modify the game rules and mechanics.
 - Reference any locations, creatures, characters or factions mentioned in **Liminal Horror**
 
