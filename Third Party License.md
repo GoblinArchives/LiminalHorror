@@ -28,9 +28,9 @@ You **may:**
 
 **Restrictions**:
 
+- You **cannot** use AI generated Art or Text in a Liminal Horror compatible publication.
 - You **cannot** make Liminal Horror [NTFs](https://en.wikipedia.org/wiki/Non-fungible_token).
-- Use AI generated Art or Text in the publication.
-- Use or copy text from the Investigators Edition or Deluxe Edition that is copyrighted by Goblin Archives and Josh Domanski and requires a licensing contract for use.
+-  You **cannot** use or copy text from the Investigators Edition or Deluxe Edition that is copyrighted by Goblin Archives and Josh Domanski without a licencing contract.
 - You **cannot** publish work under the **Third Party License** content that would generally be deemed bigoted or hateful towards minorities, marginalized identities, and/or oppressed classes of any kind. You **can** use **Third Party License** for work that critiques bigotry, fascism, TERFs, billionaires, white supremacy, and other oppressive forces.
 
 
