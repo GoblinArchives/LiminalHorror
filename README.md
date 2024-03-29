@@ -20,7 +20,7 @@ Stay up to date with blog posts, releases, WIPs, and other cryptid-esque sightin
 
 ## Design Framework & Third Party License
 A DESIGN FRAMEWORK has been included to help support creators in making adventures, content, hacks, and remiaginings using LIMINAL HORROR. The Third Party License allows designers an open way to make things and retain all profit and control of their work.
-- [Design Framework](https://goblinarchives.github.io/LiminalHorror/Design%20Framework/)
+- [Design Framework](https://goblinarchives.blot.im/designing-framework)
 - [Third Party License](https://goblinarchives.github.io/LiminalHorror/Third%20Party%20License/)
 
 ## The Annotated Archive of Game Design Resources

@@ -37,7 +37,7 @@ A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/limina
 - [Paranatural Bestiary](#paranatural-bestiary)
 - [Voidcrawl Procedure](#voidcrawl-procedure)
 - [Mystery Framework](#mystery-framework)
-- [Reinforcing Themes and Genres in Horror](reinforcing-themes-and-genres-in-horror)
+- [Reinforcing Themes and Genres in Horror](#reinforcing-themes-and-genres-in-horror)
 - [Appendix F Funnel Rules](#appendix-f-funnel-rules)
 - [Appendix T Time Procedures](#appendix-t-time-procedures)
 - [Appendix C Conditions](#appendix-c-conditions)

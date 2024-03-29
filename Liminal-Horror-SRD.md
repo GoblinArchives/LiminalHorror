@@ -2,7 +2,7 @@
 layout: default
 title: SRD
 nav_exclude: true
-redirect_to: https://goblinarchives.github.io/LiminalHorror/Design%20Framework/
+redirect_to: https://goblinarchives.github.io/LiminalHorror/Legacy%20Edition/
 ---
 
 # Liminal Horror Core Rules (v.2.25)
