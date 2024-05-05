@@ -728,6 +728,13 @@ Stress serves two functions:
 
 Depending on the themes, tone, and need in the adventure, adjust how Stress gets used (frequency, severity, ability to avoid using CTRL Saves).
 
+### Examples of Stress
+- **1 Stress**: Witnessing something horrid.
+- **1d4 Stress**: Particularly horrific scenes or the abilities of minor horrors.
+- **1d6 Stress**: Abilities of major horrors.
+- **1d8+ Stress**: Abilities of particularly monstrous entities or witnessing events not meant for human eyes.
+
+
 ### Fallout
 Fallout is how Investigators change as a result of encountering the weird, strange, and horrific. Stress causes Investigators to become more Weird.
 
@@ -820,7 +827,6 @@ An Investigator can use the power of a Resonant Artifact as part of their normal
 - Red Stapler. Activation: Pierce skin with a staple. The next unarmed attack the user makes is Enhanced (d12), the next attack against the user is also Enhanced (d12).
 - Gold Watch. Activation: Twist the crown. User ages in correspondence with the winding of the watch.
 - “This Meeting Sucks” Mug. Activation: Speak the phrase. The user is teleported to the nearest adjacent room.
-- Polyhedral Die. Activation: roll. Twelve-sided. Alters encounter probability. When rolled, the encounter chance for the next room entered becomes X-in-12, corresponding to the number rolled.
 - Plastic Pink Flamingo. Activation: Plant firmly in ground. Becomes a point of fascination to those that see it. CTRL Save or spend d6 turns staring, entranced. Suffering damage breaks the trance.
 - Maglight. Activation: Press button. Extinguishes nearest source of light, then sticks to the user’s hand. 1 HP to remove.
 - Wire-frame Glasses. Activation: place on head. Memories of the user fade from those that look at them, as long as they wear the glasses.
@@ -830,9 +836,9 @@ An Investigator can use the power of a Resonant Artifact as part of their normal
 - Puzzle Cube. Activation: Pivot internal mechanism. Gravity within a room shifts along the same plane as the cube. Lasts d6 minutes.
 - Pet Rock. Activation: Continued contact with your skin. Over d20 hours a new body forms out of a tumor on your side. If taken to term, roll new stats (4d6 for abilities, 2d6 for HP, dropping lower dice for each). Be warned: there can only be one.
 - No. 2 Pencil. Activation: Press tip into target. Both user and target are immobilized for as long as the pencil remains in contact. User may make a CTRL Save to break contact.
-- Chalk. Activation: Draw an item. Whatever is drawn becomes real. Roll 1d6. On a 6 a permanent Dimensional Shudder also occurs.
+- Chalk. Activation: Draw an item. Whatever is drawn becomes real.
 - Road Flare. Activation: Close all doors and ignite. As long as smoke fills room (1d12 hrs), nothing can open the closed doors. Each use makes your color drain, eventually leaving you monochrome gray.
-- Baroque Recorder. Activation: Blow into the mouthpiece. Produces a calming tone. +1 Stability to those that can hear. Only lasts as long as the tone is played. Make an additional encounter check.
+- Baroque Recorder. Activation: Blow into the mouthpiece. Produces a calming tone. +1 Stability to those that can hear. Only lasts as long as the tone is played. 
 - Snow Globe. Activation: Place on unconscious or willing victim. The victim’s essence is extracted into the snow globe. Can be transferred to a new host body.
 - Smoking Violin. Activation: Run a bow across the strings. Produces a nauseating sound, no matter the skill of the user. Attacks are Impaired for all who hear for as long as the violin is played.
 - Leather-bound Tome. Activation: open. Blank interior. Records the users thoughts in a fancy script.
@@ -1146,8 +1152,8 @@ This appendix provides a more nuanced use of conditions, deriving more specific 
 
 ### SERIOUS CONDITIONS
 - DEPRIVED - Investigator is unable to recover HP or ability scores. CLEAR: Fill the need that caused the DEPRIVED condition.
-- WOUNDED - Received after Critical Damage or certain injuries, some STR or DEX saves may be impaired. CLEAR: full rest and medical treatment.
-- POISONED- Toxins flow through the Investigator. DEX Saves are impaired. CLEAR: Medical treatment, prolonged rest in a safe space, forced expelling of the toxin.
+- WOUNDED - Received after Critical Damage or certain injuries, some actions may be more risky. CLEAR: full rest and medical treatment.
+- POISONED- Toxins flow through the Investigator. DEX is decreased by d6. . CLEAR: Medical treatment, prolonged rest in a safe space, forced expelling of the toxin.
 - DRAINED - Residual blowback from spellcasting or magic. CLEAR: full rest.
 - FATIGUE - Can be caused by being Deprived for more that 24 hours; can also be a common risk with battling the weird. CLEAR: long rest in a safe space.
 
@@ -1212,7 +1218,7 @@ Mechanical Tags pair with their [Descriptive] counterparts to add prescriptive r
 - BLEED	Damage beyond HP triggers a Save. On a failure, the victim suffers 1d4 damage at the end of scene.
 - BRUTAL	Damage is Enhanced. Using this item causes 1 Stress to the wielder.
 - BULKY	Items take two Inventory Slots and is awkward or requires two hands.
-- COMPLEX	DEX saves are Impaired.
+- COMPLEX Requires a successful DEX save to use.
 - DANGEROUS	Damage is Enhanced (d12) but the wielder must make a Save or suffer the damage as well.
 - DEBILITATING	Damage beyond HP is divided (rounded up) between DEX and STR.
 - DETERIORATING	After each use, make a CTRL Save. Failure runs the risk of breaking or reduction in usefulness.
@@ -1225,7 +1231,7 @@ Mechanical Tags pair with their [Descriptive] counterparts to add prescriptive r
 - PERILOUS	Has the potential to cause those who carry it to be Deprived.
 - PIERCING	Ignores Armor and goes straight to STR.
 - POISON	Damage beyond HP triggers a Save. On a failure, the victim suffers 1d4 damage to DEX at the end of scene.
-- POTENT	Rolls using this item are Enhanced.
+- POTENT	Damage rolls using this item are Enhanced.
 - QUICK	If using this, go first (if speed is a factor).
 - SILENT	This item can be used without a sound.
 - SLOW	If using this, go last (if speed is a factor).
