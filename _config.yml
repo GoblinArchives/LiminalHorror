@@ -1,13 +1,13 @@
 title: Liminal Horror
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-baseurl: "/LiminalHorror"
-url: ""
+baseurl: "/home"
+url: "liminalhorrorrpg.com"
 logo: "/img/logo1.png"
 color_scheme: light
 plugins:
   - jekyll-redirect-from
-include:
+    include:
     -js
 
 # Back to top link
