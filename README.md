@@ -39,8 +39,3 @@ LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/c
 The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
 
 The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/). Twitter:[@zachhazard](https://twitter.com/zachhazard)
-
-
-<p></p>
-
-[![Liminal Horror cover. A dark hallway, halfway down engulfed in blackness, with black arms reaching out from the abyss. White eyes blink from within.](/LiminalHorror/img/cover.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/cover.png)
