@@ -1,21 +1,20 @@
-title: Liminal Horror
+title: Cairn
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-site.url: "liminalhorrorrpg.com"
-logo: "/img/logo1.png"
+site.url: https://liminalhorrorrpg.com
+logo: "/img/logo.png"
 color_scheme: light
 encoding: UTF-8
 plugins:
-
   - jekyll-redirect-from
-    include:
+include:
   - js
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Liminal Horror was written and designed by Goblin Archives"
+footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
