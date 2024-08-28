@@ -30,3 +30,4 @@ The Investigators Edition (the core rules ready to bring to the table for player
 LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
 
 ![image](/img/LH.png)
+Liminal Horror Deluxe Edition Cover by Zach Hazard (coming early 2025)
