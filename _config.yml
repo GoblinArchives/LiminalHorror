@@ -2,13 +2,17 @@ title: Liminal Horror
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://liminalhorrorrpg.com
-logo:
+logo: "/img/lhlogo.png"
 color_scheme: light
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
 include:
   - js
+
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
 
 # External navigation links
 nav_external_links:
