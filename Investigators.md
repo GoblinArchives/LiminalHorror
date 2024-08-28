@@ -707,7 +707,8 @@ Use the following table to determine the location of damage/Wounds
 11. Knee
 12. Foot
 
-[![Wound Table](/LiminalHorror/img/wound.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/wound.png)
+### Wound Table
+![image](/img/wound.png)
 
 
 [back to index](#index)
@@ -838,7 +839,7 @@ An Investigator can use the power of a Resonant Artifact as part of their normal
 - No. 2 Pencil. Activation: Press tip into target. Both user and target are immobilized for as long as the pencil remains in contact. User may make a CTRL Save to break contact.
 - Chalk. Activation: Draw an item. Whatever is drawn becomes real.
 - Road Flare. Activation: Close all doors and ignite. As long as smoke fills room (1d12 hrs), nothing can open the closed doors. Each use makes your color drain, eventually leaving you monochrome gray.
-- Baroque Recorder. Activation: Blow into the mouthpiece. Produces a calming tone. +1 Stability to those that can hear. Only lasts as long as the tone is played. 
+- Baroque Recorder. Activation: Blow into the mouthpiece. Produces a calming tone. +1 Stability to those that can hear. Only lasts as long as the tone is played.
 - Snow Globe. Activation: Place on unconscious or willing victim. The victim’s essence is extracted into the snow globe. Can be transferred to a new host body.
 - Smoking Violin. Activation: Run a bow across the strings. Produces a nauseating sound, no matter the skill of the user. Attacks are Impaired for all who hear for as long as the violin is played.
 - Leather-bound Tome. Activation: open. Blank interior. Records the users thoughts in a fancy script.

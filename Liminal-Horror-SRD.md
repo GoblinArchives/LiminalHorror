@@ -3,6 +3,7 @@ layout: default
 title: SRD
 nav_exclude: true
 redirect_to: https://goblinarchives.github.io/LiminalHorror/Legacy%20Edition/
+search_exclude: true
 ---
 
 # Liminal Horror Core Rules (v.2.25)

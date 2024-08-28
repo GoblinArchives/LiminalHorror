@@ -21,11 +21,11 @@ The Investigators Edition (the core rules ready to bring to the table for player
 - The PDF version is available for free at [itch.io](https://goblinarchives.itch.io/liminal-horror) & [DrivetThruRPG](https://www.drivethrurpg.com/en/product/366656/liminal-horror-investigators).
 
 ## Official Modules
-- **The Mall** *What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [PDF](https://goblinarchives.itch.io/the-mall)
-- **The Bureau** *It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [PDF](https://goblinarchives.itch.io/the-bureau)
-- **The Bloom** *What if Twin Peaks had a The Last of Us arc?* [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom), [PDF](https://goblinarchives.itch.io/the-bloom)
-- **One Night At The Shelterwood Inn** *Crossover: A Liminal Horror & Triangle Agency Crossover Reality* [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn), [PDF](https://unenthuser.itch.io/one-night)
-- **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [in print - coming soon](), [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow)
+- **The Mall** *What if The Thing were set in a 1990s mall?* [PDF](https://goblinarchives.itch.io/the-mall) or [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall)
+- **The Bureau** *It's Gradient Descent meets Control* [PDF](https://goblinarchives.itch.io/the-bureau) or [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau)
+- **The Bloom** *What if Twin Peaks had a The Last of Us arc?* [PDF](https://goblinarchives.itch.io/the-bloom) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom)
+- **One Night At The Shelterwood Inn** *Crossover: A Liminal Horror & Triangle Agency Crossover Reality* [PDF](https://unenthuser.itch.io/one-night) or [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn)
+- **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow), print copies coming soon to Space Penguin Ink
 
 LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
 

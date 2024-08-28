@@ -4,13 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This game, and website, were written by Goblin Archives. I am a teacher/reading specialist/game designer.
+While originally written by Goblin Archives, the Liminal Horror dev team has grown.
 
+
+Goblin Archives (co-writer)
 Ways to contact and follow what is happening with Liminal Horror:
-<br>**Blog**: [Goblin Archives blog](https://goblinarchives.blot.im/)
+<br>**itch**: [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 <br>**Twitter**: [@goblin_archives](https://twitter.com/goblin_archives)
+<br>**Newsletter**: [https://goblinarchives.substack.com/](https://goblinarchives.substack.com/)
 
-Where to buy Liminal Horror:
-<br>**Exalted Funeral**: [https://www.exaltedfuneral.com/products/liminal-horror-pdf](https://www.exaltedfuneral.com/products/liminal-horror-pdf)
-<br>**Itch.io**: [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
-<br>**DriveThruRPG**: [https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)
+Josh Domanski (co-writer and designer)
+<br>**itch**: [https://unenthuser.itch.io/](https://unenthuser.itch.io/)
+<br>**Twitter**: [@Unenthuser](https://twitter.com/Unenthuser)
+
+Zach Hazard Vaupen (art director)
+<br>**Website**: [https://emo-sludge.com/](https://emo-sludge.com/)
+<br>**itch**: [https://emosludge.itch.io/](https://emosludge.itch.io/)
+<br>**Twitter**: [@zachhazard](https://twitter.com/zachhazard)
+<br>**Newsletter**: [https://buttondown.email/emosludge](https://buttondown.email/emosludge)
+<br>**Patreon**: [https://www.patreon.com/emosludge](https://www.patreon.com/emosludge)
+
+Jarrett Crader/Space Penguin Ink (publish and editor)
+<br>**Website**: [https://spacepenguin.ink/](https://spacepenguin.ink/)

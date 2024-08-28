@@ -55,7 +55,7 @@ You are allowed and encouraged (but are not required to) use one of the “Compa
 
 [[Download](https://drive.google.com/drive/folders/1lVuV_ZT8tKP848MzxYyL2pzbreGIUCR_?usp=share_link)]
 
-[![Different compatibility logos for third party content for Liminal Horror.](/LiminalHorror/img/logos.jpg "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/logos.jpg)
+![image](/img/compatability.png)
 
 ## Liminal Horror, CC-BY-SA 4.0 and the Third Party License
 

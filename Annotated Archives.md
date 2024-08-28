@@ -5,8 +5,6 @@ nav_order: 8
 has_children: true
 ---
 
-[![A goblin reaching for a book from bookshelves hidden behind a greenhouse's glass walls.](/LiminalHorror/img/goblinarchives.png "Click to embiggen"){:height="50%" width="50%"}](/LiminalHorror/img/goblinarchives.png)
-Art by [Goblins and Gardens](https://goblinsandgardens.com/)
 
 # The Annotated Archive of Game Design Resources
 A cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
