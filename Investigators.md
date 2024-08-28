@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Investigators
+title: Core Rules
 nav_order: 2
 has_children: false
 ---
