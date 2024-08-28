@@ -28,3 +28,5 @@ The Investigators Edition (the core rules ready to bring to the table for player
 - **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [in print - coming soon](), [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow)
 
 LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
+
+![image](/img/LH.png)
