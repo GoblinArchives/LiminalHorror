@@ -8,6 +8,8 @@ has_children: false
 # LIMINAL HORROR INVESTIGATORS
 Liminal Horror is a rules-lite, adaptable modern horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on investigation, blending simple, old-school inspired rules with modern, narrative first principles, where survival is not guaranteed and those that do survive are often forever changed. It is a rules-lite, fail forward system that leverages creative problem solving in order to create memorable experiences at the table. Players act as 'investigators' navigating a modern world full of terrible and unknowable horrors.
 
+![image](/img/investigator.png)
+
 A **print copy** of Liminal Horror Investigators can be purchased from [Space Penguin Ink](https://spacepenguin.ink/products/liminal-horror-investigators)
 
 A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/liminal-horror" target="_blank">https://goblinarchives.itch.io/liminal-horror</a>.
