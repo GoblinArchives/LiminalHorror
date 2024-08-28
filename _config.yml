@@ -4,12 +4,22 @@ remote_theme: pmarsceill/just-the-docs
 site.url: https://liminalhorrorrpg.com
 logo:
 color_scheme: light
-nav_external_links_new_tab: true
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
 include:
   - js
+
+# External navigation links
+nav_external_links:
+  - title: Liminal Horror Library
+    url: https://liminalhorrorlibrary.com/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Newsletter
+    url: https://goblinarchives.substack.com/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
 # Back to top link
 back_to_top: true
