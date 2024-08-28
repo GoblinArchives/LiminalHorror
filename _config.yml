@@ -2,7 +2,7 @@ title: Liminal Horror
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://liminalhorrorrpg.com
-logo: "/img/lhlogo.png"
+logo:
 color_scheme: light
 encoding: UTF-8
 plugins:
