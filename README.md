@@ -8,34 +8,23 @@ permalink: /
 
 # Liminal Horror
 
-**Liminal Horror**  is a modern horror ttrpg that can adapt to a myriad of different subgenres. It's fail forward, rules-lite chasis where you play as characters that battle against (and are changed) by the horrors that lurk in the dark.
+*There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
-[itch](https://goblinarchives.itch.io/): All content can be found on the Goblin Archive itch.io page.
+*Grab your flashlights and blood splattered jackets as you try to make it through the night. Beware, snapping bone and rending flesh are often the simplest outcome. While there may be great power within these places… not all mysteries can be solved and not everyone can be saved. Above all, there are fates far worse than death.*
 
-## Goblin Archives blog
-[goblinarchive.blot.im](https://goblinarchives.blot.im/) is where I post in process resources, appendices, updates, and additions to the Liminal Horror system.
+**LIMINAL HORROR** is a rules-lite, adaptable Survival-Horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on surviving the weird and Investigating horrors while blending simple, old-school inspired rules with modern, narrative first principles. Survival is not guaranteed and those that do make it through the night are often forever changed.
 
-## Newsletter / Substack
-Stay up to date with blog posts, releases, WIPs, and other cryptid-esque sightings. [goblinarchives.substack.com/](https://goblinarchives.substack.com/)
+**Liminal Horror is not a game about solving mysteries, but rather surviving them.**
 
-## Design Framework & Third Party License
-A DESIGN FRAMEWORK has been included to help support creators in making adventures, content, hacks, and remiaginings using LIMINAL HORROR. The Third Party License allows designers an open way to make things and retain all profit and control of their work.
-- [Design Framework](https://goblinarchives.blot.im/designing-framework)
-- [Third Party License](https://goblinarchives.github.io/LiminalHorror/Third%20Party%20License/)
+The Investigators Edition (the core rules ready to bring to the table for players and facilitators) is available:
+- The Print version is available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror/products/liminal-horror-investigators)
+- The PDF version is available for free at [itch.io](https://goblinarchives.itch.io/liminal-horror) & [DrivetThruRPG](https://www.drivethrurpg.com/en/product/366656/liminal-horror-investigators).
 
-## The Annotated Archive of Game Design Resources
-This site also currently houses a collection of resources to help lower the barrier of entry for designers called [The Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/)
-
-## Formats
-- **Liminal Horror: Investigators** [in print](https://spacepenguin.ink/products/liminal-horror-investigators), [itch](https://goblinarchives.itch.io/), [drivethrurpg](https://www.drivethrurpg.com/product/366656/Liminal-Horror)
-- **Liminal Horror: Legacy Edition** [in print](https://www.exaltedfuneral.com/products/liminal-horror-pdf), [itch](https://goblinarchives.itch.io/)
-- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [itch](https://goblinarchives.itch.io/the-mall)
-- **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [itch](https://goblinarchives.itch.io/the-bureau)
-- **The Bloom** *Official Module: What if Twin Peaks had a The Last of Us arc?* [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom), [itch](https://goblinarchives.itch.io/the-bloom)
-- **One Night At The Shelterwood Inn** *Official Crossover Module: A Liminal Horror & Triangle Agency Crossover Reality* [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn), [itch](https://unenthuser.itch.io/one-night)
+## Official Modules
+- **The Mall** *Official module: What if The Thing were set in a 1990s mall?* [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall), [PDF](https://goblinarchives.itch.io/the-mall)
+- **The Bureau** *Official module co-written with Josh Domanski: It's Gradient Descent meets Control*  [in print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-bureau), [PDF](https://goblinarchives.itch.io/the-bureau)
+- **The Bloom** *Official Module: What if Twin Peaks had a The Last of Us arc?* [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom), [PDF](https://goblinarchives.itch.io/the-bloom)
+- **One Night At The Shelterwood Inn** *Official Crossover Module: A Liminal Horror & Triangle Agency Crossover Reality* [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn), [PDF](https://unenthuser.itch.io/one-night)
+- **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [in print - coming soon](), [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow)
 
 LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
-
-The github repository for this text can be found [here](https://github.com/GoblinArchives/LiminalHorror)
-
-The cover illustration is © 2021 [Zach Hazard Vaupen](https://emo-sludge.com/). Twitter:[@zachhazard](https://twitter.com/zachhazard)
