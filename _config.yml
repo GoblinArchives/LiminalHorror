@@ -16,6 +16,10 @@ nav_external_links:
     url: https://liminalhorrorlibrary.com/
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Discord Server
+    url: https://liminalhorrorrpg.com/Discord%20Server/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
   - title: Newsletter
     url: https://goblinarchives.substack.com/
     hide_icon: false # set to true to hide the external link icon - defaults to false

@@ -4,6 +4,7 @@ title: The Mall Press Kit
 parent: The Mall Resources
 grand_parent: Mysteries & Adventures
 nav_order: 11
+search_exclude: true
 ---
 
 [![Yellow distressed texture, white font that says the mall.](/LiminalHorror/img/mall.png "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/mall.png)

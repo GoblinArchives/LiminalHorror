@@ -49,7 +49,7 @@ A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh b
 In 2022 we did an official collaboration with three creatives to bring their vision of pamphlet adventures to reality. These were their stories.
 
 ## The Chair
-By Liminal Horror Art Director Zach Hazard: A haunted house where the titular chair is in every room.
+By Liminal Horror Art Director Zach Hazard Vaupen: A haunted house where the titular chair is in every room.
 ![image](/img/chair.png)
 - [PDF](https://emosludge.itch.io/the-chair)
 - [In Print](https://shop.emo-sludge.com/product/tales-from-the-void-the-chair)

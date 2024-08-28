@@ -1,15 +1,14 @@
 ---
 layout: default
 title: SRD
-nav_exclude: true
-redirect_to: https://goblinarchives.github.io/LiminalHorror/Legacy%20Edition/
+nav_order: 5
 search_exclude: true
 ---
 
 # Liminal Horror Core Rules (v.2.25)
 
 ## What is an SRD? How can is use it to create my own hack?
-SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Since Liminal Horror core rules are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all of the text is open for use (other systems leave the rules open for use but restrict specific lore/content). A project down the line may be an actual Hacking Guide that talks about the different components and how to use them. Until then, you can see how I adapted the core game text from [Cairn](https://cairnrpg.com/cairn-srd/).
+SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Since Liminal Horror core rules are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all of the text is open for use (other systems leave the rules open for use but restrict specific lore/content).
 
 <p></p>
 
@@ -32,6 +31,7 @@ SRD (or System Reference Document) is often used in game design to mean a docume
 - [Rules](#rules)
 - [Combat](#combat)
 - [Magic](#magic)
+- [Healing and Wounds](#healing-and-wounds)
 - [Stress & Fallout](#stress-&-fallout)
 - [Paranatural Bestiary](#paranatural-bestiary)
 - [Spark Tables](#spark-tables)
@@ -642,9 +642,9 @@ The **blast** quality denotes an attack that hits everything in a target area wi
 ### Retreat
 Escaping a doomed situation requires a successful DEX save and a safe destination in order to get away. Safely retreating is a victory in its own way.
 
-### Critical Damage
-If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**.
-<br>Suffering critical damage disables the victim. All they can do is crawl and grasp for life. Aid and rest required to persevere or they will die in the hour.
+### Critical Damage = Wounds
+Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR Save to avoid Critical Damage. If an Investigator fails their STR Save they suffer a Wound from the Wounds table (p. 19). Wounds fill an Inventory Slot.
+NPCs may receive narrative Wounds, but failing a Critical Damage Save takes them out of combat.
 
 ### Critical Stress = Fallout
 **Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
@@ -767,6 +767,50 @@ Random spells are generated using the table and process below.
 **Horned Ring**, 1 charge. Twist the ring to activate. You can sense how many people are around you and have distinct impressions of their inner feelings. Every hour your awareness becomes more refined, but take 1d6+1 Stress (CTRL). *Recharge*: Remove the ring, taking the Deprived tag for 12 hour
 
 **Instrument of the Black Flame**: Some weapons have sigils and runes carved into them, warping and imbuing them with a heatless, black flame. The range depends on the weapon and they deal 1d6 CTRL damage to the target while dealing 1d4 Dex damage to the wielder.
+
+[back to index](#index)
+<p></p>
+
+## Healing and Wounds
+
+### Healing
+Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability Score loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means. The length of time and medical intervention required to heal a Wound (and remove it from inventory) depends on its severity.
+
+Flesh Wounds and certain Minor Injuries can be healed with a short rest, basic first aid, or time. Other Minor Injuries, Major Injuries, and Lethal Wounds require immediate intervention to stabilize, and need medication attention to remove them from an Investigator's Inventory. Wounds can be cleared from Inventory (time, medical attention, accessibility device), even if there are lasting physical signs.
+
+Medical accessibility equipment (such as wheelchairs, walkers, crutches) do not take up Inventory Slots.
+
+#### Examples of Wounds
+- GUNSHOT: gunshots, fast moving projectiles that enter (and sometimes exit)
+- SLASHING/STABBING: all things that cut and sever
+- CRUSHING/BLUDGEONING: fists, bricks, bats, slams that cause blunt force trauma
+- BURN: fires or chemicals that bubble, burn, and melt
+- GORE: damage from brutal or gruesome monsters
+
+### Determining Severity
+When an Investigator receives a Wound, its specifics are determined by the Facilitator. Severity acts as a reference point, with Flesh Wounds being temporary, Minor and Major Injuries having lasting effects that require medical treatment/mitigation, and Lethal Wounds requiring immediate response. There are three ways to determine specifics of the Wound.
+- Use the narrative and rule on the Severity to choose the resulting Wound.
+- Use the amount of Ability Score lost to determine Severity. Multiple instances should be cumulatively worse and take the total Ability Score loss from maximum when determining the new Wound.
+- Roll d6 to determine the Severity of the Wound.
+
+### Location
+Use the following table to determine the location of damage/Wounds
+01. Head
+02. Face
+03. Throat
+04. Chest
+05. Back
+06. Shoulder
+07. Arm
+08. Hands
+09. Stomach
+10. Leg
+11. Knee
+12. Foot
+
+### Wound Table
+![image](/img/wound.png)
+
 
 [back to index](#index)
 <p></p>
