@@ -4,7 +4,7 @@ title: Layout & Fonts
 nav_order: 4
 parent: Annotated Archive of Game Design Resources
 ---
-# LAYOUT and Typeface
+# Layout and Typeface
 
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
 - Johan Nohr (one of the designers of MÖRK BORG, which pushes the layout and typeface envelope) wrote two must read threads on choosing a typeface and setting a body text. These dives are worth reading if you have any interest in design and are a great way to start your journey.
@@ -13,15 +13,26 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 ## Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
-- [Designing]
 - [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
 - [Why Is Layout Important in Graphic Design?](https://www.flux-academy.com/blog/why-is-layout-important-in-graphic-design) by Stephanie Corrigan is a great overview of layout prinicples with visual examples to reinforce concepts.
 - [Using Canva to layout your ttrpg](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20) by Jeeyon Shim is a fantastic thread on how to leverage a great design tool to create small games. They look great and result in a quality that supports any new designer. Jeeyon is extremely thorough in their step by step guide in this thread. Well worth considering for your next project.
+
+## Layout Templates
+
+- **[Classic Explorer Starter Template](https://explorers.itch.io/classic-starter-template)** by Clayton Notestine is a fantastic template that aids in creating a clean, old-school style zine. "It's perfect for adventures, games, and campaigns in the style of *Cairne, Into the Odd,* and adventures like *The Isle, Silent Titans,* and *Deep Carbon Observatory.*"
 - [Pamplet RPG Template For Affinity Publisher](https://wizardthieffighter.itch.io/wtf-pamphlet-rpg-template-affinity-publisher) by wizardthieffighter (writer of the awe inspiring Ultra Violet Grasslands). This template will get you all set up for writnig your own pamphlet using Affinity Publisher (a great single payment layout software...Adobe makes you pay monthly)
+- [**Free – Affinity Publisher Template for TTRPG**](https://wendigoworkshop.itch.io/free-affinity-publisher-template-for-ttrpg) by Wendingo includes templates that are formatted for print.
+- [**A5 Trifold Pamphlet Template for Affinity**](https://brstf.itch.io/a5-pamphlet-affinity-template) by brstf is an affinity template to make a pamphlet for an A5 piece of paper (210x148mm).
+- [**Affinity Publisher Zine Template**](https://metaparadox.itch.io/affinity-publisher-zine-templates) by Metaparadox is a collection of zine templates for text heavy projects.
+
+## Inspiration
+
 - **Pinterest**: Look up layout, design, zines on pinterest to see examples of different design ideas you can use. This helps build visual references for the kind of things that are possible.
 - [My pinterest board](https://pin.it/1OIQmGq).
 - [TTRPG Zine Layouts](https://pin.it/42u4uaC) by Guilherme Gontijo.
 - [Designs that could be TTRPGS](https://www.pinterest.com/gontijodesign/ttrpg-zines-could-look-like-this/?invite_code=9aa2c221ccca41069445ba3e84693972&sender=478578035310725364) by Guilherme Gontijo
+
+
 
 ## Typography & Fonts
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html), by Matthew Buttericks is a great resource for building your schema and dipping your toes into that world.

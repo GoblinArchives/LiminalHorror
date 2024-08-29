@@ -12,6 +12,8 @@ parent: Annotated Archive of Game Design Resources
 ## Selling PDFs Of Your Game
 If you are selling your digital game, two major market places for selling digital games are [itch.io](https://itch.io/) as a physical game (yes, ttrpgs are tagged as physical games even though they are PDFs) or on [drivethrurpg](https://www.drivethrurpg.com/).
 
+- **[Itch Game Page Image Guide and Templates](https://starwest.itch.io/itch-page-image-templates)** by Star West is a great template to help promote your work on itch.io.
+
 ## Printing & Publishing (Yourself)
 So you've put your game on itch or drivethru and you want to get a print run going. Here are some resources that can help guide you in the right direction.
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
