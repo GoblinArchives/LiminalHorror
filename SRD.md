@@ -18,7 +18,7 @@ SRD (or System Reference Document) is often used in game design to mean a docume
 - [Ben Milton](https://itch.io/profile/questingbeast) - for Knave and the Maze Rats magic system.
 - Xenio for adapting [Maze Rats magic to Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
 
-**Liminal Horror** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+**Liminal Horror SRD** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **Liminal Horror** is a tabletop role playing game with one Facilitator (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
