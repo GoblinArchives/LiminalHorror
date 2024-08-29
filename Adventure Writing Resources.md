@@ -20,4 +20,26 @@ Josh Domanski and Goblin Archives did a horror writing seminar on The Weekly Scr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7N5ywYLaWk?si=nmZCmQPl1-yWICP3&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conversion Guide
-Liminal Horror is not the only investigative horror RPG out there and there are many other settings and scenarios that would be right at home in your campaigns. This excerpt from the Deluxe Edition discusses various ways to take the pieces of those games and adapt them to be better suited for this system. However you are not bound by pre-written scenarios and the specific guides included. Many of your favorite novels, comics, movies, and video games can be harvested for their parts or lifted wholesale with a fresh coat of paint. To bring your favorite pieces of media to life at your table, use the general guidelines. The conversion notes provide general advice and system specific advice for (Mark of the Odd, B/X Descendents, MÖRK BORG, Call of Cthulhu, Delta Green, Monster of the Week, Mothership 1e, Triangle Agency)
+This excerpt from the Deluxe Edition can be found [here](https://docs.google.com/document/d/1-gDK9oEpdlQQMAamFjifb_JxqPZKa09p7mX2mhSwffA/edit?usp=sharing)
+Liminal Horror is not the only investigative horror RPG out there and there are many other settings and scenarios that would be right at home in your campaigns. This excerpt from the Deluxe Edition discusses various ways to take the pieces of those games and adapt them to be better suited for this system. Many of your favorite novels, comics, movies, and video games can be harvested for their parts or lifted wholesale with a fresh coat of paint.
+
+The conversion notes provide general advice and system specific advice for
+- Mark of the Odd
+- B/X
+- MÖRK BORG
+- Call of Cthluhlu
+- Delta Green
+- Monster of the Week
+- Mothership 1e
+- Triangle Agency
+
+## Empty Rooms: Architecture and HORROR
+Empty Rooms: Architecture and Horror - In this panel, Stella Joy (Rimbound Transmissions for Mothership), Logan Dean (The Company), Sean McCoy (Mothership), and Goblin Archives (Liminal Horror) discuss how architecture can play a pivotal part in horror (especially in ttrpgs).
+- Goblin Archives also created an annotated guide to go along with the seminar: [https://docs.google.com/document/d/1-C3_wRk3o6xiN5d1dzgCu2BU0zwm4y7YqCdCdOomej8/edit?usp=sharing](https://docs.google.com/document/d/1-C3_wRk3o6xiN5d1dzgCu2BU0zwm4y7YqCdCdOomej8/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lFjSFGTBZ4?si=1MME9LbWuL9O5bRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Writing & Designing Non-Cthulhu Horror
+A seminar given at Virtual Horror Con 2022 by Logan Dean (He/Him), Josh Domanski (He/They), Goblin Archives, Evlyn Moreau (She/Her), Noora (She/Her). This discussion was around how to create systems and adventures that are seek to break free of the shadow of the Cthulhu Mythos. It also offers a behind-the-scenes look at the indie horror scene, from the conception of ideas and their execution through to published projects.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SyMnBYl0TA?si=LVkLrwBqo23uoo5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

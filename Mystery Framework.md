@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mystery Framework
+permalink: /framework/
 nav_exclude: true
 ---
 
