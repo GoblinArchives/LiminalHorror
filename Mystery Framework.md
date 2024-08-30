@@ -4,11 +4,12 @@ title: Mystery Framework
 permalink: /framework/
 nav_exclude: true
 ---
+# Mystery Framework
 
 ## Creating Your Own Mysteries (using a framework)
 
 - [Mystery Framework Google Doc Template:](https://docs.google.com/document/d/1h2KVL4owTgfal60nbN-mRa6s4G8cDm147gWiV95vNfw/edit#) I've made a draft google doc template for people to create their own mysteries. New designers (or Facilitators) can it use when writing mysteries and have layout done so one could easily export and sell their work on [itch.io](itch.io).
-- The following is a list of components that you can use to create your own mysteries for Liminal Horror. Making sure you have entries for each will mean that you have a good framework for sessions. Leave space between details and be ready for players to think creatively and take the story in unexpected directions. Mining your favorite media (film, novels, comics, manga, art) or using the [Spark Tables](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Spark%20Tables/) can be a great way to kick off your prep. I have a mystery call [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) that can be used as an example.
+- The following is a list of components that you can use to create your own mysteries for Liminal Horror. Making sure you have entries for each will mean that you have a good framework for sessions. Leave space between details and be ready for players to think creatively and take the story in unexpected directions. Mining your favorite media (film, novels, comics, manga, art) or using [Spark Tables](https://liminalhorrorrpg.com/SRD/#spark-tables) can be a great way to kick off your prep. I have a mystery call [Plague of Frogs](https://goblinarchives.itch.io/plague-of-frogs) that can be used as an example.
 
 **Mystery Framework**
 
@@ -30,6 +31,8 @@ nav_exclude: true
 - **Crime Framework**: Means, Motive, Opportunity, Next Moves
 - **Threads binding them together (red string)**: Clues, traces, witnesses
 - **Final piece**: connection to the paranatural.
+
+
 
 # PLAGUE OF FROGS
 An example mystery using the Mystery Framework included in the SRD.

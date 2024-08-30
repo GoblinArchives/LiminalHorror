@@ -8,7 +8,8 @@ has_children: false
 # Adventure Writing Resources
 A major aim of the Liminal Horror community is to support new writer/creators/facilitators in making things for Liminal Horror. We've collected resources specific to writing for Liminal Horror. A great place to start is to look at what others have been making. A few places to do that is:
 - [Liminal Horror Library](https://liminalhorrorlibrary.com/): A collection of resources for your Liminal Horror games cataolging all the first and third party content.
-- [Tales From The Void Jam](https://itch.io/jam/liminal-horror-twisted-classics-jam)
+- [Twisted Classics Jam](https://itch.io/jam/liminal-horror-twisted-classics-jam)
+- [Tales From The Void Jam](https://itch.io/jam/tales-from-the-void)
 - Liminal Horror Discord: [https://discord.gg/vqzN5waZgf](https://discord.gg/vqzN5waZgf)
 
 ## Adapting A Mystery: Liminal Horror Writing Seminar
@@ -32,6 +33,9 @@ The conversion notes provide general advice and system specific advice for
 - Monster of the Week
 - Mothership 1e
 - Triangle Agency
+
+## Mystery Framework
+In the original SRD there was a Mystery Framework and accompanying example included. These can be found in the Mystery Framework page: [https://liminalhorrorrpg.com/framework/](https://liminalhorrorrpg.com/framework/)
 
 ## Empty Rooms: Architecture and HORROR
 Empty Rooms: Architecture and Horror - In this panel, Stella Joy (Rimbound Transmissions for Mothership), Logan Dean (The Company), Sean McCoy (Mothership), and Goblin Archives (Liminal Horror) discuss how architecture can play a pivotal part in horror (especially in ttrpgs).
