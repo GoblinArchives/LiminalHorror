@@ -34,14 +34,15 @@ Creating your own online SRD is not only a way to present your work (creating a 
 - **Google Docs** for writing the base text of Limnial Horror. This also allowed me to share the document and recieve notes/feedback.
 
 ### Layout
-- [Affinity Publisher](affinity.serif.com). This is an affordable, single purchase program (currently $54.99)
+- [Affinity Publisher](affinity.serif.com). This is an affordable, single purchase program.
 - [Canva](https://www.canva.com/) is a free website that really scaffolds small scale design in a way that allows anyone to create professional products. It is used a ton in teaching and other fields. A great overview by Jeeyon Shim, on how to use it in ttrpg spaces, can be found [here](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20)
 - [Top 15 Tutorials](https://designshack.net/articles/reviews/affinity-publisher-tutorials-reviews/). Affinity has a bunch of helpful tutorials to lower the learning curve and this had some good ones included.
 - [Tips for adding interactivity to your digital publications](https://affinityspotlight.com/article/tips-for-adding-interactivity-to-your-digital-publications/?fbclid=IwAR23JilQaxht5L6I3E86vihJwhO9kOTYo0Nd7fZrbv2w0y55zbqFcQm-Gjg)
 
 ### Image Editing & Creation
-[Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
-
+- [Affinity Phto and Designer](affinity.serif.com). This is an affordable, single purchase program.
+- [Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
+- [Noise Dystopia Machine](https://chaoclypse.itch.io/noise-dystopia-machine) by Chaoclypse is a collection of Photoshop actions that lets you turn existing images into xerox'd, messed up, straight up fucked black and white copies with just a click or two!
 - [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
 - [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
 - [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.

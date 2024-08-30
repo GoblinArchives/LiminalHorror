@@ -34,9 +34,9 @@ Games have different licenses that dictate what can be used from the core text. 
 
 For a robust list of SRDs, [The TTRPG Creator Resources Masterpost](https://starshinescribbles.com/ttrpg-resources-masterpost/#Systemsandsrd) by Jonathon Greenall has a list of 60+ SRDs.
 
-**Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible. 
+**Note:** Sometimes you don't want to write a hack or new game and instead want to write an adventure, mystery, or modul. Luckily all the advice in this guide still works for that. SRDs are still great because they can provide rules references that you can use to make your zine compatible.
 
-**Writing Adventures for Liminal Horror**: A major aim of the Liminal Horror community is to support new writer/creators/facilitators in making things for Liminal Horror. We've collected resources specific to writing for Liminal Horror [here]
+**Writing Adventures for Liminal Horror**: A major aim of the Liminal Horror community is to support new writer/creators/facilitators in making things for Liminal Horror. We've collected resources specific to Liminal Horror in [Adventure Writing Resources](https://liminalhorrorrpg.com/Adventure%20Writing%20Resources/).
 
  [Interested in writing cosmic horror adventures?](https://twitter.com/goblin_archives/status/1430923992097984514?s=20)
 

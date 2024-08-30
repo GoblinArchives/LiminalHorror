@@ -14,6 +14,9 @@ Editing is an important part of the design process but isn't always talked about
 
 **Copyediting** (also called line editing) focuses on the language used and centers on polishing the writing. From errors to readability to consistency, this process makes the end product professional.
 
+- [Tips for self editing](https://docs.google.com/document/d/1u7VpDJFBZ-NB9FEHV77fM0W0Nf4g81yeej9NY7jx1zk/edit#heading=h.mxcn1tnxkqjl)
+
+
 # Editing and The Mall
 
 I was able to hire [Vi Huntsman](https://www.youtube.com/channel/UCHjSosN7RjBiqPSdtE_VtAw) to do editing for The Mall. Initially I budgeted for copyediting.

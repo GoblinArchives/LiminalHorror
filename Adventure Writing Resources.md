@@ -11,13 +11,14 @@ A major aim of the Liminal Horror community is to support new writer/creators/fa
 - [Twisted Classics Jam](https://itch.io/jam/liminal-horror-twisted-classics-jam)
 - [Tales From The Void Jam](https://itch.io/jam/tales-from-the-void)
 - Liminal Horror Discord: [https://discord.gg/vqzN5waZgf](https://discord.gg/vqzN5waZgf)
+- [Techniques to write adventures](https://lukegearing.blot.im/techniques-to-write-adventures) by Luke Gearing
 
 ## Adapting A Mystery: Liminal Horror Writing Seminar
 Josh Domanski and Goblin Archives did a horror writing seminar on The Weekly Scroll. This was aimed at providing advice on how to adapt a work into an adventure for Liminal Horror. In it’s truest essence, the core tenets presented can be generalized to writing any type of adventure (adaptation or original concepts) into modern horror/Liminal Horror.
-- Formats: [Podcast](https://podcasters.spotify.com/pod/show/theweeklyscroll/episodes/Liminal-Horror-Writing-Seminar-1-Adapting-a-Mystery-e2k4v4p), [Youtube](https://www.youtube.com/watch?v=b7N5ywYLaWk), [TWITCH](https://m.twitch.tv/TheWeeklyScroll?desktop-redirect=true)
-- Goblin Archives did an annotated guide to accompany the seminar (including time stamps): [https://open.substack.com/pub/goblinarchives/p/adapting-a-mystery-advice-for-writers?r=1gvvhi&utm_campaign=post&utm_medium=web](https://open.substack.com/pub/goblinarchives/p/adapting-a-mystery-advice-for-writers?r=1gvvhi&utm_campaign=post&utm_medium=web)
-- Slide Deck for Presentation: [https://drive.google.com/file/d/1w0R5927XaUzpA06EYVmLIByoTKIrZOmQ/view?usp=sharing](https://drive.google.com/file/d/1w0R5927XaUzpA06EYVmLIByoTKIrZOmQ/view?usp=sharing)
-- Here is the video of the presentation:
+- **Formats**: [Podcast](https://podcasters.spotify.com/pod/show/theweeklyscroll/episodes/Liminal-Horror-Writing-Seminar-1-Adapting-a-Mystery-e2k4v4p), [Youtube](https://www.youtube.com/watch?v=b7N5ywYLaWk), [Twitch](https://m.twitch.tv/TheWeeklyScroll?desktop-redirect=true)
+- **Goblin Archives did an annotated guide to accompany the seminar (including time stamps)**: [https://open.substack.com/pub/goblinarchives/p/adapting-a-mystery-advice-for-writers?r=1gvvhi&utm_campaign=post&utm_medium=web](https://open.substack.com/pub/goblinarchives/p/adapting-a-mystery-advice-for-writers?r=1gvvhi&utm_campaign=post&utm_medium=web)
+- **Slide Deck for Presentation**: [https://drive.google.com/file/d/1w0R5927XaUzpA06EYVmLIByoTKIrZOmQ/view?usp=sharing](https://drive.google.com/file/d/1w0R5927XaUzpA06EYVmLIByoTKIrZOmQ/view?usp=sharing)
+-**Here is the video of the presentation**:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7N5ywYLaWk?si=nmZCmQPl1-yWICP3&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conversion Guide
@@ -35,7 +36,7 @@ The conversion notes provide general advice and system specific advice for
 - Triangle Agency
 
 ## Mystery Framework
-In the original SRD there was a Mystery Framework and accompanying example included. These can be found in the Mystery Framework page: [https://liminalhorrorrpg.com/framework/](https://liminalhorrorrpg.com/framework/)
+In the original SRD there was a Mystery Framework and accompanying example included. These can be found in the Mystery Framework page: [https://liminalhorrorrpg.com/framework/](https://liminalhorrorrpg.com/framework/). There is a [quick google doc template](https://docs.google.com/document/d/1h2KVL4owTgfal60nbN-mRa6s4G8cDm147gWiV95vNfw/edit#heading=h.55f43rllbon) to aid in this as well.
 
 ## Empty Rooms: Architecture and HORROR
 Empty Rooms: Architecture and Horror - In this panel, Stella Joy (Rimbound Transmissions for Mothership), Logan Dean (The Company), Sean McCoy (Mothership), and Goblin Archives (Liminal Horror) discuss how architecture can play a pivotal part in horror (especially in ttrpgs).

@@ -43,8 +43,10 @@ Slowfunding is crowdfunding alternative proposed by Long Tail Games, that acts g
 - [What is slowfunding?](https://cardboard.monster/pages/what-is-slowfunding)
 
 ### Printing Partnerships
-One option is to partner with retailers to help fund a print run. Many online retailers do this (I have experience partnering with Exalted Funeral).
-- [CHAPBOOK CO-OP](https://chapbookcoop.carrd.co/) is a collection of retailers (Monkey's Paw Games, Loot the Room, Spear Witch, ratti incantati) that have come together to help designers fund a print run (and sell the games in their storefronts across the globe).
+One option is to partner with retailers to help fund a print run. Many online retailers do this (I have experience partnering with Exalted Funeral and Space Penguin Ink).
+
+### Crowdfunding
+- [How to run a kickstarter](https://seanmccoy.substack.com/p/how-do-you-run-a-kickstarter?r=22i8t5)
 
 
 ---
