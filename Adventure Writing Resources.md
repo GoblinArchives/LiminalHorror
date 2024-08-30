@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adventure Writing Resources
-nav_order: 6
+nav_order: 5
 has_children: false
 ---
 
