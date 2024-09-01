@@ -5,9 +5,10 @@ nav_order: 7
 has_children: true
 ---
 
-
 # The Annotated Archive of Game Design Resources
 A cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
+
+![image](/img/annotated.png)
 
 ## What is The Annotated Archives?
 Curated by Goblin Archives, this site's goal is to lower the barrier of entry for designers. It brings together twitter threads, blogs and youtube videos.
