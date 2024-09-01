@@ -130,7 +130,7 @@ Creating your own online SRD is not only a way to present your work (creating a 
 - [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
 Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
-[![A list of alternatives to each of Adobe's products.](/LiminalHorror/img/programs.png "Click to embiggen"){:height="75%" width="75%"}](/LiminalHorror/img/programs.png)
+![image](/img/programs.png)
 
 [back to index](#index)
 
