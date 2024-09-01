@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Printing & Publishing
-nav_order: 9
+nav_order: 10
 parent: Annotated Archive of Game Design Resources
 ---
 ## Overview

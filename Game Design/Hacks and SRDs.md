@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hacks and SRDs
-nav_order: 1
+nav_order: 2
 parent: Annotated Archive of Game Design Resources
 ---
 

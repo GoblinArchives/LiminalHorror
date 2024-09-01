@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility
-nav_order: 6
+nav_order: 7
 parent: Annotated Archive of Game Design Resources
 ---
 # Formats

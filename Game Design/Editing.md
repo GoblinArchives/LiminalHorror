@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing
-nav_order: 3
+nav_order: 4
 parent: Annotated Archive of Game Design Resources
 ---
 

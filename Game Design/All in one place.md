@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ALL IN ONE PLACE
-nav_order: 11
+nav_order: 12
 parent: Annotated Archive of Game Design Resources
 search_exclude: true
 ---

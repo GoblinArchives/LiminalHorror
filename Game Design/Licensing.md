@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Licensing
-nav_order: 7
+nav_order: 8
 parent: Annotated Archive of Game Design Resources
 ---
 

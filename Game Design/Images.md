@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Images
-nav_order: 5
+nav_order: 6
 parent: Annotated Archive of Game Design Resources
 ---
 
@@ -24,6 +24,7 @@ If you are like me and not the most visual creative oriented, luckily there is a
 There are many artists that provide options to commerically license their art. Some use a flat purchase (on itch or another platform) while others provide licensing to those who subscribe to their patreon. Here are few that I have found:
 - [Amanda Lee Franck's Comradery page](https://comradery.co/amandalee) puts out monthly access to amazing spot art.
 - [Emo Sludge Royalty Free Spot Art Pack](https://emosludge.itch.io/spot-art) by Zach Hazard Vaupen is a pack of Royalty Free Spot Art for your game or zine
+- [The Cursed Art Pack](https://lemos.itch.io/the-cursed-art-pack-ks) by Francisco Lemos is a collection of eerie images featuring otherworldly creatures suitable for TTRPGs, zines, books.
 - [CCLA Library](https://www.stregawolf.art/ccla-library) by Strega Design is a collection of stellar horror art.
 - [Creative Comrades Licensed Art](https://jnbutler.art/#ccla-art) by JN Butler Art is a collection of art that is able to be licensed for commercial use under the stipulations of the Creative Comrades License.
 - [Goran Gligović](https://www.gorangligovic.com/) posts personal work that in his words: "I want to reiterate tht all personal pieces I post are free to use. Client work is a no-go for obvious reasons but everything else is fair game." [(May 20th, 2024)](https://x.com/gorangligovic/status/1792627676877816042?s=12&t=ppwRE47-vF6Ec_R54VRXtg)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketing
-nav_order: 10
+nav_order: 11
 parent: Annotated Archive of Game Design Resources
 ---
 ## MARKETING
