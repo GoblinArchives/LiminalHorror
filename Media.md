@@ -10,7 +10,7 @@ has_children: false
 
 - [Bloody Disgusting Review: TTRPG ‘The Bloom’ Combines ‘Alan Wake’ With ‘The Last of Us’ in a Surreal Adventure](https://bloody-disgusting.com/video-games/3822498/ttrpg-the-bloom-combines-alan-wake-with-the-last-of-us-in-a-surreal-adventure-review/)
 - [Bloody Disgusting Preview: New “The Parthenogenesis of Hungry Hollow” Module for TTRPG ‘Liminal Horror’ Now Available Digitally](https://bloody-disgusting.com/toys/3826362/new-the-parthenogenesis-of-hungry-hollow-module-for-ttrpg-liminal-horror-now-available-digitally/)
-- [Liminal Horror is Solid by Batts](https://nerves.games/2022/11/24/liminal-horror-is-solid/)
+- [Liminal Horror is Solid by Snow](https://nerves.games/2022/11/24/liminal-horror-is-solid/)
 - [Liminal Horror Review by Pod of Blunders](https://podofblunders.com/2021/09/10/liminal-horror/)
 - [REVIEW: Liminal Horror by Moreau Vazh at Taskerland](https://tasker.land/2023/08/22/review-liminal-horror/)
 - [REVIEW: The Bureau for Liminal Horror by Moreau Vazh at Taskerland](https://tasker.land/2023/10/17/review-the-bureau-for-liminal-horror/)
