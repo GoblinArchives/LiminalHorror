@@ -457,7 +457,7 @@ Here is a list of possible equipment Investigators can acquire or use. This is n
 - Poison (lose d20 STR if passes through a blood-tissue barrier)	$100
 - Antitoxin (stops toxins - unpleasant)	$250
 - Acid (d4 damage until removed, caustic liquid that burns through materials	$100
-- Stims (immediate recovery from Critical Damage, +1d4 temporary DEX)	$100
+- Stims (+1d4 temporary STR, +1d4 temporary DEX)	$100
 
 #### Investigator Gear
 - Alarm Bypass	$500
@@ -798,7 +798,7 @@ Some moments change an investigator forever. Players roll or choose from the the
 16. Full to Bursting: You have a feeling of fullness and contentment. Next time you would fail a Critical Damage STR Save, you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). Any being that can see they must make a CTRL Save or suffer 1d6 stress. Roll 3d6. If the total is higher than your max CTRL, take the new result.
 17. Progeny: Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams. Roll 2d6. Take the new result as your max HP
 18. Fate’s Web (this can only be taken once per Investigator but multiple times per table): At least a puppet can see the strings that bind it, if only you were so lucky.
-19. The Hunt: Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are Enhanced Critical Damage that mutilates your body, but you can continue to act. You become the primary target of otherworldly entities, and attacks made against you are Enhanced.
+19. The Hunt: Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are Enhanced. You become the primary target of otherworldly entities, and attacks made against you are Enhanced.
 20. Doomed (this can be taken multiple times per character and multiple times at the table): You have been branded for sacrifice, anointed for doom. If your next Critical Save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result.
 
 
@@ -1050,7 +1050,7 @@ Creating rules to deploy during play can help reinforce specific genres of horro
 A funnel is often an intro game mode where each player has control of multiple PCs who are often fresh, inexperienced, and squishier then regular Liminal Horror Investigators. A common aspect of funnels is the spectacular and memorable ways PCs meet their grim ends.
 
 ### CRITICAL DAMAGE - DEATH (AND DISMEMBERMENT) IN THE FUNNEL
-Rule Change: When Funnel Investigators suffer Critical Damage they die. This is different than the Core rules for Liminal Horror where they are incapacitated.
+Rule Change: When Funnel Investigators suffer Critical Damage they die. This is different than the Core rules for Liminal Horror where they gain a Wound.
 
 Death: When an Investigators dies in a Liminal Horror Funnel it should be graphic, big, and memorable. Use the narrative, monster abilities/drives to inform what happens to the DOOMED Investigator.
 
