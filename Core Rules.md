@@ -87,7 +87,7 @@ Death comes for everyone, but some suffer a worse fate.
 
 ### Secrets
 - Leverage the themes of dread, forbidden knowledge, and mutability of human flesh.
--  information on the physical and tangible reality to players, but keep the true nature of things just out of reach.
+- information on the physical and tangible reality to players, but keep the true nature of things just out of reach.
 - Give investigators opportunities to pull at threads, drawing them deeper into the tangled web of the weird.
 
 
@@ -95,7 +95,7 @@ Death comes for everyone, but some suffer a worse fate.
 - Make the world alive, allow it to change and grow because of players’ actions.
 - Be flexible in your preparation. Create situations and possibilities.
 - Plot and story should not be predefined.
-- Give NPCs and factions motivations, flaws, and drives. Have NPCs react accordingly to their principles, on and off screen. NPCs should always  have a drive to survive.
+- Give NPCs and factions motivations, flaws, and drives. Have NPCs react accordingly to their principles, on and off screen. NPCs should always have a drive to survive.
 - Play to find out what happens.
 
 
@@ -124,15 +124,15 @@ Death comes for everyone, but some suffer a worse fate.
 - Failure should push the story forward.
 - Foster an atmosphere where success and failure are equally exciting.
 - Elicit complications or twists from players.
-- Every action leaves an impact on  the world in some way.
+- Every action leaves an impact on the world in some way.
 
 
 ### Die of Fate
 - Sometimes randomness is required.
 - Roll 1d6 to consult the die of fate.
-    - 6: Good Result
-    - 4-5: Mixed Result
-    - 1-3: Bad Result
+ - 6: Good Result
+ - 4-5: Mixed Result
+ - 1-3: Bad Result
 
 
 [back to index](#index)
@@ -148,7 +148,7 @@ Death comes for everyone, but some suffer a worse fate.
 ### Teamwork
 - Work to support others at the table.
 - Elicit interaction from other players.
-- Investigators don’t always have to  be aligned, but players should be aiming toward the same goal of memorable stories of horror and fun interactions with friends.
+- Investigators don’t always have to be aligned, but players should be aiming toward the same goal of memorable stories of horror and fun interactions with friends.
 
 
 ### Talking
@@ -237,7 +237,7 @@ These tables can be used to flesh out details for your Investigators.
 #### Aesthetics
 1. All Business, All the Time.
 2. Streetwear
-3. Band Tees  Personality
+3. Band Tees Personality
 4. Paint it Black.
 5. Athleisure
 6. Crisp and Ironed
@@ -298,12 +298,12 @@ The following tables can be used to flesh out Investigators. The first three foc
 7. Stout
 8. Towering
 9. Robust
-10.Ample Body
+10. Ample Body
 
 #### Face
 1. Bony
 2. Broken
-3.    Chiseled
+3. Chiseled
 4. Elongated
 5. Dimpled
 6. Perfect
@@ -490,7 +490,7 @@ Here is a list of possible equipment Investigators can acquire or use. This is n
 - Laptop 	$1000
 - Lighter 	$5
 - Locksmith Tools 	$150
-- Marbles  	$20
+- Marbles 	$20
 - Mechanical Tool Kit 	$150
 - Metal Ball Bearings	$30
 - Night Vision Goggles	$250
@@ -502,7 +502,7 @@ Here is a list of possible equipment Investigators can acquire or use. This is n
 - Sledgehammer 	$45
 - Spike Strip	$150
 - Spray paint 	$15
-- Tarp  	$30
+- Tarp 	$30
 - Zip Ties 	$15
 
 
@@ -513,8 +513,8 @@ Here is a list of possible equipment Investigators can acquire or use. This is n
 
 ### Abilities
 Ability Scores represent Investigators’ ability to act under pressure. The average score is 10 and the maximum is 18, representing the range of normal human capabilities. While Ability Scores may inform an Investigator’s general competency, they are not all encompassing. Each Investigator has three primary Ability Scores:
-- STRENGTH (STR): Physicality, brawn, and toughness. Used for  forcing doors open, climbing over fences, jumping across rooftops, throwing objects, or carrying a fellow Investigator.
-- DEXTERITY (DEX): Readiness, grace, subtly, and precision. Used  for acting before an adversary, fleeing from danger, or slipping by guards unseen.
+- STRENGTH (STR): Physicality, brawn, and toughness. Used for forcing doors open, climbing over fences, jumping across rooftops, throwing objects, or carrying a fellow Investigator.
+- DEXTERITY (DEX): Readiness, grace, subtly, and precision. Used for acting before an adversary, fleeing from danger, or slipping by guards unseen.
 - CONTROL (CTRL). Willpower, charm, and weird. Used for social interactions, dealing strange artifacts, or processing the strain of seeing horrors.
 
 
@@ -550,7 +550,7 @@ Stability protects against Stress. Incoming Stress is reduced by the target’s 
 ### Cellphones and Stability
 When an Investigator uses a cellphone, handheld camera, CCTV, etc., to view a horror, they receive +1 Stability for the duration. Each time they receive Stress over their Stability Score, the player rolls d6:
 - 6: Everything keeps working.
-- 4-5: The battery is dying, it has one  more instance of providing Stability before it dies.
+- 4-5: The battery is dying, it has one more instance of providing Stability before it dies.
 - 2-3: It powers down, no longer providing Stability.
 - 1: It breaks, no longer providing Stability.
 
@@ -596,7 +596,7 @@ After the Start of Combat round, order proceeds with Investigators acting, then 
 
 
 ### Rounds
-The game typically plays without strict time accounting. If timing is necessary, use 10 second rounds to keep track.   A round is comprised of Investigator turns. During each turn all actions, attacks, and movements take place simultaneously.
+The game typically plays without strict time accounting. If timing is necessary, use 10 second rounds to keep track. A round is comprised of Investigator turns. During each turn all actions, attacks, and movements take place simultaneously.
 
 
 ### Actions
@@ -930,7 +930,7 @@ An Investigator can use the power of a Resonant Artifact as part of their normal
 Use the following template to model NPCs and monsters:
 - Title (denotes the type of NPC/monster)
 - NPC Name (most things have a name. Some have forgotten theirs and are now solely defined by their title)
--  X HP, X Armor, X STR, X DEX, X CTRL,
+- X HP, X Armor, X STR, X DEX, X CTRL,
 - Attack (dX, special items, qualities)
 - Description (appearance or demeanor)
 - Drive, behavior, tactic, or peculiarity
@@ -1101,7 +1101,7 @@ The Investigators sit in the diner, drinking what has seemed like the same cup o
 
 Sometimes the problems need time to gestate and grow.
 
-Giving a larger scale of time can help prevent a mad dash of events. Variation in timescale is important, and not every sequence of events needs to be crammed into a single    in-game night. Sometimes the evil needs to fester, and filling the spaces in between events of normality can make the horror hit even harder.
+Giving a larger scale of time can help prevent a mad dash of events. Variation in timescale is important, and not every sequence of events needs to be crammed into a single in-game night. Sometimes the evil needs to fester, and filling the spaces in between events of normality can make the horror hit even harder.
 
 Integrating explicit procedures can help scale the action in a way that supports progression.
 
