@@ -17,7 +17,7 @@ While you can write and create each aspect of your zine yourself, some parts may
 Other than self funding (or getting someone to invest/partner), there are are a few different ways to raise funds for your game. A noncomprehensive list is:
 - setting up a co-op
 - slowfunding
-- settig up pre-orders
+- setting up pre-orders
 - "crowdfunding" platforms (such as itchfunding or Gamefound).
 
 ### itchfunding
