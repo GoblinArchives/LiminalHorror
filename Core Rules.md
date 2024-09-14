@@ -851,7 +851,7 @@ An Investigator can use the power of a Resonant Artifact as part of their normal
 [back to index](#index)
 <p></p>
 
-# Paranatural Bestiary
+## Paranatural Bestiary
 
 **Cultist**
  <br>STR: 8 DEX: 12 CTRL: 10 HP: 3
