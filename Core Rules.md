@@ -40,13 +40,13 @@ A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/limina
 - [Voidcrawl Procedure](#voidcrawl-procedure)
 - [Mystery Framework](#mystery-framework)
 - [Reinforcing Themes and Genres in Horror](#reinforcing-themes-and-genres-in-horror)
-- [Appendix F Funnel Rules](#appendix-f-funnel-rules)
-- [Appendix T Time Procedures](#appendix-t-time-procedures)
-- [Appendix C Conditions](#appendix-c-conditions)
-- [Appendix Luck and Flashbacks](#appendix-luck-and-flashbacks)
-- [Appendix I Item Tags](#appendix-i-item-tags)
-- [Appendix V Vehicles Expanded](#appendix-v-vehicles-expanded)
-- [Faction The Bureau](#faction-the-bureau)
+- [Appendix F: Funnel Rules](#appendix-f-funnel-rules)
+- [Appendix T: Time Procedures](#appendix-t-time-procedures)
+- [Appendix C: Conditions](#appendix-c-conditions)
+- [Appendix L: Luck and Flashbacks](#appendix-luck-and-flashbacks)
+- [Appendix I: Item Tags](#appendix-i-item-tags)
+- [Appendix V: Vehicles Expanded](#appendix-v-vehicles-expanded)
+- [Faction: The Bureau](#faction-the-bureau)
 - [Rules Summary](#rules-summary)
 
 
@@ -642,7 +642,7 @@ Some items have tags that denote a unique way it interacts.
 
 Additional Item Tags are optional rules that provide a modular option to boost the potential complexity for items used in play.
 
-For more information see [Appendix Item Tags](#appendix-i-item-tags).
+For more information see [Appendix: Item Tags](#appendix-i-item-tags).
 
 
 ### Retreat
@@ -956,7 +956,7 @@ Use the following template to model NPCs and monsters:
 [back to index](#index)
 <p></p>
 
-## Voidcrawl
+## Voidcrawl Procedure
 A turn-based system for Liminal Horror sessions that creates a procedure for exploring the dark and neglected spaces where those touched by the abyss reside. It uses an overloaded encounter die to inform what happens next and bring the focus on the narrative.
 
 For prep, the Facilitator creates a custom table for each effect.
@@ -1046,7 +1046,7 @@ Creating rules to deploy during play can help reinforce specific genres of horro
 [back to index](#index)
 <p></p>
 
-## Appendix F Funnel Rules
+## Appendix F: Funnel Rules
 A funnel is often an intro game mode where each player has control of multiple PCs who are often fresh, inexperienced, and squishier then regular Liminal Horror Investigators. A common aspect of funnels is the spectacular and memorable ways PCs meet their grim ends.
 
 ### CRITICAL DAMAGE - DEATH (AND DISMEMBERMENT) IN THE FUNNEL
@@ -1092,7 +1092,7 @@ Backgrounds
 [back to index](#index)
 <p></p>
 
-## Appendix T Time Procedures
+## Appendix T: Time Procedures
 Measurements of time are often abstracted in games, sometimes to the point of not being explicitly mentioned in the text.
 
 With investigation/mystery style games, it can be important for the players to have time between events.
@@ -1135,7 +1135,7 @@ Factions: Using a larger time scale can mean that different variables in play, e
 [back to index](#index)
 <p></p>
 
-## APPENDIX C CONDITIONS
+## APPENDIX C: CONDITIONS
 Conditions are consequences given due to failed rolls, encountering monsters, and narrative choices.
 - Most can be cleared.
 - Each takes up an Inventory Slot.
@@ -1164,7 +1164,7 @@ This appendix provides a more nuanced use of conditions, deriving more specific 
 [back to index](#index)
 <p></p>
 
-## Appendix Luck and Flashbacks
+## Appendix L: Luck and Flashbacks
 
 ### LUCK
 LUCK is an additional stat that can be spent to modify a Save (STR, DEX, CTRL). A player's initial LUCK is rolled like their other Ability Scores (3d6).
@@ -1247,7 +1247,7 @@ Mechanical Tags pair with their [Descriptive] counterparts to add prescriptive r
 [back to index](#index)
 <p></p>
 
-## APPENDIX V Vehicles Expanded
+## APPENDIX V: Vehicles Expanded
 
 ### HP
 Vehicles have HP. When HP reaches 0 the vehicle is totaled. Totaling a vehicle causes damage to those in and around.
@@ -1283,7 +1283,7 @@ When all four sections are filled, the players achieve their goal. Drivers can o
 [back to index](#index)
 <p></p>
 
-## Faction The Bureau
+## Faction: The Bureau
 The Bureau is a government organization tasked with controlling the paranatural.
 
 ### Actions
