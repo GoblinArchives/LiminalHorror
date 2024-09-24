@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Writing Seminars
-nav_order:
+nav_order: 1
 parent: Adventure Writing Resources
+permalink: /seminars/
 ---
 
 We have been fortunate enough to have the opportunity to host a few horror writing seminars and talks.

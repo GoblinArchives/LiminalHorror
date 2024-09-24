@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Mystery Framework
+nav_order: 4
+parent: Adventure Writing Resources
 permalink: /framework/
-nav_exclude: true
 ---
+
 # Mystery Framework
 
 ## Creating Your Own Mysteries (using a framework)
@@ -319,5 +321,3 @@ Off of a main sewer line is a side passage that curves into a chamber.
 - Close inspection reveals that all the bodies making up the altar are still “alive.”
 - Kneeling before the altar is the Frog-Priest, often attended by two small Frog-Monsters, half the size of those they’ve seen before.
 - Investigators witnessing things in this space will receive stress. Most likely it would range from: **Contact** (D4 Stress) to **Exposure** (D6 Stress).
-
-[back to mystery index](

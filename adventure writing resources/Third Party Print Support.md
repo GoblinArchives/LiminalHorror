@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Third Party Print Support
-nav_order: 1
+nav_order: 6
 parent: Adventure Writing Resources
 ---
 
-# Print Support for your Liminal Horror aAdventures
+# Print Support for your Liminal Horror Adventures
 
 ## Goal
 To create a sustainable way to help bring more LH adventures to print without being a large upfront cost to creators.
@@ -22,11 +22,11 @@ The LH dev team will create a page on the main liminalhorrorrpg.com hub to host 
 ## PoD Steps
 1. Write and design you adventure, getting it ready to print! Remember that each printer has its own specific margin/design guides.
 2. Set it up as Print on Demand
-a. Lulu (resources) https://www.lulu.com/publishing-toolkit
-- Formatting (Book Creation Guide) Includes PDF specifications, spine guides, and formatting terms to help you print your book https://www.lulu.com/sell/sell-on-lulu (selling on the Lulu bookstore allows you to set up print on demand for no cost, sell direct to customers, and Lulu prints/drop ships them).
-b. Overview: https://www.drivethrurpg.com/joininfo2.php
-- Book cost and formats: https://www.drivethrurpg.com/pub_pod_cost.php
-- Quick book specifications: https://help.drivethrupartners.com/hc/en-us/articles/12780800178583-Quick-Specifications-for-Print-Books#h_01HFVSQQNE7CNT9CBGDAMQC835
+a. Lulu (resources) [https://www.lulu.com/publishing-toolkit](https://www.lulu.com/publishing-toolkit)
+- Formatting (Book Creation Guide) Includes PDF specifications, spine guides, and formatting terms to help you print your book [https://www.lulu.com/sell/sell-on-lulu](https://www.lulu.com/sell/sell-on-lulu) (selling on the Lulu bookstore allows you to set up print on demand for no cost, sell direct to customers, and Lulu prints/drop ships them).
+b. Overview: [https://www.drivethrurpg.com/joininfo2.php](https://www.drivethrurpg.com/joininfo2.php)
+- Book cost and formats: [https://www.drivethrurpg.com/pub_pod_cost.php](https://www.drivethrurpg.com/pub_pod_cost.php)
+- Quick book specifications: [https://help.drivethrupartners.com/hc/en-us/articles/12780800178583-Quick-Specifications-for-Print-Books#h_01HFVSQQNE7CNT9CBGDAMQC835](https://help.drivethrupartners.com/hc/en-us/articles/12780800178583-Quick-Specifications-for-Print-Books#h_01HFVSQQNE7CNT9CBGDAMQC835)
 3. Price your work. A pretty standard rate for adventures is $10-15 for zines, 20+ for perfect bound soft cover, 25+ for hardcovers. But you can set it to whatever you like.
 4. Launch the title!
 5.Start making money of print titles as well as your digital options!
@@ -41,7 +41,7 @@ b. Overview: https://www.drivethrurpg.com/joininfo2.php
 2. Get it printed and shipped (to you or a distributor)
 3. Start selling it online.
 4. Reach out to the LH team to let them know your work is in print:
-    Discord: https://discord.gg/VdmSHXaqTT
-    LH library submission: https://liminalhorrorlibrary.com/
+    Discord: [https://discord.gg/VdmSHXaqTT](https://discord.gg/VdmSHXaqTT)
+    LH library submission: [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
     DM
-5. LH team will post it to the library, the main hub page, and promote print projects regularly in newsletters,  etc
+5. LH team will post it to the [library](https://liminalhorrorlibrary.com/), the [main hub page](https://liminalhorrorrpg.com/Third%20Party%20Print%20Hub/), and promote print projects regularly in newsletters,  etc
