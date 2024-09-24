@@ -29,5 +29,11 @@ The Investigators Edition (the core rules ready to bring to the table for player
 
 LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
 
+## Liminal Horror Library
+A library of resources for your Liminal Horror games, cataloging and collecting all things LH. [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
+
+## Third Party Print Hub
+Where you can find all of the Third Party Liminal Horror content that is in print. [https://liminalhorrorrpg.com/printhub/](https://liminalhorrorrpg.com/printhub/)
+
 ![image](/img/LH.png)
 Liminal Horror Deluxe Edition Cover &copy; Zach Hazard Vaupen (2024)
