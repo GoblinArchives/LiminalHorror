@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Examples
-nav_order: 2
+nav_order: 3
 parent: Adventure Writing Resources
 permalink: /examples/
 ---
