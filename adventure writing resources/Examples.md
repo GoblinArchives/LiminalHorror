@@ -7,7 +7,7 @@ permalink: /examples/
 ---
 
 # Examples Using The Design Templates
-![image](/img/examples.png)
+![image](/img/example.png)
 
 Josh Domanski created some exemplars using the [Liminal Horror Design Templates](https://unenthuser.itch.io/liminal-horror-design-templates).
 

@@ -26,3 +26,25 @@ This template is licensed under Creative Commons ([CC BY 4.0](https://creativeco
 
 ## See the Templates in Action
 Examples of these templates in use can be found [HERE](https://unenthuser.itch.io/case-files-vol-1).
+
+## Template Advice
+Not only do the templates give you the tools necessary to lay out your Liminal Horror content, but they also double as advice.
+
+### Horrors of the Americas & Formatting
+![image](/img/template1.png)
+
+### The Grid
+![image](/img/template2.png)
+
+### Scenarios & Locations
+![image](/img/template3.png)
+
+### Creatures
+![image](/img/template4.png)
+
+### Factions
+![image](/img/template5.png)
+
+### Miscellaneous
+NPCs, Resonant Artifacts, Plot Hooks 
+![image](/img/template6.png)

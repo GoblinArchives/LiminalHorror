@@ -3,6 +3,7 @@ layout: default
 title: Third Party Print Support
 nav_order: 6
 parent: Adventure Writing Resources
+permalink: /print-support/
 ---
 
 # Print Support for your Liminal Horror Adventures
