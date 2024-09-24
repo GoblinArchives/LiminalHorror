@@ -36,6 +36,27 @@ There are a few different options in terms of printers that you can use. This is
 - [Pet Riso Studio](https://www.petrisostudio.com/) is a US based risograph printer.
 - [Lulu](https://www.lulu.com/sell/sell-on-lulu) allows you to upload your print files and sell print on demand either through their platform or your own store.
 
+## Print On Demand
+PoD Steps:
+1. Write and design you adventure, getting it ready to print! Remember that each printer has its own specific margin/design guides.
+2. Set it up as Print on Demand
+Lulu (resources) https://www.lulu.com/publishing-toolkit
+Formatting (Book Creation Guide) Includes PDF specifications, spine guides, and formatting terms to help you print your book https://www.lulu.com/sell/sell-on-lulu (selling on the Lulu bookstore allows you to set up print on demand for no cost, sell direct to customers, and Lulu prints/drop ships them).
+Drivethru (resources)
+Overview: https://www.drivethrurpg.com/joininfo2.php
+Book cost and formats: https://www.drivethrurpg.com/pub_pod_cost.php
+Quick book specifications: https://help.drivethrupartners.com/hc/en-us/articles/12780800178583-Quick-Specifications-for-Print-Books#h_01HFVSQQNE7CNT9CBGDAMQC835
+3. Price your work. A pretty standard rate for adventures is $10-15 for zines, 20+ for perfect bound soft cover, 25+ for hardcovers. But you can set it to whatever you like.
+4. Launch the title!
+5.Start making money of print titles as well as your digital options!
+**If writing for Liminal Horror**
+6. Reach out to the LH team to let them know your work is in print:
+    - discord
+    - LH library submission
+    - DM
+7. LH team will post it to the library, the main hub page, and promote print projects regularly in newsletters,  etc
+
+
 ## Publishing Partnerships
 One option for funding a print run is to partner with a publisher/distributor. Many indie storefronts regularly partner with game writers to get a finished game to print. This tends to involve a partnership where the store fronts some (or all) of the cost to print. Afterwards they handle distribution, and after the print costs are recouped they pay regular royalties to the game's designer. This is the avenue I went through for Liminal Horror (I had it published through Exalted Funeral Press).
 - If publishing it yourself is out of reach (logistically or financially), it is worthwhile to reach out to one of the great small ttrpg retailers listed below. Sometimes all it takes is emailing the right person to make a connection that can help you get into print.

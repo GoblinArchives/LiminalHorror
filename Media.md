@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Media
-nav_order: 8
+nav_order: 10
 has_children: false
 ---
 # Media
