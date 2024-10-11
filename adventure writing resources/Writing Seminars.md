@@ -16,6 +16,13 @@ Josh Domanski and Goblin Archives did a horror writing seminar on The Weekly Scr
 -**Here is the video of the presentation**:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7N5ywYLaWk?si=nmZCmQPl1-yWICP3&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Writing Short Form Horror: Liminal Horror Writing Seminar
+Josh Domanski hosted a second writing seminar on The Weekly Scroll focusing on short form horror content for ttrpgs. In it they break down the tips and tricks for making impactful short form horror content both for your home games and for published products.
+- **Formats**: [Podcast](https://podcasts.apple.com/us/podcast/liminal-horror-writing-seminar-2-writing-short-form-horror/id1595838393?i=1000672363073), [Youtube](https://www.youtube.com/watch?v=c2U4MRafTuQ&ab_channel=TheWeeklyScroll%7CTheAdventureArchive), [Twitch](https://www.twitch.tv/videos/2269247752).
+- **Slide Deck for Presentation**: [https://drive.google.com/file/d/1pyA7I886hRQMx9q1kOc-3gDP5xfmwZ_J/view?usp=sharing](https://drive.google.com/file/d/1pyA7I886hRQMx9q1kOc-3gDP5xfmwZ_J/view?usp=sharing)
+-**Here is the video of the presentation**:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2U4MRafTuQ?si=vmbikwaK9D-N8fs2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Empty Rooms: Architecture and HORROR
 Empty Rooms: Architecture and Horror - In this panel, Stella Joy (Rimbound Transmissions for Mothership), Logan Dean (The Company), Sean McCoy (Mothership), and Goblin Archives (Liminal Horror) discuss how architecture can play a pivotal part in horror (especially in ttrpgs).
 - Goblin Archives also created an annotated guide to go along with the seminar: [https://docs.google.com/document/d/1-C3_wRk3o6xiN5d1dzgCu2BU0zwm4y7YqCdCdOomej8/edit?usp=sharing](https://docs.google.com/document/d/1-C3_wRk3o6xiN5d1dzgCu2BU0zwm4y7YqCdCdOomej8/edit?usp=sharing)
