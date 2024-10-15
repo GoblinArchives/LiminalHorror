@@ -8,6 +8,7 @@ has_children: false
 
 # Localizations
 
+- [Chinese](https://zznoah.itch.io/liminal-horror-chs)
 - [French](https://stouttoujours.itch.io/traduction-fr-liminal-horror#new_tab)
 - [German](https://hauntedhomes.itch.io/liminaler-horror-liminal-horror-legacy-edition-german-translation)
 - [Italian](https://hauntedhomes.itch.io/liminaler-horror-liminal-horror-legacy-edition-german-translation)
