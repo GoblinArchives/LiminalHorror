@@ -524,7 +524,7 @@ When attempting something dangerous or acting to avoid harm, roll a d20. If the 
 If there is no risk, no external pressure, or the results of failure are uninteresting, no roll is needed. If the action is contested, the individual most at risk as a result of failure makes the Save.
 
 
-### Hit Prtoection (HP)
+### Hit Protection (HP)
 An Investigator’s ability to avoid serious harm (both physical and Stress). HP recovers quickly when Investigators take moments in safety.
 
 ### Inventory
@@ -642,7 +642,7 @@ Some items have tags that denote a unique way it interacts.
 
 Additional Item Tags are optional rules that provide a modular option to boost the potential complexity for items used in play.
 
-For more information see [Appendix Item Tags](#appendix-i-item-tags).
+For more information see [Appendix I: Item Tags](#appendix-i-item-tags).
 
 
 ### Retreat
