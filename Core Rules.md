@@ -321,7 +321,7 @@ The following tables can be used to flesh out Investigators. The first three foc
 6. Squeaky
 7. Formal
 8. Accented
-9.Droning
+9. Droning
 10. Choppy
 
 #### Virtue
@@ -366,7 +366,7 @@ The following tables can be used to flesh out Investigators. The first three foc
 ### Connections
 Each player creates two NPCs.
 - List one person who is significant to your Investigator. What is their relationship? Give them a name and brief description.
-- List one contact your Investigator has. What is the contact’s area of 	 	 expertise and what is their relationship to the Investigator?
+- List one contact your Investigator has. What is the contact’s area of expertise and what is their relationship to the Investigator?
 
 **Potential Connections**
 - Family Member
