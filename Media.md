@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Media
-nav_order: 11
+nav_order: 12
 has_children: false
 ---
 # Media
@@ -32,30 +32,6 @@ has_children: false
 
 [**The Parthenogenesis of Hungry Hollow B-Sides**](https://open.spotify.com/playlist/17xs8nP1KFYLNgB8Xh91BG?si=8b0754f11a2547b8)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17xs8nP1KFYLNgB8Xh91BG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-## ACTUAL PLAYS:
-
-**The Bureau Actual Play (Gehenna Gaming)** ([Episode 1](https://www.youtube.com/watch?v=E5-XNAot4SM&t=1204s&ab_channel=GehennaGaming)) ([Episode 2](https://www.youtube.com/watch?v=TlaCSCVYvDU&ab_channel=GehennaGaming)) ([Episode 3](https://www.youtube.com/watch?v=xD_36qiHU-w&t=41s&ab_channel=GehennaGaming)) ([Episode 4](https://www.youtube.com/watch?v=iCkMUdrm24o&ab_channel=GehennaGaming)) ([Episode 5](https://www.youtube.com/watch?v=bw-vzE9Gsp4&ab_channel=GehennaGaming)) ([Episode 6](https://www.youtube.com/watch?v=rV6NmF2OkSQ&list=PLFmg3IVsGQgg5nH25xQYk1UlWJoof4mJg&index=8&ab_channel=GehennaGaming)) ([Episode 7](https://www.youtube.com/watch?v=qt8pBgE2IHo&list=PLFmg3IVsGQgg5nH25xQYk1UlWJoof4mJg&index=8&ab_channel=GehennaGaming))
-<iframe src="https://www.youtube-nocookie.com/embed/E5-XNAot4SM?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="728" height="409"></iframe>
-
-[**The Bureau Actual Play One-Shot (Virtual Horror Con)**](https://www.youtube.com/watch?v=mXbffocppxM&ab_channel=GehennaGaming) Interns find that resume building isn’t always a good thing.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mXbffocppxM?si=P5oBIHRdxObpYBD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[**The Mall Actual Play One-Shot (Virtual Horror Con)**](https://www.youtube.com/watch?v=AAGufh_kyNs&ab_channel=CarrionComfortStudios)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAGufh_kyNs?si=8y7-9mPajWwgRM4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[**Crossover Reality Special Part 1: Liminal Horror on The Weekly Scroll:**](https://www.youtube.com/watch?v=_6V155sVeyU) On this very special episode, Josh Domanski runs Hunter, Andy, and Kirby through One Night at the Shelterwood Inn using Liminal Horror.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_6V155sVeyU?si=Lp6jOWOD3fIi_bpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[**Crossover Reality Special Part 2: Triangle Agency on The Weekly Scroll:**](https://www.youtube.com/watch?v=UrPI5T8gnhI) On this very special episode, Sean Ireland runs Ryan, Christian Sorrell, and Leona Neelam Maple through One Night at the Shelterwood Inn using Triangle Agency.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UrPI5T8gnhI?si=kzR3mqhfhIrvf27M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[**SideQuests | EP 3 | LIMINAL HORROR: Camp Coldwater**](https://www.youtube.com/watch?v=pDBKzxsmv5U) On episode 3 of SideQuests, Ryan is joined by the incomparable ⁠Stella Condrey⁠ and ⁠Adam Vass⁠ to play some LIMINAL HORROR! ⁠Josh Domanski⁠ is the GM and writer of our adventure, Camp Coldwater, a prequel adventure to ⁠The Bloom⁠ (which is out now on ⁠Space Penguin Ink⁠).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pDBKzxsmv5U?si=U6_hCIC4u78QjxE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[**Illusions and Delusions: A Liminal Horror One Shot**](https://www.youtube.com/watch?v=l8LVdhBESms&t=4s&ab_channel=TPKRoleplay) - What happens when an MLM uses stepford wives style wellness on a small town?
-<iframe src="https://www.youtube-nocookie.com/embed/l8LVdhBESms?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="728" height="409"></iframe>
 
 
 ## PANELS:
