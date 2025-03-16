@@ -3,6 +3,7 @@ layout: default
 title: Actual Plays
 nav_order: 11
 has_children: false
+permalink: /APs/
 ---
 # Actual Plays
 A variety of Actual Play videos and podcasts featuring Liminal Horror. Unless noted, these are independent productions that highlight both original and published modules.

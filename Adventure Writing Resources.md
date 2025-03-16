@@ -3,6 +3,7 @@ layout: default
 title: Adventure Writing Resources
 nav_order: 6
 has_children: true
+permalink: /resources
 ---
 
 # Adventure Writing Resources

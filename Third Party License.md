@@ -2,6 +2,7 @@
 layout: default
 title: Third Party License
 nav_order: 5
+permalink: /3pp/
 ---
 
 # Liminal Horror Third Party License

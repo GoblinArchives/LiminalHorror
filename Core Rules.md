@@ -3,6 +3,7 @@ layout: default
 title: Core Rules
 nav_order: 2
 has_children: false
+permalink: /corerules/
 ---
 
 # LIMINAL HORROR INVESTIGATORS

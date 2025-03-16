@@ -3,6 +3,7 @@ layout: default
 title: Official Modules
 nav_order: 3
 has_children: false
+permalink: /official/
 ---
 
 There is a lot of official and community support for Liminal Horror. Enough that we maintain **The Liminal Horror Library** ([https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)) to cataolgue all the different resources out there (we currently have over 150).

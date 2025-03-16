@@ -3,6 +3,7 @@ layout: default
 title: Legacy Edition
 nav_order: 8
 search_exclude: true
+permalink: /legacy/
 ---
 
 # Liminal Horror Legacy Edition
