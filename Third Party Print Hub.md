@@ -11,6 +11,7 @@ A one stop location to find all the various Liminal Horror Third Party Adventure
 - [Annoated Archive of Game Design Resources: Printing & Publishing](https://liminalhorrorrpg.com/Game%20Design/Printing%20&%20Publishing/)
 
 ## Third Party Adventures
+[Playthings](https://spacepenguin.ink/collections/liminal-horror/products/playthings-for-liminal-horror-rpg) by Seth Ian - You have become toys trapped in an interdimensional toy box.
 
 [Iron Gods](https://www.themightyodd.com/buy/p/iron-gods) by Tyler “The Mighty Odd” Welch - 1980s body building muscle horror.
 
