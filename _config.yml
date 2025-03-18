@@ -3,7 +3,7 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://liminalhorrorrpg.com
 logo:
-color_scheme: light
+color_scheme: dark
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
