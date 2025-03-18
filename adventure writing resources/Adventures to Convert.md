@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conversion Guide
+title: Adventures to Convert
 nav_order: 6
 parent: Adventure Writing Resources
 permalink: /adventurestoconvert/
