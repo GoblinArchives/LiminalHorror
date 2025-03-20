@@ -3,7 +3,7 @@ layout: default
 title: SRD v.2
 nav_order: 4
 parent: true
-search_exclude: true
+search_exclude: Rules Reference
 permalink: /srdv2/
 ---
 

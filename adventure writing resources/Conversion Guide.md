@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Conversion Guide
-nav_order: 5
+nav_order: 6
 parent: Adventure Writing Resources
 permalink: /conversion/
-search_exclude: true
 ---
 
 # Conversion Guide: Adapting a Mystery

@@ -2,7 +2,7 @@
 layout: default
 title: Audio Video
 nav_order: 2
-parent: true
+parent: media
 ---
 
 ## SOUNDTRACKS

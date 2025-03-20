@@ -2,7 +2,7 @@
 layout: default
 title: Investigators
 nav_order: 2
-parent: true
+parent: Rules Reference
 permalink: /investigators/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Templates
-nav_order: 2
+nav_order: 3
 parent: Adventure Writing Resources
 permalink: /templates/
 ---
@@ -46,5 +46,5 @@ Not only do the templates give you the tools necessary to lay out your Liminal H
 ![image](/img/template5.png)
 
 ### Miscellaneous
-NPCs, Resonant Artifacts, Plot Hooks 
+NPCs, Resonant Artifacts, Plot Hooks
 ![image](/img/template6.png)

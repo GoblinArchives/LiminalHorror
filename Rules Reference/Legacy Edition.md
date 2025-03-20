@@ -3,7 +3,7 @@ layout: default
 title: Legacy Edition
 nav_order: 3
 search_exclude: true
-parent: true
+parent: Rules Reference
 permalink: /legacy/
 ---
 

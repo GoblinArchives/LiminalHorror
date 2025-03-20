@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writing Seminars
-nav_order: 1
+nav_order: 2
 parent: Adventure Writing Resources
 permalink: /seminars/
 ---

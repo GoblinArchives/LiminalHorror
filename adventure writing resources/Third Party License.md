@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Third Party License
-nav_order: 5
+nav_order: 1
+parent: Adventure Writing Resources
 permalink: /3pp/
 ---
 
