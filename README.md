@@ -20,18 +20,11 @@ permalink: /
 
 **Liminal Horror is not a game about solving mysteries, but rather surviving them.**
 
-The Investigators Edition (the core rules ready to bring to the table for players and facilitators) is available:
-- The Print version is available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror/products/liminal-horror-investigators)
-- The PDF version is available for free at [itch.io](https://goblinarchives.itch.io/liminal-horror) & [DrivetThruRPG](https://www.drivethrurpg.com/en/product/366656/liminal-horror-investigators).
+## Digital
+Digital copies of the rules and official adventures can be found at [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 
-## Official Modules
-- **The Mall Remastered** *What if The Thing were set in a 1990s mall?* [PDF](https://goblinarchives.itch.io/the-mall) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-mall-remastered-for-liminal-horror-rpg)
-- **The Bureau** *It's Gradient Descent meets Control* [PDF](https://goblinarchives.itch.io/the-bureau)
-- **The Bloom** *What if Twin Peaks had a The Last of Us arc?* [PDF](https://goblinarchives.itch.io/the-bloom) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom)
-- **One Night At The Shelterwood Inn** *Crossover: A Liminal Horror & Triangle Agency Crossover Reality* [PDF](https://unenthuser.itch.io/one-night) or [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn)
-- **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-parthenogenesis-of-hungry-hollow-for-liminal-horror-rpg)
-
-LIMINAL HORROR merch available at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
+## Physical
+Digital copies of the rules and official adventures can be found at[Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror)
 
 ## Liminal Horror Library
 A library of resources for your Liminal Horror games, cataloging and collecting all things LH. [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
