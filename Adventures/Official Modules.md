@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Official Modules
-nav_order: 3
-has_children: false
+nav_order: 1
+parent: Adventures
 permalink: /official/
 ---
 

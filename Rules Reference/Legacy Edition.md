@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Legacy Edition
-nav_order: 8
+nav_order: 3
 search_exclude: true
+parent: true
 permalink: /legacy/
 ---
 

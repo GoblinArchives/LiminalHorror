@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Adventures to Convert
-nav_order: 6
-parent: Adventure Writing Resources
+nav_order: 3
+parent: Adventures
 permalink: /adventurestoconvert/
-search_exclude: true
 ---
 
 # Adventure Conversions

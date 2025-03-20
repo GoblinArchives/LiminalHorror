@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Core Rules
-nav_order: 2
-has_children: false
-permalink: /corerules/
+title: SRD v.2
+nav_order: 4
+parent: true
+search_exclude: true
+permalink: /srdv2/
 ---
 
-# LIMINAL HORROR INVESTIGATORS
-Liminal Horror is a rules-lite, adaptable modern horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on investigation, blending simple, old-school inspired rules with modern, narrative first principles, where survival is not guaranteed and those that do survive are often forever changed. It is a rules-lite, fail forward system that leverages creative problem solving in order to create memorable experiences at the table. Players act as 'investigators' navigating a modern world full of terrible and unknowable horrors.
+# Liminal Horror SRD v.2.0 (established 2023)
+This version is derived from the updates made in Liminal Horror: Investigators
 
-![image](/img/investigator.png)
+## What is an SRD? How can is use it to create my own hack?
+SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Please reference the [Third Party License](https://liminalhorrorrpg.com/3pp/) when creating your own work using this SRD.
 
-A **print copy** of Liminal Horror Investigators can be purchased from [Space Penguin Ink](https://spacepenguin.ink/products/liminal-horror-investigators)
+Note: Liminal Horror Investigators ported some text from the Legacy Edition which was licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-A **digital pdf** can be found at [https://goblinarchives.itch.io/liminal-horror](https://goblinarchives.itch.io/liminal-horror)
+<p></p>
 
 <p></p>
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Third Party Print Hub
-nav_order: 4
+nav_order: 2
+parent: Adventures
 permalink: /printhub/
 ---
 

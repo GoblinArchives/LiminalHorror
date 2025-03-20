@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Actual Plays
-nav_order: 11
-has_children: false
+nav_order: 1
+parent: true
 permalink: /APs/
 ---
 # Actual Plays
