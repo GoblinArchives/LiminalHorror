@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Media
-nav_order: 12
+nav_order: 7
 has_children: true
 ---

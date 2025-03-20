@@ -59,6 +59,47 @@ Transcribing a creature’s special abilities is likely going to be the trickies
 * Abilities that are particularly weird or have the potential to elicit change through Fallout should deal Stress.
 * Anything that targets the Investigators faculties (impairing vision/hearing, restricting movement, confounding, etc) should require a Save or have a specific trigger.
 
+### CHEAT SHEET
+- Is this entity able to avoid being hit or avoid serious harm? Boost its HP.
+- Can it soak up damage? Give it Armor.
+- Is it physically powerful or especially vicious? Give it a high STR or larger damage dice.
+- Does it have quick reflexes? Give it high DEX.
+- Is it particularly weird? Give it high CTRL or ability to deal Stress.
+
+## BASIC HORROR TEMPLATES
+Presented below are four basic stat blocks that represent common types of horrors the Investigators may encounter. Use them as a template to aid in getting started and for the purpose of comparison, then expand upon them to make your creatures unique. Alternatively, find a creature in the Catalog of the Strange (p.x) to use as a basis and tweak as needed.
+
+**GRUNT**
+Small or weak entities that pose a limited threat when alone, but quickly become dangerous when amassed in groups.
+- STR: 8 DEX: 6 CTRL: 3
+- HP: 6
+- Weak or Unarmed Attack: d4
+
+**BRUTE**
+Strong entities or those with natural resistances. Typically a challenge when alone or in pairs, and are often supported by several Grunts.
+- STR: 14 DEX: 10 CTRL: 8
+- HP: 8 Armor: 2
+- Weapon Attack (d8) or Area Attack (d6, blast)
+- Special Ability: Either a devastating ability that triggers upon dealing Critical Damage, or a behavioral change when receiving Critical Stress.
+
+**GHOUL**
+Entities that are physically weak, but have dangerous and powerful abilities. While dangerous on their own, they are a serious threat when paired with Grunts or Brutes.
+- STR: 8 DEX: 12 CTRL: 14
+- HP: 4 Armor: 1
+- Weapon Attack (d6) or Corrupting Attack (d6 Stress)
+- Special Ability: An ability that causes corruption, hits multiple targets, or changes the environment in some manner.
+- Special Ability: An ability that either enhances its allies or creates new horrors.
+
+**TYRANT**
+Near unstoppable killing machines, where running away is the best option and open engagement is quickly deadly.
+- STR: 16 DEX: 6 CTRL: 16
+- HP: 12 Armor: 3
+- Weapon Attack (d8) or Area Attack (d10, blast)
+- Special Ability: Either a devastating ability that triggers upon dealing Critical Damage.
+- Special Ability: An ability that impacts how the creature moves, allowing it to ambush or get the drop on its targets.
+- Special Ability: An ability that provides an enhancement.
+- Special Ability: A specific physical change it undergoes when receiving Critical Damage.
+
 ### Sanity
 
 It is fairly common for similar systems to include a Sanity mechanic, signifying a character’s descent into madness after being exposed to horrors not meant for the likes of mankind. ***Liminal Horror*** has intentionally diverged away from the concept in an attempt to avoid the problematic aspects associated with the stigmatization of mental health struggles. Therefore, replacing Sanity mechanics will not be a simple one-for-one. Leverage Stress and Fallout as a means to simulate the Investigator’s proximity to the weird.
@@ -90,6 +131,9 @@ Replace WIL or CHA directly with CTRL.
 ### Damage
 
 Damage sources can be used as written. Replace damage from creepy or uncanny abilities with Stress.
+
+---
+
 
 ## B/X Descendents
 
@@ -126,6 +170,10 @@ Damage can be used directly as written in most cases. Use **Stat Blocks (p.x)** 
 * Breath Attacks \= DEX, STR, or an appropriate damage die.
 * Spells, Rods or Staves	\= CTRL
 
+---
+
+
+
 ## MÖRK BORG
 
 This includes the original ***Mork Borg*** as well as its iterations and hacks such as ***Cy Borg***, ***Frontier Scum***, ***Vast Grimm***, and ***Cthork Borg***.
@@ -150,6 +198,11 @@ CTRL 	6	12	15	18
 ### Combat
 
 Damage can be used directly as written in most cases, though note that base weapon attacks in ***Mork Borg*** are often a d4 when they’d be a d6 in ***Liminal Horror***. Use **Stat Blocks (p.x)** for further advice. Multiple attacks either use the *Blast* tag (damage applied to multiple targets) and or the **Dual Weapons (p.x)** rule (roll two dice and take the higher of the two).
+
+
+---
+
+
 
 ## Call of Cthulhu
 
@@ -201,6 +254,10 @@ CoC	LH
 2/2D10+1 \= 1d6 Stress
 1D10/1D100 \= 1d8+ Stress
 
+---
+
+
+
 ## Delta Green
 
 ### Hit Protection
@@ -237,6 +294,10 @@ For a more tactical experience that integrates combat maneuvers, use **Appendix 
 
 Review the prior guidance in **Stress (p.x)**. For quick conversion, references to Sanity loss convert instead to Stress Damage. For a Sanity loss of (x/1Dx), have the Investigator make a CTRL save. On a success they take the first number (often 0), and on a failure they take the resulting Stress (using the dice indicated). Critical Stress results in Fallout (p. x).
 
+---
+
+
+
 ## Monster of the Week
 
 ### Doom Clock
@@ -272,6 +333,10 @@ Finding and exploiting a creature’s weakness Enhances applicable damage die. C
 ### Tags
 
 Use the **Appendix Item Tags** as a means of porting over the tags from MotW. If there is not a close analogue, use the existing ones as guidance to make a ruling for the table.
+
+---
+
+
 
 ## Mothership 1e
 
@@ -327,6 +392,10 @@ For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to
 * Moderate (hand welder, revolver) 1d10 \= d6
 * Severe (SMG, flamethrower) 2d10 \= d8
 * Deadly (grenade, smart rifle) 3d10+ \= d10 \- d12
+
+---
+
+
 
 ## Triangle Agency
 

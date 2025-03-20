@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules Reference
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /rules/
 ---

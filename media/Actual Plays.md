@@ -2,7 +2,7 @@
 layout: default
 title: Actual Plays
 nav_order: 1
-parent: media
+parent: Media
 permalink: /APs/
 ---
 # Actual Plays

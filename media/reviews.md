@@ -2,7 +2,7 @@
 layout: default
 title: Reviews
 nav_order: 3
-parent: media
+parent: Media
 ---
 
 ## REVIEWS
