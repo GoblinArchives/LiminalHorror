@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD v.2
+title: SRD v.2.0
 nav_order: 4
 parent: true
 search_exclude: Rules Reference
