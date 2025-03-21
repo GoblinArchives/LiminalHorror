@@ -13,9 +13,10 @@ A variety of Actual Play videos and podcasts featuring Liminal Horror. Unless no
 
 ## Original One-Shots and Mini-Series
 
-**Liminal Horror by Mystery Quest** ([Episode 1](https://www.youtube.com/watch?v=GLxfAJE7cN4&ab_channel=MysteryQuest))
+**Liminal Horror by Mystery Quest** ([Episode 1](https://www.youtube.com/watch?v=GLxfAJE7cN4&ab_channel=MysteryQuest))([Episode 2](https://www.youtube.com/watch?v=BVObSyDfIYU&ab_channel=MysteryQuest))
 - **Description:** Welcome to Liminal Horror... For years farmers and villagers whispered rumours about the missing hikers lost up on the Yorkshire Moors... When a mutual friend, Fish, joins the statistics, three neighbours set out on a stormy night to search for answers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GLxfAJE7cN4?si=Dm0Rg2cim0OV4X4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVObSyDfIYU?si=dRwKnWXXk2pyldU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 **Slumber: A Liminal Horror Story by Bad House RPG** ([Episode 1 - 7:43 PM](https://www.youtube.com/watch?v=NSEXNxlUXUU&ab_channel=BadHouseRPG))([Episode 2 - The Weatherman](https://www.youtube.com/watch?v=34q768nR_i0&ab_channel=BadHouseRPG))([Episode 3 - Confessions](https://www.youtube.com/watch?v=CyUNlPpVwrw&ab_channel=BadHouseRPG))([Episode 4 - The Cloister](https://www.youtube.com/watch?v=Fjucax_5bSQ&ab_channel=BadHouseRPG))
