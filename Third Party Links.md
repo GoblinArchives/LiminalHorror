@@ -4,6 +4,7 @@ title: Third Party Links
 nav_order: 6
 has_children: false
 permalink: /useful-links/
+description: A collection of third party links to blogs and resources to support running and creating for Liminal Horror.
 ---
 
 # Third Party Links
