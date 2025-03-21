@@ -37,7 +37,7 @@ description: Audio and Video medium focusing and highlighting the Liminal Horror
 <iframe src="https://www.youtube-nocookie.com/embed/z71883t98U4?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="728" height="409"></iframe>
 
 ## PODCASTS:
-
+- [Vintage RPG](https://www.vintagerpg.com/2025/03/liminal-horror-2/)
 - [The Lost Bay: Goblin Archives](https://thelostbaystudio.com/podcast/goblin_archives_liminal_horror)
 - [The Lost Bay: Goblin Archives, The Parthenogenesis of Hungry Hollow](https://podcasts.apple.com/us/podcast/goblin-archives-the-parthenogenesis-of-hungry-hollow/id1560319393?i=1000660558072)
 - [Between Two Cairns Review of The Mall](https://www.buzzsprout.com/2042709/11692171-the-mall)
