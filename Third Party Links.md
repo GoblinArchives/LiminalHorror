@@ -17,6 +17,7 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 ## Useful Links
 
 - [Survive, Solve, or Save: Pick Two](https://www.failuretolerated.com/survive-solve-or-save-pick-two) by Sean McCoy: “horror games should put to you a choice in any given situation, which is that you can either survive the terror, solve the mystery, or save the day…But you should only be able to do 1 to 1.5 of those things.”
+- [D&D Doesn't Understand What Monsters Are](https://throneofsalt.blogspot.com/2020/08/d-doesnt-understand-what-monsters-are.html?m=1) by Throne of Salt: “A monster is a symptom that somewhere, somehow, the world has gotten fucked up.”
 - [Violent Encounters](https://www.failuretolerated.com/violent-encounters) by Sean McCoy: “rethink these scenarios, to reframe the imaginary space they inhabit so that no matter where you fall on the rules-lite to rules-might spectrum, your encounters have real stakes.”
 - [The ICI Doctrine: Information, Choice, Impact
 ](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html?m=1) by Chris McDowell: A way to run a game that emphasizes player agency.
@@ -40,7 +41,6 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Overloading the Random Encounter Table](https://www.prismaticwasteland.com/blog/overloading-the-random-encounter-table) by Prismatic Wasteland: “A all-in-one roll for random encounters, reaction, surprise, and distance.”
 - [THE UNDERCLOCK: Fixing the Random Encounter](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html?m=1) by Goblin Punch: “The Underworld is not just a basement or a cave.  The Underworld is a place that hates you.  It is hostile architecture.  It hates you in a way that only the blind tonnage of stone and cold air can have.  It hates your lively blood.  It hates the sunshine warmth still lingering on your skin.”
 - [Writing NPCs](https://lukegearing.blot.im/writing-npcs) by Luke Gearing: “When writing NPCs, you can communicate 2 or 3 things, or 4 related things.”
-- [D&D Doesn't Understand What Monsters Are](https://throneofsalt.blogspot.com/2020/08/d-doesnt-understand-what-monsters-are.html?m=1) by Throne of Salt: “Monsters are made to be so.”
 - [False Hydra](https://goblinpunch.blogspot.com/2014/09/false-hydra.html?m=1) by Goblin Punch: “Common wisdom holds that false hydras come from the ground.  They spontaneously originate as undifferentiated masses of flesh. Potatoes that sprout from no seed.  Supposedly, they germinate in response to lies, and that each falsehood causes a false hydra to swell larger.”
 - [Doppelgänger Dos & Don’ts](https://www.prismaticwasteland.com/blog/doppelgnger-dos-and-donts) by Prismatic Wasteland: “advice and best practices for running doppelgängers.”
 - [Welcome to Gulch!](https://www.mindstormpress.com/gulch) by Mindstorm: “Welcome to Gulch! A modern day starter town for RPGs.”
