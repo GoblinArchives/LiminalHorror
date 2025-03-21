@@ -3,12 +3,14 @@ layout: default
 title: Third Party Links
 nav_order: 6
 has_children: false
-
+permalink: /useful-links/
 ---
 
 # Third Party Links
 
 A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehensive list that also is a working document. Many of these have inspired the dev team in our approach to Liminal Horror, while other entries are things we thing would be helpful to inspire Facilitators when writing their own LH content. Use this to mine for inspiration and harvest for parts when you are creating your own things! There is an unlisted way these are presented, but half of the fun is trying to figure out why they are clustered together.
+
+## Useful Links
 
 - [Survive, Solve, or Save: Pick Two](https://www.failuretolerated.com/survive-solve-or-save-pick-two) by Sean McCoy: “horror games should put to you a choice in any given situation, which is that you can either survive the terror, solve the mystery, or save the day…But you should only be able to do 1 to 1.5 of those things.”
 - [Violent Encounters](https://www.failuretolerated.com/violent-encounters) by Sean McCoy: “rethink these scenarios, to reframe the imaginary space they inhabit so that no matter where you fall on the rules-lite to rules-might spectrum, your encounters have real stakes.”
