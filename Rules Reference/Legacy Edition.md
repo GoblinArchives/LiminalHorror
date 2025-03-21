@@ -5,6 +5,7 @@ nav_order: 3
 search_exclude: true
 parent: Rules Reference
 permalink: /legacy/
+description: The entire text of Liminal Horror Legacy Edition, the original publication of the ttrpg and fully compatible with all published modules.
 ---
 
 # Liminal Horror Legacy Edition

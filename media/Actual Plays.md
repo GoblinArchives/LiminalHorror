@@ -4,6 +4,7 @@ title: Actual Plays
 nav_order: 1
 parent: Media
 permalink: /APs/
+description: Actual Plays running the Liminal Horror ttrpg.
 ---
 # Actual Plays
 A variety of Actual Play videos and podcasts featuring Liminal Horror. Unless noted, these are independent productions that highlight both original and published modules.

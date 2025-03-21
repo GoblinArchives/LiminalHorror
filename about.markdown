@@ -2,6 +2,7 @@
 layout: page
 title: Development Team
 permalink: /about/
+description: Links for the development team of Liminal Horror.
 ---
 
 While originally written by Goblin Archives, the Liminal Horror dev team has grown.

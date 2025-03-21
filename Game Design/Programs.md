@@ -3,6 +3,7 @@ layout: default
 title: Programs
 nav_order: 3
 parent: Annotated Archive of Game Design Resources
+decription: Programs to use when creating and publishing ttrpgs.
 ---
 ## What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.

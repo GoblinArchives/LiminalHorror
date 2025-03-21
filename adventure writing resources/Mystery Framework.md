@@ -4,6 +4,7 @@ title: Mystery Framework
 nav_order: 5
 parent: Adventure Writing Resources
 permalink: /framework/
+description: A way to structure and adventure for the Liminal Horror ttrpg.
 ---
 
 # Mystery Framework

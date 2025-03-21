@@ -3,6 +3,7 @@ layout: default
 title: Funding
 nav_order: 9
 parent: Annotated Archive of Game Design Resources
+description: How to go about funding ttrpgs.
 ---
 
 ## FUNDING

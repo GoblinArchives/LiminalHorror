@@ -4,6 +4,7 @@ title: Third Party Print Hub
 nav_order: 2
 parent: Adventures
 permalink: /printhub/
+description: A list of published third party modules for the Liminal Horror ttrpg.
 ---
 
 ## Third Party Print Hub

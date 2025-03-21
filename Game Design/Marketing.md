@@ -3,6 +3,7 @@ layout: default
 title: Marketing
 nav_order: 11
 parent: Annotated Archive of Game Design Resources
+description: Marketing resources for ttrpgs.
 ---
 ## MARKETING
 Once you have a completed game, it is important to focus some effort on marketing (in order to get it in front of players).

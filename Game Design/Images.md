@@ -3,6 +3,7 @@ layout: default
 title: Images
 nav_order: 6
 parent: Annotated Archive of Game Design Resources
+description: Creating and using images in ttrpg publications.
 ---
 
 # IMAGES

@@ -4,6 +4,7 @@ title: Writing Seminars
 nav_order: 2
 parent: Adventure Writing Resources
 permalink: /seminars/
+description: A collection of writing seminars and panels highlighting horror in ttrpgs and writing for the Liminal Horror ttrpg.
 ---
 
 We have been fortunate enough to have the opportunity to host a few horror writing seminars and talks.

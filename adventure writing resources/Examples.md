@@ -4,6 +4,7 @@ title: Examples
 nav_order: 4
 parent: Adventure Writing Resources
 permalink: /examples/
+description: Examples of the design templates that were created support designers in writing and publishing content for the Liminal Horror ttrpg.
 ---
 
 # Examples Using The Design Templates

@@ -3,6 +3,7 @@ layout: default
 title: Accessibility
 nav_order: 7
 parent: Annotated Archive of Game Design Resources
+description: Resources on how to improve accessiblity in your ttrpg products.
 ---
 # Formats
 Different formats support different levels of accessability. when thinking about how one presents their work there are three major modes Web / EPUB / Print. Often when games are published the focus is only on print/pdf format. This is largely due to the fact that pdf is what is used to submit things for print. When thinking about accessiblity, understanding the scaffolds (and constraints) of the format is super important.

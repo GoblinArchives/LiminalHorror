@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Annotated Archive of Game Design 
+title: Annotated Archive of Game Design
 nav_order: 9
 has_children: true
+description: A cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
 ---
 
 # The Annotated Archive of Game Design Resources

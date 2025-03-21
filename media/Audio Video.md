@@ -3,6 +3,7 @@ layout: default
 title: Audio Video
 nav_order: 2
 parent: Media
+description: Audio and Video medium focusing and highlighting the Liminal Horror ttrpg.
 ---
 
 ## SOUNDTRACKS

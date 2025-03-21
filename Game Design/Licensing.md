@@ -3,6 +3,7 @@ layout: default
 title: Licensing
 nav_order: 8
 parent: Annotated Archive of Game Design Resources
+description: Looking at the different licensing types for ttrpgs.
 ---
 
 # Licenses

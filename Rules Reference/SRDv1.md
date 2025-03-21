@@ -5,6 +5,7 @@ nav_order: 5
 parent: Rules Reference
 search_exclude: true
 permalink: /srdv1/
+description: The first version of the SRD which was developed for Liminal Horror Legacy Edition 2021.
 ---
 
 # Liminal Horror System Reference Document v.1.0 (established 2021)

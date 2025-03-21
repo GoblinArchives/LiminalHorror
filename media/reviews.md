@@ -3,6 +3,7 @@ layout: default
 title: Reviews
 nav_order: 3
 parent: Media
+description: Published reviews for the Liminal Horror ttrpg.
 ---
 
 ## REVIEWS

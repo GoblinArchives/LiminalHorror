@@ -4,6 +4,7 @@ title: The Mall Resources
 nav_order: 3
 parent: Mysteries & Adventures
 has_children: true
+description: Digital resources for The Mall, the first published module for Liminal Horror. What if the Thing were set in a 90s mall?
 ---
 # THE MALL
 The Mall is an official adventure module for Liminal Horror. Below are links to digital resources for The Mall.

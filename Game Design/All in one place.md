@@ -4,6 +4,7 @@ title: ALL IN ONE PLACE
 nav_order: 12
 parent: Annotated Archive of Game Design Resources
 search_exclude: true
+description: The entirety of the cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
 ---
 [![A goblin reaching for a book from bookshelves hidden behind a greenhouse's glass walls.](/LiminalHorror/img/goblinarchives.png "Click to embiggen"){:height="50%" width="50%"}](/LiminalHorror/img/goblinarchives.png)
 Art by [Goblins and Gardens](https://goblinsandgardens.com/)

@@ -3,6 +3,7 @@ layout: default
 title: Hacks and SRDs
 nav_order: 2
 parent: Annotated Archive of Game Design Resources
+description: Using Hacks and SRDs when making ttrpgs.
 ---
 
 ## HACKS AND SRDS
@@ -21,7 +22,7 @@ Games have different licenses that dictate what can be used from the core text. 
 ### Example SRDs
 - [**Liminal Horror**](https://goblinarchives.github.io/LiminalHorror/Liminal-Horror-SRD/) by Goblin Archives: A rules lite modern cosmic horror hack of Cairn (which combines Into the Odd and Knave). It adds a stress & critcal stress fallout mechanic to those systems.
 - [**Cairn**](https://cairnrpg.com/cairn-srd/) by Yochai Gal. It is an adventure game where players explore dark and mysterious woods. It is based on Into the Odd and Knave.
-- [The Lost Bay Creator Kit](https://docs.google.com/document/d/1sZvMjlzf5sxAzOFTYuTzxR6cMLevUJCYQhplQAvn2Bk/edit#heading=h.pmfx8k2p4p66) by Iko. The Lost Bay is a Suburban Gothic tabletop RPG set in 199X. 
+- [The Lost Bay Creator Kit](https://docs.google.com/document/d/1sZvMjlzf5sxAzOFTYuTzxR6cMLevUJCYQhplQAvn2Bk/edit#heading=h.pmfx8k2p4p66) by Iko. The Lost Bay is a Suburban Gothic tabletop RPG set in 199X.
 - [**Vaults of Vaarn**](https://vaarn.github.io/#/) by Leo Hunt (with SRD by Desolate Drifter) is a techo filled game of a dying sun over a blue desert of science fantasy adventures.
 - **[CY_BORG](https://morkborg.com/cb-license/)** by Christian Sahlen and Johan Nohr. This is a nano-infested doomsday RPG frames cybernetic misfits and punks as they rebel against corporate hell.
 - **[MÖRK BORG](https://morkborg.com/content/)** by Pelle Nilsson and Johan Nohr is a heavy metal inspired apocalyptic dark fantasy RPG.

@@ -4,6 +4,7 @@ title: Adventure Writing Resources
 nav_order: 5
 has_children: true
 permalink: /resources
+description: Resources to help create ttrpg adventures for Liminal Horror.
 ---
 
 # Adventure Writing Resources

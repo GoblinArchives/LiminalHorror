@@ -4,6 +4,7 @@ title: Rules Reference
 nav_order: 3
 has_children: true
 permalink: /rules/
+description: Collecting the different core rules that are available for free to reference and use.
 ---
 
 # LIMINAL HORROR

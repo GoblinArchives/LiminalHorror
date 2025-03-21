@@ -3,6 +3,7 @@ layout: default
 title: Editing
 nav_order: 4
 parent: Annotated Archive of Game Design Resources
+description: Resources on how to support the editing process for ttrpgs.
 ---
 
 # Editing
