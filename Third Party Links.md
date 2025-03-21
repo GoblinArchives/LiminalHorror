@@ -8,6 +8,9 @@ permalink: /useful-links/
 
 # Third Party Links
 
+![appendix](/img/appendix.png)
+Liminal Horror Deluxe Edition Appendices Illustration &copy; Zach Hazard Vaupen (2025)
+
 A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehensive list that also is a working document. Many of these have inspired the dev team in our approach to Liminal Horror, while other entries are things we thing would be helpful to inspire Facilitators when writing their own LH content. Use this to mine for inspiration and harvest for parts when you are creating your own things! There is an unlisted way these are presented, but half of the fun is trying to figure out why they are clustered together.
 
 ## Useful Links
