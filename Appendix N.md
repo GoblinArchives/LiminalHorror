@@ -6,7 +6,7 @@ has_children: False
 description: A collection of works that inspired Liminal Horror.
 ---
 # Appendix N
-In the classic tradition, an Appendix N acts as a list of things that inspired us during the creation of Liminal Horror. This bibliography of sorts can help shine a light on the tone we had in our heads while we make things for LH. Below is a non-exhaustive list of works that inspired and influenced Liminal Horror. For a different style of list, Goblin Archives has also created a film mix-tape Letterboxd list that can be found here: https://letterboxd.com/goblin_archives/list/liminal-horror-appendix-n/
+In the classic tradition, an Appendix N acts as a list of things that inspired us during the creation of Liminal Horror. This bibliography of sorts can help shine a light on the tone we had in our heads while we make things for LH. Below is a non-exhaustive list of works that inspired and influenced Liminal Horror. For a different style of list, Goblin Archives has also created a film mix-tape Letterboxd list that can be found here: [https://letterboxd.com/goblin_archives/list/liminal-horror-appendix-n/](https://letterboxd.com/goblin_archives/list/liminal-horror-appendix-n/)
 
 ## Print
 - House of Leaves
