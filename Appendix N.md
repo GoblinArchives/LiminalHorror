@@ -23,7 +23,7 @@ In the classic tradition, an Appendix N acts as a list of things that inspired u
 - Dr Jekyl and Mr Hyde
 - The Imago Sequence (2007) - Laird Barron
 - Bonding - Maggie Siebert
-- Last Days - Brian Everson
+- Last Days - Brian Evenson
 - Desperation (1996) - Stephen King
 - The Last Final Girl (2012) - Stephen Graham Jones
 - The Silk Road (2019) - Kathryn Davis
