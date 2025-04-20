@@ -13,7 +13,7 @@ A variety of Actual Play videos and podcasts featuring Liminal Horror. Unless no
 
 ## Original One-Shots and Mini-Series
 
-**Liminal Horror by Mystery Quest** ([Episode 1](https://www.youtube.com/watch?v=GLxfAJE7cN4&ab_channel=MysteryQuest))([Episode 2](https://www.youtube.com/watch?v=BVObSyDfIYU&ab_channel=MysteryQuest))
+**Liminal Horror by Mystery Quest** ([Episode 1](https://www.youtube.com/watch?v=GLxfAJE7cN4&ab_channel=MysteryQuest))([Episode 2](https://www.youtube.com/watch?v=BVObSyDfIYU&ab_channel=MysteryQuest))([Episode 3](https://www.youtube.com/watch?v=IovaQddbEe8&list=PLhFDcFS50IntSTbev9FvA9R3HW2SSlJLb&index=4&ab_channel=MysteryQuest))
 - **Description:** Welcome to Liminal Horror... For years farmers and villagers whispered rumours about the missing hikers lost up on the Yorkshire Moors... When a mutual friend, Fish, joins the statistics, three neighbours set out on a stormy night to search for answers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GLxfAJE7cN4?si=Dm0Rg2cim0OV4X4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVObSyDfIYU?si=dRwKnWXXk2pyldU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
