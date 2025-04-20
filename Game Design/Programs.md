@@ -2,7 +2,7 @@
 layout: default
 title: Programs
 nav_order: 3
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 decription: Programs to use when creating and publishing ttrpgs.
 ---
 ## What Programs To Use?

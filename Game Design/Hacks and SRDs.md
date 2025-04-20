@@ -2,7 +2,7 @@
 layout: default
 title: Hacks and SRDs
 nav_order: 2
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 description: Using Hacks and SRDs when making ttrpgs.
 ---
 

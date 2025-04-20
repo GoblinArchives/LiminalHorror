@@ -2,7 +2,7 @@
 layout: default
 title: Marketing
 nav_order: 11
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 description: Marketing resources for ttrpgs.
 ---
 ## MARKETING

@@ -2,7 +2,7 @@
 layout: default
 title: Printing & Publishing
 nav_order: 10
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 description: A look at printing and publishing in ttrpgs.
 ---
 ## Overview

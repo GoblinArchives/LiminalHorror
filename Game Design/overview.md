@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 nav_order: 1
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 search_exclude: true
 description: A high level overview and resources for creating and publishing ttrpgs.
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Layout & Fonts
 nav_order: 5
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 description: Diving in to layout, design, fonts, and typefaces for ttrpg publications.
 ---
 # Layout and Typeface

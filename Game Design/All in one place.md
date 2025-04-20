@@ -2,7 +2,7 @@
 layout: default
 title: ALL IN ONE PLACE
 nav_order: 12
-parent: Annotated Archive of Game Design Resources
+parent: Annotated Archive of Game Design
 search_exclude: true
 description: The entirety of the cataloged archive of different resources to demystify the steps that go into creating, publishing, and selling ttrpg products.
 ---
