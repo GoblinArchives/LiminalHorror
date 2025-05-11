@@ -11,6 +11,7 @@ description: Design templates created by Josh Domanski in order to support desig
 ![image](/img/template.png)
 
 **Overcome the horrors of having to do your own layout with these design templates for Liminal Horror!**
+- **You can download the Liminal Horror Design Templates [here](https://unenthuser.itch.io/liminal-horror-design-templates)**
 
 Even when the prose flows freely and the horrors in your mind are unleashed onto the page, getting your grotesque creatures and tension filled scenarios into a format that's useable for other folks can be a challenge. This template is meant to help lower that barrier, giving you the bones to work off of, so you can focus on the more important pieces of your project.
 
