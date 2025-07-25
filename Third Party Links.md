@@ -49,3 +49,9 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Excerpts from the Lighthouse Field Guide, Part 2](https://throneofsalt.blogspot.com/2020/05/further-exceprts-from-lighthouse-field.html) by Throne of Salt: A collection of lore and anti-cannon for a modern horror setting that is perfect for a Liminal Horror game.
 - [Excerpts from the Lighthouse Field Guide, Part 3](https://throneofsalt.blogspot.com/2020/08/excerpts-from-lighthouse-field-guide.html) by Throne of Salt: A collection of lore and anti-cannon for a modern horror setting that is perfect for a Liminal Horror game.
 - [Excerpts from the Lighthouse Field Guide, Part 4](https://throneofsalt.blogspot.com/2021/11/excerpts-from-lighthouse-field-guide.html) by Throne of Salt: A collection of lore and anti-cannon for a modern horror setting that is perfect for a Liminal Horror game.
+
+## Why creating a website/blog/newsletter to archive work matters
+- [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/) by Parimal Satyal
+- [Plain old webpages still matter](https://felix.plesoianu.ro/web/plain-old-webpages.html) by Felix Plesoianu
+- [Cyber Mauseoleums (Or the Argument Against Deletion)](https://neonaut.neocities.org/cyber/crypt/) by neonaut
+- [Every site needs a Links Page / Why linking matters](https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters) by Daniel/Melon

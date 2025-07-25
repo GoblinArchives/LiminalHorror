@@ -98,6 +98,35 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Svgbob](https://ivanceras.github.io/svgbob-editor/) is a diagramming model that lets you create shaped in your markdown files.
 - [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
 
+## A Note About This Website
+Launching this site was one of the first things I did after writing Liminal Horror. I used the framework created by Yochai Gal for his Cairn website as the bones to build my own (much like the original system). Long before I bought a domain, or really knew how to do it, I followed how-tos and looked at free resources to figure out how to edit and launch my own.
+A quick overview of Github/Jekyll Sites:
+- [https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+To do it I made a copy of the Cairn site and edited it to have the Liminal Horror info, but used/referred to Yochai's build to help guide my work.
+- Where my github lives: [https://github.com/GoblinArchives/LiminalHorror])(https://github.com/GoblinArchives/LiminalHorror)
+- Editing Code: I use atom. It has sunset but works super well for editing my markdown pages. I use an old version (1.49.0) - [https://atom-editor.cc/](https://atom-editor.cc/)
+- Pushing updates: Initially I had to use a gitbash terminal, but after transitioning to a different computer I found that using github desktop works great for pushing updates. [https://github.com/apps/desktop](https://github.com/apps/desktop)
+- The website template I use is [JusttheDocs](https://just-the-docs.github.io/just-the-docs/).
+
+This is just one method you can use to host a website for your game. There are many out there. Some resources I've found also helpful are:
+
+## Website-building resources
+Tutorials
+- [The Quick ‘n’ Dirty Guide to Making a Website](https://blog.itsnero.com/webguide) (2022)
+- [neocities](https://neocities.org/) - A classic for a reason.
+- [Bear Blog](https://bearblog.dev/) - A free blogging platform that could be adapted to host your ttrpg.
+- [Zonelets](https://zonelets.net/) - Another free blogging platform that can be used to make your own website.
+
+
+## Articles on why websites matter, now more than ever as a means of archiving work:
+- [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/) by Parimal Satyal
+- [Plain old webpages still matter](https://felix.plesoianu.ro/web/plain-old-webpages.html) by Felix Plesoianu
+- [Cyber Mauseoleums (Or the Argument Against Deletion)](https://neonaut.neocities.org/cyber/crypt/) by neonaut
+- [Every site needs a Links Page / Why linking matters](https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters) by Daniel/Melon
+
+
 ## Create your own SRD
 Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
 - [A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).

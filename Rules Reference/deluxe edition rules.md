@@ -51,7 +51,7 @@ Chapter 1: Investigator Guide - in it's entirety (CC-By-4.0)
 
 Chapter 2: Facilitator's Guide - excerpts (Copyright © 2025 Goblin Archives & Josh Domanski)
 
-- [Facilitator Principles](#facilitator-priniciples)
+- [Facilitator Principles](https://liminalhorrorrpg.com/deluxe/#facilitator-principles)
 - [Creating A Doom Clock](#creating-a-doom-clock)
 - [Creating Horrors](#creating-horrors)
 - [Location Generators](#location-generators)
@@ -1352,7 +1352,7 @@ Once an X-Card is deployed, that player should indicate which topic made them un
 
 # EXCERPTS FROM CHAPTER 2: FACILITATORS GUIDE
 
-Below are some excerpts from Chapter 2 of the Deluxe Edition. These are presented to help aid in the running of Liminal Horror and are analogous to what was presented in previous releases of Liminal Horror. You can find the complete Facilitators Guide in Liminal Horror Deluxe Edition ([pdf](https://goblinarchives.itch.io/) or in [print](https://spacepenguin.ink/collections/liminal-horror)).
+Below are some excerpts from Chapter 2 of the Deluxe Edition. These are presented to help aid in the running of Liminal Horror and are analogous to what was presented in previous releases of Liminal Horror. You can find the complete Facilitators Guide in Liminal Horror Deluxe Edition ([pdf](https://goblinarchives.itch.io/) or in [print](https://spacepenguin.ink/collections/liminal-horror)). (Copyright © 2025 Goblin Archives & Josh Domanski)
 
 ## **FACILITATOR PRINCIPLES**
 
