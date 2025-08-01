@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Third Party Links
+title: Useful Links
 nav_order: 6
 has_children: false
 permalink: /useful-links/
@@ -34,6 +34,7 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Pointcrawls & Emergent Play](https://newschoolrevolution.com/pointcrawls-emergent-play/) by Yochai Gal: A look at how pointcrawls can inspire creation and emergent play at the table.
 - [Encounter Checklist](https://www.prismaticwasteland.com/blog/encounter-checklist) by Prismatic Wasteland: “A checklist you can use to improve your TTRPG encounters.”
 - [Tension Cheatsheet](https://www.mindstormpress.com/tension-cheatsheet) by Mindstorm Press: “Ways to add more tension to situations in RPGs.”
+- [A Small Rant About Investigation In RPGS](https://www.failuretolerated.com/a-small-rant-about-investigation-in-rpgs) by Sean McCoy
 - [Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html) by DIY & Dragons: “Information can be landmark, or hidden, or it can be secret. This division can apply to locations on an overland maps, objects within dungeon rooms, and even to details about locations and objects that the players encounter.”
 - [16 HP Dragon](https://www.latorra.org/2012/05/15/a-16-hp-dragon/?ref=explorersdesign.com) by Sage LaTorra: “You don’t need 2500 hp to make a fight scary or hard.”
 - [Derelictcrawl Procedure](https://spooky.blot.im/derelictcrawl) by emmy verte: “A turn based system for your sessions that increases risk and elevates the Warden’s tasks.”
