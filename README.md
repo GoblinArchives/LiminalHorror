@@ -10,7 +10,6 @@ permalink: /
 
 ![banner](/img/banner.jpeg)
 
-[Funding Now on Backerkit April 15th - May 15th](https://liminalhorrorrpg.com/deluxe)
 
 *There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
@@ -31,6 +30,9 @@ A library of resources for your Liminal Horror games, cataloging and collecting 
 
 ## Third Party Print Hub
 Where you can find all of the Third Party Liminal Horror content that is in print. [https://liminalhorrorrpg.com/printhub/](https://liminalhorrorrpg.com/printhub/)
+
+## Newsletter
+Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter: [newsletter.liminalhorrorrpg.com](newsletter.liminalhorrorrpg.com)
 
 ![image](/img/LH.png)
 Liminal Horror Deluxe Edition Cover &copy; Zach Hazard Vaupen (2024)
