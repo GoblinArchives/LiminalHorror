@@ -43,6 +43,9 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Overloading the Random Encounter Table](https://www.prismaticwasteland.com/blog/overloading-the-random-encounter-table) by Prismatic Wasteland: “A all-in-one roll for random encounters, reaction, surprise, and distance.”
 - [THE UNDERCLOCK: Fixing the Random Encounter](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html?m=1) by Goblin Punch: “The Underworld is not just a basement or a cave.  The Underworld is a place that hates you.  It is hostile architecture.  It hates you in a way that only the blind tonnage of stone and cold air can have.  It hates your lively blood.  It hates the sunshine warmth still lingering on your skin.”
 - [Writing NPCs](https://lukegearing.blot.im/writing-npcs) by Luke Gearing: “When writing NPCs, you can communicate 2 or 3 things, or 4 related things.”
+- [Problem Solving Combat](https://lithyscaphe.blogspot.com/2020/04/problem-solving-combat-breaking-cage-of.html) by Lithyscaphe. An examination of ORS style combat and breaking the cage of "Roll Initiative."
+- [If Your Torches Burn for only One Hour your NPCs will be More Important](https://harbingergames.blogspot.com/2020/04/if-your-torches-burn-for-only-one-hour.html?m=0) by Rick Stump. A great examination on how resource variables entangle PCs with the world and NPCs.
+- [Negotiating with Monsters: Common PC Errors](https://dungeonfantastic.blogspot.com/2016/02/negotiating-with-monsters-common-pc.html?m=1) by Dungeon Fantastic. A look at how players negotiate with monsters and some common pitfalls.
 - [False Hydra](https://goblinpunch.blogspot.com/2014/09/false-hydra.html?m=1) by Goblin Punch: “Common wisdom holds that false hydras come from the ground.  They spontaneously originate as undifferentiated masses of flesh. Potatoes that sprout from no seed.  Supposedly, they germinate in response to lies, and that each falsehood causes a false hydra to swell larger.”
 - [Doppelgänger Dos & Don’ts](https://www.prismaticwasteland.com/blog/doppelgnger-dos-and-donts) by Prismatic Wasteland: “advice and best practices for running doppelgängers.”
 - [Welcome to Gulch!](https://www.mindstormpress.com/gulch) by Mindstorm: “Welcome to Gulch! A modern day starter town for RPGs.”
@@ -56,3 +59,4 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Plain old webpages still matter](https://felix.plesoianu.ro/web/plain-old-webpages.html) by Felix Plesoianu
 - [Cyber Mauseoleums (Or the Argument Against Deletion)](https://neonaut.neocities.org/cyber/crypt/) by neonaut
 - [Every site needs a Links Page / Why linking matters](https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters) by Daniel/Melon
+- [The Geocities Gallery](https://geocities.restorativland.org/) by restorativland. A restored visual gallery of the archived Geocities sites, sorted by neighborhood.
