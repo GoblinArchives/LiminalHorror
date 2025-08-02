@@ -4,7 +4,6 @@ title: SRD v3.0
 nav_order: 4
 parent: Rules Reference
 search_exclude: true
-permalink: /srdv3/
 redirect_to: https://liminalhorrorrpg.com/srd-one-page/
 description: The third (and most current) version of the Liminal Horror SRD (System Reference Document) which was developed using the Liminal Horror Deluxe Edition (2025).
 ---
