@@ -7,22 +7,16 @@ permalink: /srd-one-page/
 search_exclude: true
 description: Liminal Horror SRD v3.0, all on one page.
 ---
-# LIMINAL HORROR System Reference Document v3.0
 
-SRD assembled by Goblin Archives from work written and created by the Liminal Horror Dev Team (Goblin Archives, Josh Domanski, Zach Hazard Vaupen, Jarrett Crader)
+# Liminal Horror System Reference Document v3.0  
+SRD assembled by Goblin Archives from work written and created by the Liminal Horror Dev Team (Goblin Archives, Josh Domanski, Zach Hazard Vaupen, Jarrett Crader). This SRD is built off of the Liminal Horror Deluxe Edition (2025).
 
-**Note: This iteration is all on "One-Page." For individual sections, please navigator to the [main page of the SRD v3.0](https://liminalhorrorrpg.com/srd/).
-
-
-
-
-**Version History:**  
-Version / Date / Notes  
+### **Version History:**  
 
 | Version | Date  | Notes                            |
-| :-----: | ----- | -------------------------------- |
-|  v3.0   | x/x/x | Full SRD v3.0 released to public |
-|         |       |                                  |
+|  v3.0   | 8/2/2025 | Full SRD v3.0 released to public |
+
+**Note: This iteration is all on "One-Page." For individual sections, please navigator to the [main page of the SRD v3.0](https://liminalhorrorrpg.com/srd/).
 
 **Links:**
 
