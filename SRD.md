@@ -21,6 +21,6 @@ Version / Date / Notes
 |         |       |                                  |
 
 ### **Links:**
-- [Web-based version](https://liminalhorrorrpg.com/srdv3/)
+- [Web-based version](https://liminalhorrorrpg.com/srd-one-page/)
 - [PDF download](https://drive.google.com/file/d/1lEE6eDmyhV2a3oq7mcw-0ISwtUjETkVa/view?usp=sharing)
 - [Markdown](https://drive.google.com/file/d/1VHkICKm19w5-5fmWttrxNzdjTPsWI1Ck/view?usp=sharing)
