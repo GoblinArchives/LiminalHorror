@@ -23,24 +23,29 @@ Some items we tend to include in the introductions of our first party publicatio
 * **Touchstones:** Media references can help create a tone/expectation for what will be in the module.  
 * **Content Warnings:** It is important to be up front with people who engage with your work and allow Facilitators to leverage the proper safety tools.    
 * **Intro:** An introduction blurb that gives context about the place.  
-* **Timeline:** A timeline of events prior to the module, sort of like a prequel to the Doom Clock..  
+* **Timeline:** A timeline of events prior to the module, sort of like a prequel to the Doom Clock.  
 * **Overview:** A quick overview of what the scenario is about.  
 * **Framing:** We typically include multiple set up explanations for how you would use the scenario. These often include: Using it to start a new campaign, how to integrate it into a currently ongoing campaign, or how to run it as a one-shot.  
-* **Rules:** We’ll often include a rules reference or summary (see Rules and Mechanics for more on that).  
-* **Character Creation:** Each scenario we publish has a custom character creation set-up (see Character Creation for more).  
-* **Encounter Procedure:** At the beginning of the text we will present which type of encounter procedure we will use for the scenario, be it Encounter Die, Voidcrawl, or Tension Die (see Encounter Procedures for more).  
-* **Doom Clock:** We will include the steps of the Doom Clock for the published scenario.  
+* **Rules:** We’ll often include a rules reference or summary (see [Rules and Mechanics](https://liminalhorrorrpg.com/srd-rules-and-mechanics/) for more on that).  
+* **Character Creation:** Each scenario we publish has a custom character creation set-up (see [Making an Investigator](https://liminalhorrorrpg.com/srd-making-an-investigator/) for more).  
+* **Encounter Procedure:** At the beginning of the text we will present which type of encounter procedure we will use for the scenario, be it Encounter Die, Voidcrawl, or Tension Die (see [Encounter Procedures](https://liminalhorrorrpg.com/srd-encounter-procedures/) for more).  
+* **Doom Clock:** We will include the steps of the Doom Clock for the published scenario (see [Doom Clock](https://liminalhorrorrpg.com/srd-doom-clock/) for more).  
 * **Exploration Notes:** For more sandbox scenarios, we will have a page on Exploring that emphasizes some travel specific mechanics or contexts (this may be Roads, Using Phones, Phases, Location Description Changes, Stat Blocks, NPC Reactions, Weather, Services, Buildings, etc)  
-* **Horrors:** We typically include the main monster stat blocks and explanations at the front for easy access for Facilitators.
+* **Horrors:** We typically include the main monster stat blocks and explanations at the front for easy access for Facilitators (see [Creating Horrors](https://liminalhorrorrpg.com/srd-creating-horrors/) or [Horrors](https://liminalhorrorrpg.com/srd-horrors/) for more).
 
 
 
 Some items we tend to include in the back matter (Appendices) of our first party publications:
 
 * **Consequences:** A list of potential outcomes to different variables within the scenario (formatted in an If X…, short term result, long term result)  
-* **Fallout:** A list of custom fallout that reinforces the theme and aligns to the main Horror in the text.  
-* **NPCs:** We’ll often include a table of additional quick reference NPCs.  
+* **Fallout:** A list of custom fallout that reinforces the theme and aligns to the main Horror in the text (see [Fallout](https://liminalhorrorrpg.com/srd-fallout/) for more).  
+* **NPCs:** We’ll often include a table of additional quick reference NPCs (see [NPCs](https://liminalhorrorrpg.com/srd-npcs/) for more).  
 * **Rumors:** Things people are talking about. When it comes to rumors and hooks I like to include the page reference to where it is in the book.  
-* **Resonant Artifacts:** A list of custom resonant artifacts made for the scenario/.  
+* **Resonant Artifacts:** A list of custom resonant artifacts made for the scenario (see [Resonant Artifacts](https://liminalhorrorrpg.com/srd-resonant-artifacs/) for more).  
 * **Random Search:** Facilitator’s really tend to appreciate a table they can reference when their players search for something. As of late we’ve worked on using four d20 sub tables for this (on bodies, hidden items, in drawers, among the clutter)  
-* **Quick Reference:** The back page often is a quick reference resource that Facilitators can use. IT’ll often include stats, abbreviated doom clock, reaction tables, and any other references for modular mechanics.
+* **Quick Reference:** The back page often is a quick reference resource that Facilitators can use. It’ll often include stats, abbreviated doom clock, reaction tables, and any other references for modular mechanics.
+
+---
+Next Section: [Rule and Mechanics](https://liminalhorrorrpg.com/srd-rules-and-mechanics/)
+<br>Previous Section: [Licensing](https://liminalhorrorrpg.com/srd-licensing/)
+<br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: /srd/
 description: A system reference document for Liminal Horror, including notes and annotations to support designers in creating scenarios, adventures, and hacks for Liminal Horror.

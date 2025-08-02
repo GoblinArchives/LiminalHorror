@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Licensing
 nav_order: 2
 parent: SRD
 permalink: /srd-licensing/
@@ -86,3 +86,8 @@ What does this mean in practice?
 * Directly using text from [Liminal Horror Legacy Edition](https://liminalhorrorrpg.com/srdv1/) and [Liminal Horror Investigators](https://liminalhorrorrpg.com/srdv2/) must include those portions under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 * Using [SRD v.3.0](https://liminalhorrorrpg.com/srdv3/) as your reference text will mean you don’t have to worry about anything other than attribution of the original text.  
 * It also means you can write your own adventure, reference rules and mechanics in your own way, and publish it using the Third Party License above and copyright your portions of the text (if you want to). Meaning you don’t need to worry about complicated licensing structures.
+
+---
+Next Section: [Front and Back Matter](https://liminalhorrorrpg.com/srd-front-back-matter/)
+<br>Previous Section: [Introduction](https://liminalhorrorrpg.com/srd-introduction/)
+<br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)
