@@ -95,6 +95,8 @@ Below are some equipment examples you can use in your scenario, or to start as a
 * Spray paint $15  
 * Tarp $30  
 * Zip Ties $15
+
+
 ---
 Next Section: [Encounter Procedures](https://liminalhorrorrpg.com/srd-encounter-procedures/)
 <br>Previous Section: [Making an Investigator](https://liminalhorrorrpg.com/srd-making-an-investigator/)

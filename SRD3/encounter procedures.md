@@ -95,7 +95,9 @@ Additional table entries that can be swapped out or expanded by increasing the n
 * **Decay**: A situation or location breaks down, including a derelict building crumbling, creeping fungal decomposition, or a festering rot.   
 * **Theme**: An appearance of a symbol or motif directly linking to the overarching themes of the scenario.  
 * **Nothing Happens**: When luck is on the side of the Investigators and no encounter is triggered.
+
+
 ---
-Next Section: [Front and Back Matter](https://liminalhorrorrpg.com/srd-front-back-matter/)
-<br> Previous Section: [Introduction](https://liminalhorrorrpg.com/srd-introduction/)
+Next Section: [Location Generators](https://liminalhorrorrpg.com/srd-location-generators/)
+<br> Previous Section: [Equipment](https://liminalhorrorrpg.com/srd-equipment/)
 <br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)

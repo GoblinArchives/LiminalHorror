@@ -93,6 +93,7 @@ A quick reference for creating an investigator:
 8\. **Vehicles Determine** what vehicle the party has access to.  
 9\. **Associates** Create any party non-main character Investigators.  
 10\. **Connections** Each Investigator creates two NPC contacts.
+
 ---
 Next Section: [Equipment](https://liminalhorrorrpg.com/srd-equipment/)
 <br>Previous Section: [Rules and Mechanics](https://liminalhorrorrpg.com/srd-rules-and-mechanics/)

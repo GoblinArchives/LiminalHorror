@@ -728,14 +728,15 @@ Excerpt from [*Einfühlung* (p. x)](https://goblinarchives.itch.io/einfhlung)
 Most adventures present mapped information in the form of a Location Key. This info is gathered so that the Facilitator can guide the Investigators through the physical space.
 
 Each key is formatted similarly.  
-**ROOM NAME**  
-A short description of the room that includes most of the info someone taking a look would be able to gather quickly. This acts as the descriptive foundation for you to use when describing it to your players.
+**ROOM NAME**  Each location has a brief description of the first aspects that would be noticed upon exploration. From there, information follows a hierarchy.
 
-* Bullets present more detailed information that can sometimes be contingent on other variables or take some more time to look into.  
-* Room keying presents a lot of important information, but not everything. There is space to twist, add, and adapt to make it yours at the table.
+- Bullet points indicate details about a location in the order in which they are most obvious upon exploration.
 
-**Bolded Terms** are used to indicate things that have a corresponding page annotation. In the digital format these can be clicked to take you to the main page reference.
+  * Magnifying glasses and nested bullets indicate details, clues, and other information that can be found through investigation.
 
+  - ! Exclamation points signify sources of danger, such as a trap or an encounter.
+
+**Bolded Terms (p. x)** are used to indicate things that have a corresponding page annotation. In the digital format these can be clicked to take you to the main page reference.
 
 
 **STRESS**  
