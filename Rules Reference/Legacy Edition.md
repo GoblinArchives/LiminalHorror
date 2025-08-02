@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legacy Edition
+title: Legacy 
 nav_order: 3
 search_exclude: true
 parent: Rules Reference
