@@ -32,17 +32,16 @@ These factions are those more active within a scenario or have more complex moti
 
 
 
-## EXMPLE FACTIONS
-
+## IDEX
+**Example Factions**
 Here are three Factions we've included with an open license (CC-BY 4.0). Our hope is that these Factions can both serve as an exemplar template for your own Factions, and to serve as three pillars in regards to types of factions that typically show up in modern horror. Given the open license provided in this SRD, you can use them fully in your own publications.
-
 1. [The Bureau](#the-bureau) (corrupt government organization involved in the weird).   
 2. [Panopticon](#panopticon) (a perfect stand-in for evil mega-corp)  
 3. [The Archivist](#the-archivist) (a mysterious patron with connections to the weird and otherworldly)
 
 
 
-### **THE BUREAU**
+## **THE BUREAU**
 
 The Bureau is a clandestine United States government agency that is tasked with controlling paranatural phenomena. The agency as it is known today was created in 1905 by the Roosevelt Administration due to pressure from several key government figures after the truth behind the assassination of President McKinley was leaked to them.
 
@@ -54,7 +53,7 @@ The official directive of the Bureau is to “*protect mankind from the threats 
 
 The Bureau maintains jurisdiction on all matters paranatural or unknown, superseding all other federal, state, or local agencies. They can apply whatever scope and scale the current Director deems necessary to combat these threats, including the complete suspension of the civil liberties of normal citizens in service to “the greater good of humanity”.
 
-#### **KEY PERSONNEL**
+### **KEY PERSONNEL**
 
 * **​John Harrison:** Bureau Director  
   * Janet Garcia: Personal Aide to the Director.   
@@ -68,31 +67,31 @@ The Bureau maintains jurisdiction on all matters paranatural or unknown, superse
 * **Hanna Yu:** Executive Assistant Director of the Human Resources Branch.  
 * **Amos Mortimer:** Maintenance Director of the Monolith.
 
-#### **HEADQUARTERS**  
+### **HEADQUARTERS**  
 
 While the Bureau was originally based in Washington, D.C. upon their founding, their headquarters was officially moved to the **Monolith** in Seattle, WA in 1967 under the tenure of Director Greymoor.
 
 The Bureau also operates field offices in a number of major cities throughout the country and maintains covert permanent and temporary monitoring stations in regions of frequent paranatural activity. Investigation teams may also set up within the offices of local law enforcement during coordinated operations.
 
-#### **RESOURCES & METHODS**  
+### **RESOURCES & METHODS**  
 
 As a government agency, the Bureau has been granted extensive federal funding. While other agencies and officials are vaguely aware of the Bureau’s existence and authority, few know of their true scope and operation, which allows for their funding to be tucked in as forgotten line items among national defense bills.
 
 An extensive budget, scope, and access to paranatural resources allows for a wide range of methodology. Common operations include containment, field testing, extraction, extermination, counter-intelligence, psyops, and the application of paranatural abilities. The Bureau is also authorized to commandeer any local police resources deemed necessary for an operation.
 
-Objects and entities that are deemed a significant threat are either terminated or captured and held in containment in the Monolith for further study. This includes an extensive collection of [Resonant Artifacts](https://liminalhorrorrpg.com/srd-resonant-artifacts/) (link), which are occasionally wielded by agents during investigations.
+Objects and entities that are deemed a significant threat are either terminated or captured and held in containment in the Monolith for further study. This includes an extensive collection of [Resonant Artifacts](https://liminalhorrorrpg.com/srd-resonant-artifacts/), which are occasionally wielded by agents during investigations.
 
 While the Bureau is a U.S. agency, their reach extends into a number of other nations, often without official approval.
 
-#### **ALLIES**  
+### **ALLIES**  
 
 Due to the chain of command, the Bureau often works directly with federal and state agencies. There have also been rare occasions when  they contract with para-military private organizations for particularly dangerous jobs.
 
-#### **ADVERSARIES**  
+### **ADVERSARIES**  
 
 As an official government agency, the Bureau naturally stands opposed to those that meddle with the paranatural.
 
-#### **CONTRACTS**   
+### **CONTRACTS**   
 
 While the Bureau is well equipped and well staffed, their reach and resources are not unlimited. They will often employ contractors to manage “low risk” investigative work that would otherwise pull agents from more important tasks. These contracts rarely offer more than cursory details and threat assessments, but the pay is moderate and per diem is offered if the appropriate paperwork is submitted.
 
@@ -105,7 +104,8 @@ Below are some common contract types:
 * Seizing or capturing assets that may be useful to the Bureau.  
 * Gathering intelligence for potential Bureau intervention.
 
-#### **THE BUREAU NPC STATS**  
+### **THE BUREAU NPC STATS**
+
 
 **AGENT**  
 **STR:** 10 **DEX:** 12 **CTRL:** 14   
@@ -156,21 +156,22 @@ While Assets can be anything from humans with strange abilities to warped and tw
 **TRACKED**  
 By default, Assets are implanted with a tiny device that monitors their location and biological activities. More dangerous Assets may also be fitted with a “behavior modification” collar to make them easier to control.
 
+back to [Faction Index](#index)
 <div style="page-break-after: always;"></div>
 
-### **PANOPTICON**
+## **PANOPTICON**
 
 **Panopticon** is a massive conglomerate that started with the merging of a data analytics firm and an insurance company. One of the few true megacorporations of the modern age, their internal structure and scope is so wide and varied that many portions of itself operate without the knowledge of what the other divisions are doing.
 
 Due to a clever insurance adjuster’s astute investigation in the early 1900s, Panopticon was able to discern the existence of Resonant Artifacts and other strange incursions. Keeping it a closely guarded internal secret, they used this knowledge to grow, acquiring a wide range of businesses in order to leverage the opportunities offered by harnessing the strange. Their research has allowed them to reverse engineer a small fraction of the power of the Artifacts, leading to the creation of cutting edge innovations.
 
-#### **GOALS**  
+### **GOALS**  
 
 Panopticon's primary goal is profit stabilization and growth, with many departments harnessing Resonant Artifacts and other paranormal forces. Their approach to these resources is through a lens of them being manifestations of scientific concepts not yet fully understood. They believe they are the only ones with the resources and understanding to safely use these unstable-variables. Many employees leverage the opportunities for their own personal gains and pursuits, often in opposition of their peers.
 
 Each department and division functions as its own entity in service of benefiting the whole. While opinions on exactly what is beneficial to the entire organization often varies, the entire operation must bend to the will of the Board of Directors.
 
-#### **KEY PERSONNEL**
+### **KEY PERSONNEL**
 
 * **Samantha Palmer**. Director of Operations and Chairperson of the Board. The true decision maker in the company.  
 * **Nicholas Allen**. Research and Development. Coordinates progress across all subsidiaries towards a common goal.  
@@ -180,13 +181,13 @@ Each department and division functions as its own entity in service of benefitin
 * **Winston Neff**. Heads the legacy insurance division. Works closely with data analytics to comb claims for signs of potential assets.  
 * **Kay Brake**. Pharmaceutical division head. Functionally immortal.
 
-#### **HEADQUARTERS**  
+### **HEADQUARTERS**  
 
 While Panopticon was initially founded in New York, in 1918 they built their West Coast operations hub in Seattle, Washington. By 1972 a majority of their administrative capacities officially shifted to a new facility at the **Apeiron Campus**. The hub is a massive state-of-the-art campus that has grown significantly over the years, with a majority of divisions having offices kept on the main campus. Their headquarters is always expanding, both up and down, in order to accommodate the need for growth. A world renowned research lab and archive is housed there.
 
 Given the scale and number of acquisitions in recent years, most major cities and towns in the US have an office, research lab, or distribution hub for Panopticon or one of its subsidiaries in their borders, and they’ve begun expanding significantly overseas in the last decades.
 
-#### **RESOURCES & METHODS**  
+### **RESOURCES & METHODS**  
 
 Panopticon’s size and scope allows them to shift financial assets under the table without regulators catching wind, giving them access to a variety of off the books resources. They also have massive influence in governments across the globe that allow them access to extra-judicial opportunities for action.
 
@@ -194,15 +195,15 @@ They maintain strict compartmentalization in order to keep information from leak
 
 While Panopticon has their hands in everything from federal security to e-commerce, the attention of the Board is most focused on their technologies department and their research into Resonant Artifacts. The work has hit a period of stagnation as of late, so in order to meet growth metrics, the company has begun financing fringe groups, unorthodox scientists, and cults in order to increase the likelihood of a breakthrough.
 
-#### **ALLIES**  
+### **ALLIES**  
 
-Many department managers prefer to use para-military sub-contracts, as it allows them to keep operations off the books. Panopticon has been known to enter into co-ventures with both the [Devotees of Bael](#devotees-of-bael) (link) and [#the-barrons]() (link).
+Many department managers prefer to use para-military sub-contracts, as it allows them to keep operations off the books. Panopticon has been known to enter into co-ventures with both the [Devotees of Bael](https://liminalhorrorrpg.com/srd-cults/#devotees-of-bael) and [The Barrons](https://liminalhorrorrpg.com/srd-cults/#the-barrons).
 
-#### **ADVERSARIES**  
+### **ADVERSARIES**  
 
-Panopticon is often in direct opposition to [the Bureau](#the-bureau) (link), believing that paranatural resources are best left in the hands of the private sector. Panopticon typically resorts to using proxies to interfere with Bureau affairs. Another group that is a constant thorn in the side of Panopticon are the [Knights of Amelioration](#knights-of-amelioration) (link). There is also an almost universal disdain and confounding when the entity labeled the [Archivist](#the-archivist) (link) comes into play.
+Panopticon is often in direct opposition to [the Bureau](#the-bureau), believing that paranatural resources are best left in the hands of the private sector. Panopticon typically resorts to using proxies to interfere with Bureau affairs. Another group that is a constant thorn in the side of Panopticon are the [Knights of Amelioration](https://liminalhorrorrpg.com/srd-cults/#knights-of-amelioration) (link). There is also an almost universal disdain and confounding when the entity labeled the [Archivist](#the-archivist) (link) comes into play.
 
-#### **CONTRACTS**  
+### **CONTRACTS**  
 
 Panopticon’s wide array of departments, internal goals, and needs means there is ample opportunity for contract work. The pervasive culture of success and growth by any means often puts departments at odds with each other. Due to their internal struggles, coupes, acquisitions, and vendettas mean that outside proxies are often needed in order to operate in secret.
 
@@ -214,7 +215,8 @@ Below are some common contract types:
 * Information gathering.  
 * Containment and delivery of interdimensional beings.
 
-#### **FACTION STAT BLOCKS**  
+### **FACTION STAT BLOCKS**  
+
 
 **JUNIOR EXECUTIVE**  
 **STR:** 10 **DEX:** 10 **CTRL:** 12  
@@ -234,12 +236,12 @@ Dressed in tailored best, or what is currently fashionable for the corporate eli
 Most people who have achieved this high position in the company have come in contact with Resonant Artifacts or other dimensional anomalies. Their proximity to the strange has gifted them boons that they use to maintain their position. These assets vary, and are one of the cruxes of their positions.
 
 **d6 Assets**  
-1\. [Resonant Artifact](#resonant-artifacts)  (link)  
-2\. [Rituals](#rituals)  (link)  
-3\. [Fallout](#fallout)  (link)  
-4\. Contained [Lesser Horror](#lesser-horrors) (link)  
-5\. Contained [Greater Horror](#greater-horrors) (link)  
-6\. [Pact](#pact-warlock)  (link)
+1\. [Resonant Artifact](https://liminalhorrorrpg.com/srd-resonant-artifacts/)
+2\. [Rituals](https://liminalhorrorrpg.com/srd-rituals/)
+3\. [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
+4\. Contained [Lesser Horror](https://liminalhorrorrpg.com/srd-horrors/#lesser-horrors)
+5\. Contained [Greater Horror](https://liminalhorrorrpg.com/srd-horrors/#greater-horrors)
+6\. [Pact](https://liminalhorrorrpg.com/srd-horrors/#pact-warlock)
 
 
 
@@ -250,7 +252,7 @@ Sonic Amplifier (d6, *blast, nonlethal*)
 The true backbone of Panopticon, Analysts are the technicians, engineers, and scientists that research and develop the company’s products. More laid back than management, Analysts are often far more interested in their paychecks or personal research than having blind corporate loyalty.
 
 **PROTOTYPES**   
-Analysts are typically found in the field if they are testing a new prototype. Some of the projects result in unfortunate side effects, resulting in a variety of [Fallout](#fallout) (link) for those that have been with the company for an extended period of time.
+Analysts are typically found in the field if they are testing a new prototype. Some of the projects result in unfortunate side effects, resulting in a variety of [Fallout](https://liminalhorrorrpg.com/srd-fallout/) for those that have been with the company for an extended period of time.
 
 
 
@@ -273,23 +275,24 @@ Panopticon strives to harness and replicate objects and beings associated with d
   **›	Horrors:** Researchers use a variety of approaches in order to learn from, replicate, and modify horrors to make them usable assets. One approach currently in vogue is Algorithmization, merging lobotomized horrors with a server farm in order to create an Artificial Interdimensional Intelligence.  
   **›	Fallouts:** Deliberate exposure of employees to dimensional bleed is used in order to facilitate fallout acquisition and study their potential use.
 
+back to [Faction Index](#index)
 <div style="page-break-after: always;"></div>
 
-### **THE ARCHIVIST**
+## **THE ARCHIVIST**
 
 The Archivist is a faction of one, often presenting himself as a journalist, a writer, or sometimes a private eye. His extensive network of Investigators is ever growing, much to the frustration of his adversaries, though his true nature remains a mystery. A common theory is that the Archivist is an otherworldly entity of some sort, as there are at least five reported instances of enough physical harm befalling him that no human should be able to survive.
 
-#### **GOALS**  
+### **GOALS**  
 
 The Archivist’s goal is to catalog and understand paranatural threats. He strives to obtain Resonant Artifacts and other dimensional anomalies to keep them safe, storing them in the archives in order to provide an external resonant order to them.
 
 The Archivist has cultivated relationships with many who he then recruits to act as his Investigators out in the field. Bringing others into the fold, opening up the mysteries in order to entangle them seems to be a tertiary goal. The number of active Investigators that he employs fluctuates depending on active recruitment effort. Some joke that the Archivist collects people tainted by the strange as much as the anomalies themselves.
 
-#### **HEADQUARTERS**  
+### **HEADQUARTERS**  
 
 The exact location of the warehouse is unknown. Bureau records theorize that it must be an interdimensional space as it seems to exist in multiple places at once. The warehouse is massive, consisting of a web of interconnected storage rooms and basements. The main room is packed full of items of various sizes, spanning most recorded history. There is seemingly no rhyme or reason to the distribution of items other than to create winding pathways through the space, hopping from alcove to alcove. Most items seem normal upon first glance, as if being stored there soothes the resonant energies within. It is nearly impossible to tell what is simple antique vs a dormant Resonant Artifact.
 
-#### **RESOURCES & METHODS**  
+### **RESOURCES & METHODS**  
 
 Given that his primary goal is to collect evidence in all its forms, all of his extensive resources aim to make that a reality.
 
@@ -297,21 +300,23 @@ Often the Archivist will use paranatural events as a means of recruitment. By he
 
 His extensive collection provides a fairly comprehensive ability to offer aid but, often to the frustration of Investigators, the how and what form that aid comes in follows a logic all its own.
 
-#### **ALLIES**  
+### **ALLIES**  
 
 The Archivist has been known to aid the pursuits of the **independent Investigators** as their goal to uncover truths often aligns with his own. While not directly aligned to any of the other major factions, the Archivist has been known to cultivate relationships with members of each faction. These direct connections are often kept secret from their respective organizations and are the Archivist leveraging a specific need of those employees, creating a connection that can be used down the line.
 
-#### **ADVERSARIES**  
+### **ADVERSARIES**  
 
 Given his massive collection of dimensional anomalies, his constant recruiting of others to become Investigators, and their inability to contain or control him, the Archivist is often in direct opposition to the other major factions. [The Bureau](#the-bureau) (link) classifies him as a potential anomaly and has a warrant out for his arrest, [Panopticon](#panopticon) (link) covets his rumored archives.
 
-#### **CONTRACTS**  
+### **CONTRACTS**  
 
 The Archivist’s pursuit of knowledge and acquisition make him a perfect patron to those Investigators looking to battle the weird, or learn more about a mystery that has plagued them. He will provide direct support, providing information and connections, driving the Investigators into situations that drive the deeper and deeper into the strange. Some tasks the Archivist has been known to give Investigators are to:
 
 * Investigate strange occurrences that are plaguing a town.  
 * Destroy or contain dimensional anomalies.  
 * Acquire Resonant Artifacts.
+
+back to [Faction Index](#index)
 
 ---
 Next Section: [Front and Back Matter](https://liminalhorrorrpg.com/srd-front-back-matter/)

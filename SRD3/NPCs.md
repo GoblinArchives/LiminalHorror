@@ -61,7 +61,7 @@ Hammer (d6), Fists (d4+d4)
 A drifter, currently working a short stint in construction. She has red hair that is always intricately braided. At first glance Cathy looks to be late-30s, but her true age is unknown.
 
 * **Desire**: To live a simple life and go under the radar.  
-* **Secret**: She gained immortality after surviving a failed ritual by the **[Knights of Amelioration](#knights-of-amelioration) (link)** 100 years ago. Over the years others have discovered her gift, trying, and failing, to use it. The current legend going around is that drinking her blood can transfer her gifts, though this is not true.
+* **Secret**: She gained immortality after surviving a failed ritual by the **[Knights of Amelioration](https://liminalhorrorrpg.com/srd-cults/#knights-of-amelioration)** 100 years ago. Over the years others have discovered her gift, trying, and failing, to use it. The current legend going around is that drinking her blood can transfer her gifts, though this is not true.
 
 
 
@@ -90,7 +90,7 @@ Revolver (d6, *loud*)
 A night shift taxi driver. Despite his age, when he moves you can tell he remains quite strong. He has a knack about getting strangers to open up.
 
 * **Desire**: To never be responsible for someone getting hurt again.  
-* **Secret**: A former agent of the **[Bureau](#the-bureau) (link)**, Roger retired after his entire team was sent to their death at the hands of a **[Witch](#witches) (link)** during Operation Crone, WV. Despite being well past his prime, he cannot help but get drawn back in when the strange is involved.
+* **Secret**: A former agent of the **[Bureau](https://liminalhorrorrpg.com/srd-factions/#the-bureau)**, Roger retired after his entire team was sent to their death at the hands of a **[Witch](#witches) (link)** during Operation Crone, WV. Despite being well past his prime, he cannot help but get drawn back in when the strange is involved.
 
 
 
@@ -99,7 +99,7 @@ A night shift taxi driver. Despite his age, when he moves you can tell he remain
 
 * **Items**: Camera, checklist, pen, flashlight, state of the art low profile body armor.
 
-An insurance adjuster and investigator. Works for a subsidiary of **[Panopticon](#panopticon) (link)** and one of the most prolific adjusters currently active. He's been involved in some historic events through his line of work. With glasses and perpetually disheveled hair, he always has the perfect question to ask.
+An insurance adjuster and investigator. Works for a subsidiary of **[Panopticon](https://liminalhorrorrpg.com/srd-factions/#panopticon)** and one of the most prolific adjusters currently active. He's been involved in some historic events through his line of work. With glasses and perpetually disheveled hair, he always has the perfect question to ask.
 
 * **Desire**: To tackle and solve weird situations with a calm analytical approach and a handy checklist.  
 * **Secret**: He has been keeping a secret folder full of evidence since realizing that Panopticon’s role in some of these strange events is putting humanity at risk.
@@ -115,7 +115,7 @@ Gun (d6), Produce Fire (d4, *blast*)
 A touring stage magician. His act is well received by the audience and he is respected within the magician community.
 
 * **Desire**: He is currently tracking down rumors of a Resonant Artifact.  
-* **Secret**: William is a **[Knight of Amelioration](#knights-of-amelioration) (link)** and believes in the betterment of mankind through leveraging the weird. His act doesn’t involve real “magic” but he’s hoping his work with the Knights will allow him access to true Ritual magic.
+* **Secret**: William is a **[Knight of Amelioration](https://liminalhorrorrpg.com/srd-cults/#knights-of-amelioration)** and believes in the betterment of mankind through leveraging the weird. His act doesn’t involve real “magic” but he’s hoping his work with the Knights will allow him access to true Ritual magic.
 
 ---
 Next Section: [Factions](https://liminalhorrorrpg.com/srd-factions/)

@@ -20,13 +20,13 @@ To create a custom cult, begin with a few simple elements; a goal to unite them,
 **HP:** 4  
 Dagger (d6) or Gun (d6)
 
-* **Rituals:** There is a 1-in-6 chance that a cultist has access to [Rituals](#rituals) (link) granted by their specific communion.  
+* **Rituals:** There is a 1-in-6 chance that a cultist has access to [Rituals](https://liminalhorrorrpg.com/srd-rituals/) granted by their specific communion.  
 * **Devout:** Something about the teaching of the cult has drawn the cultist in, and so they give of themselves completely.  
 * **Safety in Numbers:** Cultists are rarely alone, as power is derived in number, and it is hard to waver if always with another.
 
 ### **d8 CULTIST RITUALS**  
 
-Some cultists gain access to [Rituals](#rituals) (link) through their sacraments and rites.
+Some cultists gain access to [Rituals](https://liminalhorrorrpg.com/srd-rituals/) through their sacraments and rites.
 
 1. **Curse:** Alter the fate of another individual by reducing one of their Attributes by d6 for the duration.  
 2. **Channel Horror:** Bind yourself to a creature beyond the veil, gaining some of its power. Add d6 to an Attribute while active.   
@@ -113,7 +113,7 @@ The Knights seek Resonant Artifacts and those touched by other planes for the ex
 **ASSETS**
 
 * Many politicians and public servants are secretly Knights. Their level of dedication may vary, but they draw a lot of membership from these fields.  
-* **Known Rituals:** Some members have access to [Divination](#rituals) (link).  
+* **Known Rituals:** Some members have access to [Divination](https://liminalhorrorrpg.com/srd-rituals/).  
 * **The Swords of Amelioration**: An rusted short sword used by the Knights to shatter Resonant Artifacts. Unbeknownst to them it was forged in Living Flame.
 
 
@@ -133,7 +133,7 @@ The Devotees attempt to summon aspects of Bael and his subjects in order to gain
 **ASSETS**
 
 * Membership requires substantial tithe from each cultist. This tithe is both financial, which leads to a considerable operations capability, as well as a tithe of flesh. The ritual to summon the boons of Bael is simple but requires human sacrifice.  
-* Some members know the ritual [Evocation](#rituals) (link).  
+* Some members know the ritual [Evocation](https://liminalhorrorrpg.com/srd-rituals/).  
 * A temple to Bael has been built and perpetually added to for the past 40 years. Each year new additions are added. No one resides in the complex.
 
 
@@ -154,10 +154,10 @@ The Barrons manipulate both people and cosmic forces in order to create tears an
 
 * Their businesses reside in a family trust. Success and growth over time has provided them immense wealth and connections with other organizations.  
 * Currently, Barron Logistics is heavily invested in Panopticon’s operations at Evenson Factory.  
-* Some members know the ritual [Essence Transfer](#rituals) (link).  
+* Some members know the ritual [Essence Transfer](https://liminalhorrorrpg.com/srd-rituals/).  
 * The Barrons use the ritual of Essence Transfer to keep their souls alive in new bodies.
 
 ---
-Next Section: [Front and Back Matter](https://liminalhorrorrpg.com/srd-front-back-matter/)
-<br>Previous Section: [Introduction](https://liminalhorrorrpg.com/srd-introduction/)
+Next Section: [Modular Rules](https://liminalhorrorrpg.com/srd-modular-rules/)
+<br> Previous Section: [Factions](https://liminalhorrorrpg.com/srd-factions/)
 <br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)

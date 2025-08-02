@@ -6,29 +6,37 @@ parent: SRD
 permalink: /srd-horrors/
 description: A collection of Horrors with an open license that you can use in your own Liminal Horror scenarios and publications.
 ---
-## **HORRORS WITH AN OPEN LICENSE**
+# **HORRORS WITH AN OPEN LICENSE**
 
 We have included some of the Horrors that you can include in your scenarios. We’ve opened their license in hopes that some will use them to make scenarios. This section will be a living document, with us adding Horrors continually.
 
 There are Horrors from each category of Horror: Lesser Horrors, Greater Horrors, Resonant Horrors, Ritual Users, and Dead Gods. There are some [additional Horrors in previous SRDs](https://liminalhorrorrpg.com/srdv2/#paranatural-bestiary) that can be built upon and used.
 
+## **TYPES OF HORRORS**
+* [**Lesser Horrors:**](#lesser-horrors) Minor threats, more commons in number, that serve more powerful entities. These are horrors that are made, many of which were once human.  
+* [**Greater Horrors:**](#greater-horrors) Powerful beings that have found their way into our world. These are major threats that seek power upon the material plane.  
+* [**Resonant Horrors:**](#resonant-horrors) Manifestations of energies and entities from other planes of existence.  
+* [**Ritual Users:**](#ritual-users) Humans that have gained access to rituals through dread means. Some enter into pacts while others have transcended mortality.   
+* [**Dead Gods**:](#dead-gods) Vestiges of powerful beings that still have a foothold on this plane.
+
+
 <div style="page-break-after: always;"></div>
 
-### LESSER HORRORS
+## LESSER HORRORS
 
 Minor threats, more commons in number, that serve more powerful entities. These are horrors that are made, many of which were once human.  
 
-1. Reanimated Dead  
-2. Ghosts  
-3. Goloch  
-4. Gremlins  
-5. O.R.C.s  
-6. Puppets  
-7. Carrion Crier
+1. [Reanimated Dead](#reanimated-dead)
+2. [Ghosts](#ghosts)
+3. [Goloch](#goloch)
+4. [Gremlins](#gremlins)  
+5. [O.R.C.s](#orc)  
+6. [Puppets](#puppets)  
+7. [Carrion Crier](#carrion-crier)
 
 
 
-#### **REANIMATED DEAD**
+### **REANIMATED DEAD**
 
 **STR**: 12 **DEX**: 5 **CTRL**: 4   
 **HP**: 3  
@@ -50,9 +58,9 @@ Reanimated Dead are living corpses that were not allowed the peace of death. Cre
 7. **Creeper:** Ambush hunters that lurk in the dark and attack at opportune moments.  
 8. **Prototype:** Rapid mutations heal 1 HP/STR per round.
 
+<br><br>
 
-
-#### **GHOSTS**
+### **GHOSTS**
 
 **STR**: 7 **DEX**: 12 **CTRL**: 15   
 **HP**: 8  
@@ -76,9 +84,9 @@ A spectral being has deemed you a worthy host and has formed a “connection” 
 5. **Child**: Saddeningly young. Often initially calm, but they are moody and unstable, lashing out at perceived slights.  
 6. **Animal**: The impressions of a creature or strange entity. An embodiment of pure instinct.
 
+<br><br>
 
-
-#### **GOLOCH**
+### **GOLOCH**
 
 **STR**: 8 **DEX**: 13 **CTRL:** 2  
 **HP:** 3  
@@ -96,9 +104,9 @@ Goloch are spider-like entities with tumorous bodies suspended on spindly silver
 3. **Skeleton**: Just the bones left. Attacks from ranged or piercing weapons are *Impaired*, weapons used for bludgeoning are *Enhanced*.  
 4. **Animal**: A mid-sized creature the parasite was able to snare in its tendrils. Commonly house pets.
 
+<br><br>
 
-
-#### **GREMLINS**
+### **GREMLINS**
 
 **STR**: 7 **DEX**: 12 **CTRL**: 9   
 HP 4  
@@ -110,9 +118,9 @@ Jagged Teeth (d6)
 
 Gremlins are impish little creatures. If not for their chaotic demeanor and razor sharp teeth, some might find their floppy pointed ears and smushed faces to be cute, almost like a hairless cat. Their very nature is mischievous. They covet shiny bits and bobs, often ripping apart and sabotaging machinery to get their hands on it, leading to a number of unexplained disasters.
 
+<br><br>
 
-
-#### **O.R.C.**
+### **O.R.C.**
 
 **STR:** 12 **DEX:** 14 **CTRL:** 8   
 **HP:** 5 **Armor**: 1  
@@ -134,9 +142,9 @@ Crosier (d6)
 
 ORC priests are often those in their rank that underwent the most severe transformation at the hands of the toxic waste. Their massive bulbous heads make it difficult for them to walk, meaning they’re typically carried aloft by other ORCs when the need arises. They claim to have deep connection to the Dead Gods and hear their whispers, but few have gotten close enough and lived to tell the tale to verify the truth of this.
 
+<br><br>
 
-
-#### **PUPPETS**
+### **PUPPETS**
 
 **STR:** 12 **DEX:** 10 **CTRL:** 8   
 **HP:** 4  
@@ -155,9 +163,9 @@ Puppets are creatures made of human flesh stretched over wooden mannequins. In l
 3. Crawlers that cling to the walls and ceilings, dropping down upon their prey.  
 4. Stalkers that shift and move in the darkness, following behind their prey when they aren’t looking.
 
+<br><br>
 
-
-#### **CARRION CRIER**
+### **CARRION CRIER**
 
 **STR:** 10 **DEX:** 14 **CTRL:** 10   
 **HP:** 5  
@@ -168,18 +176,19 @@ Claws (d6) or Beak (d6)
 Carrion Criers are bird-like creatures with fleshy skin and bat-like wings. They are quite large, with an impressive six foot wingspan, sharp talons, and a long pointed beak. Easily mistaken as circling vultures from afar, they are considered a fell omen, as their presence often precedes great tragedy, marked by a reverberating caw.
 
 <div style="page-break-after: always;"></div>
+<br><br>
 
-### GREATER HORRORS
+## GREATER HORRORS
 
 Powerful beings that have found their way into our world. These are major threats that seek power upon the material plane.  
 
-1. Abomination  
-2. Slasher  
-3. Minotaur
+1. [Abomination](#abomination)  
+2. [Slasher](#slasher)  
+3. [Minotaur](#minotaur)
 
+<br><br>
 
-
-#### **ABOMINATION**
+### **ABOMINATION**
 
 **STR**: 16 **DEX**: 8 **CTRL**: 12   
 **HP**: 10 **Armor**: 2
@@ -197,9 +206,9 @@ Abominations are bodies that have been pushed past their natural limits. Their o
 5. **Walking Incubator**: Host to a colony of horrid creatures. Upon taking Critical Damage, their brood bursts forth.   
 6. **Wall of Flesh:** Several bodies bound together into one form. Upon taking *Critical Damage*, they rip apart into their individual members.
 
+<br><br>
 
-
-#### **SLASHER**
+### **SLASHER**
 
 **STR:** 16 **DEX:** 8 **CTRL:** 16   
 **HP:** 8 **Armor:** 3  
@@ -212,9 +221,9 @@ Weapon of Choice (d8) or Fists (d6)
 
 Slashers are near-unkillable masked murderers. They stalk victims with near supernatural persistence, before getting up close and personal to execute their kills. Many are motivated by the desire for revenge, but most just have an insatiable taste for violence.
 
+<br><br>
 
-
-#### **MINOTAUR**
+### **MINOTAUR**
 
 **STR:** 16 **DEX:** 12 **CTRL:** 9   
 **HP:** 12 **Armor**: 2  
@@ -229,18 +238,19 @@ Charge or Axe (d10)
 Minotaurs are a mass of muscle. Horns protrude from their flesh, blood seeping from the seams. Its muscular body is constantly in a state of growth, barely contained flesh pulled taut. Whenever it moves, the skin tears as the muscles grow, spilling blood and viscera as the skin quickly stitches together, only to be torn again. They are creatures of raw agony, tortured by their own existence, driven to hunt and kill to sate the never ending pain they feel.
 
 <div style="page-break-after: always;"></div>
+<br><br>
 
-### RESONANT HORRORS
+## RESONANT HORRORS
 
 Manifestations of energies and entities from other planes of existence.  
 
-1. Dissonant Artifacts  
-2. Shades  
-3. Dark Ones
+1. [Dissonant Artifacts ](#dissonant-artifacts)
+2. [Shades](#shades)  
+3. [Dark Ones](#dark-ones)
 
+<br><br>
 
-
-#### **DISSONANT ARTIFACTS**
+### **DISSONANT ARTIFACTS**
 
 **STR**: 12 **DEX**: 10 **CTRL**: 10  
 **HP**: 6 **Armor**: 2  
@@ -262,9 +272,9 @@ In the same vein as [Resonant Artifacts](https://liminalhorrorrpg.com/srd-resona
 11. Musical instrument  
 12. Taxidermy deer
 
+<br><br>
 
-
-#### **SHADES**
+### **SHADES**
 
 **STR:** 3 **DEX:** 15 **CTRL:** 13   
 **HP:** 8  
@@ -285,9 +295,9 @@ The Shade severs and consumes the shadow of their victim, permanently leaving th
 1. **Creatures**: Teeth, pincers, spines, tentacles. These Shades were once any variety of horrid creatures whose shadows now infect the material plane.  
 2. **Human**: At one point human, their bodies burned away through misuse of a Resonant Artifact, Rituals, Fallout, or getting caught up in a planar anomaly.
 
+<br><br>
 
-
-#### **DARK ONES**
+### **DARK ONES**
 
 **STR:** 14 **DEX:** 12 **CTRL:** 16   
 **HP:** 8 **Armor:** 1   
@@ -318,18 +328,19 @@ The appendages are commonly the first part of a victim a Dark One takes control 
 Scratch or Kick (d4)
 
 <div style="page-break-after: always;"></div>
+<br><br>
 
-### RITUAL USERS
+## RITUAL USERS
 
 Humans that have gained access to rituals through dread means. Some enter into pacts while others have transcended mortality.   
 
-1. Ritualists  
-2. Witches  
-3. Pact Warlocks
+1. [Ritualists](#ritualists)
+2. [Witches](#witches)  
+3. [Pact Warlocks](#pact-warlocks)
 
+<br><br>
 
-
-#### **RITUALISTS**
+### **RITUALISTS**
 
 **STR:** 11 **DEX:** 12 **CTRL:** 14   
 **HP:** 4   
@@ -348,9 +359,9 @@ There is no unified look to Ritualists, as they blend into everyday society like
 5. **Arch:** Only a small handful ascend to this rank. They like to think themselves the keepers of knowledge and often impose strictures and edicts on lesser beings. They have 1d12 Rituals, STR: 13 DEX: 12 CTRL: 17 HP: 10 Armor: 1   
 6. **Supreme:** There is only one Supreme. This level is akin to a Lich who never fractured their being. Time and age have stopped ticking for them. The Supreme Ritualist has a Grimoire with 1d20 Rituals, STR: 14 DEX: 12 CTRL: 18 HP: 16 Armor: 2
 
+<br><br>
 
-
-#### **WITCHES**
+### **WITCHES**
 
 **PRACTITIONER**  
 **STR:** 12 **DEX:** 11 **CTRL:** 17   
@@ -363,9 +374,9 @@ Athame (d6)
 
 Witchcraft has a history of being associated with inflicting harm upon others, however this is a long standing misconception, as the practice in-and-of- itself is relatively amoral. Many practitioners serve beneficial roles, healing others and the environment, though some choose to tap into this power for selfish or evil purposes to bring about personal gain or having been led astray by a malevolent entity.
 
+<br><br>
 
-
-#### **PACT WARLOCK**
+### **PACT WARLOCK**
 
 **STR:** 10 **DEX:** 10 **CTRL:** 14   
 **HP:** 8 **Armor:** 1  
@@ -381,8 +392,9 @@ Pact Warlocks are humans that have entered into a bargain with a powerful otherw
 Your true name has been marked in the ledger of a patron, promising a great boon for your service. When you have fully ratified your agreement you will begin to receive your boon. Only time will tell what the true price will be.
 
 <div style="page-break-after: always;"></div>
+<br><br>
 
-### DEAD GODS
+## DEAD GODS
 
 The Dead Gods are ancient and immensely powerful beings from the cosmos that once laid claim over the material plane. They have long since been destroyed, banished, fallen dormant, or disappeared from the material plane and now only have a fractional foothold within our world. It is unclear where they came from, how they came to find our world, or what caused them to leave, but the scars of their attention can be found if you know where to look. While these entities are no longer living, they’re not truly dead either, as some form of their existence continues, either beyond the veil of reality or some fragmented piece that still remains a semblance of their former power.
 
