@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 nav_order: 1
 parent: SRD
-permalink: /introduction/
+permalink: /srd-introduction/
 description: An introduction to the Liminal Horror System Reference Document v3.0.
 ---
 # **INTRODUCTION**
@@ -46,3 +46,7 @@ Some SRDs are player-facing rules that intend to teach you how to use the game. 
 ### **ADDITIONAL ADVICE**
 
 The [Liminal Horror Deluxe Edition Chapter 2 (Facilitator’s Guide)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has a bunch of detailed essays and advice on many of the topics here in the SRD v3.0. If you are looking for a more in detailed examination of many of these topics, we’d recommend you pick it up (either digitally or physically). While a lot of that text is not open licensed for direct use/copying, the advice can be used to bolster your design and make the best scenario possible\!
+
+---
+Next Section: [Licensing](https://liminalhorrorrpg.com/srd-icensing/)
+<br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)
