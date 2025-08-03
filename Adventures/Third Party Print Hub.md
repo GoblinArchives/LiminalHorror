@@ -13,6 +13,12 @@ A one stop location to find all the various Liminal Horror Third Party Adventure
 - [Annoated Archive of Game Design Resources: Printing & Publishing](https://liminalhorrorrpg.com/Game%20Design/Printing%20&%20Publishing/)
 
 ## Third Party Adventures
+[Ex Inferis](https://spacepenguin.ink/collections/liminal-horror/products/ex-inferis-for-liminal-horror-rpg) by Tyler Welch and BoRyan Crum - Event Horizon on a boat. The winner of the Twisted Classics Jam and the first official second party publication.
+
+[Alternate Realities](https://www.lulu.com/shop/david-jackson-and-roque-romero/alternate-realities/paperback/product-emkp7d.html?page=1&pageSize=4) By David Jackson and Roque Romero- Alternate Realities is a mind bending faction game for use with Liminal Horror. Here modern day paranormal meets parallel reality adventure. Travel to strange Earths and meet versions of your friends and family from timelines other than our own. Note: This is one of the first publications to use LuLu print on demand!
+
+[Welcome to St. Julian's: A Liminal Horror Mystery](https://plusoneexp.com/products/welcome-to-st-julians-a-liminal-horror-mystery?variant=46216025768158) by Kyle Tam - A time bending mystery set across 2 different time periods in a Catholic School.
+
 [Playthings](https://spacepenguin.ink/collections/liminal-horror/products/playthings-for-liminal-horror-rpg) by Seth Ian - You have become toys trapped in an interdimensional toy box.
 
 [Iron Gods](https://www.themightyodd.com/buy/p/iron-gods) by Tyler “The Mighty Odd” Welch - 1980s body building muscle horror.
