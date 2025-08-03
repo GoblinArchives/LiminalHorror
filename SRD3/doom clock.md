@@ -29,5 +29,4 @@ A Doom Clock is not going to be essential for every scenario. For example, [*Cam
 
 ---
 Next Section: [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
-<br>Previous Section: [Room Keying](https://liminalhorrorrpg.com/srd-room-keying/)
 <br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)
