@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deluxe Edition Excerpts
+title: Deluxe Edition
 nav_order: 1
 parent: Rules Reference
 permalink: /deluxe/
