@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doom Clock
-nav_order: 2
+nav_order: 10
 parent: SRD
 permalink: /srd-doom-clock/
 description: A guide to creating Doom Clocks, including a framework for use in Liminal Horror scenarios.
@@ -29,5 +29,5 @@ A Doom Clock is not going to be essential for every scenario. For example, [*Cam
 
 ---
 Next Section: [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
-<br>Previous Section: [Introduction](https://liminalhorrorrpg.com/srd-introduction/)
+<br>Previous Section: [Room Keying](https://liminalhorrorrpg.com/srd-room-keying/)
 <br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)
