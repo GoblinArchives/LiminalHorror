@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Licensing
+title: Equipment
 nav_order: 6
 parent: SRD
 permalink: /srd-equipment/
