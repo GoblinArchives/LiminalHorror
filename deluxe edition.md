@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Deluxe Edition
+title: Deluxe Edition Pre-Order
 nav_order: 2
-redirect_to: https://www.backerkit.com/call_to_action/4e24ba76-5cb5-4514-b636-b68f8475acdb/landing
+redirect_to: https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders
 permalink: /deluxe
 ---
