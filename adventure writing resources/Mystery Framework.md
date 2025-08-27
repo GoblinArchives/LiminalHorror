@@ -8,6 +8,7 @@ description: A way to structure and adventure for the Liminal Horror ttrpg.
 ---
 
 # Mystery Framework
+This framework was released with the orignal edition of Liminal Horror (legacy) and provided a quick structure for designing an adventure/session.
 
 ## Creating Your Own Mysteries (using a framework)
 
