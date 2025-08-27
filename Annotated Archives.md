@@ -24,6 +24,6 @@ Cataloging these resources aims to demystify the design process. The push to ope
 - [Designing a tabletop rpg: day 1 - laying groundwork](https://www.haveyouplayedthis.com/posts/designing-an-rpg-e1) by Adam Bell is the start of a video series that has Adam making their practice visible as they design a ttrpg called Promise the Moon.
 
 ## Writing Adventures for Liminal Horror
-A major aim of the Liminal Horror community is to support new writer/creators/facilitators in making things for Liminal Horror. We've collected resources specific to Liminal Horror in [Adventure Writing Resources](https://liminalhorrorrpg.com/resources/).
+A major aim of the Liminal Horror community is to support new writer/creators/facilitators in making things for Liminal Horror. We've collected resources specific to Liminal Horror in [Adventure Writing Resources](https://liminalhorrorrpg.com/resources).
 
 ---
