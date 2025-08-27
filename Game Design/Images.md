@@ -8,6 +8,11 @@ description: Creating and using images in ttrpg publications.
 
 # IMAGES
 
+## Overview
+Art is an important part of ttrpgs, and can often be an area of new learning for writers and new desigerns.
+- [A Comprehensive Guide to TTRPG Art Commissioning & Licensing](https://www.patreon.com/posts/comprehensive-to-137186621) by Araukana is a fantastic dive into art in ttrpgs and how designers can navigate this aspect of ttrpg design. If you are getting into commissioning or licensing art, this is definitely a resource worth checking out.
+- Joseph R. Lewis gives a great Intro to Art over on his Writing RPG Adventures series: [https://www.youtube.com/watch?v=Oo3udQJaVho&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=21](https://www.youtube.com/watch?v=Oo3udQJaVho&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=21)
+
 ## CREATING YOUR OWN
 One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.
 - [How to Photobash Art for your Zines!](https://www.youtube.com/watch?v=GYrUzzS8SnE) by Chaoclypse as they go through their simple process for photobashing art for their TTRPG zines!

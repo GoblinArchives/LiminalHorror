@@ -47,3 +47,7 @@ b. Overview: [https://www.drivethrurpg.com/joininfo2.php](https://www.drivethrur
     LH library submission: [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
     DM
 5. LH team will post it to the [library](https://liminalhorrorlibrary.com/), the [main hub page](https://liminalhorrorrpg.com/Third%20Party%20Print%20Hub/), and promote print projects regularly in newsletters,  etc
+
+## Designing for Print at Home
+Given the precarious nature of shipping and printing costs (and tarrifs), many print options are out of the reach of many. Just because your work exists in the digital space does not make it less than something that has a physical print run. One very real option is designing works that can be printed at home by users. Here is a great guide with information on that very subject:
+- [Graphic Design Tips for Self-Published TTRPGs, Minimizing Tariffs](https://revivifygames.com/blog/graphic-design-ttrpgs)

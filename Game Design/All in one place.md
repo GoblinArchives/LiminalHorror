@@ -216,8 +216,8 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [Using Canva to layout your ttrpg](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20) by Jeeyon Shim is a fantastic thread on how to leverage a great design tool to create small games. They look great and result in a quality that supports any new designer. Jeeyon is extremely thorough in their step by step guide in this thread. Well worth considering for your next project.
 
 ## Layout Templates
-
-- **[Classic Explorer Starter Template](https://explorers.itch.io/classic-starter-template)** by Clayton Notestine is a fantastic template that aids in creating a clean, old-school style zine. "It's perfect for adventures, games, and campaigns in the style of *Cairne, Into the Odd,* and adventures like *The Isle, Silent Titans,* and *Deep Carbon Observatory.*"
+- [Liminal Horror Design Templates](https://unenthuser.itch.io/liminal-horror-design-templates) by Josh Domanski provide a killer layout structure, along with examples of different types of content used within that framework. Currently it is set up for 6x9, but a 5.5x8.5 will be coming soon.
+- [Classic Explorer Starter Template](https://explorers.itch.io/classic-starter-template) by Clayton Notestine is a fantastic template that aids in creating a clean, old-school style zine. "It's perfect for adventures, games, and campaigns in the style of *Cairne, Into the Odd,* and adventures like *The Isle, Silent Titans,* and *Deep Carbon Observatory.*"
 - [Pamplet RPG Template For Affinity Publisher](https://wizardthieffighter.itch.io/wtf-pamphlet-rpg-template-affinity-publisher) by wizardthieffighter (writer of the awe inspiring Ultra Violet Grasslands). This template will get you all set up for writnig your own pamphlet using Affinity Publisher (a great single payment layout software...Adobe makes you pay monthly)
 - [**Free – Affinity Publisher Template for TTRPG**](https://wendigoworkshop.itch.io/free-affinity-publisher-template-for-ttrpg) by Wendingo includes templates that are formatted for print.
 - [**A5 Trifold Pamphlet Template for Affinity**](https://brstf.itch.io/a5-pamphlet-affinity-template) by brstf is an affinity template to make a pamphlet for an A5 piece of paper (210x148mm).
@@ -233,6 +233,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 
 ## Typography & Fonts
+- [Typography 101: Getting Started](https://www.explorersdesign.com/typography-101/) by Clayton Notestine presents beginner tips and tricks for setting up, arranging, and pairing your game's typography.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html), by Matthew Buttericks is a great resource for building your schema and dipping your toes into that world.
 - [Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html) is another great introductory resource by Matthew Buttericks.
 - [Free fonts](https://twitter.com/gontijodesign/status/1394624373823348737?s=27) compiled as a twitter thread by Guilherme Gontijo.
@@ -248,6 +249,11 @@ Having a good font and layout is vital toward making your game engaging to read/
 ---
 
 ## IMAGES
+
+## Overview
+Art is an important part of ttrpgs, and can often be an area of new learning for writers and new desigerns.
+- [A Comprehensive Guide to TTRPG Art Commissioning & Licensing](https://www.patreon.com/posts/comprehensive-to-137186621) by Araukana is a fantastic dive into art in ttrpgs and how designers can navigate this aspect of ttrpg design. If you are getting into commissioning or licensing art, this is definitely a resource worth checking out.
+- Joseph R. Lewis gives a great Intro to Art over on his Writing RPG Adventures series: [https://www.youtube.com/watch?v=Oo3udQJaVho&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=21](https://www.youtube.com/watch?v=Oo3udQJaVho&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=21)
 
 ## CREATING YOUR OWN
 One option is to design your own images. There are a few different programs you can use ([some are listed here](#programs)) to make your own maps and images. There are some online tools that allow you to create maps for your adventures. Always be sure to check the licensing information of resources you use.
@@ -467,6 +473,35 @@ There are a few different options in terms of printers that you can use. This is
 - [Smartpress](https://smartpress.com/)
 - [Pet Riso Studio](https://www.petrisostudio.com/) is a US based risograph printer.
 - [Lulu](https://www.lulu.com/sell/sell-on-lulu) allows you to upload your print files and sell print on demand either through their platform or your own store.
+
+## Print on Demand
+Print on Demand is a fantastic way to provide physical options for your games without the overhead of printing and shipping costs.
+- I compiled some Print on Demand Overviews on our Third Party Print Support Page: [https://liminalhorrorrpg.com/printsupport/](https://liminalhorrorrpg.com/printsupport/)
+- Joseph R. Lewis talks about it on his Writing RPG Adventures series: [https://www.youtube.com/watch?v=X167zOdkp1w&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=29](https://www.youtube.com/watch?v=X167zOdkp1w&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=29)
+
+## Print On Demand Steps
+1. Write and design you adventure, getting it ready to print! Remember that each printer has its own specific margin/design guides.
+2. Set it up as Print on Demand
+Lulu (resources) https://www.lulu.com/publishing-toolkit
+Formatting (Book Creation Guide) Includes PDF specifications, spine guides, and formatting terms to help you print your book https://www.lulu.com/sell/sell-on-lulu (selling on the Lulu bookstore allows you to set up print on demand for no cost, sell direct to customers, and Lulu prints/drop ships them).
+Drivethru (resources)
+Overview: https://www.drivethrurpg.com/joininfo2.php
+Book cost and formats: https://www.drivethrurpg.com/pub_pod_cost.php
+Quick book specifications: https://help.drivethrupartners.com/hc/en-us/articles/12780800178583-Quick-Specifications-for-Print-Books#h_01HFVSQQNE7CNT9CBGDAMQC835
+3. Price your work. A pretty standard rate for adventures is $10-15 for zines, 20+ for perfect bound soft cover, 25+ for hardcovers. But you can set it to whatever you like.
+4. Launch the title!
+5.Start making money of print titles as well as your digital options!
+**If writing for Liminal Horror**
+6. Reach out to the LH team to let them know your work is in print:
+    - discord
+    - LH library submission
+    - DM
+7. LH team will post it to the library, the main hub page, and promote print projects regularly in newsletters,  etc
+
+## Designing for Print at Home
+Given the precarious nature of shipping and printing costs (and tarrifs), many print options are out of the reach of many. Just because your work exists in the digital space does not make it less than something that has a physical print run. One very real option is designing works that can be printed at home by users. Here is a great guide with information on that very subject:
+- [Graphic Design Tips for Self-Published TTRPGs, Minimizing Tariffs](https://revivifygames.com/blog/graphic-design-ttrpgs)
+
 
 ## Publishing Partnerships
 One option for funding a print run is to partner with a publisher/distributor. Many indie storefronts regularly partner with game writers to get a finished game to print. This tends to involve a partnership where the store fronts some (or all) of the cost to print. Afterwards they handle distribution, and after the print costs are recouped they pay regular royalties to the game's designer. This is the avenue I went through for Liminal Horror (I had it published through Exalted Funeral Press).

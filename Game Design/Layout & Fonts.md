@@ -19,8 +19,8 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [Using Canva to layout your ttrpg](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20) by Jeeyon Shim is a fantastic thread on how to leverage a great design tool to create small games. They look great and result in a quality that supports any new designer. Jeeyon is extremely thorough in their step by step guide in this thread. Well worth considering for your next project.
 
 ## Layout Templates
-
-- **[Classic Explorer Starter Template](https://explorers.itch.io/classic-starter-template)** by Clayton Notestine is a fantastic template that aids in creating a clean, old-school style zine. "It's perfect for adventures, games, and campaigns in the style of *Cairne, Into the Odd,* and adventures like *The Isle, Silent Titans,* and *Deep Carbon Observatory.*"
+- [Liminal Horror Design Templates](https://unenthuser.itch.io/liminal-horror-design-templates) by Josh Domanski provide a killer layout structure, along with examples of different types of content used within that framework. Currently it is set up for 6x9, but a 5.5x8.5 will be coming soon.
+- [Classic Explorer Starter Template](https://explorers.itch.io/classic-starter-template) by Clayton Notestine is a fantastic template that aids in creating a clean, old-school style zine. "It's perfect for adventures, games, and campaigns in the style of *Cairne, Into the Odd,* and adventures like *The Isle, Silent Titans,* and *Deep Carbon Observatory.*"
 - [Pamplet RPG Template For Affinity Publisher](https://wizardthieffighter.itch.io/wtf-pamphlet-rpg-template-affinity-publisher) by wizardthieffighter (writer of the awe inspiring Ultra Violet Grasslands). This template will get you all set up for writnig your own pamphlet using Affinity Publisher (a great single payment layout software...Adobe makes you pay monthly)
 - [**Free – Affinity Publisher Template for TTRPG**](https://wendigoworkshop.itch.io/free-affinity-publisher-template-for-ttrpg) by Wendingo includes templates that are formatted for print.
 - [**A5 Trifold Pamphlet Template for Affinity**](https://brstf.itch.io/a5-pamphlet-affinity-template) by brstf is an affinity template to make a pamphlet for an A5 piece of paper (210x148mm).
@@ -36,6 +36,7 @@ Having a good font and layout is vital toward making your game engaging to read/
 
 
 ## Typography & Fonts
+- [Typography 101: Getting Started](https://www.explorersdesign.com/typography-101/) by Clayton Notestine presents beginner tips and tricks for setting up, arranging, and pairing your game's typography.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html), by Matthew Buttericks is a great resource for building your schema and dipping your toes into that world.
 - [Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html) is another great introductory resource by Matthew Buttericks.
 - [Free fonts](https://twitter.com/gontijodesign/status/1394624373823348737?s=27) compiled as a twitter thread by Guilherme Gontijo.

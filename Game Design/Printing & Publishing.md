@@ -37,8 +37,12 @@ There are a few different options in terms of printers that you can use. This is
 - [Pet Riso Studio](https://www.petrisostudio.com/) is a US based risograph printer.
 - [Lulu](https://www.lulu.com/sell/sell-on-lulu) allows you to upload your print files and sell print on demand either through their platform or your own store.
 
-## Print On Demand
-PoD Steps:
+## Print on Demand
+Print on Demand is a fantastic way to provide physical options for your games without the overhead of printing and shipping costs.
+- I compiled some Print on Demand Overviews on our Third Party Print Support Page: [https://liminalhorrorrpg.com/printsupport/](https://liminalhorrorrpg.com/printsupport/)
+- Joseph R. Lewis talks about it on his Writing RPG Adventures series: [https://www.youtube.com/watch?v=X167zOdkp1w&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=29](https://www.youtube.com/watch?v=X167zOdkp1w&list=PLW3Y9p-0r_NLA-b00wVod0mHrXUgbL4tQ&index=29)
+
+## Print On Demand Steps
 1. Write and design you adventure, getting it ready to print! Remember that each printer has its own specific margin/design guides.
 2. Set it up as Print on Demand
 Lulu (resources) https://www.lulu.com/publishing-toolkit
@@ -56,6 +60,10 @@ Quick book specifications: https://help.drivethrupartners.com/hc/en-us/articles/
     - LH library submission
     - DM
 7. LH team will post it to the library, the main hub page, and promote print projects regularly in newsletters,  etc
+
+## Designing for Print at Home
+Given the precarious nature of shipping and printing costs (and tarrifs), many print options are out of the reach of many. Just because your work exists in the digital space does not make it less than something that has a physical print run. One very real option is designing works that can be printed at home by users. Here is a great guide with information on that very subject:
+- [Graphic Design Tips for Self-Published TTRPGs, Minimizing Tariffs](https://revivifygames.com/blog/graphic-design-ttrpgs)
 
 
 ## Publishing Partnerships
