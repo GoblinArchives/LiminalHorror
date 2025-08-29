@@ -23,7 +23,7 @@ Without explicit permission, you **may not:**
 
 You **may:**
 
-- Use, copy, and modify the text of **SRD v.3.0: Liminal Horror Deluxe Edition (currently in development)**. This SRD will follow a more traditional System Reference Document structure with curated content and advice on use. The Deluxe Edition is a copyrighted work (since the original text was rewritten) but the SRD is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+- Use, copy, and modify the text of [SRD v.3.0: Liminal Horror Deluxe Edition](https://liminalhorrorrpg.com/srd/). This SRD deviates from a traditional System Reference Document structure and instead is a design document that includes curated content and advice on use. The Deluxe Edition is a copyrighted work (since the original text was rewritten) but the SRD is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 - Use, copy, and modify the text of [SRD v.2.0: Liminal Horror Investigators](https://liminalhorrorrpg.com/srdv2/).
 - Use, copy, and modify the text of [SRD v.1.0: Liminal Horror Legacy Edition](https://liminalhorrorrpg.com/srdv1/). Liminal Horror Legacy Edition is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Use, reference, and modify the game rules and mechanics.
@@ -70,13 +70,13 @@ This means that you can copy and share the text as long as you properly attribut
 Remember that for the SRDs:
 - [SRD v.1.0: Liminal Horror Legacy Edition](https://liminalhorrorrpg.com/srdv1/) uses [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - [SRD v.2.0: Liminal Horror Investigators](https://liminalhorrorrpg.com/srdv2/) ports some rules from Legacy while rewriting others, so errs on the license of [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **Liminal Horror Deluxe Edition (currently in development)** is a rewritten copyrighted product. We will be releasing a companion SRD v.3.0 that includes mechanics and lore text that will be released [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+- Liminal Horror Deluxe Edition](https://liminalhorrorrpg.com/srd/) is a rewritten copyrighted product. We will be releasing a companion SRD v.3.0 that includes mechanics and lore text that will be released [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 **What this means in practice?**
 
 - You **can** use any of the text, as is, within **Liminal Horror Core Rules** & **SRD** as long as those parts are attributed and licensed in the same way.
     - Directly using text from [Liminal Horror Legacy Edition](https://liminalhorrorrpg.com/srdv1/) and [Liminal Horror Investigators](https://liminalhorrorrpg.com/srdv2/) must include those portions under C[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-    - Using the **SRD v.3.0 (in development)** as your reference text will mean you don't have to worry about anything other than attribution of the original text.
+    - Using the [**SRD v.3.0**](https://liminalhorrorrpg.com/srd/) as your reference text will mean you don't have to worry about anything other than attribution of the original text.
 - It also means you **can** write your own adventure, reference rules and mechanics in your own way, and publish it using the **Third Party License** above and copyright your portions of the text (if you want to). Meaning you don't need to worry about complicated licensing structures.
 
 

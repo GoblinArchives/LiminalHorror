@@ -66,7 +66,7 @@ Games have different licenses that dictate what can be used from the core text. 
 - [**Forged in the Dark**](https://bladesinthedark.com/basics) by John Harper is the framework that allows you to makes games powered by Blades In The Dark
 - [**Trophy**](https://trophyrpg.com/system/) by Jesse Ross. Trophy is a narrative system that focuses on the doom that befalls the characters. Beware the horror and doom that awaits.
 - [**Wretched & Alone**](https://sealedlibrary.itch.io/wretched-alone-srd) by Matt Sanders & Chris Bissette. These are solo journaling games that focuse on struggle, survival, and striving to achieve.
-- [**ARCANUM**](https://arc-rpg.com/arcanum?__s=n5rxcw9oizo8ivnlxqm6) by momatoes is a great example of an SRD that provides you with the tools to make a game using the SRD. In momatoes own words "If you want to make a creature codex based on ‘90s Variety Children Shows gone wrong, Spells & Techniques for a cyberpunk setting, or a rules modification for games running only an hour long, it’s now Legally Blessed (™)  if you read and follow the common-sense guidelines from the" [ARC RPG license](https://arc-rpg.com/license).
+- [**ARCANUM**](https://arc-rpg.com/arcanum?__s=n5rxcw9oizo8ivnlxqm6) by momatoes is a great example of an SRD that provides you with the tools to make a game using the SRD. In momatoes own words "If you want to make a creature codex based on ‘90s Variety Children Shows gone wrong, Spells & Techniques for a cyberpunk setting, or a rules modification for games running only an hour long, it’s now Legally Blessed (™)  if you read and follow the common-sense guidelines from the" .
 
 For a robust list of SRDs, [The TTRPG Creator Resources Masterpost](https://starshinescribbles.com/ttrpg-resources-masterpost/#Systemsandsrd) by Jonathon Greenall has a list of 60+ SRDs.
 
@@ -85,8 +85,6 @@ For a robust list of SRDs, [The TTRPG Creator Resources Masterpost](https://star
 
 ### What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
-- [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
-- [Resources for Free Creation Tools](https://itch.io/c/1832904/resources-for-free-creation-tools) by G. Raven Image is a collection of tools housed on itch.io that can help in various aspects of the writing, designing, and publishing process.
 
 ### Markdown
 I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html). This increases your ability to create dynamic and accessible products down the line.
@@ -133,7 +131,6 @@ Creating your own online SRD is not only a way to present your work (creating a 
 
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
-- [Video Stream: teaching google sheets](https://www.twitch.tv/videos/1139349790) by Momatoes takes you through the process of creating a character sheet like the one made for ARC.
 - [Slide Deck: Google Sheets for fun, design, and games](https://www.dropbox.com/s/mj27yqx7kimxx2c/Google%20Sheets%20for%20fun%20design%20and%20games.pdf?dl=0) by Momatoes is the slide deck that was used in the stream and acts as a great reference.
 
 ### Word Processors/File Organization
@@ -151,13 +148,12 @@ Creating your own online SRD is not only a way to present your work (creating a 
 - [Affinity Phto and Designer](affinity.serif.com). This is an affordable, single purchase program.
 - [Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
 - [Noise Dystopia Machine](https://chaoclypse.itch.io/noise-dystopia-machine) by Chaoclypse is a collection of Photoshop actions that lets you turn existing images into xerox'd, messed up, straight up fucked black and white copies with just a click or two!
-- [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
+- [GIMP](https://www.gimp.org/) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
 - [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
 - [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
 - [Krita](https://krita.org/en/) is a free open source painting program.
-- [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
 Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
 ![image](/img/programs.png)

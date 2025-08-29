@@ -5,10 +5,8 @@ nav_order: 3
 parent: Annotated Archive of Game Design
 decription: Programs to use when creating and publishing ttrpgs.
 ---
-## What Programs To Use?
+### What Programs To Use?
 There are a ton of fantastic programs one can use when writing and designing games. Below are what I used to make Liminal Horror.
-- [Free Graphic Design Resources & Best Practices For TTRPG Creators](https://ghostlorestudios.com/free-graphic-design-resources-and-best-practices-for-ttrpg-creators/) by Ghost Lore. This post gives a great overview of the different aspects of design (from programs you can use, to different ways of building your skils, to important things to consider when working with others' work).
-- [Resources for Free Creation Tools](https://itch.io/c/1832904/resources-for-free-creation-tools) by G. Raven Image is a collection of tools housed on itch.io that can help in various aspects of the writing, designing, and publishing process.
 
 ### Markdown
 I've found myself writing my games using markdown (an easy to use computer language) that can be used with a variety of different programs, and allows you to output in multiple formats (pdf, epub, html). This increases your ability to create dynamic and accessible products down the line.
@@ -20,13 +18,41 @@ I've found myself writing my games using markdown (an easy to use computer langu
 - [Svgbob](https://ivanceras.github.io/svgbob-editor/) is a diagramming model that lets you create shaped in your markdown files.
 - [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
 
+## A Note About This Website
+Launching this site was one of the first things I did after writing Liminal Horror. I used the framework created by Yochai Gal for his Cairn website as the bones to build my own (much like the original system). Long before I bought a domain, or really knew how to do it, I followed how-tos and looked at free resources to figure out how to edit and launch my own.
+A quick overview of Github/Jekyll Sites:
+- [https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+To do it I made a copy of the Cairn site and edited it to have the Liminal Horror info, but used/referred to Yochai's build to help guide my work.
+- Where my github lives: [https://github.com/GoblinArchives/LiminalHorror])(https://github.com/GoblinArchives/LiminalHorror)
+- Editing Code: I use atom. It has sunset but works super well for editing my markdown pages. I use an old version (1.49.0) - [https://atom-editor.cc/](https://atom-editor.cc/)
+- Pushing updates: Initially I had to use a gitbash terminal, but after transitioning to a different computer I found that using github desktop works great for pushing updates. [https://github.com/apps/desktop](https://github.com/apps/desktop)
+- The website template I use is [JusttheDocs](https://just-the-docs.github.io/just-the-docs/).
+
+This is just one method you can use to host a website for your game. There are many out there. Some resources I've found also helpful are:
+
+## Website-building resources
+Tutorials
+- [The Quick ‘n’ Dirty Guide to Making a Website](https://blog.itsnero.com/webguide) (2022)
+- [neocities](https://neocities.org/) - A classic for a reason.
+- [Bear Blog](https://bearblog.dev/) - A free blogging platform that could be adapted to host your ttrpg.
+- [Zonelets](https://zonelets.net/) - Another free blogging platform that can be used to make your own website.
+
+
+## Articles on why websites matter, now more than ever as a means of archiving work:
+- [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/) by Parimal Satyal
+- [Plain old webpages still matter](https://felix.plesoianu.ro/web/plain-old-webpages.html) by Felix Plesoianu
+- [Cyber Mauseoleums (Or the Argument Against Deletion)](https://neonaut.neocities.org/cyber/crypt/) by neonaut
+- [Every site needs a Links Page / Why linking matters](https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters) by Daniel/Melon
+
+
 ## Create your own SRD
 Creating your own online SRD is not only a way to present your work (creating a free web based, public facing document that allows for collaboration and growth) but can help structure the writing and end product.
 - [A Step-by-Step Guide to creating a TTRPG SRD](https://gist.github.com/Gulluth/447fe732d9681685ab01d7c512376b73) by Desolate Drifter [@GulluthGultch](https://twitter.com/GulluthGulch) is a comprehensve guide to creating your very ownn TTRPG SRD (that is also free).
 
 ### Character Sheets
 - [How to Design TTRPG Sheets with Google Sheets](https://twitter.com/momatoes/status/1434902519335981065?s=20) by Momatoes is their guide on how to create a phenomenal and unique character sheet with google sheets.
-- [Video Stream: teaching google sheets](https://www.twitch.tv/videos/1139349790) by Momatoes takes you through the process of creating a character sheet like the one made for ARC.
 - [Slide Deck: Google Sheets for fun, design, and games](https://www.dropbox.com/s/mj27yqx7kimxx2c/Google%20Sheets%20for%20fun%20design%20and%20games.pdf?dl=0) by Momatoes is the slide deck that was used in the stream and acts as a great reference.
 
 ### Word Processors/File Organization
@@ -44,13 +70,12 @@ Creating your own online SRD is not only a way to present your work (creating a 
 - [Affinity Phto and Designer](affinity.serif.com). This is an affordable, single purchase program.
 - [Jalopy Design: Cleaning up Public Domain Art](https://www.technicalgrimoire.com/david/2021/09/JalopyFreeArt) by David Schirduan (Technical Grimoire) does another fantastic entry that goes through how to edit and leverage Public Domain Art in your works.
 - [Noise Dystopia Machine](https://chaoclypse.itch.io/noise-dystopia-machine) by Chaoclypse is a collection of Photoshop actions that lets you turn existing images into xerox'd, messed up, straight up fucked black and white copies with just a click or two!
-- [GIMP](www.gimp.org) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
+- [GIMP](https://www.gimp.org/) is a free, open source image editor. While I do own Affinity Designer and Photo, I still primarily use this to edit the images I used in Liminal Horror.
 - [PIXLR X](https://pixlr.com/x/) Is a free browser based photo editor. Described as an easy-to-use photo editor (with help of templates)
 - [PIXLR E](https://pixlr.com/e/) Is a free browser based, powerful photo editor. Described as an advanced editor for pros.
 - [Dither Me This](https://doodad.dev/dither-me-this/) is a tool you can use to dither images.
 - [Inkscape](https://inkscape.org/) is a free vector graphic program.
 - [Krita](https://krita.org/en/) is a free open source painting program.
-- [Artflow AI](http://artflow.ai/) allows users to generate visual content wit hthe help of an AI. Currently it is built to generate portraits. The output is licensed under CC BY which allows commercial and noncommercial use with attribution.
 
 Here is a list of alternatives to Adobe programs created by [xdaniel Art](https://twitter.com/XdanielArt) (they require a regular subscription that is predatory and if you don't pay you often get hit with massive hidden fees and lose access to things you have made/bought) <br>
 ![image](/img/programs.png)
