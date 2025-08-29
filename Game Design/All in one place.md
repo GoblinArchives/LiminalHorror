@@ -201,13 +201,9 @@ The below list includes every itchfunding version and corresponding notes (dev &
 ## Layout and Typeface
 
 Having a good font and layout is vital toward making your game engaging to read/use. Here are some resources I found to help learn about layout/design.
-- Johan Nohr (one of the designers of MÖRK BORG, which pushes the layout and typeface envelope) wrote two must read threads on choosing a typeface and setting a body text. These dives are worth reading if you have any interest in design and are a great way to start your journey.
-  - [Choosing a typeface](https://twitter.com/JohanNohr/status/1275739369735929856?s=20), a twitter thread by Johan Nohr.
-  - [Setting a body text](https://twitter.com/JohanNohr/status/1276532452627034112?s=20), a twitter thread by Johan Nohr.
 
 ## Layout
 - [Designing Layouts (Layout and the Grid)](https://www.theexplorersco.com/home/2019/7/20/exploring-layout) by Clayton Notestine. This was the single most helpful resource in my learning how to do layout for my game. Not only does Clayton go over the core concepts of layout, but he goes on to give annotated examples of TTRPGs and their layout. 100/10 recomend.
-- [Layout Design Tips For Your Next TTRPG Project](https://ghostlorestudios.com/layout-design-tips-for-your-next-ttrpg-project/) by Ghost Lore. This is the final entry in a series that gives a good progression of layout tips that is well worth reading prior to starting the layout of your project.
 - [Why Is Layout Important in Graphic Design?](https://www.flux-academy.com/blog/why-is-layout-important-in-graphic-design) by Stephanie Corrigan is a great overview of layout prinicples with visual examples to reinforce concepts.
 - [Using Canva to layout your ttrpg](https://twitter.com/jeeyonshim/status/1432987328247521284?s=20) by Jeeyon Shim is a fantastic thread on how to leverage a great design tool to create small games. They look great and result in a quality that supports any new designer. Jeeyon is extremely thorough in their step by step guide in this thread. Well worth considering for your next project.
 
@@ -232,7 +228,6 @@ Having a good font and layout is vital toward making your game engaging to read/
 - [Typography 101: Getting Started](https://www.explorersdesign.com/typography-101/) by Clayton Notestine presents beginner tips and tricks for setting up, arranging, and pairing your game's typography.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html), by Matthew Buttericks is a great resource for building your schema and dipping your toes into that world.
 - [Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html) is another great introductory resource by Matthew Buttericks.
-- [Free fonts](https://twitter.com/gontijodesign/status/1394624373823348737?s=27) compiled as a twitter thread by Guilherme Gontijo.
 - [Coding with Character](https://realdougwilson.com/writing/coding-with-character) by Doug Wilson. This blog is about utilizing different fonts for coding and could easily be applicable when thinking about what typeface to use for your project (especially if monospaced type aligns to the aesthetic of your project). Be sure to check the licensing of any fonts you are interested in to make sure they are available for commercial use.
 - [Google Fonts](https://fonts.google.com/?category=Display) is a collection of fonts released under open source licenses.
 - [dafont](https://www.dafont.com/) is another place to search for fonts and includes easy to find licensing information.
@@ -377,8 +372,6 @@ Open Licenses (often referred to as 3PP/ 3rd Party License) allow others to crea
 -  [THE COMPANY by Mega_Corp (itch.io)](https://mega-corp.itch.io/the-company) by Logan Dean [(@L__Dean) / Twitter](https://twitter.com/L__Dean) is an example of a license that is based on the foundation laid out by Mörk Borg. It acts as a direct invitation for others to create content, while maintaining the vision of the original work.
 - [Third Party Licence · Runecairn (byodinsbeardrpg.com)](https://runecairn.byodinsbeardrpg.com/licence/) by Colin Le Sueur - [(@ByOdinsBeardRPG) / Twitter](https://twitter.com/ByOdinsBeardRPG) is another example of a easy to parse Third-Party License. When asked about why he decided to make a license, he said, "Since I based it on Cairn, which has a CC BY-SA (share alike) licence, I'd already opened up Runecairn for editing and modifying, so a 3rd party licence just made sense. I wanted people to take my work and hack it, like I'd hacked Cairn. By adding a logo and giving explicit consent and encouragement, I hope people would build on Runecairn and make it their own. Selfishly it helps me as well, since more Runecairn adventures helps spread the word for the system and my work."
 
-- [ARC CREATORS LICENSE](https://arc-rpg.com/license) by momatoes is a license for ARC that allows people to "ARC-compatible, -inspired and derived works for free or for sale without any fees or prior permission required" as long  as they follow the guidance laid out in the license.
-
 In the end, you can publish a game without any custom licensing, but what is becoming more evident is for game designers, they see having an open and permissive Third-Party license as a invitation for others to create works for their games. It acts a way to bring people in and let them know what can be done with the works.
 
 ## Creative Comrades
@@ -408,7 +401,6 @@ Other than self funding (or getting someone to invest/partner), there are are a 
 An alternative to Kickstarter that is newer (but avoids many of the issues with kickstarter) is itchfunding. This is the format I curretly am using to create [The Mall](https://goblinarchives.itch.io/the-mall).
 - [Jalopy Design: Itchfunding & Gdocs](https://www.technicalgrimoire.com/david/2021/11/jalopyitchgdocs) by David Schirduan (Technical Grimoire). As with all the Jalopy Design entries, this one is extremely infomrative in providing a deep look at the benefits and drawbacks to itchfunding in the context of their project.
 - [Information Thread: How To Setup Itchfunding!](https://twitter.com/PandionGames/status/1494418829610561536?s=20&t=zmv6zm7LLIMzcs6-3zLWbw) by Pandion Games is a fantastic 16 tweet thread that goes over the benefits and steps crowdfund using itchfunding.
-- [Itchfund FAQ](https://itchfunding.games/#faq) by KeganExe is a great place to get an overview of what itchfunding is and what it can do.
 PlusOneEXP hosted a great discussion on Itchfunding.
 - [Part 1](https://www.youtube.com/watch?v=clNyEWtF1Yo&ab_channel=PlusOneExp) is with Jeff Stormer
 - [Part 2](https://www.youtube.com/watch?v=o5FJiCCoe5c&ab_channel=PlusOneExp) is with KeganExe, Adam Bell, Nic Masyk
@@ -421,10 +413,6 @@ Another funding method being implemented is a pre-sale model
 - [My Adventures In Selling Stuff Part 2: How I turned a free BigCartel shop into my personal crowdunding platform](https://twitter.com/seanpatrickcain/status/1445783558925086733?s=20) by Sean Patrick Cain is one twitter thread (in a fantastic series) that goes step by step in how to use the free version of BigCartel to make a pre-order funding platform.
 - [Craigstarter](https://github.com/cmod/craigstarter) by Craig Mod is a free to us/edit/extend crowdfunding tool for Shopify.
 
-### Slowfunding
-Slowfunding is crowdfunding alternative proposed by Long Tail Games, that acts gradual model of colecting pre-orders over an extended period of time, and once it hit pre-determined markers then it triggers going into different stages of production.
-- [Slowfund launch announcement for Lost Eons](https://twitter.com/Long_Tail_Games/status/1470729086850912257?s=20) goes into the idea behind slowfunding.
-- [What is slowfunding?](https://cardboard.monster/pages/what-is-slowfunding)
 
 ### Printing Partnerships
 One option is to partner with retailers to help fund a print run. Many online retailers do this (I have experience partnering with Exalted Funeral and Space Penguin Ink).
@@ -440,7 +428,6 @@ One option is to partner with retailers to help fund a print run. Many online re
 
 ### Overview
 - [A Year in RPG Self Publishing: Year 1](http://uncannyspheres.blogspot.com/2021/02/a-year-in-rpg-self-publishing-year-1.html) by Ian Yusem. This is a great peak behind the curtain on some of the realities of self publishing. Ian does a great job of consistantly opening their practice (and a few of their blog posts about Kickstarters are linked in the funding page).
-- [**Zine or Pamplet?**](https://twitter.com/infinite_mao/status/1433500285318598657?s=20) The format you choose to present your writting will be a factor when trying to market your game. Jared Sinclair (bookseller for spearwitch, editor, and writer) wrote a great thread of the financial considerations to choosing your format.
 - [My Adventures In Selling Stuff](https://twitter.com/seanpatrickcain/status/1450483990469742596?s=20) by Sean Patrick Cain is a fantastic series of twitter thread that detail Sean's journey in printing, selling, & shipping his book Long Haul 1983.
 - [Publishing Costs & Budgeting, Sean McCoy](https://twitter.com/seanmccoy/status/1671948220065275905?s=46&t=t7cbk0iePa85f6_Ctf4G-g)
 
@@ -455,13 +442,11 @@ If you are selling your digital game, two major market places for selling digita
 So you've put your game on itch or drivethru and you want to get a print run going. Here are some resources that can help guide you in the right direction.
 - [So You Want to Make a Zine: Printing](https://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html) by Mazirian's Garden expands on the different ways you can print a zine (use a copy machine, print at home, print at a print shop, print through an online printer).
 - [Indie Game Publishing Resources](https://lonearchivist.com/indie-game-publishing-resources) by Lone Archivist collects many different avenues you could use for getting your game into print.
-- [The Printing Process Demystified For TTRPG Creators](https://ghostlorestudios.com/the-printing-process-demystified-for-ttrpg-creators/) by Ghost Lore. This helpful guide goes over the different aspects of printing.
 - [ISBN Barcode Generator](https://kindlepreneur.com/isbn-bar-code-generator/) allows you to create ISBN barcodes for your products (which is necessary to be carried in many brick and mortar stores).
 
 ## Printing Options
 There are a few different options in terms of printers that you can use. This is by no means an exhaustive list, but is a place to start.
 - [Mixam](https://mixam.com/zines) is probably the most common/popular way to print physical ttrpg zines.
-- [Tabletop Hotdish](https://twitter.com/TabletopHotdish/status/1456727136761524235?s=20) is a newer small business printer who has been working with indie zine publishers (and does free print proofs). Currently they are launching a full website, but dm on twitter to see about starting a partnership.
 - [short Run Printing](https://www.shortrunprinting.com/)
 - [Jukebox](https://www.jukeboxprint.com/booklets) is another web based printer that offers a ton of different formats (stickers, booklets, brochures, etc). Often seen as a good mixam alternative.
 - [Spencer Printing](http://spencerprinting.com/) offers both offset & digital printing, as well as short-run book printing.
@@ -469,6 +454,7 @@ There are a few different options in terms of printers that you can use. This is
 - [Smartpress](https://smartpress.com/)
 - [Pet Riso Studio](https://www.petrisostudio.com/) is a US based risograph printer.
 - [Lulu](https://www.lulu.com/sell/sell-on-lulu) allows you to upload your print files and sell print on demand either through their platform or your own store.
+- [Shenzhen Longyin Printing Packing Co., Ltd.](https://lyprinting.en.alibaba.com/) is a China based printer: Shenzhen Longyin Printing Packing Co., Ltd. Products: Book Printing, Note Printing, Packaging Printing, Box Printing, Children Book Printing.
 
 ## Print on Demand
 Print on Demand is a fantastic way to provide physical options for your games without the overhead of printing and shipping costs.
@@ -510,29 +496,28 @@ One option for selling your printed game is to sell it yourself (on your website
 - [Nonmachinable Guide to Zine Distributors](https://docs.google.com/spreadsheets/d/1Do2oEDRo-ghyWcuZY0-kgrbEFPlGETu_HzOPHYVxFqE/edit?gid=0#gid=0) by Jeremy Bushnell is a collection of 37 zine distributors.
 
 ---
-- [Exalted Funeral (US)](https://www.exaltedfuneral.com/). Their purchasing agent is Fiona and can be reached at purchasing@exaltedfuneral.com
-- [Floating Chair Club (US)](https://floatingchair.club/). Contact them on their [twitter](https://twitter.com/floating_chair?lang=en) or at info@floatingchair.club
-- [Spear Witch (US)](https://spearwitch.com/). Contact them at info@spearwitch.com
+- [Exalted Funeral (US)](https://www.exaltedfuneral.com/).
+- [Floating Chair Club (US)](https://floatingchair.club/).
+- [Spear Witch (US)](https://spearwitch.com/).
 
 ---
 
-- [ratti incantati (CA)](https://rattiincantati.com/). Contact them at main@rattiincantati.com
-- [Four Rogues Trading Company (CA)](https://www.fourroguestrading.co). Contact them at fourroguestradingco@gmail.com
+- [ratti incantati (CA)](https://rattiincantati.com/).
 
 ---
 
-- [Cardboard Monster (AU)](https://cardboard.monster/). Contact them at ash@cardboard.monster
+- [Cardboard Monster (AU)](https://cardboard.monster/).
 
 ---
 
-- [Melsonia Art Council (UK)](https://www.melsonia.com/). Contact them at info@melsonia.com
-- [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/). Contact them at info@soulmuppet.co.uk
-- [Rook's Press (UK)](https://www.rookspress.com/). Contact them [here](https://www.rookspress.com/pages/contact).
-- [Iglootree (UK)](https://iglootree.com/). Contact them [here](https://iglootree.com/contact-us-2-w.asp).
+- [Melsonia Art Council (UK)](https://www.melsonia.com/).
+- [Soul Muppet Publishing (UK)](https://www.soulmuppet.co.uk/).
+- [Rook's Press (UK)](https://www.rookspress.com/).
+- [Iglootree (UK)](https://iglootree.com/).
 
 ---
 
-- [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/). Contact them at jan@citycomics.eu
+- [All The Problems In This World (Germany/EU)](https://alltheproblemsinthisworld.com/).
 
 
 [back to index](#index)
@@ -544,7 +529,6 @@ Once you have a completed game, it is important to focus some effort on marketin
 - [ZiMo 22 Workshop Series: How to Press Kit](https://www.youtube.com/watch?v=etsGBIHKQ7o&t=8s&ab_channel=PlusOneExp) by Plus One Exp goes over how and why designers should create a press kit to help them with their marketing. Linked in the bio is a fantastic template that Tony uses in the workshop to support the creation of your very own press kit.
 - [A Crash Course On Marketing Your Indie RPG](https://www.failuretolerated.com/a-crash-course-on-marketing-your-indie-rpg) by Sean McCoy (the cofoudner of Tuesday Knight Game and designer of the phenomenal Mothership RPG).
 - [Marketing Yourself: Learn From Me As I Run Myself Like a Content Marketing Gig](https://peachpantspress.com/marketing-yourself-learn-from-me-as-i-run-myself-like-a-content-marketing-gig/)by Ash Kreider (designer and writer of The Watch).
-- [A TTRPG Creator’s Guide To Logo Design](https://ghostlorestudios.com/a-ttrpg-creators-guide-to-logo-design/) by Ghost Lore. An important part of marketing is creating a logo for your TTRPG brand, and Ghost Lore takes you through the process from start to finish.
 - [Gem Room Games](https://gemroomgames.itch.io/) has provided the press kits they created for The Weaver's Observatory & DUKK BORG.
 - [Mockups-Design](https://mockups-design.com/) is a resource for creating free mockups.
 
