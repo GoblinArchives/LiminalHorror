@@ -290,6 +290,7 @@ Here are some great resources to help you create maps for your games.
 ## PUBLIC DOMAIN IMAGES
 For those of us who are not artists, or don't have a budget to commission art for our work, public domain images are what we use to add artwork to our games. These are images that are able to be used in commercial work (either because their copyright has lapsed, they are not copyrightable, or they were released under an open license from the start). Here are some places you can find art for your games.
 
+- [Public domain art resources](https://www.skeletoncodemachine.com/p/public-domain-art-resources) by Exeunt Press collects a variety of art resources for tabletop games.
 - **Getty.edu CC0 Collection** currated by Brandon Yu (Chaoclypse) is a collection of 4.5k+ images recently made CC0 by Getty.edu. Brandon has downloaded, compilied, and annotated them with metadata (title, author, etc) for easy searching.They can be found in a [folder](https://www.dropbox.com/scl/fo/zyj0trj7hvc5rrhhzihan/ANW9p0d8pDFzvVs_pN2S7B8?rlkey=4ryu4w0mmzygb7vth04o6ug5p&dl=0) or as a [zip file](https://www.dropbox.com/scl/fi/hixdct7wh2072i5obgn3a/Getty.zip?rlkey=ezno83qrrlakgsqgo3h7t4rm4&e=1&dl=0).
 - [Public Domain Art List by Yochai Gal](https://newschoolrevolution.com/public-domain-art) is an extensive list of public domain images and the different places you find public domain art.
 - [A flickr collection of curated Public Domain Images](https://www.flickr.com/photos/192445357@N05/galleries) by Guilherme Gontijo.
@@ -304,6 +305,7 @@ For those of us who are not artists, or don't have a budget to commission art fo
 - [The World Factbook By The CIA](https://www.cia.gov/the-world-factbook/) – A collection (with public domain photos) forcused on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 265 world entities.
 - [U.S. Fish and Wildlife Service National Digital Library](https://digitalmedia.fws.gov/digital/collection/natdiglib/search) – Nature images.
 - [USDA Agricultural Research Service Image Gallery](https://www.ars.usda.gov/oc/images/image-gallery/)– Photos from Agricultural Research Service Office of Communications.
+- [Art Resources for Broke TTRPG Creators!](https://wendigoworkshop.itch.io/art-resources-for-broke-creators) by Wendingo Workshop is a list of links and places to look for free resources
 
 
 
