@@ -1207,6 +1207,8 @@ Stress often comes from environmental triggers or narrative consequences, such a
 
 
 ### **FALLOUT**
+Stress that exceeds HP is deducted from CTRL. Target must make a CTRL Save or suffer Fallout, which fills Inventory Slots.
+
 
 Fallout is a representation of the horrors having a tangible effect on the Investigators as a result of taking *Critical Stress* due to their encounters with the weird and horrific. It serves as a mirror, showing the Investigators that they may soon become like the horrors they face if they’re not careful.
 
