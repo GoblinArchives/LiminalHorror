@@ -36,7 +36,7 @@ Where you can find all of the Third Party Liminal Horror content that is in prin
 
 ## Newsletter
 Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter/blog.
-- It is available to all free members of our Patreon: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/cw/LiminalHorror).
+- It is available to all free members of our Patreon: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/LiminalHorror).
 - An archive of old posts can be found [here](https://liminalhorrorrpg.com/newsletter)
 
 ![image](/img/LH.png)
