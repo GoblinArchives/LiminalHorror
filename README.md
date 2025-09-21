@@ -35,7 +35,9 @@ A library of resources for your Liminal Horror games, cataloging and collecting 
 Where you can find all of the Third Party Liminal Horror content that is in print. [https://liminalhorrorrpg.com/printhub/](https://liminalhorrorrpg.com/printhub/)
 
 ## Newsletter
-Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter/blog. It is available to all free members of our Patreon: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/cw/LiminalHorror). An archive of old posts can be found [here](https://liminalhorrorrpg.com/newsletter)
+Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter/blog.
+- It is available to all free members of our Patreon: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/cw/LiminalHorror).
+- An archive of old posts can be found [here](https://liminalhorrorrpg.com/newsletter)
 
 ![image](/img/LH.png)
 Liminal Horror Deluxe Edition Cover &copy; Zach Hazard Vaupen (2024)
