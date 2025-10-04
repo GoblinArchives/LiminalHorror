@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creator Kit (SRD)
+title: SRD
 nav_order: 5
 has_children: true
 permalink: /srd/
