@@ -569,6 +569,11 @@ Each time an Exploration Turn passes or the party does something that would attr
 5. **Horror**. A frightening or horrific scene. A situation that puts the Investigators at unease or hints at the presence of a horror.  
 6. **Night Encounter**. Direct encounters with the horrors. Situations that are dangerous and life threatening if the Investigators don’t act quickly.
 
+**Modifying Voidcrawl Rolls**
+There are two variants ways to modify the Voidcrawl rolls:
+1. Day/Night Cycles
+2. Dark Descent
+
 **DAY/NIGHT CYCLE**  
 During the day, or when the Investigators are in a mundane location, treat results above 3 as if nothing happens. During the night, or when the Investigators are in a location that is inherently dangerous, use all results.
 
