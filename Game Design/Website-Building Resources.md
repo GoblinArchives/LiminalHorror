@@ -5,8 +5,9 @@ nav_order: 12
 parent: Annotated Archive of Game Design
 decription: Resources for creating and hosting your own website, for free.
 ---
+# Website-Building Resources
 
-# A Note About This Website
+## A Note About This Website
 Launching this site was one of the first things I did after writing Liminal Horror. I used the framework created by Yochai Gal for his Cairn website as the bones to build my own (much like the original system). Long before I bought a domain, or really knew how to do it, I followed how-tos and looked at free resources to figure out how to edit and launch my own.
 
 A quick overview of Github/Jekyll Sites:
@@ -34,3 +35,7 @@ Tutorials
 - [Plain old webpages still matter](https://felix.plesoianu.ro/web/plain-old-webpages.html) by Felix Plesoianu
 - [Cyber Mauseoleums (Or the Argument Against Deletion)](https://neonaut.neocities.org/cyber/crypt/) by neonaut
 - [Every site needs a Links Page / Why linking matters](https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters) by Daniel/Melon
+
+---
+Previous Section: [Marketing](https://liminalhorrorrpg.com/Game%20Design/Marketing/)
+<br> Next Section: [All-In-One-Place](https://liminalhorrorrpg.com/Game%20Design/All%20in%20one%20place/)

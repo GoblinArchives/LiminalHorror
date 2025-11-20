@@ -18,4 +18,4 @@ Once you have a completed game, it is important to focus some effort on marketin
 
 ---
 Previous Section: [Printing & Publishing](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Printing%20&%20Publishing/)
-<br> Next Section: [All-In-One-Place](https://liminalhorrorrpg.com/Game%20Design/All%20in%20one%20place/)
+<br> Next Section: [Website-Building Resources](https://liminalhorrorrpg.com/Game%20Design/Website-Building%20Resources/)
