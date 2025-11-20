@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Website-Building Resources
-nav_order: 3
+nav_order: 12
 parent: Annotated Archive of Game Design
 decription: Resources for creating and hosting your own website, for free.
 ---
 
 # A Note About This Website
 Launching this site was one of the first things I did after writing Liminal Horror. I used the framework created by Yochai Gal for his Cairn website as the bones to build my own (much like the original system). Long before I bought a domain, or really knew how to do it, I followed how-tos and looked at free resources to figure out how to edit and launch my own.
+
 A quick overview of Github/Jekyll Sites:
 - [https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
