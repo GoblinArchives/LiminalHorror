@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Deluxe Edition
+title: Digital Tools
 nav_order: 2
 parent: Rules Reference
-permalink: /online-generators/
+permalink: /digital-tools/
 description: A list of digital tools and online generators to be used to support playing Liminal Horror.
 ---
 
@@ -25,3 +25,6 @@ As a means of showcasing what is possible, the Liminal Horror Dev Team has creat
 - Horror seeds: [https://perchance.org/liminal-horror-horror-seeds](https://perchance.org/liminal-horror-horror-seeds)
 - Omens: [https://perchance.org/liminal-horror-omens](https://perchance.org/liminal-horror-omens)
 - Location Generator and Stocking Procedure: [https://perchance.org/liminal-horror-location-generator-and-stocking-procedure](https://perchance.org/liminal-horror-location-generator-and-stocking-procedure)
+
+## Searchable Rules Reference
+This site acts as a digital tool in that it is a fully searchable rules reference that can be launched from a phone. It is not only the foundation for the game, but acts as the progenitor of the digital tools for Liminal Horror. 
