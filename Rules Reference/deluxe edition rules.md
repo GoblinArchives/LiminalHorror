@@ -14,12 +14,13 @@ This is a digital excerpts of the updated rules text for Liminal Horror Deluxe E
 
 - **Liminal Horror Deluxe Edition:** This complete edition has in depth tools, resources, and content for Liminal Horror.
   - For a complete version of the text, you will need to buy Liminal Horror Deluxe Edition (2025) either as a [pdf](https://goblinarchives.itch.io/) or in [print](https://spacepenguin.ink/collections/liminal-horror).
-  - An SRD (System Reference Docuement) for the Deluxe Edition can be found here. It includes more content and is presented for Facilitators and Designers to create things for Liminal Horror.
+  - [An SRD (System Reference Document) for the Deluxe Edition can be found here](https://liminalhorrorrpg.com/srd/). It includes more content and is presented for Facilitators and Designers to create things for Liminal Horror.
   - This web-based version includes excerpts from the text but has everything you need to run and play the game.
+  - [Creating an Investigator Perchance Generator](https://perchance.org/liminal-horror-investigator-character-generator)
 - **Liminal Horror Investigators:** This updated rules text includes everything you need and has been in print since 2023 (it is staying in print as well). There are a few appendices that cannot be found anywhere else.
   - You can get it for free as a [pdf](https://goblinarchives.itch.io/liminal-horror) here. on the website, or on the [SRD](https://liminalhorrorrpg.com/srdv2/).
   - You can also buy it [in print over at Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror/products/liminal-horror-investigators).
-- **Liminal Horror Legacy:** This original rules set (2023) is still completely compatible with all of the official modules and
+- **Liminal Horror Legacy:** This original rules set (2023) is still completely compatible with all of the official modules.
 
 
 
@@ -313,6 +314,8 @@ Principles are the basic guidelines for playing *Liminal Horror*. They will ofte
 In *Liminal Horror*, players assume the role of Investigators, otherwise normal people caught up in mysteries that threaten to end their lives or break them down and change them. Investigators are the type of folk who have the drive and resolve to keep pushing forward in the face of unspeakable horrors. They might be searching for answers, trying to save a friend, looking for [Resonant Artifacts](#resonant-artifacts), or simply trying to live to see another day.
 
 For the tables on the following pages, roll to select options at random or choose favorites. You may also work with your Facilitator to create custom alternatives.
+
+There is an online perchance generator available to quickly create an Investigator on the fly. [https://perchance.org/liminal-horror-investigator-character-generator](https://perchance.org/liminal-horror-investigator-character-generator)
 
 ### **1\. ATTRIBUTES**
 

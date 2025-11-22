@@ -55,6 +55,7 @@ Some cultists gain access to [Rituals](https://liminalhorrorrpg.com/srd-rituals/
 
 
 ## **CULT GENERATOR**
+There is a perchance generator that uses this table: [Liminal Horror Cult Generator](https://perchance.org/liminal-horror-cults)
 
 | d12  | Name A            | Name B                  | Lead by                 |
 | :--- | :---------------- | :---------------------- | :---------------------- |

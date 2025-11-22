@@ -22,7 +22,7 @@ Rituals are powerful, but unpredictable magics. They can take many forms, includ
 * If an Investigator uses a Ritual in combat, its damage is equal to the cost of Stress (i.e., d6 Stress for d6 damage).   
 * If the Ritual triggers *Critical Stress* for the Investigator, it results in [Fallout](https://liminalhorrorrpg.com/srd-fallout/) or a [Condition](https://liminalhorrorrpg.com/srd-conditions/) depending on the nature of the Ritual.
 
-Open license Rituals to be used in your scenarios:
+Open license Rituals to be used in your scenarios ([there is a perchance generator that randomly gives you a d299 ritual](https://perchance.org/liminal-horror-rituals)):
 
 1. **Amnesia:** Obliterate the last 15 minutes of a target’s memory.  
 2. **Beckon Beast:** A nearby creature is summoned to your location. Upon arrival, the creature acts by its own volition.   
@@ -74,6 +74,40 @@ Open license Rituals to be used in your scenarios:
 48. **Entropy:** Your current situation gets catastrophically worse in the most chaotic manner currently possible.  
 49. **Ascension:** An elaborate process, transforming a human into the embodiment of a Dead God. Once completed, the transformation is permanent. The form taken is dependent on which entity is invoked.  
 50. **Vice-Versa:** Swap bodies with another individual. You maintain a psychic link for the duration. If one of you dies when the Ritual is active, you both die.
+51. **Blood Bind:** Your fate is linked to that of another for the Ritual’s duration. Any effect, positive or negative, that is done to you also happens to the bound individual.
+52. **Burst:** Triple the speed of movement of a target for the duration.
+53. **Channel Horror:** Bind yourself to a creature beyond the veil, gaining some of its power. Add d6 to an Attribute for the duration. The connection goes both ways.
+54. **Chill Out:** Freeze a small body of water by touching it. Ice growth slowly spreads from the point of contact.
+55. **Create Artifact:** Permanently embed a Ritual into an object to create a Resonant Artifact. The process takes d6 hours. After which, make a CTRL Save. On failure, the attempt fails. The original source of the Ritual is destroyed regardless of the result.
+56. **Deadbolt:** Prevent a door from being opened from nearly all means beyond significant damage or another Ritual for the duration.
+57. **Dread:** Cause a target to feel an intense amount of apprehension and anxiety, disrupting concentration and making rational thought difficult for the duration. The target must be susceptible to these emotions for the Ritual to work as intended.
+58. **Edema:** Fill a target’s lungs with fluid. The target takes d4 damage every round until they can pass a STR Save to expel the fluid.
+59. **Elemental Ball:** Shoot a ball of elemental energy (fire, acid, electricity, etc) that explodes on impact. (d6, blast)
+60. **Enlarge:** A target you are in contact with doubles in size for the duration or as long as contact is maintained.
+61. **Flash:** Create a blinding burst of light.
+62. **Fruiting:** Create a bloom of mushrooms that erupt from a single point.
+63. **Fog:** A thick fog emits from your pores, enough to fill a small room.
+64. **Forge:** Imbue a talisman with energy that can weaken and repel minor otherworldly creatures.
+66. **Gorgon's Embrace:** Touching an object turns it to stone. For small objects, the process takes seconds. For living creatures, the process takes d6 minutes. To resist the transformation the target can make an initial STR Save, followed by an additional Save each minute until hardened.
+67. **Hoodwink Horror:** Target horror makes a CTRL save or treats you as an ally.
+68. **Knock:** Open any simple lock. Accompanied by a loud knocking noise.
+69. **Mend:** Extract the lifeforce of another living entity to restore d4 STR to a target.
+70. **Miniaturize:** A target you are in contact with decreases in size by half for the duration or as long as contact is maintained.
+71. **Paracusia:** Generate a resonant frequency. Everyone within earshot hears an auditory hallucination that you control.
+72. **Reach:** Temporarily transform your arms into twisting tentacles, doubling your reach and allowing you to take two actions simultaneously. Any ally that directly witnesses this transformation takes 1 Stress.
+73. **Refract:** Creates a minor illusion that is convincing from afar, but falls apart upon close inspection.
+74. **Scry:** Reveal a clue, omen, or portent of the future.
+75. **Sculpt:** Mold and shape small amounts of non-living material.
+76. **Shapeshift:** Transform your body into a hybrid of human and animal. Your actions and instincts are altered based upon the chosen animal.
+77. **Shield:** Create an 8’x8’ opaque barrier for d6 minutes. The barrier blocks fast moving kinetic energy, but can be passed through if moving slowly.
+78. **Sleep:** Lull a target into a light slumber.
+79. **Staining Mark:** You place a mark on an object or being. For the Ritual’s duration, you can see their location, across any distance or space.
+80. **Stasis:** Create a sphere up to 12ft in diameter where the passage of time halts for the duration.
+81. **Tip-Toe:** All sound in your vicinity is muffled for the Ritual’s duration.
+82. **Truth:** Compel an individual to answer up to d4 yes/no questions truthfully.
+83. **Ward:** Sanctify a threshold or barrier to prevent certain otherworldly entities from crossing.
+84. **Weather Witching:** Connect with the flow of the environment to manifest your will upon the weather.
+
 
 ---
 Next Section: [Creating Horrors](https://liminalhorrorrpg.com/srd-creating-horrors/)
