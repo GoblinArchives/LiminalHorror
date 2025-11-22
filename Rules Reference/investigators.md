@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Investigators
-nav_order: 2
+nav_order: 3
 parent: Rules Reference
 permalink: /investigators/
 description: The entire text of Liminal Horror Investigators Edition, the second publication of the ttrpg and fully compatible with all published modules.

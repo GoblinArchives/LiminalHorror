@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD v1.0
-nav_order: 6
+nav_order: 7
 parent: Rules Reference
 search_exclude: true
 permalink: /srdv1/

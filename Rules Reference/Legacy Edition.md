@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Legacy 
-nav_order: 3
+title: Legacy
+nav_order: 4
 search_exclude: true
 parent: Rules Reference
 permalink: /legacy/
