@@ -2,7 +2,7 @@
 layout: default
 title: Adapting a Mystery
 nav_order: 8
-parent: Facilitators Guide
+parent: Facilitator's Guide
 grand_parent: Deluxe Edition
 permalink: /adapting-converting/
 description: Advice on adapting media (including adventures) to Liminal Horror, along with a conversion guide to multiple systems.

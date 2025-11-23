@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Investigators Guide
+title: Investigator's Guide
 nav_order: 2
 parent: Deluxe Edition
 has_children: true

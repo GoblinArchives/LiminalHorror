@@ -2,7 +2,7 @@
 layout: default
 title: Appendix N
 nav_order: 7
-parent: Facilitators Guide
+parent: Facilitator's Guide
 grand_parent: Deluxe Edition
 permalink: /appendix-N/
 description: Additional media recommendations and inspirations for Liminal Horror.

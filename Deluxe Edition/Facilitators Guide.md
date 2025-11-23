@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facilitators Guide
+title: Facilitator's Guide
 nav_order: 3
 parent: Deluxe Edition
 has_children: true

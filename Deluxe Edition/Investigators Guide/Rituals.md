@@ -2,7 +2,7 @@
 layout: default
 title: Rituals
 nav_order: 7
-parent: Investigators Guide
+parent: Investigator's Guide
 grand_parent: Deluxe Edition
 permalink: /rituals/
 description: The magic system for Liminal Horror (rituals).

@@ -2,7 +2,7 @@
 layout: default
 title: Wounds and Healing
 nav_order: 5
-parent: Investigators Guide
+parent: Investigator's Guide
 grand_parent: Deluxe Edition
 permalink: /wounds/
 description: Health, wellness, and the Wounds system.

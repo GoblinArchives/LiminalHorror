@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Deluxe Edition
+title: Facilitator's Principles
 nav_order: 1
-parent: Facilitators Guide
+parent: Facilitator's Guide
 grand_parent: Deluxe Edition
 permalink: /prinicples/
 description: Principles for facilitators when running Liminal Horror.

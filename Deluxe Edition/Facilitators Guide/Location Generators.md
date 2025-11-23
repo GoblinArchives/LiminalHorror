@@ -1,11 +1,11 @@
 ---
 layout: default
-title:
-nav_order:
-parent: Facilitators Guide
+title: Location Generator
+nav_order: 4
+parent: Facilitator's Guide
 grand_parent: Deluxe Edition
-permalink: //
-description:
+permalink: /location-generator/
+description: A procedure for generating locations and stocking rooms in Liminal Horror.
 ---
 
 ## **LOCATION GENERATORS**

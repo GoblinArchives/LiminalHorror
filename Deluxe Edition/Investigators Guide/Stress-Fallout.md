@@ -2,7 +2,7 @@
 layout: default
 title: Stress and Fallout
 nav_order: 6
-parent: Investigators Guide
+parent: Investigator's Guide
 grand_parent: Deluxe Edition
 permalink: /stress-fallout/
 description: A look at the stress and fallout system for Liminal Horror.
