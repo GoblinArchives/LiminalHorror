@@ -2,7 +2,8 @@
 layout: default
 title: Deluxe Edition
 nav_order: 1
-parent: Rules 
+parent: Rules
+has_children: true
 permalink: /deluxe/
 description: Updated rules from the Liminal Horror Deluxe Edition, including excerpts from other sections of the book.
 ---
