@@ -1,31 +1,44 @@
 ---
 layout: default
-title: Legacy
-nav_order: 4
+title: SRD v1.0
+nav_order: 5
 search_exclude: true
-parent: Rules Reference
-permalink: /legacy/
-description: The entire text of Liminal Horror Legacy Edition, the original publication of the ttrpg and fully compatible with all published modules.
+parent: Older Editions
+grand_parent: Rules
+permalink: /srdv1/
+description: The first version of the SRD which was developed for Liminal Horror Legacy Edition 2021.
 ---
 
-# Liminal Horror Legacy Edition
+# Liminal Horror System Reference Document v.1.0 (established 2021)
+This version is derived from the original Liminal Horror Legacy Edition text.
 
-## What is the Legacy Edition
-Liminal Horror Legacy edition was the first ever printed version of the rules. This iteration became the original zine (that is no longer in print). All rules are compatible with future releases, but there are some differences (ie. magic, starting gear, etc).
+
+## What is an SRD? How can is use it to create my own hack?
+
+SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Since Liminal Horror Legacy Edition is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all of the text is open for use (other systems leave the rules open for use but restrict specific lore/content). A project down the line may be an actual Hacking Guide that talks about the different components and how to use them. Until then, you can see how I adapted the core game text from [Cairn](https://cairnrpg.com/cairn-srd/).
+
+## Other formats for the SRD (files updated on 7/10/21):
+
+- [Github Repository](https://github.com/GoblinArchives/LiminalHorror) - actively updated
+- [Google Doc](https://docs.google.com/document/d/16Px6ov7QiRNE3KBz1sgOO4CLOqV7eowX5_YIxNMa7ik/edit?usp=sharing)
+- [SRD Markdown](https://drive.google.com/file/d/1weiNEjzW9s6xMeBUCt6SPMnZQrVE3G3K/view?usp=sharing)
+- [Affinity Publisher File](https://drive.google.com/file/d/1JKIryoyCWBKh9vfYgBf1I2RFuXUc-soy/view?usp=sharing)
 
 <p></p>
 
 ## Acknowledgements
+
 - Yochai Gal, for the [Cairn SRD](https://cairnrpg.com/cairn-srd/), base rules, tables, and framework necessary to make this hack.
 - Chris McDowell, for Into the Odd and [BASTIONLAND.com](BASTIONLAND.com)
 - [Ben Milton](https://itch.io/profile/questingbeast) - for Knave and the Maze Rats magic system.
 - Xenio for adapting [Maze Rats magic to Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
 
-**Liminal Horror SRD** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+**Liminal Horror** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **Liminal Horror** is a tabletop role playing game with one Facilitator (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
 
 ## Index
+
 - [Overview](#overview)
 - [Principles for Facilitators](#principles-for-Facilitators)
 - [Principles for Players](#principles-for-players)
@@ -43,43 +56,55 @@ Liminal Horror Legacy edition was the first ever printed version of the rules. T
 ## Overview
 
 ### Facilitator and Player
+
 Facilitators make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
 
 ### Player Choice
+
 Facilitators provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
 
 ### No Classes
+
 Investigators are not limited by a predefined class. A character’s specialty begins with their background, equipment, and experiences.
 
 ### Growth
+
 There is no leveling or mechanical experience in **Liminal Horror**. Success and failure lead to memorable stories. Building relationships, encountering void-touched relics, and stress fallout lead to character growth.
 
 ### Stress and Fallout
+
 Play deals with themes of cosmic horror. This is represented mechanically with stress and Stress Fallout. Fallout centers on how characters are changed by the Old Powers. The design intentionally avoids using mental illness and trauma as gameplay mechanics.
 
 ### The Weird
+
 **Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the unknown.
 
 ### The Old Powers and their Progeny
+
 The Old Powers are bound in the deep, far away spaces. Their progeny act as a connection to reality. Some scurry across its surface while others are trapped beneath it. Many serve knowingly while even more are oblivious to the plans they further.
 
 ### Death
+
 The world is dangerous and death is always a possible consequence. It should be ever present but never random or unexpected.
 
 Death comes for everyone, but some suffer a fate worse.
 
 
 [back to index](#index)
+
 <p></p>
 
 ## Principles for Facilitators
+
 ### Information
+
 - Information should never be kept behind rolls.
 - Provide information readily and freely to facilitate critical thinking and clever play.
 - Elicit questions from players and give them direct answers.
 - The weird and their mysteries should be layered, leading players ever downward into the unknown.
 
 ### Secrets
+
 - Leverage the themes of dread, forbidden knowledge, and fear of the unknown.
 - Provide information on the physical and tangible reality to players but keep the true nature of things beyond reach.
 - Slowly give investigators opportunities to pull at threads, drawing them deeper into the weird.
@@ -88,6 +113,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Preparation
+
 - Make the world alive, allow it to change and grow because of your players’ actions.
 - Be flexible in your preparation. Create situations and possibilities. Plot and story should not be predefined.
 - Give NPCs and factions motivations, flaws and drives. Have NPCs react accordingly to their principles, on and off screen. NPCs should always have a drive to survive.
@@ -95,6 +121,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Difficulty
+
 - Realism and fictional positioning are a good starting place for setting difficulty.
 - Choices should have consequences and all failure should be interesting.
 - Saves cover various scenarios of uncertainty and risk. If there is neither, do not call for a roll.
@@ -102,6 +129,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Danger
+
 - The risk is great for lasting harm, fallout from stress and overwhelming danger of encountering the Old Powers or their progeny.
 - Present the potential of danger clearly for players and give them the opportunity to react.
 - Increasing the amount of stress will increase the rate investigators are enveloped by the corruption of the Old Powers.
@@ -109,6 +137,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Choice
+
 - Offer tough choices.
 - All situations should have multiple outcomes.
 - Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
@@ -118,6 +147,7 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Failure
+
 - Failure should push the story forward.
 - Foster a table where success and failure are equally exciting.
 - It is encouraged to elicit complications or twists from players.
@@ -125,32 +155,39 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Die of Fate
+
 - Sometimes randomness is required. Roll 1d6 to consult the die of fate
 - 6: Good result/ 4-5: Mixed result/ 1-3: Bad result
 
 [back to index](#index)
+
 <p></p>
 
 ## Principles for Players
+
 ### Agency
+
 - The numbers on your character sheet act as tools to mechanically engage with the game. They do not define your character.
 - Use how your character has grown to inform your play.
 - Embrace the weird and unknown.
 
 
 ### Teamwork
+
 - Work to support others at the table.
 - Elicit interaction from other players.
 - Characters don’t always have to be aligned, but players should be aiming toward the same goal of memorable stories of horror and fun interactions with friends.
 
 
 ### Talking
+
 - NPCs have drives and flaws. Interact with them as you would a real person.
 - Build relationships, engage with rivals, and invest in the NPCs.
 - Information and positive outcomes can often be achieved through dialogue. That being said, sometimes a cultist’s communion requires an offering of blood and bone.
 
 
 ### Caution
+
 - Fighting is risky and the consequences of violence are long lasting.
 - A shattered mind is just as debilitating as a broken body.
 - Gain any advantage you can. Preparation can stave off certain doom.
@@ -159,12 +196,14 @@ Death comes for everyone, but some suffer a fate worse.
 
 
 ### Planning
+
 - Ask questions.
 - There is no perception or intelligence attribute. How you engage with the world hinges on how you use the information provided.
 - Reconnaissance, subtlety, and fact-finding are necessary for survival.
 
 
 ### Ambition
+
 - Discover the drives and goals for you as a player, your character, and the team. Use those to inform play.
 - Try and fail forward. An engaging story is infinitely more interesting and memorable than simple successes.
 - It is the complications and resulting actions that we remember afterward.
@@ -172,11 +211,13 @@ Death comes for everyone, but some suffer a fate worse.
 - Play to find out what happens.
 
 [back to index](#index)
+
 <p></p>
 
 ## Character Creation
 
 #### 1. Ability Scores
+
 Player Characters (PCs) have three ability scores:
 
 
@@ -189,6 +230,7 @@ When creating a Player Character (PC), the player should roll 3d6 for each of th
 
 
 #### 2. Hit Protection
+
 Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](#healing)). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
 
 **(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP.
@@ -196,6 +238,7 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 **(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
 
 #### 3. Investigator Details
+
 - Choose a name for your character,
 - Roll a [background](#background). This informs their knowledge and potential skills.
 - Choose a style of clothing or look for your character.
@@ -204,6 +247,7 @@ Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indica
 - Choose their age or roll 2d20+16.
 
 #### 4. Starting Gear
+
 All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add Magic to your character sheet and refer to the [Magic](#magic)
 
 Characters have a total of 10 inventory slots: a backpack or bag (six slots), hands and upper body (four slots). Most items take up one slot, with smaller items that can be bundled together. Bulky items take two slots and are awkward or require two hands.
@@ -211,17 +255,21 @@ Characters have a total of 10 inventory slots: a backpack or bag (six slots), ha
 The [Equipment List](#equipment-list) has a more detailed overview of weapons and investigative gear. As a table, decide on what common household tools PCs have access to in addition to their starting gear.
 
 #### 5. The Party
+
 The final step is to establish a party set up using the [Party Questions](#party-questions) section. This provides the initial context for investigators and their journey into the unknown.
 
 [back to index](#index)
+
 <p></p>
 
 ## Names & Background
 
 ### Names:
+
 Choose a name that best fits the character you are wanting to play (often I do this at the end of the character generating process.
 
 ### Clothing
+
 Choose a style of clothing/look. A gold star if you find visual references to share with the group.
 
 ### Background
@@ -245,6 +293,7 @@ Choose a style of clothing/look. A gold star if you find visual references to sh
 
 
 #### The Abyss Stares Back
+
 What was your first encounter with the unknown? Roll or choose:
 
 ||||
@@ -256,90 +305,93 @@ What was your first encounter with the unknown? Roll or choose:
 |5           |You read something not meant for mortal minds. |10          |You haven’t yet, that’s what session 1 is for!     |
 
 #### Ideology and Beliefs
+
 What is your character’s initial ideology/beliefs? What lens do they use to interpret the world and guide them toward action? Create your own or use the table below:
 
-|   |                                                                                |    |                                                        |
-|---|--------------------------------------------------------------------------------|----|--------------------------------------------------------|
-| 1 | Everything has a rational explanation rooted in science.                       | 6  | Individuals can make a difference.                     |
-| 2 | You ascribe to a specific political ideology.                                  | 7  | A specific religion guides you.                        |
-| 3 | Morality is black and white.                                                   | 8  | You believe in fate and it directly impacts your life. |
-| 4 | Belief in higher powers. Astrology, spirituality, etc.                         | 9  | Free will is the only truth.                           |
-| 5 | There are deep truths that others are not aware of. The answers are out there. | 10 | You believe in the power of community.                 |
+|      |                                                              |      |                                                        |
+| ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------ |
+| 1    | Everything has a rational explanation rooted in science.     | 6    | Individuals can make a difference.                     |
+| 2    | You ascribe to a specific political ideology.                | 7    | A specific religion guides you.                        |
+| 3    | Morality is black and white.                                 | 8    | You believe in fate and it directly impacts your life. |
+| 4    | Belief in higher powers. Astrology, spirituality, etc.       | 9    | Free will is the only truth.                           |
+| 5    | There are deep truths that others are not aware of. The answers are out there. | 10   | You believe in the power of community.                 |
 
 
 #### Connections
+
 - List one significant person to the investigator. What is their relationship? Give them a name and brief description.
 - List one contact the investigator has. This could be connected to their background. What is the contact’s area of expertise and what is their relationship to the investigator?
 
 Potential Connections
 
-|   |                           |    |                  |
-|---|---------------------------|----|------------------|
-| 1 | Family member             | 6  | Online associate |
-| 2 | Lover (current or former) | 7  | Hero             |
-| 3 | Friend                    | 8  | Rival            |
-| 4 | Mentor                    | 9  | A Specialist     |
-| 5 | Protege                   | 10 | NPC              |
+|      |                           |      |                  |
+| ---- | ------------------------- | ---- | ---------------- |
+| 1    | Family member             | 6    | Online associate |
+| 2    | Lover (current or former) | 7    | Hero             |
+| 3    | Friend                    | 8    | Rival            |
+| 4    | Mentor                    | 9    | A Specialist     |
+| 5    | Protege                   | 10   | NPC              |
 
 
 [back to index](#index)
+
 <p></p>
 
 ## Character Traits (Roll d10 or choose)
 
 #### Physique
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Curvy   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|      |          |      |            |
+| ---- | -------- | ---- | ---------- |
+| 1    | Athletic | 6    | Scrawny    |
+| 2    | Brawny   | 7    | Short      |
+| 3    | Curvy    | 8    | Statuesque |
+| 4    | Lanky    | 9    | Stout      |
+| 5    | Rugged   | 10   | Towering   |
 
 #### Face
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Round |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Dimpled      | 10   | Sunken   |
+|      |           |      |         |
+| ---- | --------- | ---- | ------- |
+| 1    | Bony      | 6    | Perfect |
+| 2    | Broken    | 7    | Round   |
+| 3    | Chiseled  | 8    | Sharp   |
+| 4    | Elongated | 9    | Square  |
+| 5    | Dimpled   | 10   | Sunken  |
 
 #### Speech
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Choppy     |
-| 5      | Formal  | 10   | Whispery   |
+|      |         |      |          |
+| ---- | ------- | ---- | -------- |
+| 1    | Blunt   | 6    | Gravelly |
+| 2    | Booming | 7    | Precise  |
+| 3    | Cryptic | 8    | Squeaky  |
+| 4    | Droning | 9    | Choppy   |
+| 5    | Formal  | 10   | Whispery |
 
 #### Clothing
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+|      |         |      |        |
+| ---- | ------- | ---- | ------ |
+| 1    | Antique | 6    | Frayed |
+| 2    | Bloody  | 7    | Frumpy |
+| 3    | Elegant | 8    | Livery |
+| 4    | Filthy  | 9    | Rancid |
+| 5    | Foreign | 10   | Soiled |
 
 #### Virtue (optional)
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+|      |             |      |           |
+| ---- | ----------- | ---- | --------- |
+| 1    | Ambitious   | 6    | Honorable |
+| 2    | Cautious    | 7    | Humble    |
+| 3    | Courageous  | 8    | Merciful  |
+| 4    | Disciplined | 9    | Serene    |
+| 5    | Gregarious  | 10   | Tolerant  |
 
 #### Flaw (optional)
 
-|  |            |      |          |
+|      |            |      |          |
 | ---- | ---------- | ---- | -------- |
 | 1    | Aggressive | 6    | Lazy     |
 | 2    | Bitter     | 7    | Nervous  |
@@ -349,148 +401,156 @@ Potential Connections
 
 #### Misfortunes (optional)
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+|      |             |      |             |
+| ---- | ----------- | ---- | ----------- |
+| 1    | Abandoned   | 6    | Defrauded   |
+| 2    | Addicted    | 7    | Demoted     |
+| 3    | Blackmailed | 8    | Discredited |
+| 4    | Condemned   | 9    | Disowned    |
+| 5    | Cursed      | 10   | Exiled      |
 
 [back to index](#index)
+
 <p></p>
 
 ## Starting Gear
+
 All PCs begin with an **Investigator Bundle**:
+
 - Phone (roll 2d4): 1-4 is a flip phone; 5-8 is a smart phone
 - Starting Cash ($3d10 x 3d10 )
 - Notebook and pen
 
 #### Weapons (d20)
 
-|                |                  |                          |                                |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
-|          1          |       2-7       |          8-17           |               18-19               |               20               |
+|              |                            |                                     |                  |                   |
+| :----------: | :------------------------: | :---------------------------------: | :--------------: | :---------------: |
+|      1       |            2-7             |                8-17                 |      18-19       |        20         |
 | Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Magic) |
 
 
 #### Investigative Gear
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Night Vision Googles           | 6    | Handcuffs       | 11   | Flashbang    | 16   | Spray paint |
-| 2    | Zip Ties              | 7    | Grappling Hook & rope| 12   | Directional Microphone        | 17   | Laptop & Printer |
-| 3    | Binoculars | 8    | Body bag     | 13   | Glass cutting tools | 18   | Kevlar rope    |
-| 4    | Chain & Lock          | 9    | Tactical Flashlight     | 14   | A box with no seam      | 19   | Good Camera   |
-| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Bolt Cutters   |
+|      |                      |      |                                  |      |                        |      |                  |
+| ---- | -------------------- | ---- | -------------------------------- | ---- | ---------------------- | ---- | ---------------- |
+| 1    | Night Vision Googles | 6    | Handcuffs                        | 11   | Flashbang              | 16   | Spray paint      |
+| 2    | Zip Ties             | 7    | Grappling Hook & rope            | 12   | Directional Microphone | 17   | Laptop & Printer |
+| 3    | Binoculars           | 8    | Body bag                         | 13   | Glass cutting tools    | 18   | Kevlar rope      |
+| 4    | Chain & Lock         | 9    | Tactical Flashlight              | 14   | A box with no seam     | 19   | Good Camera      |
+| 5    | Ancient Tome         | 10   | An ivory necklace (+1 Stability) | 15   | Lockpicks              | 20   | Bolt Cutters     |
 
 #### Memento (d10)
 
-|   |   |   |   |
-|---|---|---|---|
-| 1  | A note from a lost love   | 6  |  A letter in a language you cannot identify |
-| 2  | An item from your background  |  7 | A book filled with names (in another's handwriting)  |
-| 3  | A business card with a number written on the back  | 8  | A voice recording  |
-| 4  |  A piece of jewelry carved from bone | 9  | A heavily redacted file  |
-| 5 | A will   |  10 | A small, old figurine   |
+|      |                                                   |      |                                                     |
+| ---- | ------------------------------------------------- | ---- | --------------------------------------------------- |
+| 1    | A note from a lost love                           | 6    | A letter in a language you cannot identify          |
+| 2    | An item from your background                      | 7    | A book filled with names (in another's handwriting) |
+| 3    | A business card with a number written on the back | 8    | A voice recording                                   |
+| 4    | A piece of jewelry carved from bone               | 9    | A heavily redacted file                             |
+| 5    | A will                                            | 10   | A small, old figurine                               |
 
 #### Bonus Item
 
-|   |   |   |   |
-|:-:|:-:|:-:|:-:|
-|  1-5 | 6-13   | 14-19  |   20 |
-| Memento  |  Investigative Gear | Weapon  |  Magic (see magic section) |
+|         |                    |        |                           |
+| :-----: | :----------------: | :----: | :-----------------------: |
+|   1-5   |        6-13        | 14-19  |            20             |
+| Memento | Investigative Gear | Weapon | Magic (see magic section) |
 
 [back to index](#index)
+
 <p></p>
 
 ## Party Questions
 
 #### The Party
+
 Why has the party come together? Use the answers from the Get To Know Your Character section to inform your decision. As a table create your own or use the table below (d6):
 
-|   |                                                                                                                         |
-|---|-------------------------------------------------------------------------------------------------------------------------|
-| 1 | The investigators meet in a diner. They may or may not know each other. Fluorescent lights hum over checkered linoleum. |
-| 2 | A simple “wrong place, wrong time.” The resulting event binds the investigators together.                               |
-| 3 | United through self guided research. Online paranatural forum? Club? Support group?                                     |
-| 4 | A mysterious patron that has brought the investigators together.                                                        |
-| 5 | Members of the community respond to a series of mysterious events.                                                      |
-| 6 | Investigators (either professional or amateur) that are looking into an event.                                          |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| 1    | The investigators meet in a diner. They may or may not know each other. Fluorescent lights hum over checkered linoleum. |
+| 2    | A simple “wrong place, wrong time.” The resulting event binds the investigators together. |
+| 3    | United through self guided research. Online paranatural forum? Club? Support group? |
+| 4    | A mysterious patron that has brought the investigators together. |
+| 5    | Members of the community respond to a series of mysterious events. |
+| 6    | Investigators (either professional or amateur) that are looking into an event. |
 
 #### Character Bonds (optional)
+
 Have each player state a relationship to another character at the table. This should be informed by the background, The Abyss Stares Back, and The Party section of character creation. Some examples are:
 
-|   |                                                              |
-|---|--------------------------------------------------------------|
-| 1 | _____ is hiding something from me.                           |
-| 2 | _____ is my ex.                                              |
-| 3 | _____ saved me from whatever it was that tried to attack me. |
-| 4 | _____ is my drinking buddy                                   |
-| 5 | _____ is my co-worker at _____                               |
-| 6 | _____ is my neighbor.                                        |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| 1    | _____ is hiding something from me.                           |
+| 2    | _____ is my ex.                                              |
+| 3    | _____ saved me from whatever it was that tried to attack me. |
+| 4    | _____ is my drinking buddy                                   |
+| 5    | _____ is my co-worker at _____                               |
+| 6    | _____ is my neighbor.                                        |
 
 
 #### Vehicles
+
 Determine as a group what types of vehicle or transportation the party has access to. The party may have access to more than one vehicle. Car chases are an essential part of solving a mystery.
 Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle can cause damage to those in and around the vehicle.
 
 [back to index](#index)
+
 <p></p>
 
 ## Equipment List
 
 #### Protection
 
-||     |
-|--------------------------------------------------------------|-----|
-|Armored Vest (+1 Armor)   |$1000   |
-|Amulet from the old country (+1 Stability)   |$1000   |
-|Gas Mask (protects against airborne toxins)    |$100   |
-|Mask (protects your identity)   |$20   |
+|                                             |       |
+| ------------------------------------------- | ----- |
+| Armored Vest (+1 Armor)                     | $1000 |
+| Amulet from the old country (+1 Stability)  | $1000 |
+| Gas Mask (protects against airborne toxins) | $100  |
+| Mask (protects your identity)               | $20   |
 
 
 #### Weapons
 
-| |     |
-|--------------------------------------------------------------|-----|
-|**Unarmed attack** (d4 damage)           |Free    |
-|**Improvised or Crude Weaponry** (d6 damage, bulky)             |$20   |
-|**Hand Weapons:** Dagger, Baton, Axe (d6 damage)            |$50   |
-|**Taser/Mace Combo** (DEX save or momentarily stunned)    |$50   |
-|**Pistol** (d6 damage)                                      |$200    |
-|**Sawed off Shotgun** (d6 blast, bulky)                                   |$500  |
-|**Rifle** (d8 damage, bulky)                                  |$750   |
-|**Shotgun** (d8 damage, bulky)  |$750   |
-|**Assault rifle** (d8 or d6 blast damage, bulky)                                  |$1250    |
-|**Combat Shotgun** (d6 damage blast with d8 area, bulky)                                  |$1250   |
-|**Sniper** (d8 damage or d12 damage when hidden, bulky)                                 |$1750   |
+|                                                          |       |
+| -------------------------------------------------------- | ----- |
+| **Unarmed attack** (d4 damage)                           | Free  |
+| **Improvised or Crude Weaponry** (d6 damage, bulky)      | $20   |
+| **Hand Weapons:** Dagger, Baton, Axe (d6 damage)         | $50   |
+| **Taser/Mace Combo** (DEX save or momentarily stunned)   | $50   |
+| **Pistol** (d6 damage)                                   | $200  |
+| **Sawed off Shotgun** (d6 blast, bulky)                  | $500  |
+| **Rifle** (d8 damage, bulky)                             | $750  |
+| **Shotgun** (d8 damage, bulky)                           | $750  |
+| **Assault rifle** (d8 or d6 blast damage, bulky)         | $1250 |
+| **Combat Shotgun** (d6 damage blast with d8 area, bulky) | $1250 |
+| **Sniper** (d8 damage or d12 damage when hidden, bulky)  | $1750 |
 
 #### Explosives
 
-| |     |
-|--------------------------------------------------------------|-----|
-|**Molotov Cocktail** (sets area alight, causing d6 continued damage until put out)           |$50    |
-|**Flashbang** (blast, temporarily blinds those who fail a DEX save)             |$100   |
-|**Grenade** (d8 damage, blast)            |$100   |
-|**IED** (d6 damage, blast with d4 continued damage per round)    |$200   |
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| **Molotov Cocktail** (sets area alight, causing d6 continued damage until put out) | $50  |
+| **Flashbang** (blast, temporarily blinds those who fail a DEX save) | $100 |
+| **Grenade** (d8 damage, blast)                               | $100 |
+| **IED** (d6 damage, blast with d4 continued damage per round) | $200 |
 
 #### Modern Day Potions
 
-| |     |
-|--------------------------------------------------------------|-----|
-|**Tranquilizers** (STR save or pass out)          |$50    |
-|**Drugs** (high based on drug, potential CTRL or STR save to grapple with negative effects)            |$50   |
-|**Poison** (lose d20 STR if passes through a blood-tissue barrier)           |$50   |
-|**Antitoxin** (stops toxins - unpleasant)    |$50   |
-|Acid (d4 damage until removed, caustic liquid that burns through materials                                    |$100    |
-|**Stims** (immediate recovery from critical damage, +1d4 temporary DEX)                                   |$100 |
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| **Tranquilizers** (STR save or pass out)                     | $50  |
+| **Drugs** (high based on drug, potential CTRL or STR save to grapple with negative effects) | $50  |
+| **Poison** (lose d20 STR if passes through a blood-tissue barrier) | $50  |
+| **Antitoxin** (stops toxins - unpleasant)                    | $50  |
+| Acid (d4 damage until removed, caustic liquid that burns through materials | $100 |
+| **Stims** (immediate recovery from critical damage, +1d4 temporary DEX) | $100 |
 
 
 #### Gear - does not include average tools found in most modern homes
 
-|                       |          |             |    |
-|-------------------------------------|--------------|------------------------|--------|
+|                                     |              |                        |        |
+| ----------------------------------- | ------------ | ---------------------- | ------ |
 | Alarm Bypass                        | $500         | Forgery Kit            | $150   |
 | Bear Trap                           | $100         | Glass Cutting Tools    | $150   |
 | Binoculars                          | $100         | Grease                 | $30    |
@@ -515,10 +575,13 @@ Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle ca
 | Flare                               | $20          | Zip Ties               | $25    |
 
 [back to index](#index)
+
 <p></p>
 
 ## Rules
+
 ### Abilities
+
 Each of the three **abilities** are used in situations.
 
 
@@ -532,6 +595,7 @@ Each of the three **abilities** are used in situations.
 
 
 ### Saves
+
 A **save** is the resolution mechanic used in play. Saves are only used when there is risk. If there is no risk or interesting narrative outcome, no roll is needed.
 
 To make a save PCs roll a d20 against the target attribute. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -540,9 +604,11 @@ If there is a **contested action**, the party at most risk makes the save.
 
 
 ### Healing
+
 Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
 
 ### Armor and Stability
+
 A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
 
 A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
@@ -552,6 +618,7 @@ It is up to the Facilitator’s discretion to create additional equipment that h
 
 
 ### Deprivation & Fatigue
+
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. PCs may also take the deprived tag as the result of magical consequences or enemy abilities.
 
 Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
@@ -559,6 +626,7 @@ Anyone deprived for more than a day adds **Fatigue** to their inventory, one for
 PCs can also gain Deprived or Fatigue from casting spells or through events in the fiction.
 
 ### Inventory
+
 Characters have a total of 10 inventory slots: a backpack (or similar case/bag) with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Facilitator's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
@@ -569,15 +637,17 @@ A PC cannot carry more items than their inventory allows. Vehicles can be used t
 
 
 ### Reactions
+
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Facilitator may have a player roll 2d6 and consult the following table:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
+|         |      |         |      |         |
+| :-----: | :--: | :-----: | :--: | :-----: |
+|    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 
 ### Associates
+
 PCs can hire **Associates** to aid in their investigations.
 
 To create an associate roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Associates cost between 50-100 dollars per day. Some are prepared for violence, but may require a little persuasion in order to undertake something truly dangerous or weird.
@@ -585,6 +655,7 @@ To create an associate roll 3d6 for each ability score, then give them 1d6 HP an
 Expert Associates: An expert is a more temporary associate who is employed for a very specific task. They have 3HP and have an area of expertise with corresponding equipment. They cost $300 per day.
 
 ### Vehicles
+
 Vehicles have HP. When HP reaches 0 the vehicle is totaled. Totaling a vehicle causes damage to those in and around it.
 
 Vehicle damage is relative to the target and its speed. Start at d6 and scale according to the fiction.
@@ -592,6 +663,7 @@ Vehicle damage is relative to the target and its speed. Start at d6 and scale ac
 Damage against the vehicle depends on the method. Some instances may be Impaired based on the scale.
 
 ### Wealth & Treasure
+
 Cash is the most common form of currency. Vendors (both legal and illicit) may require different forms of payment to access them. Different in game variables may alter the prices listed in the equipment section.
 
 Debt transcends all boundaries and can be a boon or a burden.
@@ -599,6 +671,7 @@ Debt transcends all boundaries and can be a boon or a burden.
 **Relics** are powerful items touched by the Old Powers. They are dangerous and sought after.
 
 [back to index](#index)
+
 <p></p>
 
 ## Combat
@@ -619,7 +692,7 @@ The game typically plays without strict time accounting. If timing is necessary,
 
 On their turn a character may move up to 40ft and take up to one action. This may be *casting a spell*, *attacking*, making a *second move*, or some other *combat maneuver*.
 
-Players state what actions they will take before rolling dice. If they attempt something risky, the Warden will call for a save from the appropriate party.
+Players state what actions they will take before rolling dice. If they attempt something risky, the Facilitator will call for a save from the appropriate party.
 
 All actions, attacks, and movements take place roughly at the same time.
 
@@ -664,12 +737,6 @@ If damage brings a target’s HP below zero, their STR is decreased by the amoun
 **Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
 <br>If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
 
-### 0 HP Stress = Fallout
-
-If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
-
-
-
 ### Ability Score Loss
 
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their CTRL is reduced to 0, they are lost.
@@ -697,17 +764,21 @@ Some NPCs transcend measures of morale. Their proximity to the weird means their
 Morale does not affect PCs.
 
 [back to index](#index)
+
 <p></p>
 
 #  Magic
 
 ## Magic System
+
 Characters may be able to use **magic** if they:
+
 - Rolled it during character creation.
 - Gained it through **Stress Fallout**.
 - Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
 
 Random spells are generated using the table and process below.
+
 - Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
 - Spells use a single action.
 - Afterward they leave the inventory.
@@ -721,15 +792,15 @@ Random spells are generated using the table and process below.
 
 #### Step 1 - Spell Formula (2d6)
 
-|   |                             |                                 |
-|---|---------------------------------|------------------------------------|
-|   | 1-3                             | 4-6                                |
-| 1 | Physical Effect + Physical Form | Ethereal Element+ Physical Form    |
-| 2 | Physical Effect + Ethereal Form | Ethereal Element+ Ethereal Form    |
-| 3 | Ethereal Effect + Physical Form | Physical Effect + Physical Element |
-| 4 | Ethereal Effect + Ethereal Form | Physical Effect + Ethereal Element |
-| 5 | Physical Element+ Physical Form | Ethereal Effect + Physical Element |
-| 6 | Physical Element+ Ethereal Form | Ethereal Effect + Ethereal Element |
+|      |                                 |                                    |
+| ---- | ------------------------------- | ---------------------------------- |
+|      | 1-3                             | 4-6                                |
+| 1    | Physical Effect + Physical Form | Ethereal Element+ Physical Form    |
+| 2    | Physical Effect + Ethereal Form | Ethereal Element+ Ethereal Form    |
+| 3    | Ethereal Effect + Physical Form | Physical Effect + Physical Element |
+| 4    | Ethereal Effect + Ethereal Form | Physical Effect + Ethereal Element |
+| 5    | Physical Element+ Physical Form | Ethereal Effect + Physical Element |
+| 6    | Physical Element+ Ethereal Form | Ethereal Effect + Ethereal Element |
 
 
 #### Step 2 - Spell Name (roll 2d6 for each table called for in the formula)
@@ -740,40 +811,44 @@ Random spells are generated using the table and process below.
 
 #### Omens and Magical Catastrophes
 
-|  |                    |
-|---------|----------------------------|
-| 1       | Animals die                |
-| 2       | City appears               |
-| 3       | Deadly fog                 |
-| 4       | Dream plague               |
-| 5       | Endless night              |
-| 6       | Endless storm              |
-| 7       | Endless twilight           |
-| 8       | Endless winter             |
-| 9       | Forest appears             |
-| 10      | Graves open                |
-| 11      | Mass slumber               |
-| 12      | Meteor strike              |
-| 13      | Mirrors speak              |
-| 14      | No stars                   |
-| 15      | Outsider enters            |
-| 16      | People vanish              |
-| 17      | Portal opens               |
-| 18      | Rifts open                 |
-| 19      | Tower appears              |
-| 20      | Water to blood             |
+|      |                  |
+| ---- | ---------------- |
+| 1    | Animals die      |
+| 2    | City appears     |
+| 3    | Deadly fog       |
+| 4    | Dream plague     |
+| 5    | Endless night    |
+| 6    | Endless storm    |
+| 7    | Endless twilight |
+| 8    | Endless winter   |
+| 9    | Forest appears   |
+| 10   | Graves open      |
+| 11   | Mass slumber     |
+| 12   | Meteor strike    |
+| 13   | Mirrors speak    |
+| 14   | No stars         |
+| 15   | Outsider enters  |
+| 16   | People vanish    |
+| 17   | Portal opens     |
+| 18   | Rifts open       |
+| 19   | Tower appears    |
+| 20   | Water to blood   |
 
 [back to index](#index)
+
 <p></p>
 
 #### Scrolls
+
 **Scrolls** are similar to Magic, however:
+
 - They do not take up an inventory slot.
 - They do not cause fatigue.
 - They disappear after one use.
 - Players must make a CTRL save or receive 1d4 Stress
 
 #### Relics
+
 **Relics** are powerful and dangerous items touched by the Old Powers. Relics often have limited use and a recharge condition. *Some examples:*
 
 **Extractor** - 0 charges. An old brass cylinder that resembles a medieval syringe. Able to transfer a ‘consciousness’ into another vessel. *Recharge*: Use the Extractor to wrench the consciousness from an “disabled” vessel. Users must make a CTRL save or take 1d4 stress.
@@ -783,6 +858,7 @@ Random spells are generated using the table and process below.
 **White Blade of Moonbone**: (best of 2d6 CTRL damage, 3 Charges) - This glowing blade is made for one task, to sever. *Recharge*: Under a full moon, sunder a memory from one's past.
 
 **Stone of Behrit** 1 charge. Resembling a small egg with a distorted face. If you would take critical damage, ignore it instead. This stone activates and whisks you to safety. *Recharge*:
+
 - Sacrifice an innocent soul to the stone, add deprived and fatigued to the character sheet.
 - On the third recharge roll on [Omens and Magical Catastrophes](#Omens-and-Catastrophes) table.
 
@@ -792,26 +868,30 @@ Random spells are generated using the table and process below.
 
 **Instrument of the Black Flame**: Some weapons have sigils and runes carved into them, warping and imbuing them with a heatless, black flame. The range depends on the weapon and they deal 1d6 CTRL damage to the target while dealing 1d4 Dex damage to the wielder.
 
-
 [back to index](#index)
+
 <p></p>
 
 ## Stress & Fallout
+
 Stress is identical to damage, but targets CTRL instead of STR. Stress may come as a result of narrative consequences, failed saves, magic repercussions, or enemy attacks. Stress targets HP before going to CTRL.
 
 ### Stress Examples
+
 Note: The amount and frequency of how you deal stress establishes the tone and pacing of your game. It is a dial to control the amount of Weird your players encounter and how likely they are to change as a result.
 
-|   |   |
-|---|---|
-| 1 Stress  |  **GLIMPSE**: Encountering the strange or odd.  |
-| 1d4 Stress  |  **CONTACT**: The weird and unexplainable.  |
-| 1d6 Stress  | **EXPOSURE**: Directly encountering the unknowable. Reality bends.  |
-| 1d8 Stress  |**CATASTROPHE**: Major Powers, Omens, Catastrophes. Reality is close to breaking.   |
+|             |                                                              |
+| ----------- | ------------------------------------------------------------ |
+| 1 Stress    | **GLIMPSE**: Encountering the strange or odd.                |
+| 1d4 Stress  | **CONTACT**: The weird and unexplainable.                    |
+| 1d6 Stress  | **EXPOSURE**: Directly encountering the unknowable. Reality bends. |
+| 1d8 Stress  | **CATASTROPHE**: Major Powers, Omens, Catastrophes. Reality is close to breaking. |
 | 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
 
 ### Stress Fallout Tables
+
 Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
+
 - The character takes **critical stress**.
 
 Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
@@ -819,8 +899,9 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 
 **Note to Facilitators:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
 
-|  | Stress Fallout Tables                                                                                                                                                                                                                                                                                                                 |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      | Stress Fallout Tables |
+| ---- | --------------------- |
+
 |
                                                                                                                                                                                                   |
 | 1                      | **Have you been replaced?** You’ve seen what they can do -their magics and their deceptions. What would stop them from taking you? Maybe you aren’t who you think you are? How would you even know? <br>During your next moment of quiet reflection, roll 1d6. If the total is higher than your max HP, take the new result. |
@@ -831,24 +912,25 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 | 6                      | **Odd:** You adopt an odd behavior that makes others uncomfortable. If you resist indulging in your “Oddity” for 24 hours, take the Deprived tag. If others see you engage in this creepy behavior, they must make a CTRL save or take 1d4 Stress. <br>After the first instance, roll 3d6. If the total is higher than your current CTRL, take the new result. |
 | 7                      | **Hunger:**  You develop an unnatural hunger for the unusual. If you do not satiate your appetite for 24 hours, take the Deprived tag. When you eat, restore HP and give 1d4 stress to any that can see.<br>After the first instance, roll 3d6. If the total is higher than your current STR, take the new result. |
 | 8                      | **Scarred:** Every wound you inflict leaves its ragged mark upon your body.<br>After the first instance, make a CTRL save. If you pass, increase your max STR by 1d4.                                                                                                                                                       |
-| 9                      | **Liminal Communion:** It wasn’t noticeable at first, but something **is** trying to communicate, but it does not have a mouth by which to scream. Its words manifest throughout physical space.<br>Increase your max CTRL by 1d4.                     |
+| 9                      | **Liminal Communion:** It wasn’t noticeable at first, but you’ve slowly begun to regularly do a sequence of gestures, words, or actions -almost as if you are performing a ritual.<br>When you first start to notice, make a CTRL save. If you pass, increase your max CTRL by 1d4.                                         |
 | 10                     | **Magical Corruption** *(this can be taken multiple times per character)*:  Flesh is weak. A part of your body becomes visibly changed through your proximity to the weird. The Facilitator and Player should decide on how that change manifests and if it has any mechanical impacts.                                                                                                                                                                                      |
 
-|  |                                                                                                                                                                                                                                                                                                                                                          |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        |                                                                                                                                                                                                                                                                                                                                                                 |                                                       |
-| 11                     | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
-| 12                     | **Neural Superposition:**  You see images of unknown places superposed onto this one, sometimes making it difficult to tell what is real. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the lowest result. Once per day you see something significant (ask your Facilitator what it is).           |
-| 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
-| 14                     | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Facilitator.                                                                                            |
-| 15                     | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6.                                                                                                                                                 |
-| 16                     | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
-| 17                     | **Progeny:** Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams.<br>Roll 2d6. Take the new result as your max HP                                                                                                                                                                                              |
-| 18                     | **Fate’s Web** *(this can only be taken once per character but multiple times per table)*: At least a puppet can see the strings that bind it, if only you were so lucky. <br>Roll on the Magical Fallout Table - [Omens and Magical Catastrophes](#Omens-and-catastrophes).                                                                                                                |
-| 19                     | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are **Enhanced** Critical Damage mutilates your body but you can continue to act. <br>You become the primary target of otherworldly and attacks made against you are **Enhanced**.                                                                |
-| 20                     | **Doomed** *(this can be taken multiple times per character)*: <br>You have been branded for sacrifice, anointed for doom. If your next critical save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result.                        |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      |                                                              |
+| 11   | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
+| 12   | **Neural Superposition:**  You see images of unknown places superposed onto this one, sometimes making it difficult to tell what is real. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the lowest result. Once per day you see something significant (ask your Facilitator what it is). |
+| 13   | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
+| 14   | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Facilitator. |
+| 15   | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6. |
+| 16   | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
+| 17   | **Progeny:** Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams.<br>Roll 2d6. Take the new result as your max HP |
+| 18   | **Fate’s Web** *(this can only be taken once per character but multiple times per table)*: At least a puppet can see the strings that bind it, if only you were so lucky. <br>Roll on the Magical Fallout Table - [Omens and Magical Catastrophes](#Omens-and-catastrophes). |
+| 19   | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are **Enhanced** Critical Damage mutilates your body but you can continue to act. <br>You become the primary target of otherworldly and attacks made against you are **Enhanced**. |
+| 20   | **Doomed** *(this can be taken multiple times per character)*: <br>You have been branded for sacrifice, anointed for doom. If your next critical save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result. |
 
 [back to index](#index)
+
 <p></p>
 
 # Paranatural Bestiary
@@ -856,6 +938,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Cultist**
  <br>3 HP, 1 Armor, 8 STR, 12 DEX, 10 CTRL
  <br>Dagger (d6), Blood Sigil (d4 Stress)
+
 - Every cult needs followers, footsoldiers, and believers.
 - To please their masters, to gain access to power, to survive.
 - Rarely alone.
@@ -863,6 +946,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Frog-Men**
  <br> 4 HP, 13 STR, 12 DEX, 10 CTRL
  <br>Claws (d6) Tongue (d8)
+
 - Sapient humanoid frogs. Large, muscular. Some are able to hide as men.
 - To remain hidden. To free their master. To inherit the earth.
 - Some have a moderate ability to create illusions and cloud minds. This can cause CTRL damage
@@ -870,6 +954,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Special Agent**
  <br>6 HP, 1 Armor, 14 STR, 12 DEX, 10 CTRL
  <br>Service Pistol (d6)
+
 - Black suits, black glasses. Some believe, others doubt, most follow orders.
 - To obscure, to acquire, to maintain order
 - Critical Damage: The special agent apprehends the target.
@@ -877,6 +962,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Child of the Spoor**
  <br> 4 HP, 1 Armor, 12 STR, 8 DEX, 6 CTRL
  <br>Spoor blessed dagger (d6)
+
 - The flesh is host to parasitic fungus that has overtaken the brain and connected them to the grand structure. Some have fruiting bodies sprouting from fissures in the flesh, while others are barely noticeable, except for the slight fuzz.
 - To propagate. To gestate. To &^%$(~!@
 - Critical Damage: Some of the spoors enter the victim's body.
@@ -884,6 +970,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Corporate Analyst**
  <br>8 HP, 1 Armor, 10 STR, 14 DEX, 14 CTRL
  <br>Magitek prototype weapon (d6 blast)
+
 - Varying in look but always professional in dress and appearance.
 - To protect corporate interests, to test, to acquire.
 - Each analyst has a different specialty, all pose unique dangers to the fabric of reality. Give a critical damage trigger that reflects their department.
@@ -891,6 +978,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Witch**
  <br> 8 HP, 2 Armor, 8 STR, 12 DEX, 13 CTRL
  <br>Walking stick (d6) Magic (at least 2 spells)
+
 - Witches can look like anyone. Some have been changed through proximity to magic (you can roll on Magic - Fallout Mutations if you want to up their weird)
 - To learn, to hide, to influence. Sometimes, to teach.
 - Critical Damage: The Witch leaves their sigil upon their target, forming a connection with them.
@@ -898,6 +986,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Ghost**
  <br>10 HP, 3 Armor, 10 STR, 10, DEX, 12 CTRL
  <br>Spectral embrace (d6 CTRL)
+
 - Incorporeal spirits unable to leave after death.
 - Drives vary as much as in the living. The act of becoming a ghost often means they lean toward violence, vengeance, and pettiness.
 - Can attempt a possession, target must succeed a CTRL save to resist.
@@ -905,6 +994,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Mother**
  <br> 14 HP, 1 Armor, 14 STR, 8 DEX, 14 CTRL
  <br>Claws (d8, transforming), Kiss (d6 stress)
+
 - Impossibly tall, curvy, pale.
 - To protect, to nurture, to punish.
 - Critical Damage: Her time is now. Mother transforms.
@@ -912,6 +1002,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **The Swarm**
  <br>10 HP, 3 Armor, 14 STR, 10 DEX
  <br>Cascade of vermin (d6, blast)
+
 - Was once a normal person, now they are host to a legion (choose maggots/worms/ants). Upon close inspection the viewer can see movement underneath the skin. Treat as a Detachment
 - To burrow, to corrupt, to spread.
 - Critical Damage: The victim is unable to pick off the swarm in time, they begin to burrow too deep.
@@ -919,12 +1010,14 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Fleshsmith**
  <br> 12 HP, 2 Armor, 16 STR, 8 DEX, 10 CTRL
  <br> Hands (d8 - d10)
+
 - Master of the flesh, his appearance shifts and changes. Most often in a massive form, all muscle & bone at impossible proportions.
 - To make art. To perfect. To manipulate
 - Critical Damage: He is an artist, and the victim’s body is the clay. The Fleshsmith distorts an appendage in an impossible way.
 
 **Company Man**
  <br> 13 HP, 1 Armor, 14 STR, 14 DEX, 14 CTRL
+
 - Impeccable gray suit, trailed by a non-euclidian shadow.
 - To control, to twist, to employ.
 - Can heal using the bodies of others as fuel (drones).
@@ -933,6 +1026,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Drone:**
  <br> 2 HP, 10 STR, 10 DEX, 10 CTRL,
  <br>Hands or tools (d6)
+
 - Often normal people. When being utilized there is a glassy look to them. Sometimes their color ain’t right (skin, hair, clothes, everything).
 - To follow. To be used.
 - Drones can ignore their first instance of critical damage. Does not retreat unless it’s master wills it.
@@ -940,6 +1034,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **Echo**
  <br>10 HP, 2 Armor, 12 STR , 15 DEX , 14 CTRL
  <br>Tentacle (d10, Blast)
+
 - Echo of an Old Power.
 - Quickly fading, must use flesh to maintain its frequency.
 - Critical damage: Avatar rends the victim and absorbs it into itself (1d4 pieces). Fully heals STR.
@@ -947,24 +1042,29 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 **The Dark**
  <br>10 HP, 12 STR, 15 DEX, 14 CTRL
  <br>Bite (d6) Shadow’s Embrace (d6 stress)
+
 - Appearance unknown. Number unknown. Presence preceded by the blinking out of lights
 - To rend, to take within itself.
 - All attacks made against them are made at disadvantage.
 
 [back to index](#index)
+
 <p></p>
 
 ## Creating Monsters
+
 Use the following template to model NPCs and monsters:
+
 - Title (denotes the type of NPC/monster)
 - NPC Name (most things have a name. Some have forgotten theirs and are now solely defined by their title)
--  X HP, X Armor, X STR, X DEX, X CTRL,
+- X HP, X Armor, X STR, X DEX, X CTRL,
 - Attack (dX, special items, qualities)
 - Description (appearance or demeanor)
 - Drive, behavior, tactic, or peculiarity
 - Special effect or critical damage consequence.
 
 #### General Principles
+
 - Ability Scores are 10 unless noted.
 - Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary.
 - HP: 3 HP is average , 6 HP sturdy, 1 0+ HP is serious threat
@@ -975,6 +1075,7 @@ Use the following template to model NPCs and monsters:
 - Critical Damage triggers increase threat or strangeness
 
 #### Creature Cheat Sheet:
+
 - Able to avoid being hit? Give it **HP**.
 - Soak up damage? Give it **Armor**.
 - Physically powerful? Give it a high **STR** or larger damage dice.
@@ -982,58 +1083,61 @@ Use the following template to model NPCs and monsters:
 - Weird? Give it high **CTRL** or ability to deal Stress Damage.
 
 [back to index](#index)
+
 <p></p>
 
 ## Spark Tables
+
 Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The entries are general enough that they can be used as the inspiration for a person, place, event, or object.
 
-| d20 | Spark One   | Spark Two  |  | d20 | Spark One       | Spark Two      |
-|-----|-------------|------------|---|-----|-----------------|----------------|
-| 1   | Germinating | Swarm      |  | 1   | Invoking        | Filth          |
-| 2   | Bubbling    | Heart      |  | 2   | Fractured       | Transformation |
-| 3   | Nourishing  | Heresy     |  | 3   | Buried          | Host           |
-| 4   | Bone        | Church     |  | 4   | Warding         | Time           |
-| 5   | Standing    | Binding    |  | 5   | Keen            | Telepathy      |
-| 6   | Primordial  | Hunter     |  | 6   | Occult          | Construct      |
-| 7   | Spirit      | Corruption |  | 7   | Moonlight       | Weakness       |
-| 8   | Poisonous   | Passage    |  | 8   | Lesser          | Cemetery       |
-| 9   | Edible      | Threshold  |  | 9   | Rippling        | Pools          |
-| 10  | Invisible   | Grimoire   |  | 10  | Repeating       | Banishment     |
-| 11  | Rabid       | Fissure    |  | 11  | Mouthless       | Trunk          |
-| 12  | Underground | Knack      |  | 12  | Smoldering      | Whine          |
-| 13  | Oracle      | Shadows    |  | 13  | Forsaken        | Sunder         |
-| 14  | Control     | Weeping    |  | 14  | Paranoia        | Sickness       |
-| 15  | Harrowing   | Fancy      |  | 15  | Unintelligible  | Sphere         |
-| 16  | Blood       | Thread     |  | 16  | Subterranean    | Shade          |
-| 17  | Psychedelic | Sky        |  | 17  | Liminal         | Forgotten      |
-| 18  | Malformed   | Gloom      |  | 18  | Infused         | Spikes         |
-| 19  | Dank        | Tail       |  | 19  | Diseased        | Sigil          |
-| 20  | Glowing     | Deep       |  | 20  | Mounded         | Parasite       |
+| d20  | Spark One   | Spark Two  |      | d20  | Spark One      | Spark Two      |
+| ---- | ----------- | ---------- | ---- | ---- | -------------- | -------------- |
+| 1    | Germinating | Swarm      |      | 1    | Invoking       | Filth          |
+| 2    | Bubbling    | Heart      |      | 2    | Fractured      | Transformation |
+| 3    | Nourishing  | Heresy     |      | 3    | Buried         | Host           |
+| 4    | Bone        | Church     |      | 4    | Warding        | Time           |
+| 5    | Standing    | Binding    |      | 5    | Keen           | Telepathy      |
+| 6    | Primordial  | Hunter     |      | 6    | Occult         | Construct      |
+| 7    | Spirit      | Corruption |      | 7    | Moonlight      | Weakness       |
+| 8    | Poisonous   | Passage    |      | 8    | Lesser         | Cemetery       |
+| 9    | Edible      | Threshold  |      | 9    | Rippling       | Pools          |
+| 10   | Invisible   | Grimoire   |      | 10   | Repeating      | Banishment     |
+| 11   | Rabid       | Fissure    |      | 11   | Mouthless      | Trunk          |
+| 12   | Underground | Knack      |      | 12   | Smoldering     | Whine          |
+| 13   | Oracle      | Shadows    |      | 13   | Forsaken       | Sunder         |
+| 14   | Control     | Weeping    |      | 14   | Paranoia       | Sickness       |
+| 15   | Harrowing   | Fancy      |      | 15   | Unintelligible | Sphere         |
+| 16   | Blood       | Thread     |      | 16   | Subterranean   | Shade          |
+| 17   | Psychedelic | Sky        |      | 17   | Liminal        | Forgotten      |
+| 18   | Malformed   | Gloom      |      | 18   | Infused        | Spikes         |
+| 19   | Dank        | Tail       |      | 19   | Diseased       | Sigil          |
+| 20   | Glowing     | Deep       |      | 20   | Mounded        | Parasite       |
 
-| d20 | Spark One   | Spark Two   |  | d20 | Spark One     | Spark Two   |
-|-----|-------------|-------------|---|-----|---------------|-------------|
-| 1   | Shifting    | Secrets     |  | 1   | Ominous       | Flanges     |
-| 2   | Missing     | Burrows     |  | 2   | Mortal        | Doorway     |
-| 3   | Weaving     | Death       |  | 3   | Knotty        | Infestation |
-| 4   | Pock-Marked | Errant      |  | 4   | Fleshy        | Slaughter   |
-| 5   | Carved      | Web         |  | 5   | Truthful      | Memory      |
-| 6   | Grotesque   | Hue         |  | 6   | Defensive     | Decay       |
-| 7   | Entangled   | Horror      |  | 7   | Screaming     | Desolation  |
-| 8   | Embryonic   | Delve       |  | 8   | Summoning     | Vibrations  |
-| 9   | Hideous     | Vast        |  | 9   | Preserved     | Ozone       |
-| 10  | Beholding   | Magic       |  | 10  | Transmutation | Sludge      |
-| 11  | Foaming     | Eye         |  | 11  | Suffocating   | Warp        |
-| 12  | Inverted    | Incantation |  | 12  | Distorted     | Sinew       |
-| 13  | Damp        | Discord     |  | 13  | Possessed     | Hallowing   |
-| 14  | Flesh       | Armor       |  | 14  | Shrunken      | Horned      |
-| 15  | Withering   | Flesh       |  | 15  | Vibrant       | Tongues     |
-| 16  | Genesis     | Spell       |  | 16  | Shimmering    | Twitterings |
-| 17  | Digesting   | Growth      |  | 17  | abyssal       | Polymorph   |
-| 18  | White       | Fungi       |  | 18  | Predatory     | Secrets     |
-| 19  | Fading      | Hunger      |  | 19  | Threaded      | Tissue      |
-| 20  | Illusory    | Appetite    |  | 20  | twisted       | Outgrowth   |
+| d20  | Spark One   | Spark Two   |      | d20  | Spark One     | Spark Two   |
+| ---- | ----------- | ----------- | ---- | ---- | ------------- | ----------- |
+| 1    | Shifting    | Secrets     |      | 1    | Ominous       | Flanges     |
+| 2    | Missing     | Burrows     |      | 2    | Mortal        | Doorway     |
+| 3    | Weaving     | Death       |      | 3    | Knotty        | Infestation |
+| 4    | Pock-Marked | Errant      |      | 4    | Fleshy        | Slaughter   |
+| 5    | Carved      | Web         |      | 5    | Truthful      | Memory      |
+| 6    | Grotesque   | Hue         |      | 6    | Defensive     | Decay       |
+| 7    | Entangled   | Horror      |      | 7    | Screaming     | Desolation  |
+| 8    | Embryonic   | Delve       |      | 8    | Summoning     | Vibrations  |
+| 9    | Hideous     | Vast        |      | 9    | Preserved     | Ozone       |
+| 10   | Beholding   | Magic       |      | 10   | Transmutation | Sludge      |
+| 11   | Foaming     | Eye         |      | 11   | Suffocating   | Warp        |
+| 12   | Inverted    | Incantation |      | 12   | Distorted     | Sinew       |
+| 13   | Damp        | Discord     |      | 13   | Possessed     | Hallowing   |
+| 14   | Flesh       | Armor       |      | 14   | Shrunken      | Horned      |
+| 15   | Withering   | Flesh       |      | 15   | Vibrant       | Tongues     |
+| 16   | Genesis     | Spell       |      | 16   | Shimmering    | Twitterings |
+| 17   | Digesting   | Growth      |      | 17   | abyssal       | Polymorph   |
+| 18   | White       | Fungi       |      | 18   | Predatory     | Secrets     |
+| 19   | Fading      | Hunger      |      | 19   | Threaded      | Tissue      |
+| 20   | Illusory    | Appetite    |      | 20   | twisted       | Outgrowth   |
 
 **Examples:**
+
 - Bone Swarm
 - Germinating Heresy
 - Primordial Hunter
@@ -1048,6 +1152,7 @@ Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The ent
 - Transmuting Ozone
 
 [back to index](#index)
+
 <p></p>
 
 # Mystery Framework
@@ -1403,11 +1508,14 @@ Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are 
 
 **STRESS & FALLOUT**
 <br> Player chooses from the [Stress Fallout](#stress-fallout-tables) table when either:
+
 - A PC takes critical stress (when they fail a CTRL save after it takes Ability damage)
 
 <br> Each Stress Fallout entry:
+
 - Can only be chosen once at the table (unless denoted).
 - Consumes an inventory slot.
 
 [back to index](#index)
+
 <p></p>

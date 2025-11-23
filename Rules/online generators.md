@@ -2,7 +2,7 @@
 layout: default
 title: Digital Tools
 nav_order: 2
-parent: Rules Reference
+parent: Rules 
 permalink: /digital-tools/
 description: A list of digital tools and online generators to be used to support playing Liminal Horror.
 ---
@@ -27,4 +27,4 @@ As a means of showcasing what is possible, the Liminal Horror Dev Team has creat
 - Location Generator and Stocking Procedure: [https://perchance.org/liminal-horror-location-generator-and-stocking-procedure](https://perchance.org/liminal-horror-location-generator-and-stocking-procedure)
 
 ## Searchable Rules Reference
-This site acts as a digital tool in that it is a fully searchable rules reference that can be launched from a phone. It is not only the foundation for the game, but acts as the progenitor of the digital tools for Liminal Horror. 
+This site acts as a digital tool in that it is a fully searchable rules reference that can be launched from a phone. It is not only the foundation for the game, but acts as the progenitor of the digital tools for Liminal Horror.

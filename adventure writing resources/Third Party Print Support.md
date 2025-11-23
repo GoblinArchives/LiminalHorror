@@ -43,10 +43,10 @@ b. Overview: [https://www.drivethrurpg.com/joininfo2.php](https://www.drivethrur
 2. Get it printed and shipped (to you or a distributor)
 3. Start selling it online.
 4. Reach out to the LH team to let them know your work is in print:
-    Discord: [https://discord.gg/VdmSHXaqTT](https://discord.gg/VdmSHXaqTT)
-    LH library submission: [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
-    DM
-5. LH team will post it to the [library](https://liminalhorrorlibrary.com/), the [main hub page](https://liminalhorrorrpg.com/Third%20Party%20Print%20Hub/), and promote print projects regularly in newsletters,  etc
+    - Discord: [https://discord.gg/VdmSHXaqTT](https://discord.gg/VdmSHXaqTT)
+    - LH library submission: [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
+    - Email: goblinarchivespdx@gmail.com
+5. LH team will post it to the [library](https://liminalhorrorlibrary.com/), the [main hub page](https://liminalhorrorrpg.com/printhub/), and promote print projects regularly in newsletters,  etc
 
 ## Designing for Print at Home
 Given the precarious nature of shipping and printing costs (and tarrifs), many print options are out of the reach of many. Just because your work exists in the digital space does not make it less than something that has a physical print run. One very real option is designing works that can be printed at home by users. Here is a great guide with information on that very subject:

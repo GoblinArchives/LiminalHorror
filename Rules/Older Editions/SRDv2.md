@@ -1,9 +1,10 @@
 ---
 layout: default
 title: SRD v2.0
-nav_order: 6
-parent: Rules Reference
+nav_order: 4
 search_exclude: true
+parent: Older Editions
+grand_parent: Rules
 permalink: /srdv2/
 description: The second version of the SRD which was developed for Liminal Horror Investigators 2023.
 ---
