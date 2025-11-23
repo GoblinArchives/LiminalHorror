@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development Team
+title: Dev Team
 permalink: /about/
 description: Links for the development team of Liminal Horror.
 ---
