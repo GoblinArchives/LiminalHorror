@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deluxe Edition
-nav_order: 3
+nav_order: 2
 has_children: true
 permalink: /deluxe/
 description: Introduction for the web-based Liminal Horror Deluxe Edition, including excerpts from other sections of the book.

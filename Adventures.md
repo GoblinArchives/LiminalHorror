@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adventures
-nav_order: 4
+nav_order: 3
 has_children: true
 permalink: /adventures/
 description: First party and third party scenarios and adventures for the Liminal Horror ttrpg (currently over 200).
