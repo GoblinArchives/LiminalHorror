@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Investigators
-nav_order: 3
+nav_order: 1
+search_exclude: true
 parent: Older Editions
 grand_parent: Rules
 permalink: /investigators/
