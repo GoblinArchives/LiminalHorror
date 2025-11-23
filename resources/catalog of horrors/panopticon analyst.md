@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panopticon Upper Management
+title: Panopticon Analyst
 parent: Catalog of Horrors
 grand_parent: Resources
 ---
