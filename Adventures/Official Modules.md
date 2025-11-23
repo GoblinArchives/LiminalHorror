@@ -1,21 +1,38 @@
 ---
 layout: default
-title: Official Modules
+title: Official Releases
 nav_order: 1
 parent: LH Adventures
 permalink: /official/
 description: Official first party modules and adventures for the Liminal Horror ttrpg.
 ---
 
-There is a lot of official and community support for Liminal Horror. Enough that we maintain **The Liminal Horror Library** ([https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)) to cataolgue all the different resources out there (we currently have over 150).
+There is a lot of official and community support for Liminal Horror. Enough that we maintain **The Liminal Horror Library** ([https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)) to catalogue all the different resources out there (we currently have over 436). You can find first party resources under the [First Party tag on the Liminal Horror Library](https://liminalhorrorlibrary.com/category/first-party/).
 
 Not only is there strong community support, but as a development team we are regularly putting out official content.
 
-## The Investigators Edition
-The core rules ready to bring to the table for players and facilitators).
-![image](/img/IE.png)
-- [PDF](https://goblinarchives.itch.io/liminal-horror)
-- [In Print](https://spacepenguin.ink/collections/liminal-horror/products/liminal-horror-investigators)
+## Einfühlung: A Liminal Horror Starter Scenario
+Every house hides secrets...some more sinister than others.
+![image](/img/ein.png)
+- [PDF](https://goblinarchives.itch.io/liminal-horror-starter)
+- In Print (coming soon)
+
+## Stopover at the Shelterwood Inn
+A free starter adventure. A potential prequel to [The Bloom](#the-bloom)
+![image](/img/stopover.png)
+- [PDF](https://goblinarchives.itch.io/stopover-at-the-shelterwood-inn)
+
+## Camp Coldwater
+One of the Deluxe Edition adventures (available through the patreon). A slasher prequel to [The Bloom](#the-bloom)
+![image](/img/stopover.png)
+- [PDF](https://www.patreon.com/posts/camp-coldwater-144087076)
+- Included in the Liminal Horror Deluxe Edition
+
+## Case Files 01
+The first issue of the Liminal Horror Anthology zine. Includes Recursive Transit, The Chair, Documentary Mode, and multiple other resources for your tables.
+![image](/img/case01.png)
+- [PDF](https://goblinarchives.itch.io/case-files-vol-1)
+- In Print (coming soon)
 
 ## The Mall Remastered
 What if The Thing were set in a 1990s mall?
@@ -35,33 +52,8 @@ What if Twin Peaks had a The Last of Us arc?
 - [PDF](https://goblinarchives.itch.io/the-bloom)
 - [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom)
 
-## One Night At The Shelterwood Inn
-Crossover: A Liminal Horror & Triangle Agency Crossover Reality
-![image](/img/onen.png)
-- [PDF](https://unenthuser.itch.io/one-night)
-- [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn)
-
 ## The Parthenogenesis of Hungry Hollow
 A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees
 ![image](/img/hungry.png)
 - [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow)
 - [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-parthenogenesis-of-hungry-hollow-for-liminal-horror-rpg)
-
-## Tales From The Void
-In 2022 we did an official collaboration with three creatives to bring their vision of pamphlet adventures to reality. These were their stories.
-
-## The Chair
-By Liminal Horror Art Director Zach Hazard Vaupen: A haunted house where the titular chair is in every room.
-![image](/img/chair.png)
-- [PDF](https://emosludge.itch.io/the-chair)
-- [In Print](https://shop.emo-sludge.com/product/tales-from-the-void-the-chair)
-
-## His Arrival Was Foretold
-Designed by Evlyn Moreau: A Liminal Horror scenario for teenage (and adults) investigators that evokes Candyman and a certain internet cat meme.
-![image](/img/his.png)
-- [PDF](https://evlyn.itch.io/his-coming-was-foretold)
-
-## The Spirits in the Firs
-Designed by Matthew Morris: A modern (1980s) survival and investigative horror campaign on the trail of a lost cryptozoologist, chasing down secrets, uncovering clues, encountering the weird, evading government agents, and hopefully finding the truth... before it is too late!
-![image](/img/spirit.png)
-- [PDF](https://manadawnttg.itch.io/the-spirits-in-the-firs)

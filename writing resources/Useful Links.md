@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Useful Links
-nav_order: 6
-has_children: false
+nav_order: 5
+parent: Writing Resources
 permalink: /useful-links/
 description: A collection of third party links to blogs and resources to support running and creating for Liminal Horror.
 ---

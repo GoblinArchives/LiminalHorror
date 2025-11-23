@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Digital Tools
-nav_order: 8
-parent: Resources
+nav_order: 6
+parent: Writing Resources
 permalink: /digital-tools/
 description: A list of digital tools and online generators to be used to support playing Liminal Horror.
 ---

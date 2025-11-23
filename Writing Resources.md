@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adventure Writing Resources
+title: Writing Resources
 nav_order: 5
 has_children: true
 permalink: /resources

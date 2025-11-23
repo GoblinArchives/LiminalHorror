@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Third Party Print Support
-nav_order: 7
-parent: Adventure Writing Resources
+nav_order: 9
+parent: Writing Resources
 permalink: /printsupport/
 description: A process that lowers the fiscal barrier when publishing adventures for the Liminal Horror ttrpg.
 ---

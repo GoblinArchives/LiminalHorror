@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Third Party License
-nav_order: 6
+nav_order: 1
+parent: Writing Resources
 permalink: /3pp/
 description: The third party license for creating and publishing work for the Liminal Horror ttrpg.
 ---

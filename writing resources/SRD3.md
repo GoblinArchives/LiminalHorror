@@ -2,7 +2,7 @@
 layout: default
 title: System Reference Document v3.0
 nav_order: 8
-parent: Adventure Writing Resources
+parent: Writing Resources
 description: A system reference document for Liminal Horror Deluxe Edition, aimed at supporting designers in creating content for Liminal Horror.
 ---
 

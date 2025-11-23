@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LH Adventures
+title: Adventures
 nav_order: 4
 has_children: true
 permalink: /adventures/
