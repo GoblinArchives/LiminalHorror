@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adventure Conversions
+title: Conversion Format
 nav_order: 6
 parent: Adventures
 ---
