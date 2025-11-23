@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Investigators Guide
-nav_order: 2
-grand_parent: Rules
+nav_order: 1
 parent: Deluxe Edition
 has_children: true
-permalink: /deluxe-investigators-guide/
+permalink: /investigators-guide/
 description: An introduction to the player facing portion of the Deluxe Edition.
 ---
 

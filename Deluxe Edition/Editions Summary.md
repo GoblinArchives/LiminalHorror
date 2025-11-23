@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Rules
-nav_order: 3
-has_children: true
-permalink: /rules/
+title: Editions Summary
+parent: Deluxe Edition
+nav_order: 6
+permalink: /editions_summary/
 description: Collecting the different core rules that are available for free to reference and use.
 ---
 

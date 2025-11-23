@@ -4,7 +4,7 @@ title: SRD v1.0
 nav_order: 5
 search_exclude: true
 parent: Older Editions
-grand_parent: Rules
+grand_parent: Deluxe Edition
 permalink: /srdv1/
 description: The first version of the SRD which was developed for Liminal Horror Legacy Edition 2021.
 ---

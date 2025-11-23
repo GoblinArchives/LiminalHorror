@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Digital Tools
-nav_order: 2
-parent: Rules 
+nav_order: 8
+parent: Deluxe Edition
 permalink: /digital-tools/
 description: A list of digital tools and online generators to be used to support playing Liminal Horror.
 ---
