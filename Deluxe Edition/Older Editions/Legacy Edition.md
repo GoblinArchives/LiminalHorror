@@ -719,6 +719,7 @@ Random spells are generated using the table and process below.
 - **On a failure:** the player does not 	retain the spell, marks deprived and adds fatigued to their inventory.
 
 ### Spell Tables (adapted from Maze Rats)
+Here is an easy to use Spell Name Generator: [https://perchance.org/liminal-horror-spells](https://perchance.org/liminal-horror-spells)
 
 #### Step 1 - Spell Formula (2d6)
 
@@ -737,7 +738,7 @@ Random spells are generated using the table and process below.
 
 <br>
 
-[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
+![image](/img/step2.png)
 
 #### Omens and Magical Catastrophes
 
