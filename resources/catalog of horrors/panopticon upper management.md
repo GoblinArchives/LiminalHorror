@@ -15,9 +15,9 @@ Dressed in tailored best, or what is currently fashionable for the corporate eli
 Most people who have achieved this high position in the company have come in contact with Resonant Artifacts or other dimensional anomalies. Their proximity to the strange has gifted them boons that they use to maintain their position. These assets vary, and are one of the cruxes of their positions.
 
 **d6 Assets**  
-1\. [Resonant Artifact](https://liminalhorrorrpg.com/srd-resonant-artifacts/)
-2\. [Rituals](https://liminalhorrorrpg.com/srd-rituals/)
-3\. [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
-4\. Contained [Lesser Horror](https://liminalhorrorrpg.com/srd-horrors/#lesser-horrors)
-5\. Contained [Greater Horror](https://liminalhorrorrpg.com/srd-horrors/#greater-horrors)
-6\. [Pact](https://liminalhorrorrpg.com/srd-horrors/#pact-warlock)
+1. [Resonant Artifact](https://liminalhorrorrpg.com/srd-resonant-artifacts/)
+2. [Rituals](https://liminalhorrorrpg.com/srd-rituals/)
+3. [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
+4. Contained [Lesser Horror](https://liminalhorrorrpg.com/srd-horrors/#lesser-horrors)
+5. Contained [Greater Horror](https://liminalhorrorrpg.com/srd-horrors/#greater-horrors)
+6. [Pact](https://liminalhorrorrpg.com/srd-horrors/#pact-warlock)
