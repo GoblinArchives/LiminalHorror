@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Older Editions
-nav_order: 7
+nav_order: 5
 parent: Deluxe Edition
 has_children: true
 permalink: /older-editions/

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: One Pager
-nav_order: 5
+nav_order: 4
 parent: Deluxe Edition
 search_exclude: true
 permalink: /deluxe-one-page/
