@@ -2,7 +2,7 @@
 layout: default
 title: Useful Links
 nav_order: 5
-parent: Writing Resources
+parent: Resources
 permalink: /useful-links/
 description: A collection of third party links to blogs and resources to support running and creating for Liminal Horror.
 ---
@@ -20,9 +20,10 @@ A collection of blogs, essays, and resources for ttrpgs. This is a non-comprehen
 - [Survive, Solve, or Save: Pick Two](https://www.failuretolerated.com/survive-solve-or-save-pick-two) by Sean McCoy: “horror games should put to you a choice in any given situation, which is that you can either survive the terror, solve the mystery, or save the day…But you should only be able to do 1 to 1.5 of those things.”
 - [D&D Doesn't Understand What Monsters Are](https://throneofsalt.blogspot.com/2020/08/d-doesnt-understand-what-monsters-are.html?m=1) by Throne of Salt: “A monster is a symptom that somewhere, somehow, the world has gotten fucked up.”
 - [Violent Encounters](https://www.failuretolerated.com/violent-encounters) by Sean McCoy: “rethink these scenarios, to reframe the imaginary space they inhabit so that no matter where you fall on the rules-lite to rules-might spectrum, your encounters have real stakes.”
-- [The ICI Doctrine: Information, Choice, Impact
-](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html?m=1) by Chris McDowell: A way to run a game that emphasizes player agency.
+- [The ICI Doctrine: Information, Choice, Impact](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html?m=1) by Chris McDowell: A way to run a game that emphasizes player agency.
+- [How I Run Into the Odd](https://www.bastionland.com/2015/09/how-i-run-into-odd.html) by Chris McDowell: "Someone asked how I prepare for a game of Into the Odd, so it's time for some rapid fire tips on how to run a game exactly like I do (which you won't want to do)."  
 - [Difficulty in Bastionland](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html?m=1) by Chris McDowell:  “There are other ways to make vaulting over a garden fence feel different to scaling a brick wall crowned with barbed wire.”
+- [34 Good Traps](https://www.bastionland.com/2018/08/34-good-traps.html) by Chris McDowell: The "measure of a good trap: "At least one part of it is immediately visible. / It allows interaction and investigation. / It has impactful consequences for the victim."" 
 - [Foreground Growth](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html?m=1) by Chris McDowell: How to explore character change without explicit progression mechanics.
 - [Casing the Join: A Framework](https://dicegoblin.blog/casing-the-joint-a-framework-for-stakeouts/) by Dice Goblin: “The party is planning to infiltrate a semi-public location – partially open to the public, but with secrets laying inside. Time for a stakeout!”
 - [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/?amp=1) by Dice Goblin: “Performing actions involves time, gear, and skill.”
