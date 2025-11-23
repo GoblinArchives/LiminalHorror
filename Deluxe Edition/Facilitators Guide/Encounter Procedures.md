@@ -8,23 +8,23 @@ permalink: /encounter-procedures/
 description: Three different encounter procedures for Liminal Horror, including the Encounter Die, Tension Die, and Voidcrawl.
 ---
 
-## **ENCOUNTER PROCEDURES**
+# **ENCOUNTER PROCEDURES**
 
 While your scenarios may come stocked with horrors to encounter while exploring the spaces, it’s often useful to also introduce random encounters. This allows for the Facilitator to infuse dynamic situations into play with minimal planning that keep players on their toes, as even the Facilitator won’t know exactly when these encounters occur until the moment they’re triggered.
 
 Presented on the following pages are three distinct encounter systems to take into consideration when deciding how to best leverage random encounters. Each provides a means of building suspense, introducing clues and omens, and providing a framework for integrating encounters into play. Choosing the right procedure depends on the tone, scope, and scale. These include:
 
-* **Encounter Die**: A straightforward encounter system that randomizes when encounters occur.  
-* **Tension Die**: An encounter procedure where time is an ever dwindling resource that leads to inescapable encounters.   
-* **Voidcrawl**: A narrative generator that utilizes multiple tables to push Investigators deeper as they look into the weird and strange.
+1. [**Encounter Die**:](https://liminalhorrorrpg.com/encounter-procedures/#1.-encounter-die) A straightforward encounter system that randomizes when encounters occur.  
+2. [**Tension Die**:](https://liminalhorrorrpg.com/encounter-procedures/#2.-tension-die) An encounter procedure where time is an ever dwindling resource that leads to inescapable encounters.   
+3. [**Voidcrawl**:](https://liminalhorrorrpg.com/encounter-procedures/#3.-voidcrawl) A narrative generator that utilizes multiple tables to push Investigators deeper as they look into the weird and strange.
 
-### **EXPLORATION TURN**
+## **EXPLORATION TURN**
 
 Each encounter system utilizes the Exploration Turn to aid in tracking time and maintaining tension, representing the amount of time it takes to complete a significant action. These include actions such as moving between spaces, searching or exploring a space, taking a break to regain HP in an unsecured location, or when 20-30 minutes pass in real time when the Investigators are otherwise not engaged in a conflict.
 
 Following the advice in **Tracking Time (see Deluxe Edition, p. x)**, how much time passes in-game per Exploration Turn will scale based on the needs of the scenario. It may take an hour to travel from one side of town to the other, so in a low tension situation this may be a single Exploration Turn. In contrast, walking down a hallway in a building filled with monsters would be a single Exploration Turn given the high stress nature of the setup.
 
-### **ENCOUNTER DIE**
+## **1. ENCOUNTER DIE**
 
 The Encounter Die is an encounter system that relies on pure randomization to determine when encounters occur. Each time an Exploration Turn passes or the party does something that would attract the attention of the horrors, roll a d6.
 
@@ -48,7 +48,7 @@ Encounters aren’t always going to be direct and violent confrontations with th
 * A tree falling in the road, preventing further progress by car.  
 * Marks or signs that a horror may be lurking nearby.
 
-### **TENSION DIE**
+## **2. TENSION DIE**
 
 The Tension Die is an encounter system that simulates a clocking ticking down towards an inevitable encounter. Begin with a point pool of 20\. Each time an Exploration Turn passes or the party does something that would attract the attention of the horrors, roll a d6 and subtract the result from the point pool. If a 6 is rolled, roll again and subtract both results for the pool. When the point pool reaches 0, an encounter is triggered. After the encounter is resolved, reset the pool and begin again.
 
@@ -69,7 +69,7 @@ It may also be useful to adjust the point pool to some total other than 20 based
 * Want to keep tension high? Drop the pool down to 15 or 10\.   
 * Want a slower burn leading to a more climactic encounter? Bump the pool up to 25 or 30+.
 
-### **VOIDCRAWL**
+## **3. VOIDCRAWL**
 
 The Voidcrawl is a narrative generation tool, taking the [Encounter Die](#encounter-die) and overloading it to provide a series of additional narrative prompts while maintaining ease of use. Each time an Exploration Turn passes or the party does something that would attract the attention of the horrors, roll a d6 and consult the table below.
 

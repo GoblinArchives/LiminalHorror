@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Pager
+title: DE One Pager
 nav_order: 4
 parent: Deluxe Edition
 search_exclude: true

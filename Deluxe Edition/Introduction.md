@@ -3,52 +3,71 @@ layout: default
 title: Introduction
 parent: Deluxe Edition
 nav_order: 1
+has_toc: false
 permalink: /introduction/
 description: An introduction to the Liminal Horror Deluxe Edition.
 ---
 
 # **Liminal Horror Deluxe Edition: Web Based Excerpts**
 
-## Table of Contents
+## INTRODUCTION
+*There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait, and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
-Chapter 1: Investigator Guide - in it's entirety (CC-By-4.0)
+*Grab your flashlights and blood splattered jackets as you try to make it through the night. Beware: snapping bone and rending flesh are often the simplest outcome. While there may be great power within these places, not all mysteries can be solved, and not everyone can be saved. Above all, there are fates far worse than death.*
 
-- [What is this?](#what-is-this-?)
-- [Acknowledgments](#acknowledgements)
-- [Player Priniciples](#player-principles)
-- [Creating an Investigator](#creating-an-investigator)
-- [Backgrounds](#backgrounds)
-- [Archetypes](#archetypes)
-- [Optional Investigator Details](#optional-investigator-details)
-- [The Party](#the-party)
-- [Associates & Connections](#associates-&-connections)
-- [Equipment](#equipment)
-- [Core Rules](#core-rules)
-- [Procedure of Play](#procedure-of-play)
-- [Rules Summary](#rules-summary)
-- [Mechanics](#mechanics)
-- [Violent Encounters](#violent-encounters)
-- [Health and Wellness](#health-and-wellness)
-- [Wounds](#wounds)
-- [Stress](#stress)
-- [Fallout](#fallout)
-- [Rituals](#rituals)
-- [Safety Tools](#safety-tools)
 
-Chapter 2: Facilitator's Guide - excerpts (Copyright © 2025 Goblin Archives & Josh Domanski)
 
-- [Facilitator Principles](https://liminalhorrorrpg.com/deluxe/#facilitator-principles)
-- [Creating A Doom Clock](#creating-a-doom-clock)
-- [Creating Horrors](#creating-horrors)
-- [Location Generators](#location-generators)
-- [Encounter Procedures](#encounter-procedures)
-- [Encounter Die](#encounter-die)
-- [Tension Die](#tension-die)
-- [Voidcrawl](#voidcrawl)
-- [Media Recommendations](#media-recommendations)
-- [Adapting a Mystery](#adapting-a-mystery)
-- [System Specific Conversion Notes](#system-specific-conversion-notes)
+### The Ultimate Modern Horror TTRPG Toolkit
+LIMINAL HORROR is a rules-lite, adaptable survival-horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on surviving the weird and investigating horrors, blending simple, old-school inspired rules with modern, narrative first principles. Survival is not guaranteed and those that do make it through the night are often forever changed.
 
+This *Deluxe Edition* builds off the core system presented in the original *Liminal Horror* zines. Alongside character creation and core mechanics are a robust series of tools, advice, creatures, and scenarios to aid Facilitators in getting their horrors to the table.
+
+
+## **The Basics**
+Despite the size, this text is meant to make the distance to getting to the table minimal. Much of the book is supplementary materials to help Facilitators create memorable sessions for any genre of modern horror. If you’re already familiar with tabletop roleplaying games, you can be ready to get rolling in under thirty minutes.
+
+For quick reference, the core rules fit on a single page. Want to play tonight? Read through the this web-page for the basic mechanics and character creation. Planning for a future campaign? While you can use these tools to create a multiple sessions, you may benefit from reading some of the official modules, looking at some of the Third Party Content that has been released, or read through the **Deluxe Edition** ([print](https://spacepenguin.ink/collections/liminal-horror) or [digital pdf](https://goblinarchives.itch.io/)), specifically the **Facilitator’s Guide** and **Catalog of the Strange** for tools, advice, and all manner of horrors to bring to the table.
+
+
+## Core Touchstones
+* *Uzumaki* (2013) \- Junji Ito  
+* *The Magnus Archives* (2016-2021) \- Jonathan Sims  
+* *X-Files* (1993-2002, 2016-2018) \- Chris Carter  
+* *The Evil Dead Series* (1981, 1987, 1992, 2013, 2015-2018, 2023\) Sam Raimi  
+* *It Follows* (2014) \- David Robert Mitchell  
+* *Scooby-Doo on Zombie Island* (1993-2002, 2016-2018) \- Jim Stenstrum & Glenn Leopold.  
+* *Silent Hill Series* (1999, 2001, 2003, 2004, 2007, 2008\) \-  Keiichiro Toyama  
+* *Alan Wake Series* (2010, 2023\) \- Remedy Entertainment  
+* *The Thing* (1982) John Carpenter & Bill Lancaster
+
+<p></p>
+
+## **LIMINAL HORROR At A Glance**
+
+### **PLAYER ROLES**
+Under standard play, one player assumes the role of the Facilitator to control the world and its horrors. The rest of the players assume the roles of Investigators who fight back against the things that go bump in the night. The system often works best with one Facilitator and one to five Investigators.
+
+### **ARBITRATION**
+Facilitators make fair and consistent rulings during play, advancing situations in which the players can engage with the fiction. The goal is to create interesting collective stories of horror and struggle against powers greater than oneself.
+
+### **PLAYER CHOICE**
+Facilitators provide an adequate amount of information to promote player agency and clever problem solving. Risks should be clear, choices should be difficult, and the impact of these choices should matter.
+
+### **NO CLASSES, NO LEVELING**
+Investigators are not limited by a predefined class and are instead made unique by their background, equipment, and experiences. Growth occurs through diegetic means, as there is no leveling or mechanical experience. Investigators grow more interesting through the relationships they build, strange items they find, and by accruing [Fallout](#fallout).
+
+### **CHARACTER LIMINALITY**
+Investigators embark on a process of change as a direct result of the horrors they are forced to grapple with. This transition from “normality” to the weird is the main function of *Liminal Horror*’s core design. Exposure to monsters, Stress, Fallout, and being forced to make increasingly difficult choices results in Investigators who may or may not survive, but will undoubtedly be changed through play.
+
+### **SETTING AND PLACE**
+The places in which these stories are told are just as important as the Investigators, even the seemingly mundane, as they provide a relatable frame of reference for the players. The weird, strange, and horrific stand juxtaposed against that familiarity, making it ever more eerie. Default play assumes a roughly contemporary setting, though the system can be easily adapted to span a variety of time periods.
+
+### **DEATH**
+The world is dangerous, and death is always a possible consequence. It should be ever present, but never random or unexpected.
+
+Death comes for everyone, but some suffer a worse fate.
+
+<p></p>
 
 ## **Acknowledgements**
 
@@ -66,15 +85,12 @@ Chapter 2: Facilitator's Guide - excerpts (Copyright © 2025 Goblin Archives & J
 ### **DEDICATION**
 
 In memory of our dearly departed cats who served as companions and project managers as Liminal Horror grew:
-
 * Little Guy \- 2024 (Goblin Archives)  
 * Itty Bitty the Space Penguin Kitty \- 2023 (Jarrett Crader)   
 * Fanny \- 2024 (Zach Hazard Vaupen)
 
 
-
 ### Copyright and Licensing:
-
 This project is multi-licensed. The digital/web version that includes excerpts from Liminal Horror Deluxe Edition is:
 
 * **CC-BY 4.0** and has been rewritten and adapted from Liminal Horror Investigators 2023\.   
@@ -85,79 +101,35 @@ This project is multi-licensed. The digital/web version that includes excerpts f
 
 <p></p>
 
-## INTRODUCTION
+## Table of Contents
+- [Introduction](https://liminalhorrorrpg.com/introduction/)
 
-*There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait, and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
+[Chapter 1: Investigator Guide - in it's entirety (CC-By-4.0)](https://liminalhorrorrpg.com/investigators-guide/)
+- [Player Priniciples](https://liminalhorrorrpg.com/player-prinicples/)
+- [Creating an Investigator](https://liminalhorrorrpg.com/creating-an-investigator/)
+- [Equipment](https://liminalhorrorrpg.com/equipment/)
+- [Core Rules](https://liminalhorrorrpg.com/core-rules/)
+- [Wounds and Healing](https://liminalhorrorrpg.com/wounds/)
+- [Stress and Fallout](https://liminalhorrorrpg.com/stress-fallout/)
+- [Rituals](https://liminalhorrorrpg.com/rituals/)
+- [Safety Tools](https://liminalhorrorrpg.com/safety-tools/)
 
-*Grab your flashlights and blood splattered jackets as you try to make it through the night. Beware: snapping bone and rending flesh are often the simplest outcome. While there may be great power within these places, not all mysteries can be solved, and not everyone can be saved. Above all, there are fates far worse than death.*
+[Chapter 2: Facilitator's Guide - excerpts (Copyright © 2025 Goblin Archives & Josh Domanski)](https://liminalhorrorrpg.com/facilitators%20guide/)
+- [Facilitator Principles](https://liminalhorrorrpg.com/prinicples/)
+- [Creating A Doom Clock](#creating-a-doom-clock)
+- [Creating Horrors](#creating-horrors)
+- [Location Generators](#location-generators)
+- [Encounter Procedures](#encounter-procedures)
+- [Encounter Die](#encounter-die)
+- [Tension Die](#tension-die)
+- [Voidcrawl](#voidcrawl)
+- [Media Recommendations](#media-recommendations)
+- [Adapting a Mystery](#adapting-a-mystery)
+- [System Specific Conversion Notes](#system-specific-conversion-notes)
 
-
-
-### The Ultimate Modern Horror TTRPG Toolkit
-
-LIMINAL HORROR is a rules-lite, adaptable survival-horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on surviving the weird and investigating horrors, blending simple, old-school inspired rules with modern, narrative first principles. Survival is not guaranteed and those that do make it through the night are often forever changed.
-
-This *Deluxe Edition* builds off the core system presented in the original *Liminal Horror* zines. Alongside character creation and core mechanics are a robust series of tools, advice, creatures, and scenarios to aid Facilitators in getting their horrors to the table.
-
-
-
-## **The Basics**
-
-Despite the size, this text is meant to make the distance to getting to the table minimal. Much of the book is supplementary materials to help Facilitators create memorable sessions for any genre of modern horror. If you’re already familiar with tabletop roleplaying games, you can be ready to get rolling in under thirty minutes.
-
-For quick reference, the core rules fit on a single page. Want to play tonight? Read through the this web-page for the basic mechanics and character creation. Planning for a future campaign? While you can use these tools to create a multiple sessions, you may benefit from reading some of the official modules, looking at some of the Third Party Content that has been released, or read through the **Deluxe Edition** ([print](https://spacepenguin.ink/collections/liminal-horror) or [digital pdf](https://goblinarchives.itch.io/)), specifically the **Facilitator’s Guide** and **Catalog of the Strange** for tools, advice, and all manner of horrors to bring to the table.
-
-
-
-## Core Touchstones
-
-* *Uzumaki* (2013) \- Junji Ito  
-* *The Magnus Archives* (2016-2021) \- Jonathan Sims  
-* *X-Files* (1993-2002, 2016-2018) \- Chris Carter  
-* *The Evil Dead Series* (1981, 1987, 1992, 2013, 2015-2018, 2023\) Sam Raimi  
-* *It Follows* (2014) \- David Robert Mitchell  
-* *Scooby-Doo on Zombie Island* (1993-2002, 2016-2018) \- Jim Stenstrum & Glenn Leopold.  
-* *Silent Hill Series* (1999, 2001, 2003, 2004, 2007, 2008\) \-  Keiichiro Toyama  
-* *Alan Wake Series* (2010, 2023\) \- Remedy Entertainment  
-* *The Thing* (1982) John Carpenter & Bill Lancaster
-
-
-
-<p></p>
-
-##
-
-## **At A Glance**
-
-### **PLAYER ROLES**
-
-Under standard play, one player assumes the role of the Facilitator to control the world and its horrors. The rest of the players assume the roles of Investigators who fight back against the things that go bump in the night. The system often works best with one Facilitator and one to five Investigators.
-
-### **ARBITRATION**
-
-Facilitators make fair and consistent rulings during play, advancing situations in which the players can engage with the fiction. The goal is to create interesting collective stories of horror and struggle against powers greater than oneself.
-
-### **PLAYER CHOICE**
-
-Facilitators provide an adequate amount of information to promote player agency and clever problem solving. Risks should be clear, choices should be difficult, and the impact of these choices should matter.
-
-### **NO CLASSES, NO LEVELING**
-
-Investigators are not limited by a predefined class and are instead made unique by their background, equipment, and experiences. Growth occurs through diegetic means, as there is no leveling or mechanical experience. Investigators grow more interesting through the relationships they build, strange items they find, and by accruing [Fallout](#fallout).
-
-### **CHARACTER LIMINALITY**
-
-Investigators embark on a process of change as a direct result of the horrors they are forced to grapple with. This transition from “normality” to the weird is the main function of *Liminal Horror*’s core design. Exposure to monsters, Stress, Fallout, and being forced to make increasingly difficult choices results in Investigators who may or may not survive, but will undoubtedly be changed through play.
-
-### **SETTING AND PLACE**
-
-The places in which these stories are told are just as important as the Investigators, even the seemingly mundane, as they provide a relatable frame of reference for the players. The weird, strange, and horrific stand juxtaposed against that familiarity, making it ever more eerie. Default play assumes a roughly contemporary setting, though the system can be easily adapted to span a variety of time periods.
-
-### **DEATH**
-
-The world is dangerous, and death is always a possible consequence. It should be ever present, but never random or unexpected.
-
-Death comes for everyone, but some suffer a worse fate.
-
-
-<p></p>
+Additional Content
+- [Deluxe Edition One Web-Page](https://liminalhorrorrpg.com/deluxe-one-page/)
+- [Character Generator](https://liminalhorrorrpg.com/character-generation)
+- [Older Editions](https://liminalhorrorrpg.com/older-editions/)
+  - [Investigators](https://liminalhorrorrpg.com/investigators/)
+  - [Legacy](https://liminalhorrorrpg.com/legacy/)

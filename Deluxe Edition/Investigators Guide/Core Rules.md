@@ -106,7 +106,7 @@ Hit Protection is an Investigator’s ability to avoid serious harm, from both p
 
 #### **INVENTORY**
 
-Each Investigator begins with 10 Inventory Slots. Most carryable items take up one slot, and small items that would typically fit in pockets can be bundled together in a single slot. Items that are bulky or require two hands to properly use take up two slots. Investigators may carry a reasonable amount of items beyond their slots, though those who do so become [*Deprived*](#deprived). Vehicles can be used to store additional inventory, but those items are inaccessible if Investigators are away from the vehicle.
+Each Investigator begins with 10 Inventory Slots. Most carryable items take up one slot, and small items that would typically fit in pockets can be bundled together in a single slot. Items that are bulky or require two hands to properly use take up two slots. Investigators may carry a reasonable amount of items beyond their slots, though those who do so become [*Deprived*](https://liminalhorrorrpg.com/wounds/#deprivation-and-fatigue). Vehicles can be used to store additional inventory, but those items are inaccessible if Investigators are away from the vehicle.
 
 While it is assumed Investigators have a bag or backpack, Inventory Slots are an abstraction. They may also be filled with a variety of status effects, which represent the burden that surviving horrors has on the Investigator, rather than inherent physical capabilities.
 
@@ -125,9 +125,9 @@ Additional Item Tags can be found in the **Deluxe Edition Appendix: Item Tags (p
 
 #### **ARMOR AND STABILITY**
 
-Armor protects against physical damage. Incoming damage is reduced by the target’s Armor score (typically between 0 and 3\) before it is applied to HP. Armor most commonly comes from equipment, but may be the result of various natural means of protection or from certain [Fallout](#fallout).
+Armor protects against physical damage. Incoming damage is reduced by the target’s Armor score (typically between 0 and 3\) before it is applied to HP. Armor most commonly comes from equipment, but may be the result of various natural means of protection or from certain [Fallout](https://liminalhorrorrpg.com/stress-fallout/#fallout).
 
-Stability is a metaphysical armor, protecting against the emotional strain of Stress. Incoming Stress is reduced by the target’s Stability score (typically between 0 and 2\) before it is applied to HP. Stability is fairly rare. While some items might provide Stability (trinkets, using phones/cameras), it most commonly comes from certain [Fallout](#fallout).
+Stability is a metaphysical armor, protecting against the emotional strain of Stress. Incoming Stress is reduced by the target’s Stability score (typically between 0 and 2\) before it is applied to HP. Stability is fairly rare. While some items might provide Stability (trinkets, using phones/cameras), it most commonly comes from certain [Fallout](https://liminalhorrorrpg.com/stress-fallout/#fallout).
 
 #### **CELLPHONES AND STABILITY**
 
@@ -140,7 +140,7 @@ When an Investigator uses a cellphone, handheld camera, CCTV, etc., to view a ho
 
 #### **WEALTH**
 
-An investigator's personal wealth is defined by the cash they have on hand. This represents the money they have immediate access to and not necessarily a full bank account or net worth. *Liminal Horror* is set in a world with modern conveniences. Minor basic goods aren’t consequential and can be purchased with the swipe of a credit card as long as an appropriate shop can be found. Cash comes into play when the Investigators want to purchase more specialized equipment, though some vendors may require different forms of payment. Use the [Equipment List](#equipment) as a basis for available goods and prices, though various narrative variables may alter both the prices and the availability of the listed items.
+An investigator's personal wealth is defined by the cash they have on hand. This represents the money they have immediate access to and not necessarily a full bank account or net worth. *Liminal Horror* is set in a world with modern conveniences. Minor basic goods aren’t consequential and can be purchased with the swipe of a credit card as long as an appropriate shop can be found. Cash comes into play when the Investigators want to purchase more specialized equipment, though some vendors may require different forms of payment. Use the [Equipment List](https://liminalhorrorrpg.com/equipment/) as a basis for available goods and prices, though various narrative variables may alter both the prices and the availability of the listed items.
 
 Over the course of a mystery the Investigators may gain more cash by selling goods they have or stealing. NPCs might have jobs available or rewards for the safe return of those affected by the horrors. Between scenarios, an Investigator can replenish their cash by returning to their primary source of employment.
 
@@ -200,7 +200,7 @@ An attack that causes HP loss but does not bring total HP to 0 is considered a g
 
 When HP is reduced to 0, any remaining damage is applied directly to the target’s STR score. This is where a slash draws blood or a bullet finds home and serious harm befalls an individual.
 
-There are some horrors that deal Stress directly to their targets instead of dealing physical damage (see [Stress & Fallout](#stress-and-fallout)). In this case, roll the corresponding Stress die, subtract any Stability, and apply the remaining to the target’s HP. When HP is reduced to 0, any remaining Stress is applied directly to the target’s CTRL score.
+There are some horrors that deal Stress directly to their targets instead of dealing physical damage (see [Stress & Fallout](https://liminalhorrorrpg.com/stress-fallout/)). In this case, roll the corresponding Stress die, subtract any Stability, and apply the remaining to the target’s HP. When HP is reduced to 0, any remaining Stress is applied directly to the target’s CTRL score.
 
 Attacks that are non-lethal or attempt to immobilize an individual target DEX after HP is reduced to 0\. This might be a taser or a horrid spider wrapping a victim up in webs.
 
@@ -230,7 +230,7 @@ Escaping a doomed situation or a close-quartered encounter requires a successful
 
 When damage is dealt directly to a target’s STR score, they must make a STR Save with the new total. Upon failure, the target suffers *Critical Damage*.
 
-When an Investigator takes *Critical Damage* they are critically wounded, taking a condition from the [Wounds table](#wounds). These consume an Inventory Slot until medical attention is received. The player can then choose whether their Investigator falls unconscious as a result or pushes through the pain to fight on, risking further damage and death.
+When an Investigator takes *Critical Damage* they are critically wounded, taking a condition from the [Wounds table](https://liminalhorrorrpg.com/wounds/#wounds). These consume an Inventory Slot until medical attention is received. The player can then choose whether their Investigator falls unconscious as a result or pushes through the pain to fight on, risking further damage and death.
 
 When an NPC takes *Critical Damage* they fall out of combat. This might mean they are knocked unconscious, bleeding out, stunned, or dazed. However, if an NPC’s STR is above 0 they are not yet dead and may rise again at an inopportune time unless dealt with. NPCs may also take Wounds if narratively appropriate.
 
@@ -238,7 +238,7 @@ Some Horrors have special abilities that trigger a change when they take *Critic
 
 #### **CRITICAL STRESS**
 
-When Stress is dealt directly to a target’s CTRL score, they must make a CTRL Save with the new total. Upon failure the target suffers *Critical Stress* and takes Fallout, which consumes an Inventory Slot. See [Stress and Fallout](#stress-and-fallout) for more details.
+When Stress is dealt directly to a target’s CTRL score, they must make a CTRL Save with the new total. Upon failure the target suffers *Critical Stress* and takes Fallout, which consumes an Inventory Slot. See [Stress and Fallout](https://liminalhorrorrpg.com/stress-fallout/) for more details.
 
 #### **ATTRIBUTE LOSS & DEATH**
 
@@ -260,7 +260,7 @@ Morale simulates an entity’s desire to survive.
 
 When in a group, adversaries must pass a CTRL Save to avoid fleeing after taking their first casualty and again when they lose half their number. A group may use their leader’s CTRL in place of their own. A lone adversary must pass a CTRL Save when grossly outmatched or when their HP is reduced to 0\. Entities that flee may regroup and return to counterattack. In this case, make an additional CTRL Save.
 
-[Associate’s](#associates) also test morale when their bonds with the Investigators are stressed. This might be when they encounter a horror after being coerced into a horrid scenario, when they’re treated poorly, or when their HP reaches 0\.
+[Associate’s](https://liminalhorrorrpg.com/creating-an-investigator/#associates) also test morale when their bonds with the Investigators are stressed. This might be when they encounter a horror after being coerced into a horrid scenario, when they’re treated poorly, or when their HP reaches 0\.
 
 Morale does not affect Investigators.
 
@@ -271,13 +271,9 @@ When the Investigators encounter an NPC whose disposition or reaction to the par
 2d6	REACTIONS
 
 2	Hostile
-
 3-5	Wary
-
 6-8	Curious
-
 9-11	Kind
-
 12	Helpful
 
 It’s often helpful to cater the results of the reaction table to fit the specific scenario. For example, if horrors are running rampant and stress is palpable, an NPC is much more likely to have a trepidation or hostile reaction to the party.

@@ -10,7 +10,7 @@ description: The character generation process for creating an Investigator in Li
 
 ## **CREATING AN INVESTIGATOR**
 
-In *Liminal Horror*, players assume the role of Investigators, otherwise normal people caught up in mysteries that threaten to end their lives or break them down and change them. Investigators are the type of folk who have the drive and resolve to keep pushing forward in the face of unspeakable horrors. They might be searching for answers, trying to save a friend, looking for [Resonant Artifacts](#resonant-artifacts), or simply trying to live to see another day.
+In *Liminal Horror*, players assume the role of Investigators, otherwise normal people caught up in mysteries that threaten to end their lives or break them down and change them. Investigators are the type of folk who have the drive and resolve to keep pushing forward in the face of unspeakable horrors. They might be searching for answers, trying to save a friend, looking for [Resonant Artifacts](https://liminalhorrorrpg.com/srd-resonant-artifacts/#resonant-artifacts), or simply trying to live to see another day.
 
 For the tables on the following pages, roll to select options at random or choose favorites. You may also work with your Facilitator to create custom alternatives.
 
@@ -30,7 +30,7 @@ Roll 1d6 to determine starting Hit Protection (HP). This represents an Investiga
 
 ### **3\. STARTING INVENTORY**
 
-Each Investigator begins with a smartphone (camera, flashlight, etc.) and 1d6 x 100 cash. Additional starting equipment is provided through [Backgrounds](#backgrounds) or [Archetypes](#archetypes). Many of these items can be used as a weapon if needed, for d6 damage. Players may also use their cash to purchase items from the [Equipment List](#equipment). It is assumed that Investigators have a backpack, purse, or cargo pants to store their gear, giving them a total of ten inventory slots. See [Inventory](#inventory) for how to keep track of these items.
+Each Investigator begins with a smartphone (camera, flashlight, etc.) and 1d6 x 100 cash. Additional starting equipment is provided through [Backgrounds](#backgrounds) or [Archetypes](#archetypes). Many of these items can be used as a weapon if needed, for d6 damage. Players may also use their cash to purchase items from the [Equipment List](https://liminalhorrorrpg.com/equipment/). It is assumed that Investigators have a backpack, purse, or cargo pants to store their gear, giving them a total of ten inventory slots. See [Inventory](https://liminalhorrorrpg.com/core-rules/#rules-summary) for how to keep track of these items.
 
 ### **4\. BACKGROUNDS & ARCHETYPES**
 
@@ -113,11 +113,11 @@ Background / Starting Equipment Bundle
 
 1. **Too Old:** The fight against the horrors that lie in the shadows is never ending, and you’ve been doing this a *long* time. It’s time to find someone to pass the torch to. **Take:** Wedding ring (+1 Stability), hidden cane sword (d8), detailed journal.  
 2. **True Crime:** Everyone with a microphone has a podcast these days, and your metrics have taken a dive. You need a new angle, a new mystery that no one else has covered yet. That’ll get the audience back. **Take*:*** mini shotgun mic, smartphone tripod, LED light.  
-3. **Final Girl:** By some miracle, you made it out alive when no one else did. Left with nothing but questions, returning to “normal” has been difficult and you can’t shake the feeling that the horrors aren’t done with you. **Take:** A [Fallout](#fallout), machete (d6), bloodstained jacket.   
+3. **Final Girl:** By some miracle, you made it out alive when no one else did. Left with nothing but questions, returning to “normal” has been difficult and you can’t shake the feeling that the horrors aren’t done with you. **Take:** A [Fallout](https://liminalhorrorrpg.com/stress-fallout/#fallout), machete (d6), bloodstained jacket.   
 4. **Writers Retreat**: It’s been far too long since you put anything on your editor’s desk. Despite the awards and now waning notoriety, the words just don’t flow like they used to. Maybe some time away from routine will get the creative juices flowing. **Take**: E-paper tablet, whittlin’ jackknife (d6), writing award, bottle of liquor.  
 5. **Without a Trace:** They’re gone. You’ve been searching, but no one seems to know anything. However, they weren't the only one to disappear under mysterious circumstances and you may have found a lead. **Take**: File of evidence, handgun (d6), deteriorated video message from that night.  
-6. **Resonance:** You were young when you found it, the strange object that felt like it called out to you. It’s allowed you to do impossible things, but you weren’t cautious, and now others want it too. **Take:** A [Resonant Artifact](#resonant-artifact), stylish leather jacket (+1 Armor).  
-7. **Bewitched:** You found an ancient leather book in an unusual place. You’ve only managed to translate a small fraction of its indecipherable text and diagrams, but it’s opened your eyes to a whole new world. **Take:** Leather bound tome, two [Rituals](#rituals).  
+6. **Resonance:** You were young when you found it, the strange object that felt like it called out to you. It’s allowed you to do impossible things, but you weren’t cautious, and now others want it too. **Take:** A [Resonant Artifact](https://liminalhorrorrpg.com/srd-resonant-artifacts/#resonant-artifacts), stylish leather jacket (+1 Armor).  
+7. **Bewitched:** You found an ancient leather book in an unusual place. You’ve only managed to translate a small fraction of its indecipherable text and diagrams, but it’s opened your eyes to a whole new world. **Take:** Leather bound tome, two [Rituals](https://liminalhorrorrpg.com/rituals/).  
 8. **Class Clown**: So what if you didn’t go to college with your friends? So what if you had to move back into your parents’ basement? You’re dependable and can always find a way to lighten the mood. **Take**: Baseball bat (d6), multitool, bicycle.   
 9. **Chosen One**: The Church always said you were born to do great things, but they were never clear on what that entailed. You managed to break away, putting that all behind you for a chance at a normal life. **Take**: Ornate amulet (+1 Stability), ritual dagger (d6), gold chalice.  
 10. **Bookworm**: Socializing isn’t your strong suit, as you’ve never really been able to “get” people. Books, however, are something you deeply connect with. **Take**: Library card, book strap w/ 3 books of choice, stationery set, booklight.  

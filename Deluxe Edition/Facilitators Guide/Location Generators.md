@@ -73,11 +73,11 @@ These spaces are either currently inhabited or are heavily used. This may be by 
 
 1. Someone going about day to day life.  
 2. A member of one of the Factions (see Deluxe Edition, p. x) or some sign of their involvement.  
-3. A potential [Associate](#associates).  
+3. A potential [Associate](https://liminalhorrorrpg.com/creating-an-investigator/#associates).  
 4. A person in need of assistance.  
 5. Someone hiding a dark secret.  
 6. Two factions vying for a resource or evidence of their rivalry.   
-7. Someone grappling with [Fallout](#fallout).  
+7. Someone grappling with [Fallout](https://liminalhorrorrpg.com/stress-fallout/#fallout).  
 8. A person or object that was lost.  
 9. A Ritual part way toward completion or signs of an attempted Ritual.   
 10. Someone seeking an ally.
@@ -97,7 +97,7 @@ The weird represents a strange or unnatural occurrence, often through locations 
 **Weird**
 
 1. An unnatural Landmark.  
-2. A [Resonant Artifact](#resonant-artifacts).  
+2. A [Resonant Artifact](https://liminalhorrorrpg.com/srd-resonant-artifacts/).  
 3. An [Omen](#omens) or hint that something is wrong.  
 4. Manifestations of the horrors that have changed the space.  
 5. A merchant of the weird and strange.   

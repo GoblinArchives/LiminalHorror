@@ -14,7 +14,7 @@ description: Health, wellness, and the Wounds system.
 
 HP can be recovered by taking a few minutes to rest in a safe place. This is enough time to catch your breath, steel your nerves, take a swig of water, or have a small bite to eat. However, if the horrors are still around this leaves the Investigators exposed, as a safe place will not always remain so.
 
-Attribute loss is more severe, requiring a week of rest with medical intervention to recover. Some extenuating circumstances may expedite this process such as metaphysical means (see [Rituals](#rituals)), experimental procedures, or consuming strange green plants.
+Attribute loss is more severe, requiring a week of rest with medical intervention to recover. Some extenuating circumstances may expedite this process such as metaphysical means (see [Rituals](https://liminalhorrorrpg.com/rituals/)), experimental procedures, or consuming strange green plants.
 
 Wounds can be cleared from an Inventory Slot once appropriate medical attention has been received and they are no longer an active threat to an Investigator. However, be mindful of the narrative implications of any lingering scars. See [Recovery]((#recovery)) for more details.
 
