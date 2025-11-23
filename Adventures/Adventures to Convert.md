@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adventures to Convert
-nav_order: 4
+nav_order: 5
 parent: Adventures
 permalink: /adventurestoconvert/
 description: Adventures for other systems that would convert to be run well in the modern setting of the Liminal Horror ttrpg.

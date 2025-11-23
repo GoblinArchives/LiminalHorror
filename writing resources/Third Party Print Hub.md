@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Third Party Print Hub
-nav_order: 3
-parent: Adventures
+nav_order: 10
+parent: Writing Resources
 permalink: /printhub/
 description: A list of published third party modules for the Liminal Horror ttrpg.
 ---
