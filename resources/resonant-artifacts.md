@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resonant Artifacts
-nav_order: 2
+nav_order: 3
 parent: Resources
 has_children: true
 permalink: /resonant-artifact-collection/
@@ -191,6 +191,6 @@ Blank interior.
 - Effect: Records the users thoughts in a fancy script.
 
 ### Moonlight Spark.
-A small glass bottle with a cork stopper. Suspended in a metallic liquid is a small flame. The threads of connection are quick and strong. 
+A small glass bottle with a cork stopper. Suspended in a metallic liquid is a small flame. The threads of connection are quick and strong.
 - Activation: Spend an hour gazing at the flame.
 - Effect: Whatever is inflicted upon the bearer is also reflected back (damage or effect/positive or negative) upon whomever the bearer is focused on.
