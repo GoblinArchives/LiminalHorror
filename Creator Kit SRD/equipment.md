@@ -2,7 +2,7 @@
 layout: default
 title: Equipment
 nav_order: 6
-parent: SRD
+parent: Creator Kit
 permalink: /srd-equipment/
 description: A list of example equipment for Liminal Horror scenarios.
 ---

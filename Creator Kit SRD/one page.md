@@ -2,7 +2,7 @@
 layout: default
 title: All On One Page
 nav_order: 28
-parent: SRD
+parent: Creator Kit
 permalink: /srd-one-page/
 search_exclude: true
 description: Liminal Horror SRD v3.0, all on one page.

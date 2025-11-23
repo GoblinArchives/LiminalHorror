@@ -2,7 +2,7 @@
 layout: default
 title: Factions
 nav_order: 18
-parent: SRD
+parent: Creator Kit
 permalink: /srd-factions/
 description: Faction templates for Liminal Horror, along with factions that you can include in your LH publications and scenarios.
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Conversion Guide
 nav_order: 7
-parent: Adventure Writing Resources
+parent: Writing Resources
 permalink: /conversion/
 description: Notes and guidance supporting players in converting adventures for other systems to be used with the Liminal Horror ttrpg.
 ---

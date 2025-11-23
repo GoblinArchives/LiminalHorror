@@ -2,7 +2,7 @@
 layout: default
 title: Special Abilities
 nav_order: 15
-parent: SRD
+parent: Creator Kit
 permalink: /srd-special-abilities/
 description: A collection of special abilities inspired by Yochai Gal's Cairn RPG.
 ---

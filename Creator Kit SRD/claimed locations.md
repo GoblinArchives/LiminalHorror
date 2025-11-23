@@ -2,7 +2,7 @@
 layout: default
 title: Claimed Locations
 nav_order: 26
-parent: SRD
+parent: Creator Kit
 permalink: /srd-claimed-locations/
 description: A system for corruption spreading and overtaking locations.
 ---

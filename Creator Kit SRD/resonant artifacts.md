@@ -2,7 +2,7 @@
 layout: default
 title: Resonant Artifacts
 nav_order: 16
-parent: SRD
+parent: Creator Kit
 permalink: /srd-resonant-artifacts/
 description: Advice and examples on creating Resonant Artifacts (magic items) for Liminal Horror.
 ---

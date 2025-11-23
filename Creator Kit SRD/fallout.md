@@ -2,7 +2,7 @@
 layout: default
 title: Fallout
 nav_order: 11
-parent: SRD
+parent: Creator Kit
 permalink: /srd-fallout/
 description: Advice and examples on creating fallout for Liminal Horror.
 ---

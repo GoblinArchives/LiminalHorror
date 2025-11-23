@@ -2,7 +2,7 @@
 layout: default
 title: Front and Back Matter
 nav_order: 3
-parent: SRD
+parent: Creator Kit
 permalink: /srd-front-back-matter/
 description: An overview of the types of resources often included in the front and back chapters of a Liminal Horror scenario.
 ---

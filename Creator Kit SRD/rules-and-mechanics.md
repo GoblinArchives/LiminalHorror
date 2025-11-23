@@ -2,7 +2,7 @@
 layout: default
 title: Rules and Mechanics
 nav_order: 4
-parent: SRD
+parent: Creator Kit
 permalink: /srd-rules-and-mechanics/
 description: The rules and mechanics for Liminal Horror.
 ---

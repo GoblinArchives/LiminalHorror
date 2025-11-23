@@ -2,7 +2,7 @@
 layout: default
 title: Rituals
 nav_order: 12
-parent: SRD
+parent: Creator Kit
 permalink: /srd-rituals/
 description: A guide for using the magic system presented in Liminal Horror Deluxe Edition. Rituals are a great reference for many other subsystems (ie. special abilities, horrors, resonant artifacts, etc).
 ---

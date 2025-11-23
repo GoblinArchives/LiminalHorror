@@ -2,7 +2,7 @@
 layout: default
 title: Location Generators
 nav_order: 8
-parent: SRD
+parent: Creator Kit
 permalink: /srd-location-generators/
 description: A procedure for generating Liminal Horror locations.
 ---

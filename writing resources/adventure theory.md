@@ -2,7 +2,7 @@
 layout: default
 title: Adventure Theory
 nav_order: 3
-parent: Adventure Writing Resources
+parent: Writing Resources
 permalink: /Adventure-Theory/
 description: External resources, blogs, videos, and supports on writing adventures for ttrpgs.
 ---

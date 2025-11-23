@@ -2,7 +2,7 @@
 layout: default
 title: Room Keying
 nav_order: 9
-parent: SRD
+parent: Creator Kit
 permalink: /srd-room-keying/
 description: A reference for the Liminal Horror house style for room keying.
 ---

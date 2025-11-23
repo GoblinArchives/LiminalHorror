@@ -2,7 +2,7 @@
 layout: default
 title: Horrors
 nav_order: 14
-parent: SRD
+parent: Creator Kit
 permalink: /srd-horrors/
 description: A collection of Horrors with an open license that you can use in your own Liminal Horror scenarios and publications.
 ---

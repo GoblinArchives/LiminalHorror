@@ -2,7 +2,7 @@
 layout: default
 title: Design Templates
 nav_order: 2
-parent: Adventure Writing Resources
+parent: Writing Resources
 permalink: /templates/
 description: Design templates created by Josh Domanski in order to support designers in writing and creating content for the Liminal Horror ttrpg.
 ---

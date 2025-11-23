@@ -2,7 +2,7 @@
 layout: default
 title: Cults
 nav_order: 19
-parent: SRD
+parent: Creator Kit
 permalink: /srd-cults/
 description: Cult templates for Liminal Horror, along with cults that you can include in your LH publications and scenarios.
 ---

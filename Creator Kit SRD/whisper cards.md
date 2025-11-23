@@ -2,7 +2,7 @@
 layout: default
 title: Whisper Cards
 nav_order: 25
-parent: SRD
+parent: Creator Kit
 permalink: /srd-whisper-cards/
 description: A modular card system that keeps information hidden from players and facilitator (emulates the wondering if someone has been transformed into a monster).  
 ---

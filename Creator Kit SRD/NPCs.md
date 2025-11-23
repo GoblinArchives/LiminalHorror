@@ -2,13 +2,13 @@
 layout: default
 title: NPCs
 nav_order: 17
-parent: SRD
+parent: Creator Kit
 permalink: /srd-npcs/
 description: Advice on creating NPCs for Liminal Horror scenarios and publications
 ---
 # NPCs
 
-> Note: See [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has multiple essays on creating and using NPCs in modern horror. They can be found:
+>Note: See [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has multiple essays on creating and using NPCs in modern horror. They can be found:
 >
 > * \[Include index entries\]
 

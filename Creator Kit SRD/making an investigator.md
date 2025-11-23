@@ -2,7 +2,7 @@
 layout: default
 title: Making an Investigator
 nav_order: 5
-parent: SRD
+parent: Creator Kit
 permalink: /srd-making-an-investigator/
 description: An examination on the process for character creation in Liminal Horror scenarios.
 ---

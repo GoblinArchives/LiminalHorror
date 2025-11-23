@@ -2,7 +2,7 @@
 layout: default
 title: Doom Clock
 nav_order: 10
-parent: SRD
+parent: Creator Kit
 permalink: /srd-doom-clock/
 description: A guide to creating Doom Clocks, including a framework for use in Liminal Horror scenarios.
 ---

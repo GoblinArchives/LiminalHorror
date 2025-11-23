@@ -2,7 +2,7 @@
 layout: default
 title: Kidnapping
 nav_order: 27
-parent: SRD
+parent: Creator Kit
 permalink: /srd-kidnapping/
 description: A procedure to have cultists kidnap townsfolk.
 ---

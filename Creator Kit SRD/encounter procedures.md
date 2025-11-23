@@ -2,7 +2,7 @@
 layout: default
 title: Encounter Procedures
 nav_order: 7
-parent: SRD
+parent: Creator Kit
 permalink: /srd-encounter-procedures/
 description: Different encounter systems for Liminal Horror, including Encounter Die, Tension Die, and Voidcrawl.
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Modular Rules
 nav_order: 20
-parent: SRD
+parent: Creator Kit
 permalink: /srd-modular-rules/
 description: A set of modular rules that can be used in your Liminal Horror scenarios and publications.
 ---

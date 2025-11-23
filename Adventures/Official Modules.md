@@ -2,7 +2,7 @@
 layout: default
 title: Official Releases
 nav_order: 1
-parent: LH Adventures
+parent: Adventures
 permalink: /official/
 description: Official first party modules and adventures for the Liminal Horror ttrpg.
 ---

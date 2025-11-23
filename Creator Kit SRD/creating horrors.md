@@ -2,7 +2,7 @@
 layout: default
 title: Creating Horrors
 nav_order: 13
-parent: SRD
+parent: Creator Kit
 permalink: /srd-creating-horrors/
 description: Advice on creating your own horrors and monsters for your Liminal Horror scenarios and publications.
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Dwindling Party
 nav_order: 22
-parent: SRD
+parent: Creator Kit
 permalink: /srd-dwindling-party/
 description: An alternative play format for Liminal Horror where players control multiple simplified characters, running them through a lethal gauntlet.
 ---

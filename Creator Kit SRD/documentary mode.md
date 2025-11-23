@@ -2,7 +2,7 @@
 layout: default
 title: Documentary Mode
 nav_order: 21
-parent: SRD
+parent: Creator Kit
 permalink: /srd-documentary-mode/
 description: New rules for documentary crews and found footage horror in Liminal Horror.
 ---

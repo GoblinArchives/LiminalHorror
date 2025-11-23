@@ -2,7 +2,7 @@
 layout: default
 title: Licensing
 nav_order: 2
-parent: SRD
+parent: Creator Kit
 permalink: /srd-licensing/
 description: A guide to the licensing involved in using/creating for Liminal Horror using the SRD.
 ---

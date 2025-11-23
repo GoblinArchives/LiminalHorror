@@ -2,7 +2,7 @@
 layout: default
 title: Item Tags
 nav_order: 23
-parent: SRD
+parent: Creator Kit
 permalink: /srd-item-tags/
 description: Added complexity to items.
 ---

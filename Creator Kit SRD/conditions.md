@@ -2,7 +2,7 @@
 layout: default
 title: Conditions
 nav_order: 24
-parent: SRD
+parent: Creator Kit
 permalink: /srd-conditions/
 description: Physical and mental consequences that may impact an Investigator.
 ---
