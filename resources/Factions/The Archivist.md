@@ -33,7 +33,7 @@ The Archivist has been known to aid the pursuits of the **independent Investigat
 
 ## **ADVERSARIES**  
 
-Given his massive collection of dimensional anomalies, his constant recruiting of others to become Investigators, and their inability to contain or control him, the Archivist is often in direct opposition to the other major factions. [The Bureau](#the-bureau) (link) classifies him as a potential anomaly and has a warrant out for his arrest, [Panopticon](#panopticon) (link) covets his rumored archives.
+Given his massive collection of dimensional anomalies, his constant recruiting of others to become Investigators, and their inability to contain or control him, the Archivist is often in direct opposition to the other major factions. [The Bureau](https://liminalhorrorrpg.com/resources/Factions/The%20Bureau/) (link) classifies him as a potential anomaly and has a warrant out for his arrest, [Panopticon](https://liminalhorrorrpg.com/resources/Factions/Panopticon/) (link) covets his rumored archives.
 
 ## **CONTRACTS**  
 

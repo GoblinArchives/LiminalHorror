@@ -47,7 +47,7 @@ Many department managers prefer to use para-military sub-contracts, as it allows
 
 ## **ADVERSARIES**  
 
-Panopticon is often in direct opposition to [the Bureau](#the-bureau), believing that paranatural resources are best left in the hands of the private sector. Panopticon typically resorts to using proxies to interfere with Bureau affairs. Another group that is a constant thorn in the side of Panopticon are the [Knights of Amelioration](https://liminalhorrorrpg.com/srd-cults/#knights-of-amelioration) (link). There is also an almost universal disdain and confounding when the entity labeled the [Archivist](#the-archivist) (link) comes into play.
+Panopticon is often in direct opposition to [the Bureau](https://liminalhorrorrpg.com/resources/Factions/The%20Bureau/), believing that paranatural resources are best left in the hands of the private sector. Panopticon typically resorts to using proxies to interfere with Bureau affairs. Another group that is a constant thorn in the side of Panopticon are the [Knights of Amelioration](https://liminalhorrorrpg.com/srd-cults/#knights-of-amelioration) (link). There is also an almost universal disdain and confounding when the entity labeled the [Archivist](https://liminalhorrorrpg.com/resources/Factions/The%20Archivist/) (link) comes into play.
 
 ## **CONTRACTS**  
 
