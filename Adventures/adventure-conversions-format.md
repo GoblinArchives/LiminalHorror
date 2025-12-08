@@ -27,7 +27,7 @@ description: describe what the page is
 # Adventure Title
 - **Adventure:** [original work](link-to-game-page) by [Author Name](link-to-author-site).
 - **System:**
-- **Conversion:**  [Your Name](link to your contact on the web).
+- Conversion Notes by [Your Name](link to your contact on the web).
 
 ## General Notes
 - Put any notes on the conversion here!

@@ -3,13 +3,13 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Let Us In
-description: A Liminal Horror adventure conversion for the system-neutral  one-shot horror in the Lastlands for four ordinary heroes
+description: A Liminal Horror adventure conversion for the system-neutral  one-shot horror in the Lastlands for four ordinary heroes.
 ---
 
 # Let Us In
 - **Adventure:** [Let Us In](https://wizardthieffighter.itch.io/let-us-in) by [Luka Rejec](https://wizardthieffighter.itch.io/).
 - **System:** System Neutral
-- **Conversion:** Goblin Archives.
+- Conversion Notes by Goblin Archives.
 
 ## Conversion Notes
 This conversion guide is meant to help facilitators run Let Us In using the Liminal Horror system.
