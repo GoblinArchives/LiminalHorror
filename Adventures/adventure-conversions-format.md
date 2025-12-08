@@ -21,6 +21,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Adventure Title
+description: describe what the page is
 ---
 
 # Adventure Title
@@ -30,13 +31,17 @@ title: Adventure Title
 
 ## General Notes
 - Put any notes on the conversion here!
+- Add any custom framing or fallout here as well.
 - You can list monsters & NPCs separately or by the location they can be found
 
 ## Monsters or NPCs
 
 ### Monster Name
-Monster 1
-- Monster special (critical damage, abilities)
+Monster 1 Name
+Description
+STR: X DEX: X CTRL: X
+HP: X Armor: X
+Weapon Attack (d6) or Corrupting Attack (d6 Stress)
 - More monster specials, etc.
 
 ## Locations
