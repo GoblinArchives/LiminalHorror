@@ -19,7 +19,7 @@ description: A Liminal Horror conversion for Haystack, Oregon by Luke Gearing. U
 
 
 
-## Factions 
+## Factions
 
 - **The Bureau:** **Nick Poacher** works for **The Bureau**, but is in Haystack on his own accord (unclear whether **The Bureau** knows or cares that he’s gone off script). **Poacher** has been captured by **The Hydrian Order**, but dialed out **The Bureau** (July 31st) but is inconclusive if made it through. The patron of the PCs was able to intercept the distress call at the least.
 - T**he Hydrean Order:** **Imogen Moss**' group that seeks to rekindle the connection with **The Deep Ones** (this is being secretly manipulated by a **Mi-Go**)
@@ -117,7 +117,22 @@ Knife-like Talons (d6), Sharp Spines (d6, *blast*)
 
 - **Amphibious:** Adapted to land or ocean (any depth)
 - **Genetic Hypergeometry:** Has access to genetic meories, allowing it access to many [Rituals](https://liminalhorrorrpg.com/rituals-expanded/).
-- **Inhumna Momvement:** They can move fast on land, and even faster under water.
+- **Inhuman Momvement:** They can move fast on land, and even faster under water.
 - **Injector:** When a Deep One deals *Critical Damage* it inserts one of it's barbed stingers (injecting a toxin that warps the victims DNA). Alongside a **Wound** the victim takes a **Fallout** that begins their transformation into a Deep One Hybrid.
 
-Ancient fish-like beings that vary in specific physiology. What they do have in common is they are old, and reside deep in the oceans. Consistent features across the Deep Ones ar etheir fanlike scales, bony spikes, large size, huge globe-like eyes, razor sharp teeth, gills and stinger used to inject their DNA generic rewriting toxin.
+Ancient fish-like beings that vary in specific physiology. What they do have in common is they are old, and reside deep in the oceans. Consistent features across the Deep Ones are their fanlike scales, bony spikes, large size, huge globe-like eyes, razor sharp teeth, gills and stinger used to inject their DNA generic rewriting toxin.
+
+
+
+### LESSER DEEP ONES
+
+**STR:** 15 **DEX:** 12 **CTRL:** 11   
+**HP:** 5 **Armor:** 1  
+Razor-sharp teeth (d6)
+
+- **Asension:** The process from becoming a hybrid to a true Deep One can an unknwon amount of time. Some stay a lesser hybrid forever, while others transition quickly.
+- **Almost Human:** Many can pass as a human being, especially in low light. Their warped forms give pause but require a full medical examination to prove their divergance from homosapien.
+- **Partially Amphibious:** Until their transformation is complete, they have a partial ability to exist underwater (hours to days)
+- **Inhuman Movement:** Lesser deep ones can climb, run, and move beyond how normal people can.
+
+Lesser Deep One's are the result of humans being injected with the Deep One's toxin, which warps their DNA and transforms them into hybrids. At first they seem human, but they change and warp to become more like their progenitors. These changes happen randomly, with some features coming in before others. They are human-sized and human shaped, with pot-bellies and elongated arms. Their skin starts shift to scales, with their coloring becoming a greyish green. Their feet become webbed, with finger nails falling out to be replaced by sharp claws. Their eye's grow in size and shift to the side of their heads, becoming fishlike with their shrinking jaw becoming filled with razor sharp teeth.
