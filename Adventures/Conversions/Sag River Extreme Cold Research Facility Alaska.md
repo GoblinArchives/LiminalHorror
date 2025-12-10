@@ -1,4 +1,3 @@
-```
 ---
 layout: default
 parent: Conversions
@@ -6,7 +5,7 @@ grand_parent: Adventures
 title: Sag River Extreme Cold Research Facility, Alaska
 description: A Liminal Horror conversion for Sag River Extreme Cold Research Facility, Alaska by Luke Gearing (originally written for Delta Green/Violence)
 ---
-```
+
 
 # Sag River Extreme Cold Research Facility, Alaska
 
