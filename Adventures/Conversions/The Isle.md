@@ -37,7 +37,7 @@ Encountering otherworldly things for the first time, dangerous traps, and other 
 
 Fallout is a pivotal addition to adventures using Liminal Horror. It shows how the Investigators become weird and changed. It also can be used to reinforce the themes of the adventure. You can use the many generic Fallouts already released from [Liminal Horror on the website](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). You can also create [Custom Fallout (there is advice on how to do so here)](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). For this adventure, using the themes of body horror, druidic corruption, sea-things, runes, bonded-honor and life beyond death are all things you could lean into. Look specifically at the Arch-Druid, Sea-Things, and the Bonded-dead/the brothers as inspiration for your own fallout.
 
-### Finding Equipement
+### Finding Equipment
 
  Much of the lower levels is filled with equipment (weapons, armor, etc). Most weapons do 1d6 unless said otherwise. Most armor, if salvegable, gives +1 Armor and takes up an Inventory slot. Keep the hacksilver and gold numbers the same, indicate its worth a lot given it's age. Since many enemies want this coinage, having it without needing to convert will be helpful.
 
