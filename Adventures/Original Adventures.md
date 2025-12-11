@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Third Party Adventures
+title: Original Adventures
 nav_order: 2
 parent: Adventures
 permalink: /third-party-adventures/

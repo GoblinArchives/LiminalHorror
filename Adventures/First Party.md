@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Official Releases
+title: First Party
 nav_order: 1
 parent: Adventures
 permalink: /official/
