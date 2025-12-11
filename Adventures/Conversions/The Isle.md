@@ -33,6 +33,10 @@ Encountering otherworldly things for the first time, dangerous traps, and other 
 - 1d6 Stress: Abilities of major horrors.
 - 1d8+ Stress: Abilities of particularly monstrous entities or witnessing events not meant for human eyes.
 
+### **Fallout**
+
+Fallout is a pivotal addition to adventures using Liminal Horror. It shows how the Investigators become weird and changed. It also can be used to reinforce the themes of the adventure. You can use the many generic Fallouts already released from [Liminal Horror on the website](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). You can also create [Custom Fallout (there is advice on how to do so here)](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). For this adventure, using the themes of body horror, druidic corruption, sea-things, runes, bonded-honor and life beyond death are all things you could lean into. Look specifically at the Arch-Druid, Sea-Things, and the Bonded-dead/the brothers as inspiration for your own fallout.
+
 ### Finding Equipement
 
  Much of the lower levels is filled with equipment (weapons, armor, etc). Most weapons do 1d6 unless said otherwise. Most armor, if salvegable, gives +1 Armor and takes up an Inventory slot. Keep the hacksilver and gold numbers the same, indicate its worth a lot given it's age. Since many enemies want this coinage, having it without needing to convert will be helpful.
@@ -73,26 +77,26 @@ Another more straight forward framing is a group looking into the disappearance 
 
 ### A more complex setup (B)
 
-Having the Investigators hired as a part of a somewhat secretive expidition to explore a lost outpost of the Church is an interesting one. Having the Investigators have different backgrounds and secret motivations, and having them not know the exact motives of their employers, can add a layer of complexity to the setup that can create some interesting tensions. Use this as a framework to set up your own framing.
+Having the Investigators hired as a part of a somewhat secretive expedition to explore a lost outpost of the Church is an interesting one. Having the Investigators have different backgrounds and secret motivations, and having them not know the exact motives of their employers, can add a layer of complexity to the setup that can create some interesting tensions. Use this as a framework to set up your own framing.
 
 
 
 #### **The Job**
 
-**For the Investigators:** You have been hired to take a part in a research expidition to unearth an important historical relic. The exact nature of the item is up for debate, but it is clear that the grant holder is very keen on aquiring it. The heavy stack of paperwork, including extensive NDAs make it clear that secrecy is of the utmost importance. It is clear that the work will be compensated extremely well, and the level of organization in regards to the recruiter leaves you feeling confident in the outcome. A moment of pause can be felt, went parsing through the legal jargon, when you realize that the expectation is on the groups success, and some less than legal means may be required when dealing with the occupants. Gaining access to the lower levels of the Isle is paramount, but be careful, since not much is known about the monistary and its occupants. A moderate sea craft with equiment should take you to the island despite the incoming storm.
+**For the Investigators:** You have been hired to take a part in a research expedition to unearth an important historical relic. The exact nature of the item is up for debate, but it is clear that the grant holder is very keen on acquiring it. The heavy stack of paperwork, including extensive NDAs make it clear that secrecy is of the utmost importance. It is clear that the work will be compensated extremely well, and the level of organization in regards to the recruiter leaves you feeling confident in the outcome. A moment of pause can be felt, went parsing through the legal jargon, when you realize that the expectation is on the groups success, and some less than legal means may be required when dealing with the occupants. Gaining access to the lower levels of the Isle is paramount, but be careful, since not much is known about the monastery and its occupants. A moderate sea craft with equiment should take you to the island despite the incoming storm.
 
 - **For the Facilitator:** This job is being funded by a research division of [Panopticon](https://liminalhorrorrpg.com/resources/Factions/Panopticon/). Their records unearthed a potential Resonant Artifact has led the department head to fund an off the books acquisition mission using sub-contractors in hopes of staying under the radar of other departments (and other factions). The Church involvement complicates the matter as well, so plausible deniability is key. They will outsource the recruitment and excursion in hopes of finding success (or softening the way if another mission is needed).
 - **Leads:** A few bits of information about the island has leaked out over the years and would lead to a group being formed to look into it.
   - Records within the church about the Isle, including some cryptic discussion of something contained within. Regular payments to send monthly supplies has been on the books for multiple centuries. It is worth noting that no modern supplies are sent. Digging deeper into the records, there has been no communication with the abbot or the monks on the island, with writings to and from expressly forbidden by the church.
   - A legend about the Island and how there is fire that must be tended and never go out lest doom befall the world.
   - Hidden in an old archive is a letter by the monk Déaglán speaking of something buried deep within the island.
-  - A missing persons report for Muirgel, a criminal and a theif who was last seen sneaking onto the boat used to transport goods to the island. The investiation is still ongoing.
+  - A missing persons report for Muirgel, a criminal and a thief who was last seen sneaking onto the boat used to transport goods to the island. The investigation is still ongoing.
 
 
 
 #### Backgrounds
 
-These backgrounds serve as the job that the Investigator was hired to do for the expidition. Each should have access to specialized equipment based on their job. Use the equipment lists to help load out the characters. It may be that items come up during play, and if they would reasonably have it on their persons they do (but it takes up an Inventory slot). A few of these would have a weapon.
+These backgrounds serve as the job that the Investigator was hired to do for the expedition. Each should have access to specialized equipment based on their job. Use the equipment lists to help load out the characters. It may be that items come up during play, and if they would reasonably have it on their persons they do (but it takes up an Inventory slot). A few of these would have a weapon.
 
 - Logistics Coordinator
 - The Documentarian
@@ -118,7 +122,7 @@ Given the potentially risky nature of the excursion, having some extra technical
 
 ### Equipment
 
-The party will be well stocked with survey equipment, rope/harnesses/pitons, hand tools for excavation, controlled explosives, recording devices, and some emergency rations. It is within reason that some gear relating to oxygen tanks or short distance underwater exploration may be included. The recruiter prepared the logistics supplies to allow for the team to properly circumvent a number of underground obsticals safely. Since this is a research job, firearms were not a peice of primary equipment. It is worth noting that given the potential for danger (outside operatives, "pirates," or a potential need to protect what is extracted) some firearms would be provided to select members of the crew.
+The party will be well stocked with survey equipment, rope/harnesses/pitons, hand tools for excavation, controlled explosives, recording devices, and some emergency rations. It is within reason that some gear relating to oxygen tanks or short distance underwater exploration may be included. The recruiter prepared the logistics supplies to allow for the team to properly circumvent a number of underground obstacles safely. Since this is a research job, firearms were not a peice of primary equipment. It is worth noting that given the potential for danger (outside operatives, "pirates," or a potential need to protect what is extracted) some firearms would be provided to select members of the crew.
 
 
 
@@ -131,7 +135,7 @@ On page 13 there is The Seal. This seal marks the transition between the upper w
 - Obtaining King Ceannaigh's ring (p.35) * Requires you to slay the brothers.
 - The hidden chimney in Fionn's chambers (p.39). He provides access if you kill his brother (but killing his bother also breaks the seal). If you kill him and his guards you can use the chimney.
 - Releasing the Story-Eater (p.49) sends it off to the mainland (in the process breaks the seal's barrier).
-- Blowing the chipped warhorn (p.51) in the prescense of the undead on floors 1 and 2 can have you indenture the brothers and their legions allowing the weilder to either take the king's ring, or simply use their magics to break through the barrier.
+- Blowing the chipped warhorn (p.51) in the presence of the undead on floors 1 and 2 can have you indenture the brothers and their legions allowing the weilder to either take the king's ring, or simply use their magics to break through the barrier.
 - Abhartach, the revenant blade (p.55) can cut through the shadowy barrier.
 - Siding with Tle'le'le'nzqk the worm (p.63) will have it transport you to the mainland.
 - You can leave out the membrane in Sea-Thing room 5 (p.61) and room 11 (p.64) but will drown before reaching the surface.
@@ -244,7 +248,7 @@ Leeches (d6, *blast*)
 
 (Page 38) 18. Change the damage to 1d8.
 
-(Page 40) 20. The chimney is one way to get out of the underground (not blocked by the added mystical darkness). By this point they would be able to escape if they aid Dainéal (or kill him). Definitley hint there is something greater below to draw them deeper if they do get access to leaving.
+(Page 40) 20. The chimney is one way to get out of the underground (not blocked by the added mystical darkness). By this point they would be able to escape if they aid Dainéal (or kill him). Definitely hint there is something greater below to draw them deeper if they do get access to leaving.
 
 
 
