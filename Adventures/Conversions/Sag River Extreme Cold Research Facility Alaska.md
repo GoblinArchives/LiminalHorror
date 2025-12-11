@@ -36,6 +36,38 @@ The largest shift for this adventure is having a reason for the Investigators to
 
 **Extra Context:** The isolated location and difficulty in communications means once you get the Investigators there they're in a sense stuck. This constraint helps answer the question "why don't they just leave" in addition to any other provided by the framing.
 
+## Mechanics
+
+### **Checks**
+
+Any time the text calls for a check (Strength Check, etc) using the Liminal Horror Save mechanics. You can have it be a comprable Save to the Isle's attributes (Strength = STR) or have it be whatever makes sense for the narrative and not dictated by the text.
+
+### **Stress**
+
+Encountering otherworldly things for the first time, dangerous traps, and other gross things will result in Investigators taking Stress. While not indicated in the text, use the judgment as a Facilitator as to when to doll out that tension.
+
+- 1 Stress: Witnessing something horrid.
+- 1d4 Stress: Particularly horrific scenes or the abilities of minor horrors.
+- 1d6 Stress: Abilities of major horrors.
+- 1d8+ Stress: Abilities of particularly monstrous entities or witnessing events not meant for human eyes.
+
+### **Fallout**
+
+Fallout is a pivotal addition to adventures using Liminal Horror. It shows how the Investigators become weird and changed. It also can be used to reinforce the themes of the adventure. You can use the many generic Fallouts already released from [Liminal Horror on the website](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). You can also create [Custom Fallout (there is advice on how to do so here)](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). For this adventure, using the themes of inter-dimensional shifting, entropy and time warping. Look specifically at the different monster entries and the location of the Lake of Seasons to draw inspiration.
+
+### Reactions
+
+Unless it's otherwise obvious, roll to determine an enemy's Reaction when they encounter the party for the first time.
+
+| 2d6    | Reaction |
+| :----- | :------- |
+| 2-4.   | Violent  |
+| 5-6.   | Hostile  |
+| 7.     | Neutral  |
+| 8-9.   | Friendly |
+| 10-12. | Helpful  |
+
+
 # The Facility
 
 ## Encounter Procedure (Encounter Die from Liminal Horror)

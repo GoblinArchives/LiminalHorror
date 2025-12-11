@@ -22,7 +22,7 @@ One of the main reframing of this adventure is to set it in modern times. The ar
 
 ### **Checks**
 
-Any time the text calls for a check (Stretgth Check, etc) using the Liminal Horror Save mechanics. You can have it be a comprable Save to the Isle's attributes (Strength = STR) or have it be whatever makes sense for the narrative and not dictacted by the text.
+Any time the text calls for a check (Strength Check, etc) using the Liminal Horror Save mechanics. You can have it be a comprable Save to the Isle's attributes (Strength = STR) or have it be whatever makes sense for the narrative and not dictated by the text.
 
 ### **Stress**
 

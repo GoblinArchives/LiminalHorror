@@ -136,3 +136,34 @@ Razor-sharp teeth (d6)
 - **Inhuman Movement:** Lesser deep ones can climb, run, and move beyond how normal people can.
 
 Lesser Deep One's are the result of humans being injected with the Deep One's toxin, which warps their DNA and transforms them into hybrids. At first they seem human, but they change and warp to become more like their progenitors. These changes happen randomly, with some features coming in before others. They are human-sized and human shaped, with pot-bellies and elongated arms. Their skin starts shift to scales, with their coloring becoming a greyish green. Their feet become webbed, with finger nails falling out to be replaced by sharp claws. Their eye's grow in size and shift to the side of their heads, becoming fishlike with their shrinking jaw becoming filled with razor sharp teeth.
+
+## Mechanics
+
+### **Checks**
+
+Any time the text calls for a check (Strength Check, etc) using the Liminal Horror Save mechanics. You can have it be a comprable Save to the Isle's attributes (Strength = STR) or have it be whatever makes sense for the narrative and not dictated by the text.
+
+### **Stress**
+
+Encountering otherworldly things for the first time, dangerous traps, and other gross things will result in Investigators taking Stress. While not indicated in the text, use the judgment as a Facilitator as to when to doll out that tension.
+
+- 1 Stress: Witnessing something horrid.
+- 1d4 Stress: Particularly horrific scenes or the abilities of minor horrors.
+- 1d6 Stress: Abilities of major horrors.
+- 1d8+ Stress: Abilities of particularly monstrous entities or witnessing events not meant for human eyes.
+
+### **Fallout**
+
+Fallout is a pivotal addition to adventures using Liminal Horror. It shows how the Investigators become weird and changed. It also can be used to reinforce the themes of the adventure. You can use the many generic Fallouts already released from [Liminal Horror on the website](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). You can also create [Custom Fallout (there is advice on how to do so here)](https://liminalhorrorrpg.com/fallout-expanded/#custom-fallout). For this adventure, using the themes of body horror, oceans, transformations.
+
+### Reactions
+
+Unless it's otherwise obvious, roll to determine an enemy's Reaction when they encounter the party for the first time.
+
+| 2d6    | Reaction |
+| :----- | :------- |
+| 2-4.   | Violent  |
+| 5-6.   | Hostile  |
+| 7.     | Neutral  |
+| 8-9.   | Friendly |
+| 10-12. | Helpful  |
