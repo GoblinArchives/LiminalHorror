@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Dare Remix
+title: The Dare: Remix
 description: A Liminal Horror remix conversion for The Dare (Call of Cthulhu) by Kevin Ross and Bret Kramer. This reframing has the Investigators as a documentary crew (or adults) instead of the original kid framing.
 ---
 
