@@ -28,6 +28,9 @@ Digital copies of the rules and official adventures can be found at [https://gob
 Digital copies of the rules and official adventures can be found at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror).
 - The Liminal Horror Deluxe Edition is available for pre-order: [https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders](https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders)
 
+## Merch
+Zach Hazard Vaupen has designed a new run of custom Liminal Horror merch that is available on [https://cottonbureau.com/people/liminal-horror](https://cottonbureau.com/people/liminal-horror).
+
 ## Liminal Horror Library
 A library of resources for your Liminal Horror games, cataloging and collecting all things LH. [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
 
