@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deluxe Edition
+title: Core Rules
 nav_order: 2
 has_children: true
 permalink: /deluxe/

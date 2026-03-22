@@ -3,7 +3,7 @@ layout: default
 title: Player Principles
 nav_order: 1
 parent: Investigator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /player-prinicples/
 description: Guiding prinicples for players.
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Equipment
 nav_order: 3
 parent: Investigator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /equipment/
 description: An equipment list for Liminal Horror.
 ---

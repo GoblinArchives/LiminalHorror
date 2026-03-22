@@ -4,7 +4,7 @@ title: Investigators
 nav_order: 1
 search_exclude: true
 parent: Older Editions
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /investigators/
 description: The entire text of Liminal Horror Investigators Edition, the second publication of the ttrpg and fully compatible with all published modules.
 ---

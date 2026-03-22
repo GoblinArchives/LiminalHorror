@@ -3,7 +3,7 @@ layout: default
 title: Additional Tools
 nav_order: 6
 parent: Facilitator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /additional-tools/
 description: A list of additional Facilitator tools and resources.
 ---

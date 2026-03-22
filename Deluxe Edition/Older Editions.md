@@ -2,7 +2,7 @@
 layout: default
 title: Older Editions
 nav_order: 5
-parent: Deluxe Edition
+parent: Core Rules
 has_children: true
 permalink: /older-editions/
 description: A catalog of previous editions of Liminal Horror (which is a misnomer as all editions are compatible with each other).

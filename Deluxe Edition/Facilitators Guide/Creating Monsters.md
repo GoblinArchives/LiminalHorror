@@ -3,7 +3,7 @@ layout: default
 title: Creating Monsters
 nav_order: 3
 parent: Facilitator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /creating-monsters/
 description: Advice for creating monsters to use in your Liminal Horror games.
 ---

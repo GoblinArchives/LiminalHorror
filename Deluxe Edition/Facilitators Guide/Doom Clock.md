@@ -3,7 +3,7 @@ layout: default
 title: Doom Clock
 nav_order: 2
 parent: Facilitator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /doom-clock/
 description: Advice for creating and using the Doom Clock.
 ---

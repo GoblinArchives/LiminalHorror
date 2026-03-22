@@ -2,7 +2,7 @@
 layout: default
 title: Investigator's Guide
 nav_order: 2
-parent: Deluxe Edition
+parent: Core Rules
 has_children: true
 permalink: /investigators-guide/
 description: An introduction to the player facing portion of the Deluxe Edition.

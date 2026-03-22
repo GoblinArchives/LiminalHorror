@@ -4,7 +4,7 @@ title: Legacy
 nav_order: 2
 search_exclude: true
 parent: Older Editions
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /legacy/
 description: The entire text of Liminal Horror Legacy Edition, the original publication of the ttrpg and fully compatible with all published modules.
 ---

@@ -4,7 +4,7 @@ title: SRD v2.0
 nav_order: 4
 search_exclude: true
 parent: Older Editions
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /srdv2/
 description: The second version of the SRD which was developed for Liminal Horror Investigators 2023.
 ---

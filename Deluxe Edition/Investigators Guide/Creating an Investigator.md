@@ -3,7 +3,7 @@ layout: default
 title: Creating an Investigator
 nav_order: 2
 parent: Investigator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /creating-an-investigator/
 description: The character generation process for creating an Investigator in Liminal Horror.
 ---

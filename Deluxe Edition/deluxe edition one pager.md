@@ -2,7 +2,7 @@
 layout: default
 title: DE One Pager
 nav_order: 4
-parent: Deluxe Edition
+parent: Core Rules
 search_exclude: true
 permalink: /deluxe-one-page/
 description: Updated rules from the Liminal Horror Deluxe Edition, including excerpts from other sections of the book, all on a single web-page.

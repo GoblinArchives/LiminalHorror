@@ -3,7 +3,7 @@ layout: default
 title: Safety Tools
 nav_order: 8
 parent: Investigator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /safety-tools/
 description: Advice on using safety tools in your games.
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Encounter Procedures
 nav_order: 5
 parent: Facilitator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /encounter-procedures/
 description: Three different encounter procedures for Liminal Horror, including the Encounter Die, Tension Die, and Voidcrawl.
 ---

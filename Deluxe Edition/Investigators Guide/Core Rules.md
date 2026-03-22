@@ -3,7 +3,7 @@ layout: default
 title: Core Rules
 nav_order: 4
 parent: Investigator's Guide
-grand_parent: Deluxe Edition
+grand_parent: Core Rules
 permalink: /core-rules/
 description: The core rules for Liminal Horror, including a procedure of play, summary, mechanics, and violent encounters.
 ---

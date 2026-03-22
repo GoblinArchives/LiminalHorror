@@ -2,7 +2,7 @@
 layout: default
 title: Facilitator's Guide
 nav_order: 3
-parent: Deluxe Edition
+parent: Core Rules
 has_children: true
 permalink: /facilitators guide/
 description: Excerpts from the Facilitator's chapter in the Deluxe Edition, along with an assortment of entries to help you run your Liminal Horror games.

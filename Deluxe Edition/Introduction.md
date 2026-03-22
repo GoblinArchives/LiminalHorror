@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-parent: Deluxe Edition
+parent: Core Rules
 nav_order: 1
 has_toc: false
 permalink: /introduction/

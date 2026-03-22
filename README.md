@@ -25,7 +25,7 @@ permalink: /
 Digital copies of the rules and official adventures can be found at [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 
 ## Physical
-Digital copies of the rules and official adventures can be found at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror).
+Physical copies of the rules and official adventures can be found at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror).
 - The Liminal Horror Deluxe Edition is available for pre-order: [https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders](https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders)
 
 ## Merch
