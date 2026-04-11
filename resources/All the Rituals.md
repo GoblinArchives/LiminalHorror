@@ -8,8 +8,16 @@ permalink: /rituals-expanded/
 description: A list rituals and spells for the Liminal Horror system.
 ---
 
-# Resonant Artifacts = Magic items
-The following is a list of Resonant Artifacts from all over the web, with some being converted to the Liminal Horror system (and starting their file out as magic items for another ttrpg).
+# Rituals = Magic
+Rituals are powerful, but unpredictable. They can take many forms, including somatic movement, incantations, scrolls, old tomes, or as the result of Fallout. Most Rituals will happen automatically, though some may require a Save, especially if the target resists the effects.
+
+Each Ritual takes up an Inventory Slot, whether that’s through a physical object or the emotional burden of otherworldly knowledge. Some may be single use, while others can be used freely as long as the Investigator is willing to accept the burden.
+
+Using a Ritual will always require that a cost be paid. At a base level, the user takes d6 Stress, though some may have more severe cost or require greater sacrifice. An Investigator can push themselves to bend a Ritual to affect more targets or have a more potent effect for a cost of additional Stress. In these circumstances, upgrade along the dice chain (d6 \> d8 \> d10+) in a manner proportionate to the additional effort.
+
+Most Rituals take an action to complete, though some may take hours or even days depending on their complexity and intended effect. For Rituals with ongoing effects over a period of time, an Investigator takes d6 Stress every hour the Ritual is active. An Investigator is *Deprived* while maintaining a Ritual.
+
+If an Investigator uses a Ritual in combat, its damage is equal to the cost of Stress (i.e., d6 Stress for d6 damage). Paying a greater cost can increase the damage, however the attack can be *Enhanced* or *Impaired* as normal for no additional cost of Stress depending on the narrative circumstances.
 
 - Rituals: [https://perchance.org/liminal-horror-rituals](https://perchance.org/liminal-horror-rituals)
 
