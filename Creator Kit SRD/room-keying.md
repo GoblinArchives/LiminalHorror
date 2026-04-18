@@ -9,11 +9,13 @@ description: A reference for the Liminal Horror house style for room keying.
 
 # **ROOM KEYING**
 
-While there is no unified way that rooms are keyed in Liminal Horror scenarios, we have refined it to a fairly consistent explanation presented in [*Einfühlung* (2025)](https://goblinarchives.itch.io/einfhlung). This can be helpful when thinking about how you present information in your scenario. The biggest recommendation we have is that whatever style you choose, try to stay consistent within the same scenario as it helps Facilitators parse the information when things follow a pattern.
+While there is no unified way that rooms are keyed in Liminal Horror scenarios, we have refined it to a fairly consistent explanation presented in [*Einfühlung* (2025)](https://goblinarchives.itch.io/einfhlung). This can be helpful when thinking about how you present information in your scenario.
+
+>The biggest recommendation we have is that whatever style you choose, try to stay consistent within the same scenario as it helps Facilitators parse the information when things follow a pattern.
 
 
 
-Excerpt from [*Einfühlung* (p. x)](https://goblinarchives.itch.io/einfhlung)  
+Excerpt from [*Einfühlung* (p.10)](https://goblinarchives.itch.io/einfhlung)  
 **HOW TO USE THE ROOM DESCRIPTIONS**  
 Most adventures present mapped information in the form of a Location Key. This info is gathered so that the Facilitator can guide the Investigators through the physical space.
 

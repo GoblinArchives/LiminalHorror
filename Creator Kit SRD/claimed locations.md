@@ -12,9 +12,9 @@ description: A system for corruption spreading and overtaking locations.
 
 ## **Claimed Locations**
 
-> Note: If you were adapting this to your scenario, the details of a claimed location would be different to reflect where it takes place and the aesthetics of the corruption.
+> Note: If you were adapting this to your scenario, the details of a claimed location would be different to reflect where it takes place and the aesthetics of the corruption. Use this as the basis and reskin it to fit the aethetics and theme of the Horror/Corruption.
 
-As the []**Doom Clock**](https://liminalhorrorrpg.com/srd-doom-clock/) ticks, locations will be **Claimed** by the **Bloom**. These locations include some or all of the following features:   
+As the [**Doom Clock**](https://liminalhorrorrpg.com/srd-doom-clock/) ticks, locations will be **Claimed** by the **Bloom**. These locations include some or all of the following features:   
 ›	Blighted trees and plants rot, quickly losing their leaves.  
 ›	Wood degrades, growing moist and crumbling.  
 ›	Spores swirl in clouds.  

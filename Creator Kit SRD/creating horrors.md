@@ -10,7 +10,7 @@ description: Advice on creating your own horrors and monsters for your Liminal H
 
 Horrors is the term we use for the “monsters” within our system. The term really encapsulates that while there may be something horrific or strange about these entities, they are not all inherently violent or mindless. Horror denotes a level of complexity while still standing firmly in the weird, strange, and scary when compared to normal life.
 
-Support in utlizing your own bestiary for Liminal Horror is split into two parts:
+Support in utilizing your own bestiary for Liminal Horror is split into two parts:
 
 1. The first will be about [How To Make Your Own Horrors](#how-to-make-your-own-horrors) for your scenarios. Remember that Horrors are the crux point of the strange within your scenario and set the theme and motifs that you’ll use throughout your design. They’ll impact the Fallout used, how normal spaces are twisted, and how NPCs relate to them and the world. Horrors set the specific tone for your scenario.  
 2. The second part is some example Horrors. We have included some [Horrors With An Open License](https://liminalhorrorrpg.com/srd-horrors/) that you can include in your scenarios. We’ve opened their license in hopes that some will use them to make scenarios. This section will be a living document, with us adding Horrors continually.
@@ -20,8 +20,10 @@ Support in utlizing your own bestiary for Liminal Horror is split into two parts
 ## **HOW TO MAKE YOUR OWN HORROR**  
 
 > Note: The [Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has a lot of advice in this area, with much of the Facilitator's guide focusing on it. Some pages that may be of interest are:
->
-> - \[INDEX\]
+> - Horrors, 152-153
+    - Creating, 94-97
+    - Categories: Dead Gods, 214-225; Greater Horrors, 172-191; Lesser Horrors, 154-171; Resonant Horrors, 192-203; Ritual Users, 204-213
+    - Seeds, 399
 
 ### **TYPES OF HORRORS**
 

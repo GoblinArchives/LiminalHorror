@@ -8,7 +8,16 @@ description: Advice and examples on creating fallout for Liminal Horror.
 ---
 # **FALLOUT**
 
-> Note: A thorough examination of Fallout can be found in the [Liminal Horror Deluxe Edition (p. x)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition), and each official published scenario includes custom Fallout.
+> Note: A thorough examination of Fallout can be found in the [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition), and each official published scenario includes custom Fallout. It is highly recommended that you create custom Fallout to align and reinforce the themes and aesthetics of your modules.
+Deluxe Edition Sections on Fallout
+- Fallout, 39-41, 99, 153
+  - Creating Custom, 99
+  - Creeping, 41
+Connected to Horrors: Dark Ones, 201; Dead Gods, 214; Ghost, 168; Greater, 172; Lesser, 154; Living Flame, 164; Pact Warlocks, 206; Resonant, 192; Ritual Users, 204; Rotworm, 166; Scaphiopods, 171; Shade, 196; Shifted Studio, 348; Therianthrope, 189
+  - Generic, 40
+  - Healing, 68
+  - Mundane, 41
+  - Types of: Ascension, 391; Augmentations 389; Creeping, 41, 166, 171, 201; Fungal, 307; General, 391; Generic, 40; Infections, 388; Resonant Artifacts, 390; Rituals, 389
 
 While Fallout is a means of mechanical character progression, it primarily serves as a reminder that the Investigators could very well become like the monsters they face if they are not careful. As such, it’s often best to customize Fallout to be specific to your scenario.
 

@@ -9,8 +9,10 @@ description: Advice on creating NPCs for Liminal Horror scenarios and publicatio
 # NPCs
 
 >Note: See [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has multiple essays on creating and using NPCs in modern horror. They can be found:
->
-> * \[Include index entries\]
+- NPCs, 9, 49, 77
+  - Creating Compelling NPCs, 92
+  - Odd, 398
+  - Running: Morale, 35; Reactions, 35; Social Encounters, 56; Using NPCs, 56
 
 Scenarios typically feature two types of characters: Background NPCs and Key NPCs.
 

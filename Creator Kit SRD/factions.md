@@ -10,6 +10,10 @@ description: Faction templates for Liminal Horror, along with factions that you 
 
 Factions are groups and organizations that either may come into direct contact with the Investigators during a scenario or have some connection to the horrors. These fall into two categories: minor and major.
 
+> Note: You can find more advice on Factions in the [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition).
+- Factions, 120-143
+  - Creating, 93
+  - Implementation, 120
 
 
 ## **MINOR FACTIONS**  

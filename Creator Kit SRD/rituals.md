@@ -8,7 +8,7 @@ description: A guide for using the magic system presented in Liminal Horror Delu
 ---
 # RITUALS
 
-> Additional advice on Rituals can be found in the Facilitator’s Guide of [Liminal Horror Deluxe Edition (p. x)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition).
+> Additional advice on Rituals can be found in the Facilitator’s Guide of [Liminal Horror Deluxe Edition (p.42; p.66)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition).
 
 Rituals are powerful, but unpredictable magics. They can take many forms, including somatic movement, incantations, scrolls, old tomes, or as the result of Fallout.
 

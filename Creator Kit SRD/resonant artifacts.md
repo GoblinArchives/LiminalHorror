@@ -26,37 +26,31 @@ If you need to create a quick custom Resonant Artifacts just identify an item (a
 
 **METAL CUBES**  
 A pair of shiny metal cubes with strange symbols scratched onto their faces.
-
 * **Activation:** Fidget with the cubes, turning them around in your hands.  
 * **Effect:** All small untethered objects within 20 feet of the user slowly rise into the air, continuing to rise as long as the cubes are handled.
 
 **TERRACOTTA BRACELET**  
 Small red beads on a thin hemp string.  
-
 * **Activation**: While wearing, rub the beads between the thumb and forefinger.  
 * **Effect**: When used your body can disassemble. Each part can move on its own and fully articulate. If the bracelet is removed before reassembly, they remain separated.
 
 **WIRE-FRAME GLASSES**  
 A pair of worn glasses, the lens chipped and fogged.
-
 * **Activation:** Wear as normal.   
 * **Effect:** Memories of the user fade from those that look at them, as long as they wear the glasses.
 
 **SILVER FLASK**  
 Branded with a Seal of Solomon and an inscription that reads “*Everything has a cost*.” It contains enough liquid for d6 swigs.
-
 * **Activation**: Pour a swig from the flask into the mouth of someone recently deceased.  
 * **Effect**: It will restore life to the dead body. The power for the resurrection is syphoned from 13 innocent souls, each 13 miles away from the flask.
 
 **TARNISHED GOLD COINS**  
 Six gold coins with intricate geometric patterns pressed on one side. Worth a small fortune. A faint whisper, begging to be spent, can be heard by those who hold the coins.
-
 * **Activation**: Spending the coins.  
 * **Effect**: You are immediately cursed with a Fallout.
 
 **PALE CANDLE**  
 A taper candle of white wax. Only four inches remain.
-
 * **Activation**: Light the candle and drip the wax between two objects.  
 * **Effect**: The wax will bind the two objects together, forever.
 

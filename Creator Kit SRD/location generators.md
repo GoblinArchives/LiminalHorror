@@ -9,8 +9,11 @@ description: A procedure for generating Liminal Horror locations.
 # **LOCATION GENERATOR**
 
 > Note: See [Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) has multiple essays on using locations to emphasize horror. They can be found at:
->
-> * \[Include index entries\]
+- Locations, 89-91
+    - Campaign, 76-77
+    - Generators, 108-109
+    - Generic, 402-436
+    - One-Shot, 74
 
 This die drop procedure can be used to randomly create points of interest, be that within a constrained space or a larger location. Once you’ve established a theme or overarching logic for your location, use the corresponding random tables to aid in filling the spaces. You can use these to help create regions, towns, or single locations within your scenario.
 

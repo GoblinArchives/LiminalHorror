@@ -80,7 +80,7 @@ With this many characters in play at once there’s a lot to manage, so it’s o
 
 While the normal folks aren’t quite as capable as a standard Investigator on their own, don’t be afraid to go big. The sheer number of characters in play will give these groups an advantage in taking on seemingly daunting tasks.
 
-For an example of a funnel scenario in action, see *Silent Street Station* (see the Deluxe Edition p. x).
+For an example of a funnel scenario in action, see [*Silent Street Station* (see the Deluxe Edition p.308)](https://www.patreon.com/posts/145689812?collection=1736788).
 
 ## **AFTERMATH**
 

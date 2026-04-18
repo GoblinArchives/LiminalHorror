@@ -10,9 +10,9 @@ description: An examination on the process for character creation in Liminal Hor
 
 Published scenarios do not need to include custom character generation procedures. Each iteration of the Liminal Horror rules that is available include resources for quick making of Investigators that can be used by Facilitators. That being said, custom content for character creation is one of the quickest ways to reinforce the genre themes of a scenario.
 
-Many official published scenarios include some specific additions to the character creation process. [The Mall](https://goblinarchives.itch.io/the-mall) has custom mall themed backgrounds. [The Bureau](https://goblinarchives.itch.io/the-bureau), [The Bloom](https://goblinarchives.itch.io/the-bloom), and [Hungry Hollow](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow) all include scenario specific archetypes that align with their specific framing.
+> Many official published scenarios include some specific additions to the character creation process. [The Mall](https://goblinarchives.itch.io/the-mall) has custom mall themed backgrounds. [The Bureau](https://goblinarchives.itch.io/the-bureau), [The Bloom](https://goblinarchives.itch.io/the-bloom), and [Hungry Hollow](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow) all include scenario specific archetypes that align with their specific framing.
 
-When designing your own **Creating an Investigator** sections, the two main areas for customization are either providing a custom set of backgrounds, or a custom set of archetypes.
+When designing your own **Creating an Investigator** sections, the two main areas for customization are either providing a custom set of backgrounds, or a custom set of archetypes. 
 
 
 

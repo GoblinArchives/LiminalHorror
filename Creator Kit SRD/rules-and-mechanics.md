@@ -19,7 +19,7 @@ Additional rules reference explanation and text can be found in [SRD v2.0](https
 
 ## **RULES SUMMARY**
 
-> Note: You can include this, or a modified version, in your publications. (maybe include a image version or downloadable text file)
+> Note: You can include the entirety of this text, or a modified version, directly in your publications. This helps lower the barrier for Facilitators when needing to reference rules quickly. 
 
 **ABILITIES:**
 

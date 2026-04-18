@@ -88,6 +88,6 @@ What does this mean in practice?
 * It also means you can write your own adventure, reference rules and mechanics in your own way, and publish it using the Third Party License above and copyright your portions of the text (if you want to). Meaning you don’t need to worry about complicated licensing structures.
 
 ---
-Next Section: [Front and Back Matter](https://liminalhorrorrpg.com/srd-front-back-matter/)
+Next Section: [System Considerations](https://liminalhorrorrpg.com/srd-system-considerations/)
 <br>Previous Section: [Introduction](https://liminalhorrorrpg.com/srd-introduction/)
 <br><br> back to [Table of Contents](https://liminalhorrorrpg.com/srd)

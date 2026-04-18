@@ -8,7 +8,7 @@ description: A guide to creating Doom Clocks, including a framework for use in L
 ---
 # **DOOM CLOCK**
 
-> Note: You can find more advice on Doom Clocks in the [Liminal Horror Deluxe Edition (p. xxx-xxx)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition).
+> Note: You can find more advice on Doom Clocks in the [Liminal Horror Deluxe Edition (p.100-101)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition).
 
 The Doom Clock is an escalating sequence of narrative events that will come to pass if the Investigators do not act. This serves as a guide to what’s happening “offscreen” and is a tool for helping maintain pacing and tension over the course of a scenario. It’s an ever present reminder that the clock is always ticking forward in a countdown towards certain doom, only preventable by the actions of the Investigators.
 
@@ -25,7 +25,7 @@ Below is a general guide of the basic structure of the Doom Clock. When creating
 
 ## **WHEN TO INCLUDE A DOOM CLOCK**
 
-A Doom Clock is not going to be essential for every scenario. For example, [*Camp Coldwater* (see Deluxe Edition p.x)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) emulates the action of a slasher, using a much more streamlined countdown where the monster comes to claim a new victim every 20 minutes of real time during the session. Review [*Cult Classic* (see Deluxe Edition p.x)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) for another example of the Doom Clock in practice.
+A Doom Clock is not going to be essential for every scenario. For example, [*Camp Coldwater* (see Deluxe Edition p.299)](https://www.patreon.com/posts/144087076?collection=1736788) emulates the action of a slasher, using a much more streamlined countdown where the monster comes to claim a new victim every 20 minutes of real time during the session. Review [*Cult Classic* (see Deluxe Edition p.329)](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) for another example of the Doom Clock in practice.
 
 ---
 Next Section: [Fallout](https://liminalhorrorrpg.com/srd-fallout/)
