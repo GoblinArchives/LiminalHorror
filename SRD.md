@@ -29,7 +29,7 @@ Some handy additional links are:
 * Main Website Hub: [https://liminalhorrorrpg.com/](https://liminalhorrorrpg.com/)
 * Community Discord: [https://discord.gg/ptHUNSVDrJ](https://discord.gg/ptHUNSVDrJ)
 * Liminal Horror Library: [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
-* Newsletter: [https://goblinarchives.substack.com/](https://goblinarchives.substack.com/)
+* Newsletter: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/cw/LiminalHorror)
 * Annotated Archive of Game Design Resources: [https://liminalhorrorrpg.com/Annotated%20Archives/](https://liminalhorrorrpg.com/Annotated%20Archives/)
 * Adventure Writing Resources: [https://liminalhorrorrpg.com/resources](https://liminalhorrorrpg.com/resources)
 
