@@ -43,29 +43,48 @@ To aid in building your central conceit, it will be useful to determine the type
 
 Many of these can be paired up within short scenarios, while an extended campaign will likely touch on all of them to some degree.
 
-### Setting Considerations
+## Setting Considerations
 
 One of the advantages of roleplaying in the modern era is that your players will already have a basic frame of reference for the environment. For example, you don’t need to describe the intricate details of a corner store, as they likely can already picture what the space is like from having been inside one or having seen them featured in popular media.
 
-### Framing
+## Framing
 
 Horror is often about the juxtaposition of the mundane against the weird and uncanny. Once you have a basic foundation, lean into the influences of the weird and how those stand in stark contrast to the mundane locations. Writers can leverage extraplanar incursions, reality warping influence, darkness hidden within forests, and the uncanny nature of forgotten and abandoned places.
 
-### Saves or Specific Ability Checks
+## Saves or Specific Ability Checks
 
 Typical published modules will often present situations that call for a specific skill check or save. Instead of automatically defaulting to replacing them with a STR/DEX/CTRL Save, instead present situations and pressures that set up opportunities for players and facilitators to be creative problem solvers. What dangers are present and what opportunities may arise. If the result of failure in these situations would be uninteresting or there is potential for players to leverage the tools at their disposal, a roll may not be needed at all.
 
-### Sanity
+## Sanity
 
 It is fairly common for similar systems to include a Sanity mechanic, signifying a character’s descent into madness after being exposed to horrors not meant for the likes of mankind. ***Liminal Horror*** has intentionally diverged away from the concept in an attempt to avoid the problematic aspects associated with the stigmatization of mental health struggles. Therefore, replacing Sanity mechanics will not be a simple one-for-one. Leverage Stress and Fallout as a means to simulate the Investigator’s proximity to the weird.
 
-**Using Stress**
+###**Using Stress**
 The following guidelines are a good metric for integrating Stress into an adventure. Stress often comes from environmental triggers or narrative consequences, such as witnessing something horrid or failing a Save, but is also the direct result of the horrors attempts to corrupt and change an individual. In general:
 
 * 1 Stress: Witnessing something horrid.
 * 1d4 Stress: Particularly horrific scenes or the abilities of minor horrors.
 * 1d6 Stress: Abilities of major horrors.
 * 1d8+ Stress: Abilities of particularly monstrous entities or witnessing events not meant for human eyes.
+
+> The Creating A Scenario section of the Liminal Horror Deluxe Edition includes some incredible essays that can aid in the writing of your own module/scenario. These essays include:
+- Basic Frameworks (p.71): A breakdown of the basic foundation of a scenario.
+- One-Shots & Episodes (p.74): Advice for creating for short-term play.
+- Arcs & Campaigns (p.76): Advice for creating for long-term play.
+- Creating a Dilemma (p.79): Advice on presenting difficult choices.
+- Hooks & Rumors (p.80): Tips for writing compelling hooks.
+- Writing Clues (p.82): Tips for writing good clues.
+- Setbacks & Puzzles (p.85): Advice on creating non-combat challenges for your Investigators.
+- Creating Locations (p.89): Advice on creating settings and making them come to life.
+- Compelling NPCs (p.92): Tips on making memorable NPCs.
+- Creating Factions (p.93): Tips on writing compelling organizations.
+- Creating Horrors (p.94): Tips for creating horrid monstrosities.
+- Creating Resonant Artifacts (p.98): Tips for creating strange and power objects imbued with resonant energy.
+- Creating Fallout (p.99): Tips for creating custom Fallout.
+- The Doom Clock (p.100): Advice on creating and using Doom Clocks.
+- Encounter Procedures (p.102): A breakdown of three procedures for generating random encounters.
+- Final Details (p.107): Advice on the last touches to put on a scenario before it’s ready to run.
+- Location Generator (p.108): A tool for randomly generating locations.
 
 ---
 
