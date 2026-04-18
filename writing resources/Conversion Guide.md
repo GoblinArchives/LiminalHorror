@@ -7,11 +7,11 @@ permalink: /conversion/
 description: Notes and guidance supporting players in converting adventures for other systems to be used with the Liminal Horror ttrpg.
 ---
 
-# Conversion Guide: Adapting a Mystery
+# Conversion Guide: Adapting a Scenario
 
 ***Liminal Horror*** is not the only investigative horror RPG out there and there are many other settings and scenarios that would be right at home in your campaigns. This chapter will discuss various ways to take the pieces of those games and adapt them to be better suited for this system.
 
-However you are not bound by pre-written scenarios and the specific guides below. Many of your favorite novels, comics, movies, and video games can be harvested for their parts or lifted wholesale with a fresh coat of paint. To bring your favorite pieces of media to life at your table, use the general guidelines below alongside the advice presented in the Deluxe Edition **Creating a Mystery (p. x)**.
+However you are not bound by pre-written scenarios and the specific guides below. Many of your favorite novels, comics, movies, and video games can be harvested for their parts or lifted wholesale with a fresh coat of paint. To bring your favorite pieces of media to life at your table, use the general guidelines below alongside the advice presented in the Deluxe Edition **Creating a Scenario (p.70)**.
 
 ## General Guidelines
 
@@ -28,7 +28,7 @@ When diving in to prepare to run an adventure not directly written for this syst
 
 ### Genre Shifting
 
-There are many fantasy and sci-fi stories that would make great horror scenarios with just a shift in tone. This will have less to do with changing what is written and more to do with how it’s presented at the table. The shift may be as simple as adding in a source of tension or ramping up the danger, which can be achieved by adding in a **Doom Clock (Deluxe Edition p.x)** or **Voidcrawl (Deluxe Edition p.x)**, or twisting the dangers to be more horrific or targeted towards the Investigators.
+There are many fantasy and sci-fi stories that would make great horror scenarios with just a shift in tone. This will have less to do with changing what is written and more to do with how it’s presented at the table. The shift may be as simple as adding in a source of tension or ramping up the danger, which can be achieved by adding in a **Doom Clock (Deluxe Edition p.100)** or **Encounter Procedure: Encounter Die, Voidcrawl, or Tension Die (Deluxe Edition p.102)**, or twisting the dangers to be more horrific or targeted towards the Investigators.
 
 ### Setting Considerations
 
@@ -40,23 +40,28 @@ Horror is often about the juxtaposition of the mundane against the weird and unc
 
 ### Saves or Specific Ability Checks
 
-There will often be situations in a module or supplement that call for a specific skill check or save. Instead of automatically defaulting to replacing them with a STR/DEX/CTRL Save, consider the advice in **When to Call for Rolls (Deluxe Edition p.x)**. If the result of failure in these situations would be uninteresting or there is potential for players to leverage the tools at their disposal, a roll may not be needed at all. You can often ignore roll prompts entirely by having the player describe their character’s actions and what they hope to achieve, and then determine if a Save would be appropriate.
+There will often be situations in a module or supplement that call for a specific skill check or save. Instead of automatically defaulting to replacing them with a STR/DEX/CTRL Save, consider the advice in **When to Roll (Deluxe Edition p.58)**. If the result of failure in these situations would be uninteresting or there is potential for players to leverage the tools at their disposal, a roll may not be needed at all. You can often ignore roll prompts entirely by having the player describe their character’s actions and what they hope to achieve, and then determine if a Save would be appropriate.
 
 ### Stat Blocks
 
-Complex stat blocks are unlikely to be necessary for the vast majority of creatures. Most basic Horrors and NPCs will only need STR, HP, and Damage Die, relying on their narrative aspects to carry the weight. For quick conversion, use the generic stat blocks in **Creating Horrors (Deluxe Edition p.x)** as a basis, or find a suitable analogue in **Catalog of the Strange (Deluxe Edition p.x)**. In general:
+Complex stat blocks are unlikely to be necessary for the vast majority of creatures. Most basic Horrors and NPCs will only need STR, HP, and Damage Die, relying on their narrative aspects to carry the weight. For quick conversion, use the generic stat blocks in **Creating Horrors (Deluxe Edition p.94)** as a basis, or find a suitable analogue in **Catalog of the Strange (Deluxe Edition p.117)**.
+>Both sections have website analogs that can be found in the Creator Kit/SRD:
+- [Creating Horrors](https://liminalhorrorrpg.com/srd-creating-horrors/)
+- [Catalog of the Strange / Horrors with an Open License](https://liminalhorrorrpg.com/srd-horrors/)
+
+In general:
 
 * **Hit Protection**: This is a creature’s ability to avoid serious harm, not a measure of their health or vitality. A creature with a high Hit Protection might be quick, particularly skilled, or have some otherworldly defense. As a baseline, an average person has an HP of 3\.
 * **STR/DEX/CRTL**: If a creature is particularly apt at surviving direct hits, give them higher STR. If they are quick and nimble, give them higher DEX. If they understand the weird, or are particularly charming or intelligent, give them a higher CTRL. As a baseline, an average person has a 10 in each stat, with 18 as the maximum any mundane creature could hope to achieve.
 * **Armor**: The typical range is from 0-3 based on the protection they provide from physical damage. Most armor values can just be converted along that scale. 0 is unarmored, 1 is light protection (thick jacket, hazmat suit, leather armor), 2 is medium protection (ballistic vest, chainmail), 3 is heavy protection (full combat armor, bomb suit, plate mail).
-* **Damage Die**: In general, follow the advice in **Damage (Deluxe Edition p.x)**. Unarmed attacks deal d4 damage. Standard weapons deal d6 damage. Specialized weapons deal d8 damage. Reserve d10+ damage for artifacts, horrifying creatures, or particularly devastating attacks.
+* **Damage Die**: In general, follow the advice in **Damage (Deluxe Edition p.33)**. Unarmed attacks deal d4 damage. Standard weapons deal d6 damage. Specialized weapons deal d8 damage. Reserve d10+ damage for artifacts, horrifying creatures, or particularly devastating attacks.
 
 ### Special Abilities & Magic
 
 Transcribing a creature’s special abilities is likely going to be the trickiest part of conversion, as they need to be handled on a case by case basis and the system mechanics may not allow for a direct conversion. As a general basis:
 
 * Focus on preserving key abilities. Combat only ever lasts a few rounds, so creatures will rarely need extensive lists of highly detailed abilities.
-* Abilities that cause direct harm should be given a Damage Die, following the advice in **Damage (Deluxe Edition p.x)**.
+* Abilities that cause direct harm should be given a Damage Die, following the advice in **Damage (Deluxe Edition p.33)**.
 * Abilities that are particularly weird or have the potential to elicit change through Fallout should deal Stress.
 * Anything that targets the Investigators faculties (impairing vision/hearing, restricting movement, confounding, etc) should require a Save or have a specific trigger.
 
@@ -115,7 +120,9 @@ The following guidelines are a good metric for integrating Stress into an advent
 
 ### Fallout
 
-While one of the generic lists available in **Appendix Fallout (Deluxe Edition p.x)** may perfectly slot into your scenario, Fallout is often best when specifically tailored to the themes of the scenario and its horrors. It’s encouraged to review **Creating Fallout (Deluxe Edition p.x)** to have a few on hand. Depending on scope, start with 3 or 4 and go from there.
+While one of the generic lists available in **Appendix Fallout (Deluxe Edition p.388-391)** may perfectly slot into your scenario, Fallout is often best when specifically tailored to the themes of the scenario and its horrors. It’s encouraged to review **Creating Fallout (Deluxe Edition p.39-41)** to have a few on hand. Depending on scope, start with 3 or 4 and go from there.
+>Fallout has an analog on the website that can be found in the [Creator Kit/SRD: Fallout](https://liminalhorrorrpg.com/srd-fallout/)
+
 
 ---
 
@@ -161,7 +168,7 @@ CTRL 	6	12	15	18
 
 ### Combat
 
-Damage can be used directly as written in most cases. Use **Stat Blocks (p.x)** for further advice. Multiple attacks in a B/X statline either uses the *Blast* tag (damage applied to multiple targets) and or the **Dual Weapons (p.x)** rule (roll two dice and take the higher of the two).
+Damage can be used directly as written in most cases. Use **Stat Blocks** for further advice. Multiple attacks in a B/X statline either uses the *Blast* tag (damage applied to multiple targets) and or the **Dual Wielding (p.33)** rule (roll two dice and take the higher of the two).
 
 ### Saving Throws
 
@@ -198,7 +205,7 @@ CTRL 	6	12	15	18
 
 ### Combat
 
-Damage can be used directly as written in most cases, though note that base weapon attacks in ***Mork Borg*** are often a d4 when they’d be a d6 in ***Liminal Horror***. Use **Stat Blocks (p.x)** for further advice. Multiple attacks either use the *Blast* tag (damage applied to multiple targets) and or the **Dual Weapons (p.x)** rule (roll two dice and take the higher of the two).
+Damage can be used directly as written in most cases, though note that base weapon attacks in ***Mork Borg*** are often a d4 when they’d be a d6 in ***Liminal Horror***. Use **Stat Blocks** for further advice. Multiple attacks either use the *Blast* tag (damage applied to multiple targets) and or the **Dual Wielding (p.33)** rule (roll two dice and take the higher of the two).
 
 
 ---
@@ -230,7 +237,7 @@ Movement in ***Liminal Horror*** is standardized, with most creatures able to mo
 
 ### Combat
 
-For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
+For quick conversion, use equivalent weapons on the **Equipment Table (p.20-24)** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
 
 * Minor (punch, kick) 1D3 \= d4
 * Moderate (guns, knives) 1D6 \= d6
@@ -240,7 +247,7 @@ For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to
 
 ### Sanity and Stress
 
-Refer to the prior section on **Sanity (p.x)** for general guidelines. For quickly replacing Sanity with Stress you can reference the Conversion Table:
+Refer to the prior section on **Sanity** for general guidelines. For quickly replacing Sanity with Stress you can reference the Conversion Table:
 
 **Stress Conversion Table**
 CoC	LH
@@ -279,7 +286,7 @@ Use the values below as a point of reference:
 
 ### Combat
 
-For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
+For quick conversion, use equivalent weapons on the **Equipment Table** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
 
 * Minor (punch, kick) 1D4 \= d4
 * Moderate (guns, knives, baseball bat) 1D6 & 1D8 \= d6
@@ -289,11 +296,11 @@ For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to
 
 ### Combat Maneuvers
 
-For a more tactical experience that integrates combat maneuvers, use **Appendix Tactical Combat (p.x)**.
+For a more tactical experience that integrates combat maneuvers, use **Appendix Tactical Combat (p.378-379)**.
 
 ### Sanity and Stress
 
-Review the prior guidance in **Stress (p.x)**. For quick conversion, references to Sanity loss convert instead to Stress Damage. For a Sanity loss of (x/1Dx), have the Investigator make a CTRL save. On a success they take the first number (often 0), and on a failure they take the resulting Stress (using the dice indicated). Critical Stress results in Fallout (p. x).
+Review the prior guidance in **Stress**. For quick conversion, references to Sanity loss convert instead to Stress Damage. For a Sanity loss of (x/1Dx), have the Investigator make a CTRL save. On a success they take the first number (often 0), and on a failure they take the resulting Stress (using the dice indicated). Critical Stress results in Fallout (p. x).
 
 ---
 
@@ -311,7 +318,7 @@ Divide the Harm Capacity by 2.
 
 ### Ability Scores
 
-Creatures in MotW do not have traditional Ability Scores. Use the generic stat blocks in **Creating Horrors (p.x)** as a basis or find a suitable analogue in **Catalog of the Strange (p.x)**.
+Creatures in MotW do not have traditional Ability Scores. Use the generic stat blocks in **Creating Horrors** as a basis or find a suitable analogue in **Catalog of the Strange**.
 
 ### Armor
 
@@ -387,7 +394,7 @@ Use the values below as a point of reference.
 
 ### Combat
 
-For quick conversion, use equivalent weapons on the **Equipment Table (p.x)** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
+For quick conversion, use equivalent weapons on the **Equipment Table** to determine damage. Otherwise, below is a rough conversion. Ignore damage modifiers when adapting.
 
 * Minor (unarmed) 1d5 \= d4
 * Moderate (hand welder, revolver) 1d10 \= d6
