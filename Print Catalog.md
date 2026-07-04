@@ -174,7 +174,7 @@ Liminal Horror ttrpg has hundreds of first and third party digital content. Incl
 ### VON HYND MANOR
 *Stella Condrey*
 <br>Von Hynd Manor: Wherein is Told A Tale of Bloodshed and Diablerie.
-> *[Digest sized, MSRP $20]*
+> *[Digest sized, MSRP $20]* 
 <br>[Available from [500 Pounds of Nothing's itch.io](https://500poundsofnothing.itch.io/vhm-expanded)]
 
 ### NEMESIS Vol. 1
