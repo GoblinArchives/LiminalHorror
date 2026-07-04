@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creator Kit
-nav_order: 5
+nav_order: 7
 has_children: true
 permalink: /srd/
 description: A system reference document/Creator Kit for Liminal Horror, including notes and annotations to support designers in creating scenarios, adventures, and hacks for Liminal Horror.

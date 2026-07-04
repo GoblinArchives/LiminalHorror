@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writing Resources
-nav_order: 4
+nav_order: 6
 has_children: true
 permalink: /resources
 description: Resources to help create ttrpg adventures for Liminal Horror.

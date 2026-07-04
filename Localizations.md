@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Localizations
-nav_order: 7
+nav_order: 9
 has_children: false
 description: Gathering links to the different translations and localizations of Liminal Horror. Currently includes Spanish, French, German, Italian, Japanese, Portuguese, Russian, Chinese
 ---
