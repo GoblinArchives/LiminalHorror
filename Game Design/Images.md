@@ -34,7 +34,7 @@ There are many artists that provide options to commerically license their art. S
 - [CCLA Library](https://www.stregawolf.art/ccla-library) by Strega Design is a collection of stellar horror art.
 - [Creative Comrades Licensed Art](https://jnbutler.art/#ccla-art) by JN Butler Art is a collection of art that is able to be licensed for commercial use under the stipulations of the Creative Comrades License.
 - [Goran Gligović](https://www.gorangligovic.com/) posts personal work that in his words: "I want to reiterate tht all personal pieces I post are free to use. Client work is a no-go for obvious reasons but everything else is fair game." [(May 20th, 2024)](https://x.com/gorangligovic/status/1792627676877816042?s=12&t=ppwRE47-vF6Ec_R54VRXtg)
-- [Evelyn Moreu](https://www.patreon.com/evlynmoreau) has a Patreon that contains some of the best art that she allows you to use commercially in your zines (if you subscribe).
+- [Evlyn Moreu](https://www.patreon.com/evlynmoreau) has a Patreon that contains some of the best art that she allows you to use commercially in your zines (if you subscribe).
 - [Perplexing Ruins](https://www.patreon.com/perplexingruins) also has a patreon that provides access to images that can be commercially licensed through a subscription.
 - [Andy's Inventory Art Pak #1](https://andyanimates.itch.io/andys-inventory-1) by Andrew White is a collection of 81 random inventory items that can purchased to use uder a CC BY 4.0.
 - [Tiny Zine of Faces #1](https://punkpadour.itch.io/tiny-zine-of-faces-1) as well as [Tiny Zine of Faces #2](https://punkpadour.itch.io/tiny-zine-of-faces-2) by Chema (Punkpadour) contain some fantastic portraits and images that can be purchased to be used commercally.

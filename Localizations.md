@@ -6,7 +6,7 @@ has_children: false
 description: Gathering links to the different translations and localizations of Liminal Horror. Currently includes Spanish, French, German, Italian, Japanese, Portuguese, Russian, Chinese
 ---
 
-# Localizations
+# Localizations 
 
 - Spanish: [PDF](https://laesquinadelrol.itch.io/liminalhorror) or [Web-based](https://liminalhorror.laesquinadelrol.com/)
 - [French](https://horreurliminale.itch.io/horreur-liminale)
