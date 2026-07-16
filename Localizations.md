@@ -14,7 +14,7 @@ description: Gathering links to the different translations and localizations of 
 - [Italian](https://hauntedhomes.itch.io/liminaler-horror-liminal-horror-legacy-edition-german-translation)
 - [Japanese](https://goblinarchives.itch.io/japaneseliminalhorror)
 - [Portugese](https://www.drivethrurpg.com/en/product/455670/liminar-horror)
-- [Russian](https://docs.google.com/document/d/1acZNDBU4plks9nIxJ5suquzV-q1u5xFfAfJOJRrNQug/edit)
+- [Russian](https://malbrus.itch.io/liminal-horror)
 - [Chinese](https://zznoah.itch.io/liminal-horror-chs)
 
 
