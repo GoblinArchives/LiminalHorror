@@ -8,39 +8,38 @@ permalink: /
 
 # Liminal Horror Deluxe Edition
 
-[Pre-Order the Liminal Horror Deluxe Edition Today!](https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders)
+[Liminal Horror Deluxe Edition](https://goblinarchives.itch.io/liminal-horror-deluxe-edition)
 
 ![banner](/img/banner.jpeg)
 
 
-*There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
-
-*Grab your flashlights and blood splattered jackets as you try to make it through the night. Beware, snapping bone and rending flesh are often the simplest outcome. While there may be great power within these places… not all mysteries can be solved and not everyone can be saved. Above all, there are fates far worse than death.*
-
-**LIMINAL HORROR** is a rules-lite, adaptable Survival-Horror roleplaying game about normal characters and their struggles against the things that go bump in the night. The game focuses on surviving the weird and Investigating horrors while blending simple, old-school inspired rules with modern, narrative first principles. Survival is not guaranteed and those that do make it through the night are often forever changed.
+Liminal Horror is a rules-lite survival horror roleplaying game about normal characters and their struggles against the things that go bump in the night. This book gives you everything you need to run modern horror in an easy to approach format. With simple rules and procedures for play, you can explore the strange and dangerous things that will forever change your characters.
 
 **Liminal Horror is not a game about solving mysteries, but rather surviving them.**
 
-## Digital
-Digital copies of the rules and official adventures can be found at [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
+## Deluxe Edition
+The Liminal Horror Deluxe Edition expands upon the Investigators Edition, giving you everything you need to run modern horror in an easy to approach format. With simple rules and procedures for play, you can explore the strange and dangerous things that will forever change your characters. All releases are compatible with one another (Deluxe Edition, Investigators, Legacy, web-based).
 
-## Physical
-Physical copies of the rules and official adventures can be found at [Space Penguin Ink](https://spacepenguin.ink/collections/liminal-horror).
-- The Liminal Horror Deluxe Edition is available for pre-order: [https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders](https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders)
+The Deluxe Edition includes:
 
-## Merch
-Zach Hazard Vaupen has designed a new run of custom Liminal Horror merch that is available on [https://cottonbureau.com/people/liminal-horror](https://cottonbureau.com/people/liminal-horror).
+- **Investigator's Guide:** Including the process for creating an Investigator, rules for running horror, and Fallout to change characters in strange and terrifying ways.
+- **Facilitator's Guide:**  A collection of essays, advice, tips, and procedures for weaving horror into your tabletop games.
+- **Catalog of the Strange:** A collection of weird and horrid entities, objects, organization, and characters for your Investigators to encounter. 
+- **The Haunted Pacific Northwest:** A setting guide and sandbox with locations, campaign frameworks, and three original scenarios for your table.
+- **Appendices:** A series of optional mechanics, tables, conversion guides for other systems, and resources to expand and change your game, including 30 generic maps of locations you can use quickly at the table.
+- **Reference Aides:** A collection of tools for quick support during play, including a comprehensive index of the entire book.
 
-## Liminal Horror Library
-A library of resources for your Liminal Horror games, cataloging and collecting all things LH. [https://liminalhorrorlibrary.com/](https://liminalhorrorlibrary.com/)
+Available now!
+- Digital pdf on [itch](https://goblinarchives.itch.io/liminal-horror-deluxe-edition) and on [drivethrurpg](https://www.drivethrurpg.com/en/product/574432/liminal-horror-deluxe-edition).
+- [Physical Pre-Order](https://liminal-horror-deluxe-edition.backerkit.com/hosted_preorders): The physical book can be is available for pre-order on Backerkit. 
 
-## Third Party Print Hub
-Where you can find all of the Third Party Liminal Horror content that is in print. [https://liminalhorrorrpg.com/printhub/](https://liminalhorrorrpg.com/printhub/)
-
-## Newsletter
-Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter/blog.
-- It is available to all free members of our Patreon: [https://www.patreon.com/cw/LiminalHorror](https://www.patreon.com/LiminalHorror).
-- An archive of old posts can be found [here](https://liminalhorrorrpg.com/newsletter)
+## Additional Liminal Horror Resources
+- [First Party Scenarios](https://goblinarchives.itch.io/): Digital copies of the rules and official scenarios can be found on our itch.io page.
+- [Physical copies](https://spacepenguin.ink/collections/liminal-horror) of the rules and official scenarios can be found at Space Penguin Ink as well as at your FLGS (Friendly Local Game Store).
+- [Print Catalog](https://liminalhorrorrpg.com/print/): A catalog featuring every Third Party Liminal Horror currently available in print. 
+- [Liminal Horror Library](https://liminalhorrorlibrary.com/): A library of resources for your Liminal Horror games, cataloging and collecting all things released for LH. Currently at over 500 items.
+- [Merch](https://cottonbureau.com/people/liminal-horror): Zach Hazard Vaupen has designed a new run of custom Liminal Horror merch.
+- [Newsletter/Blog](https://www.patreon.com/LiminalHorror): Stay up to date on info and behind the scenes looks at Liminal Horror at our newsletter/blog. We are using the free member portion of patreon to host and send our newsletter. An archive of old posts can be found [here](https://liminalhorrorrpg.com/newsletter)
 
 ![image](/img/LH.png)
 Liminal Horror Deluxe Edition Cover &copy; Zach Hazard Vaupen (2024)
