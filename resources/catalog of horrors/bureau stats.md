@@ -4,8 +4,10 @@ title: Bureau Stats
 parent: Catalog of Horrors
 grand_parent: Resources
 ---
+# The Bureau Stats
+More information about this faction can be found [here](https://liminalhorrorrpg.com/resources/Factions/The%20Bureau/)
 
-# **AGENT**  
+## **AGENT**  
 **STR:** 10 **DEX:** 12 **CTRL:** 14   
 **HP:** 4 **Armor:** 1  
 Service Pistol (d6) or Taser (d6, *non-lethal*)
@@ -15,7 +17,7 @@ Service Pistol (d6) or Taser (d6, *non-lethal*)
 
 Black suits, black ties, and dark sunglasses, Agents are the Bureau’s backbone. Field investigators, desk workers, scientists, intelligence, and counter-intelligence Agents perform all the necessary investigative work to achieve the Bureau’s prime objectives.
 
-# **OPERATOR**  
+## **OPERATOR**  
 **STR:** 14 **DEX:** 12 **CTRL:** 9   
 **HP:** 6 **Armor:** 2  
 Variable Weapons
@@ -33,7 +35,7 @@ Armed and armored, Operators are the Bureau’s muscle. Special forces, security
 5. Drone, Cell Service Jammer, Bluetooth Signal Hijacker, Mobile 3-D Printer, Service Pistol (d6).   
 6. Rocket Launcher (b8, *blast*, *bulky*), Service Pistol (d6), C-4 (d8, *blast*).
 
-# **SONOROUS**  
+## **SONOROUS**  
 **STR:** 8 **DEX:** 10 **CTRL:** 16   
 **HP:** 3 **Stability:** 1  
 Service Pistol (d6) *or* Resonant Artifact
