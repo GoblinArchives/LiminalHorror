@@ -13,7 +13,7 @@ Liminal Horror ttrpg has hundreds of first and third party digital content. Incl
 
 > If you have a print product that is not listed, please reach out to GoblinArchivesPDX@gmail.com
 
-<br><br><br>
+<br><br>
 
 ## CORE RULES
 
